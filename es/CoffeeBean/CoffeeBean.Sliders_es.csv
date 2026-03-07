@@ -1,29 +1,29 @@
 Key,en,es,reviewed
-Eyelash Length,Eyelash Length,,False
-Brows Distance,Brows Distance,,False
-Brows Height,Brows Height,,False
-Ear Shape 1,Ear Shape 1,,False
-Ear Shape 2,Ear Shape 2,,False
-Hair Bang >< Length,Hair Bang >< Length,,False
-Hair Bang >< Shear,Hair Bang >< Shear,,False
-Hair Bang >> Position,Hair Bang >> Position,,False
-Hair Bang >> Length,Hair Bang >> Length,,False
-Hair Bang >> Shear,Hair Bang >> Shear,,False
-Hair Bang << Position,Hair Bang << Position,,False
-Hair Bang << Length,Hair Bang << Length,,False
-Hair Bang << Shear,Hair Bang << Shear,,False
-Hair Framing << Length,Hair Framing << Length,,False
-Hair Framing >> Length,Hair Framing >> Length,,False
-Hair Side Length,Hair Side Length,,False
-Hair Rear Length,Hair Rear Length,,False
-Ahoge Position,Ahoge Position,,False
-Ahoge Angle,Ahoge Angle,,False
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,,False
-Fin & Gill Position,Fin & Gill Position,,False
-Halo Position,Halo Position,,False
-Hat Position,Hat Position,,False
-Horn >> Length,Horn >> Length,,False
-Horn << Length,Horn << Length,,False
-Horn >< Length,Horn >< Length,,False
-Horn Position,Horn Position,,False
-Ear Wing Position,Ear Wing Position,,False
+Eyelash Length,Eyelash Length,Longitud de las pestañas,False
+Brows Distance,Brows Distance,Distancia de las cejas,False
+Brows Height,Brows Height,Altura de las cejas,False
+Ear Shape 1,Ear Shape 1,Forma de oreja 1,False
+Ear Shape 2,Ear Shape 2,Forma de oreja 2,False
+Hair Bang >< Length,Hair Bang >< Length,Flequillo de pelo >< Longitud,False
+Hair Bang >< Shear,Hair Bang >< Shear,Flequillo de pelo >< Cizalla,False
+Hair Bang >> Position,Hair Bang >> Position,Flequillo de pelo >> Posición,False
+Hair Bang >> Length,Hair Bang >> Length,Flequillo del pelo >> Longitud,False
+Hair Bang >> Shear,Hair Bang >> Shear,Flequillo de pelo >> Cizalla,False
+Hair Bang << Position,Hair Bang << Position,Flequillo de pelo << Posición,False
+Hair Bang << Length,Hair Bang << Length,Flequillo de pelo << Longitud,False
+Hair Bang << Shear,Hair Bang << Shear,Flequillo de pelo << Cizalla,False
+Hair Framing << Length,Hair Framing << Length,Encuadre del cabello << Longitud,False
+Hair Framing >> Length,Hair Framing >> Length,Encuadre del cabello >> Longitud,False
+Hair Side Length,Hair Side Length,Longitud del lado del cabello,False
+Hair Rear Length,Hair Rear Length,Longitud del pelo trasero,False
+Ahoge Position,Ahoge Position,Posición Ahoge,False
+Ahoge Angle,Ahoge Angle,Ángulo de Ahoge,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Posición de antena y oreja de animal,False
+Fin & Gill Position,Fin & Gill Position,Posición de aletas y branquias,False
+Halo Position,Halo Position,Posición del halo,False
+Hat Position,Hat Position,Posición del sombrero,False
+Horn >> Length,Horn >> Length,Cuerno >> Longitud,False
+Horn << Length,Horn << Length,Cuerno << Longitud,False
+Horn >< Length,Horn >< Length,Cuerno >< Longitud,False
+Horn Position,Horn Position,Posición de la bocina,False
+Ear Wing Position,Ear Wing Position,Posición del ala de la oreja,False

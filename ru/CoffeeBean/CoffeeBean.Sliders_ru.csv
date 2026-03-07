@@ -1,29 +1,29 @@
 Key,en,ru,reviewed
-Eyelash Length,Eyelash Length,,False
-Brows Distance,Brows Distance,,False
-Brows Height,Brows Height,,False
-Ear Shape 1,Ear Shape 1,,False
-Ear Shape 2,Ear Shape 2,,False
-Hair Bang >< Length,Hair Bang >< Length,,False
-Hair Bang >< Shear,Hair Bang >< Shear,,False
-Hair Bang >> Position,Hair Bang >> Position,,False
-Hair Bang >> Length,Hair Bang >> Length,,False
-Hair Bang >> Shear,Hair Bang >> Shear,,False
-Hair Bang << Position,Hair Bang << Position,,False
-Hair Bang << Length,Hair Bang << Length,,False
-Hair Bang << Shear,Hair Bang << Shear,,False
-Hair Framing << Length,Hair Framing << Length,,False
-Hair Framing >> Length,Hair Framing >> Length,,False
-Hair Side Length,Hair Side Length,,False
-Hair Rear Length,Hair Rear Length,,False
-Ahoge Position,Ahoge Position,,False
-Ahoge Angle,Ahoge Angle,,False
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,,False
-Fin & Gill Position,Fin & Gill Position,,False
-Halo Position,Halo Position,,False
-Hat Position,Hat Position,,False
-Horn >> Length,Horn >> Length,,False
-Horn << Length,Horn << Length,,False
-Horn >< Length,Horn >< Length,,False
-Horn Position,Horn Position,,False
-Ear Wing Position,Ear Wing Position,,False
+Eyelash Length,Eyelash Length,Длина ресниц,False
+Brows Distance,Brows Distance,Расстояние между бровями,False
+Brows Height,Brows Height,Высота бровей,False
+Ear Shape 1,Ear Shape 1,Форма ушей 1,False
+Ear Shape 2,Ear Shape 2,Форма ушей 2,False
+Hair Bang >< Length,Hair Bang >< Length,Челка >< Длина,False
+Hair Bang >< Shear,Hair Bang >< Shear,Челка >< Стрижка,False
+Hair Bang >> Position,Hair Bang >> Position,Челка >> Позиция,False
+Hair Bang >> Length,Hair Bang >> Length,Челка >> Длина,False
+Hair Bang >> Shear,Hair Bang >> Shear,Челка >> Стрижка,False
+Hair Bang << Position,Hair Bang << Position,Челка << Позиция,False
+Hair Bang << Length,Hair Bang << Length,Челка << Длина,False
+Hair Bang << Shear,Hair Bang << Shear,Челка << Стрижка,False
+Hair Framing << Length,Hair Framing << Length,Оформление волос << Длина,False
+Hair Framing >> Length,Hair Framing >> Length,Оформление волос >> Длина,False
+Hair Side Length,Hair Side Length,Длина волос по бокам,False
+Hair Rear Length,Hair Rear Length,Длина волос сзади,False
+Ahoge Position,Ahoge Position,Позиция Ахоге,False
+Ahoge Angle,Ahoge Angle,Угол Ахоге,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Положение ушей и антенны животного,False
+Fin & Gill Position,Fin & Gill Position,Положение плавников и жабр,False
+Halo Position,Halo Position,Позиция ореола,False
+Hat Position,Hat Position,Позиция шляпы,False
+Horn >> Length,Horn >> Length,Рог >> Длина,False
+Horn << Length,Horn << Length,Рог << Длина,False
+Horn >< Length,Horn >< Length,Рог >< Длина,False
+Horn Position,Horn Position,Положение рожка,False
+Ear Wing Position,Ear Wing Position,Положение крыльев уха,False

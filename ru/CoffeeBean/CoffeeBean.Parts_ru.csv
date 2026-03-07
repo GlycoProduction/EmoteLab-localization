@@ -1,61 +1,61 @@
 Key,en,ru,reviewed
-Brows,Brows,,False
-Ear,Ear,,False
-Eye,Eye,,False
-Base Hair,Base Hair,,False
-Hair Bang >>,Hair Bang >>,,False
-Hair Bang ><,Hair Bang ><,,False
-Hair Bang <<,Hair Bang <<,,False
-Hair Shine,Hair Shine,,False
-Hair Branch >>,Hair Branch >>,,False
-Hair Branch <<,Hair Branch <<,,False
-Hair Framing >>,Hair Framing >>,,False
-Hair Framing <<,Hair Framing <<,,False
-Hair Framing,Hair Framing,,False
-Hair Highlight 1 >>,Hair Highlight 1 >>,,False
-Hair Highlight 2 >>,Hair Highlight 2 >>,,False
-Hair Highlight 3 >>,Hair Highlight 3 >>,,False
-Hair Highlight 1 ><,Hair Highlight 1 ><,,False
-Hair Highlight 2 ><,Hair Highlight 2 ><,,False
-Hair Highlight 3 ><,Hair Highlight 3 ><,,False
-Hair Highlight 4 ><,Hair Highlight 4 ><,,False
-Hair Highlight 5 ><,Hair Highlight 5 ><,,False
-Hair Highlight 6 ><,Hair Highlight 6 ><,,False
-Hair Highlight 1 <<,Hair Highlight 1 <<,,False
-Hair Highlight 2 <<,Hair Highlight 2 <<,,False
-Hair Highlight 3 <<,Hair Highlight 3 <<,,False
-Hair Side,Hair Side,,False
-Hair Ahoge,Hair Ahoge,,False
-Hair Rear,Hair Rear,,False
-Hair Pigtail >>,Hair Pigtail >>,,False
-Hair Pigtail <<,Hair Pigtail <<,,False
-Animal Ear,Animal Ear,,False
-Antenna,Antenna,,False
-Fin,Fin,,False
-Gill,Gill,,False
-Glasses,Glasses,,False
-Hairband A,Hairband A,,False
-Hairband B,Hairband B,,False
-Hairband C,Hairband C,,False
-Hairband D,Hairband D,,False
-Hair Clip >>,Hair Clip >>,,False
-Hair Clip <<,Hair Clip <<,,False
-Halo,Halo,,False
-Hat,Hat,,False
-Ear Wing,Ear Wing,,False
-Horn,Horn,,False
-Horn Front ><,Horn Front ><,,False
-Horn Front,Horn Front,,False
-Mecha,Mecha,,False
-Outfit Collar Inner,Outfit Collar Inner,,False
-Outfit Inner,Outfit Inner,,False
-Outfit Outer,Outfit Outer,,False
-Outfit Neckwear A,Outfit Neckwear A,,False
-Outfit Neckwear B,Outfit Neckwear B,,False
-Outfit Neckwear C,Outfit Neckwear C,,False
-Hair Side Branch >> A,Hair Side Branch >> A,,False
-Hair Side Branch >> B,Hair Side Branch >> B,,False
-Hair Side Branch >> C,Hair Side Branch >> C,,False
-Hair Side Branch << A,Hair Side Branch << A,,False
-Hair Side Branch << B,Hair Side Branch << B,,False
-Hair Side Branch << C,Hair Side Branch << C,,False
+Brows,Brows,Брови,False
+Ear,Ear,Ухо,False
+Eye,Eye,Глаз,False
+Base Hair,Base Hair,Базовые волосы,False
+Hair Bang >>,Hair Bang >>,Челка >>,False
+Hair Bang ><,Hair Bang ><,Челка для волос ><,False
+Hair Bang <<,Hair Bang <<,Челка для волос <<,False
+Hair Shine,Hair Shine,Блеск Волос,False
+Hair Branch >>,Hair Branch >>,Ветка волос >>,False
+Hair Branch <<,Hair Branch <<,Ветка волос <<,False
+Hair Framing >>,Hair Framing >>,Оформление волос >>,False
+Hair Framing <<,Hair Framing <<,Оформление волос <<,False
+Hair Framing,Hair Framing,Обрамление волос,False
+Hair Highlight 1 >>,Hair Highlight 1 >>,Мелирование волос 1 >>,False
+Hair Highlight 2 >>,Hair Highlight 2 >>,Мелирование волос 2 >>,False
+Hair Highlight 3 >>,Hair Highlight 3 >>,Мелирование волос 3 >>,False
+Hair Highlight 1 ><,Hair Highlight 1 ><,Мелирование волос 1 ><,False
+Hair Highlight 2 ><,Hair Highlight 2 ><,Мелирование волос 2 ><,False
+Hair Highlight 3 ><,Hair Highlight 3 ><,Мелирование волос 3 ><,False
+Hair Highlight 4 ><,Hair Highlight 4 ><,Мелирование волос 4 ><,False
+Hair Highlight 5 ><,Hair Highlight 5 ><,Мелирование волос 5 ><,False
+Hair Highlight 6 ><,Hair Highlight 6 ><,Мелирование волос 6 ><,False
+Hair Highlight 1 <<,Hair Highlight 1 <<,Мелирование волос 1 <<,False
+Hair Highlight 2 <<,Hair Highlight 2 <<,Мелирование волос 2 <<,False
+Hair Highlight 3 <<,Hair Highlight 3 <<,Мелирование волос 3 <<,False
+Hair Side,Hair Side,Сторона волос,False
+Hair Ahoge,Hair Ahoge,Волосы Ахоге,False
+Hair Rear,Hair Rear,Волосы сзади,False
+Hair Pigtail >>,Hair Pigtail >>,Косичка для волос >>,False
+Hair Pigtail <<,Hair Pigtail <<,Косичка для волос <<,False
+Animal Ear,Animal Ear,Ухо животного,False
+Antenna,Antenna,Антенна,False
+Fin,Fin,Плавник,False
+Gill,Gill,Джилл,False
+Glasses,Glasses,Очки,False
+Hairband A,Hairband A,Лента для волос А,False
+Hairband B,Hairband B,Лента для волос Б,False
+Hairband C,Hairband C,Повязка для волос С,False
+Hairband D,Hairband D,Ободок для волос D,False
+Hair Clip >>,Hair Clip >>,Заколка для волос >>,False
+Hair Clip <<,Hair Clip <<,Заколка для волос <<,False
+Halo,Halo,Гало,False
+Hat,Hat,Шляпа,False
+Ear Wing,Ear Wing,Ухо Крыло,False
+Horn,Horn,Рог,False
+Horn Front ><,Horn Front ><,Рог спереди ><,False
+Horn Front,Horn Front,Рог спереди,False
+Mecha,Mecha,Меха,False
+Outfit Collar Inner,Outfit Collar Inner,Внутренний воротник наряда,False
+Outfit Inner,Outfit Inner,Внутренний наряд,False
+Outfit Outer,Outfit Outer,Наряд Внешний,False
+Outfit Neckwear A,Outfit Neckwear A,Наряд Галстук А,False
+Outfit Neckwear B,Outfit Neckwear B,Наряд Галстук Б,False
+Outfit Neckwear C,Outfit Neckwear C,Наряд Галстук C,False
+Hair Side Branch >> A,Hair Side Branch >> A,Боковая ветвь волос >> A,False
+Hair Side Branch >> B,Hair Side Branch >> B,Боковая ветвь волос >> B,False
+Hair Side Branch >> C,Hair Side Branch >> C,Боковая ветвь волос >> C,False
+Hair Side Branch << A,Hair Side Branch << A,Боковая ветвь волос << A,False
+Hair Side Branch << B,Hair Side Branch << B,Боковая ветвь волос << B,False
+Hair Side Branch << C,Hair Side Branch << C,Боковая ветвь волос << C,False

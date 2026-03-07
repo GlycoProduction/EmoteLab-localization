@@ -1,94 +1,94 @@
 Key,en,ru,reviewed
-MainMenu.TabHeaderLable.Editor,Editor,,False
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.",,False
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",,False
-MainMenu.Confirm,Confirm,,False
-MainMenu.Cancel,0Cancel,,False
-MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,,False
-MainMenu.Editor.Model,Models,,False
-MainMenu.Editor.Character,Character,,False
-MainMenu.Editor.Animation,Animation,,False
-MainMenu.Editor.PartsSelection,Choose Parts,,False
-MainMenu.Editor.PartsAdjustment,Adjustment,,False
-MainMenu.Search,Search...,,False
-MainMenu.Editor.SaveCharacter,Save Character,,False
-MainMenu.Editor.Unload,Clear Character,,False
-MainMenu.Editor.DeleteCharacter,Delete Character,,False
-MainMenu.Editor.UseCustomTextures,Use Custom Textures,,False
-MainMenu.Editor.ReloadTextures,Reload Textures,,False
-MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,,False
-MainMenu.Editor.Color,Color,,False
-MainMenu.Editor.TintColor,TintColor,,False
-MainMenu.Editor.TintBlackColor,TintBlackColor,,False
-MainMenu.Editor.LICENSE,LICENSE,,False
-MainMenu.Editor.AssetTypeAA,Default Assets,,False
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,,False
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,,False
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",,False
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",,False
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,,False
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,,False
-MainMenu.Editor.UnloadCurrentModel,Unload Current Model,,False
-MainMenu.Settings.GeneralSettings,General Settings,,False
-MainMenu.Settings.GeneralSettings.Language,Language,,False
-MainMenu.Settings.ViewportSettings,Viewport Settings,,False
-MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,,False
-MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,,False
-MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,,False
-MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,,False
-MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,,False
-MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,,False
-MainMenu.Settings.ExportSettings,Animation Export Settings,,False
-MainMenu.Settings.ExportSettings.SaveLocation,Save Location,,False
-MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,,False
-MainMenu.Settings.ExportSettings.Encoder,Encoder,,False
-MainMenu.Settings.ExportSettings.Width,Width,,False
-MainMenu.Settings.ExportSettings.Height,Height,,False
-MainMenu.Settings.ExportSettings.FPS,FPS,,False
-MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,,False
-MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,,False
-MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,,False
-MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,,False
-MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,,False
-MainMenu.Editor.Export,Export Emote,,False
-LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,,False
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,,False
-LicensePopup.Close,Close,,False
-MainMenu.Editor.OpenExportFolder,Open Export Folder,,False
-MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,,False
-MainMenu.Settings.ModelSettings,Model Settings,,False
-MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,,False
-MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,,False
-MainMenu.Info.ThirdPartyLicense,Third Party Licenses,,False
-MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),,False
-MainMenu.Info.Documentation,Documentation,,False
-MainMenu.Info.Discord,Join Our Discord,,False
-MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",,False
-MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,,False
-MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,,False
-MainMenu.Info.Log,Open Log Folder,,False
-MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,,False
-MainMenu.Editor.ExportStatic,Export Static Image,,False
-MainMenu.Editor.Player.Speed,Speed,,False
-MainMenu.Settings.StaticImageSettings,Static Image Settings,,False
-MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,,False
-MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,,False
-MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,,False
-MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,,False
-MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",,False
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,,False
-MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,,False
-MainMenu.Editor.Texture.CustomTexture,Custom Texture,,False
-MainMenu.Editor.Texture.Step1,Step 1,,False
-MainMenu.Editor.Texture.Step2,Step 2,,False
-MainMenu.Editor.Texture.Step3,Step 3,,False
-MainMenu.Editor.Texture.Step4,Step 4,,False
-MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,,False
-MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,,False
-MainMenu.Editor.Texture.TextureUtility,Texture Utility,,False
-MainMenu.Editor.Texture.SelectAll,Select All,,False
-MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,,False
-MainMenu.Editor.Texture.AtlasList,Atlas List,,False
-MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,,False
-MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,,False
+MainMenu.TabHeaderLable.Editor,Editor,Редактор,False
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Вы уверены, что хотите удалить символ ""{0}""? Это действие невозможно отменить.",False
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","Персонаж ""{0}"" уже существует. Вы уверены, что хотите перезаписать символ ""{0}""? Это действие невозможно отменить.",False
+MainMenu.Confirm,Confirm,Подтверждать,False
+MainMenu.Cancel,0Cancel,0Отмена,False
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,"Пожалуйста, введите имя персонажа:",False
+MainMenu.Editor.Model,Models,Модели,False
+MainMenu.Editor.Character,Character,Характер,False
+MainMenu.Editor.Animation,Animation,Анимация,False
+MainMenu.Editor.PartsSelection,Choose Parts,Выберите детали,False
+MainMenu.Editor.PartsAdjustment,Adjustment,Корректирование,False
+MainMenu.Search,Search...,Поиск...,False
+MainMenu.Editor.SaveCharacter,Save Character,Сохранить персонажа,False
+MainMenu.Editor.Unload,Clear Character,Ясный характер,False
+MainMenu.Editor.DeleteCharacter,Delete Character,Удалить персонажа,False
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,Используйте пользовательские текстуры,False
+MainMenu.Editor.ReloadTextures,Reload Textures,Перезагрузить текстуры,False
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Открыть папку с пользовательскими текстурами,False
+MainMenu.Editor.Color,Color,Цвет,False
+MainMenu.Editor.TintColor,TintColor,ОттенокЦвет,False
+MainMenu.Editor.TintBlackColor,TintBlackColor,ОттенокЧерныйЦвет,False
+MainMenu.Editor.LICENSE,LICENSE,ЛИЦЕНЗИЯ,False
+MainMenu.Editor.AssetTypeAA,Default Assets,Активы по умолчанию,False
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,Сторонние активы,False
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Имя не может быть пустым.,False
+MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Имя не может превышать {0} символов.,False
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",Имя не может содержать символ «{0}».,False
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","«{0}» — зарезервированное имя, и его нельзя использовать.",False
+MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,Имя не может заканчиваться точкой.,False
+MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,Имя не может содержать только пробелы.,False
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Выгрузить текущую модель,False
+MainMenu.Settings.GeneralSettings,General Settings,Общие настройки,False
+MainMenu.Settings.GeneralSettings.Language,Language,Язык,False
+MainMenu.Settings.ViewportSettings,Viewport Settings,Настройки видового экрана,False
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Скорость масштабирования,False
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Скорость вращения,False
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Масштаб модели,False
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Смещение по горизонтали,False
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Смещение по вертикали,False
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Сбросить настройки видового экрана,False
+MainMenu.Settings.ExportSettings,Animation Export Settings,Настройки экспорта анимации,False
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Сохранить местоположение,False
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Экспорт пресетов,False
+MainMenu.Settings.ExportSettings.Encoder,Encoder,Кодер,False
+MainMenu.Settings.ExportSettings.Width,Width,Ширина,False
+MainMenu.Settings.ExportSettings.Height,Height,Высота,False
+MainMenu.Settings.ExportSettings.FPS,FPS,ФПС,False
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Ограничение Макс. Количество кадров,False
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,Макс. Количество кадров,False
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Альфа-порог,False
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Включить сглаживание,False
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Сбросить настройки экспорта,False
+MainMenu.Editor.Export,Export Emote,Экспортировать эмоцию,False
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,Лицензия предоставлена ​​создателем модели. Отображается только для справки и не отражает точку зрения или правовую позицию разработчика EmoteLab.,False
+LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Лицензия не найдена. Подтвердите разрешенное использование у создателя.,False
+LicensePopup.Close,Close,Закрывать,False
+MainMenu.Editor.OpenExportFolder,Open Export Folder,Открыть папку экспорта,False
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Загрузка образцов символов для встроенных моделей,False
+MainMenu.Settings.ModelSettings,Model Settings,Настройки модели,False
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Сохранение данных персонажа...,False
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Загрузка персонажа...,False
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Лицензии третьих лиц,False
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Лицензионное соглашение с конечным пользователем (EULA),False
+MainMenu.Info.Documentation,Documentation,Документация,False
+MainMenu.Info.Discord,Join Our Discord,Присоединяйтесь к нашему дискорду,False
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.","Этот пресет устанавливает правильный формат и размеры. Очень длинные анимации могут превышать ограничения размера файла платформы, а некоторые платформы ограничивают определенный контент.",False
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Открыть локальную папку модели,False
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Открыть папку персонажей,False
+MainMenu.Info.Log,Open Log Folder,Открыть папку журнала,False
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Использование глобальной таблицы цветов,False
+MainMenu.Editor.ExportStatic,Export Static Image,Экспорт статического изображения,False
+MainMenu.Editor.Player.Speed,Speed,Скорость,False
+MainMenu.Settings.StaticImageSettings,Static Image Settings,Настройки статического изображения,False
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Сбросить настройки статического изображения,False
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Частота выборки,False
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Этот переключатель позволяет переключаться между внутренней и пользовательской текстурой.,False
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Отредактируйте PNG в папке «Пользовательская текстура». Сохраняйте с прозрачностью и не изменяйте размер изображения.,False
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","После сохранения изменений нажмите эту кнопку, чтобы применить изменения к вашей модели.",False
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Сохраните своего персонажа. Кнопка сохранения расположена под списком персонажей в левой части интерфейса.,False
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Перед использованием этой функции прочтите руководство «Использование пользовательских текстур».,False
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,Пользовательская текстура,False
+MainMenu.Editor.Texture.Step1,Step 1,Шаг 1,False
+MainMenu.Editor.Texture.Step2,Step 2,Шаг 2,False
+MainMenu.Editor.Texture.Step3,Step 3,Шаг 3,False
+MainMenu.Editor.Texture.Step4,Step 4,Шаг 4,False
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Исправить выбранный контур,False
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Сбросить выбранный атлас,False
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,Утилита текстур,False
+MainMenu.Editor.Texture.SelectAll,Select All,Выбрать все,False
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Переключить выбор,False
+MainMenu.Editor.Texture.AtlasList,Atlas List,Список Атласов,False
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,При этом выбранные страницы атласа будут сброшены до встроенных версий. Любые несохраненные изменения будут потеряны и не подлежат восстановлению. Продолжать?,False
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Алгоритм палитры,False

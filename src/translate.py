@@ -16,6 +16,7 @@ def safe_translate(text, translator):
 def translate_file(file_path, target_lang_code, translator):
     df = pd.read_csv(file_path, dtype=str, keep_default_na=False)
 
+    print(f"translating {file_path} ", end="")
     # 1. Ensure the target column exists
     if target_lang_code not in df.columns:
         print(f"missing column {target_lang_code}")
