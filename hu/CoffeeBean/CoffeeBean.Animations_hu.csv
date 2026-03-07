@@ -1,79 +1,79 @@
-﻿Key,en,hu
-Alert Bits,Alert Bits,
-Alert Donation,Alert Donation,
-Alert Heart,Alert Heart,
-Alert Like,Alert Like,
-Alert Star,Alert Star,
-Angry,Angry,
-Arrive,Arrive,
-Arrive (with Chopstick),Arrive (with Chopstick),
-Arrive (with Spoon),Arrive (with Spoon),
-Bonk,Bonk,
-Copium,Copium,
-Crowbar 1,Crowbar 1,
-Crowbar 2,Crowbar 2,
-Crowbar 3,Crowbar 3,
-Cry 1,Cry 1,
-Cry 2,Cry 2,
-Cry 3,Cry 3,
-Dead,Dead,
-Dizzy,Dizzy,
-Drink (Beverage Cup),Drink (Beverage Cup),
-Drive,Drive,
-Drooling (Chopstick),Drooling (Chopstick),
-Drooling (Fork&Knife),Drooling (Fork&Knife),
-Dum 1,Dum 1,
-Dum 2,Dum 2,
-Dum 3,Dum 3,
-Dum Sticker 1,Dum Sticker 1,
-Dum Sticker 2,Dum Sticker 2,
-Dum Sticker 3,Dum Sticker 3,
-Exclamation,Exclamation,
-Jail 1,Jail 1,
-Jail 2,Jail 2,
-Knife 1,Knife 1,
-Knife 2,Knife 2,
-Laugh,Laugh,
-Lick,Lick,
-Lightstick 1,Lightstick 1,
-Lightstick 2,Lightstick 2,
-Lurk 1,Lurk 1,
-Lurk 2,Lurk 2,
-Luv 1,Luv 1,
-Luv 2,Luv 2,
-Luv 3,Luv 3,
-Money,Money,
-Mute 1,Mute 1,
-Mute 2,Mute 2,
-Nervous 1,Nervous 1,
-Nervous 2,Nervous 2,
-Noted 1,Noted 1,
-Noted 2,Noted 2,
-Pat,Pat,
-Point,Point,
-Question,Question,
-Raid 1,Raid 1,
-Raid 2,Raid 2,
-RedPacket 1,RedPacket 1,
-RedPacket 2,RedPacket 2,
-Rose,Rose,
-Score (0 Point),Score (0 Point),
-Score (10 Point),Score (10 Point),
-Shy 1,Shy 1,
-Shy 2,Shy 2,
-Sleep (Normal),Sleep (Normal),
-Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),
-Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),
-Sleep (UU),Sleep (UU),
-Sparkling,Sparkling,
-Surprise,Surprise,
-Sweat,Sweat,
-Thumb Down,Thumb Down,
-Thumb Up,Thumb Up,
-Type Angry,Type Angry,
-Type Annoyed,Type Annoyed,
-Type Normal,Type Normal,
-Work Angry,Work Angry,
-Work Nap,Work Nap,
-Work Normal,Work Normal,
-Work Tired,Work Tired,
+Key,en,hu
+Alert Bits,Alert Bits,Figyelmeztető bitek
+Alert Donation,Alert Donation,Figyelmeztető adományozás
+Alert Heart,Alert Heart,Figyelmes szív
+Alert Like,Alert Like,Alert Like
+Alert Star,Alert Star,Figyelmeztető csillag
+Angry,Angry,Dühös
+Arrive,Arrive,Megérkezik
+Arrive (with Chopstick),Arrive (with Chopstick),Érkezés (pálcikával)
+Arrive (with Spoon),Arrive (with Spoon),Érkezés (kanállal)
+Bonk,Bonk,Bonk
+Copium,Copium,Copium
+Crowbar 1,Crowbar 1,Vargavas 1
+Crowbar 2,Crowbar 2,Vargavas 2
+Crowbar 3,Crowbar 3,Vargavas 3
+Cry 1,Cry 1,Sírás 1
+Cry 2,Cry 2,Sírás 2
+Cry 3,Cry 3,Sírás 3
+Dead,Dead,Halott
+Dizzy,Dizzy,Szédül
+Drink (Beverage Cup),Drink (Beverage Cup),Ital (italos csésze)
+Drive,Drive,Hajtás
+Drooling (Chopstick),Drooling (Chopstick),Nyálcsorgatás (evőpálcika)
+Drooling (Fork&Knife),Drooling (Fork&Knife),Nyálcsorgatás (villa és kés)
+Dum 1,Dum 1,Dum 1
+Dum 2,Dum 2,Dum 2
+Dum 3,Dum 3,Dum 3
+Dum Sticker 1,Dum Sticker 1,Dum matrica 1
+Dum Sticker 2,Dum Sticker 2,Dum matrica 2
+Dum Sticker 3,Dum Sticker 3,Dum matrica 3
+Exclamation,Exclamation,Felkiáltás
+Jail 1,Jail 1,Börtön 1
+Jail 2,Jail 2,Börtön 2
+Knife 1,Knife 1,Kés 1
+Knife 2,Knife 2,Kés 2
+Laugh,Laugh,Nevetés
+Lick,Lick,Nyalás
+Lightstick 1,Lightstick 1,Lightstick 1
+Lightstick 2,Lightstick 2,Lightstick 2
+Lurk 1,Lurk 1,Lappangás 1
+Lurk 2,Lurk 2,Lappangás 2
+Luv 1,Luv 1,Luv 1
+Luv 2,Luv 2,Luv 2
+Luv 3,Luv 3,Luv 3
+Money,Money,Pénz
+Mute 1,Mute 1,Némítás 1
+Mute 2,Mute 2,Némítás 2
+Nervous 1,Nervous 1,Ideges 1
+Nervous 2,Nervous 2,Ideges 2
+Noted 1,Noted 1,Megjegyezte 1
+Noted 2,Noted 2,Megjegyezte 2
+Pat,Pat,Pat
+Point,Point,Pont
+Question,Question,Kérdés
+Raid 1,Raid 1,Raid 1
+Raid 2,Raid 2,Raid 2
+RedPacket 1,RedPacket 1,RedPacket 1
+RedPacket 2,RedPacket 2,RedPacket 2
+Rose,Rose,Rózsa
+Score (0 Point),Score (0 Point),Pontszám (0 pont)
+Score (10 Point),Score (10 Point),Pontszám (10 pont)
+Shy 1,Shy 1,Félénk 1
+Shy 2,Shy 2,Félénk 2
+Sleep (Normal),Sleep (Normal),Alvás (normál)
+Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Alvás (1. előkészítési szakasz)
+Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Alvás (2. előkészítési szakasz)
+Sleep (UU),Sleep (UU),Alvás (UU)
+Sparkling,Sparkling,Szikrázó
+Surprise,Surprise,Meglepetés
+Sweat,Sweat,Izzad
+Thumb Down,Thumb Down,Lefelé hüvelykujj
+Thumb Up,Thumb Up,Menj fel
+Type Angry,Type Angry,Írd be: Dühös
+Type Annoyed,Type Annoyed,Típus Bosszús
+Type Normal,Type Normal,Normál típus
+Work Angry,Work Angry,Work Angry
+Work Nap,Work Nap,Munkaszünet
+Work Normal,Work Normal,Normál munkavégzés
+Work Tired,Work Tired,Munka fáradt

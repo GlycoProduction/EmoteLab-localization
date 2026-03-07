@@ -1,94 +1,94 @@
-﻿Key,en,hu
-MainMenu.TabHeaderLable.Editor,Editor,
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.",
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",
-MainMenu.Confirm,Confirm,
-MainMenu.Cancel,Cancel,
-MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,
-MainMenu.Editor.Model,Models,
-MainMenu.Editor.Character,Character,
-MainMenu.Editor.Animation,Animation,
-MainMenu.Editor.PartsSelection,Choose Parts,
-MainMenu.Editor.PartsAdjustment,Adjustment,
-MainMenu.Search,Search...,
-MainMenu.Editor.SaveCharacter,Save Character,
-MainMenu.Editor.Unload,Clear Character,
-MainMenu.Editor.DeleteCharacter,Delete Character,
-MainMenu.Editor.UseCustomTextures,Use Custom Textures,
-MainMenu.Editor.ReloadTextures,Reload Textures,
-MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,
-MainMenu.Editor.Color,Color,
-MainMenu.Editor.TintColor,TintColor,
-MainMenu.Editor.TintBlackColor,TintBlackColor,
-MainMenu.Editor.LICENSE,LICENSE,
-MainMenu.Editor.AssetTypeAA,Default Assets,
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,
-MainMenu.Editor.UnloadCurrentModel,Unload Current Model,
-MainMenu.Settings.GeneralSettings,General Settings,
-MainMenu.Settings.GeneralSettings.Language,Language,
-MainMenu.Settings.ViewportSettings,Viewport Settings,
-MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,
-MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,
-MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,
-MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,
-MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,
-MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,
-MainMenu.Settings.ExportSettings,Animation Export Settings,
-MainMenu.Settings.ExportSettings.SaveLocation,Save Location,
-MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,
-MainMenu.Settings.ExportSettings.Encoder,Encoder,
-MainMenu.Settings.ExportSettings.Width,Width,
-MainMenu.Settings.ExportSettings.Height,Height,
-MainMenu.Settings.ExportSettings.FPS,FPS,
-MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,
-MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,
-MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,
-MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,
-MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,
-MainMenu.Editor.Export,Export Emote,
-LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,
-LicensePopup.Close,Close,
-MainMenu.Editor.OpenExportFolder,Open Export Folder,
-MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,
-MainMenu.Settings.ModelSettings,Model Settings,
-MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,
-MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,
-MainMenu.Info.ThirdPartyLicense,Third Party Licenses,
-MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),
-MainMenu.Info.Documentation,Documentation,
-MainMenu.Info.Discord,Join Our Discord,
-MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",
-MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,
-MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,
-MainMenu.Info.Log,Open Log Folder,
-MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,
-MainMenu.Editor.ExportStatic,Export Static Image,
-MainMenu.Editor.Player.Speed,Speed,
-MainMenu.Settings.StaticImageSettings,Static Image Settings,
-MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,
-MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,
-MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,
-MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,
-MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,
-MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,
-MainMenu.Editor.Texture.CustomTexture,Custom Texture,
-MainMenu.Editor.Texture.Step1,Step 1,
-MainMenu.Editor.Texture.Step2,Step 2,
-MainMenu.Editor.Texture.Step3,Step 3,
-MainMenu.Editor.Texture.Step4,Step 4,
-MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,
-MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,
-MainMenu.Editor.Texture.TextureUtility,Texture Utility,
-MainMenu.Editor.Texture.SelectAll,Select All,
-MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,
-MainMenu.Editor.Texture.AtlasList,Atlas List,
-MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,
-MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,
+Key,en,hu
+MainMenu.TabHeaderLable.Editor,Editor,Szerkesztő
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Biztosan törölni szeretné a(z) ""{0}"" karaktert? Ez a művelet nem vonható vissza."
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","A(z) ""{0}"" karakter már létezik. Biztosan felül szeretné írni a(z) ""{0}"" karaktert? Ez a művelet nem vonható vissza."
+MainMenu.Confirm,Confirm,Erősítse meg
+MainMenu.Cancel,Cancel,Mégse
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,"Kérjük, írjon be egy karakternevet:"
+MainMenu.Editor.Model,Models,Modellek
+MainMenu.Editor.Character,Character,Karakter
+MainMenu.Editor.Animation,Animation,Animáció
+MainMenu.Editor.PartsSelection,Choose Parts,Válassza az Alkatrészek lehetőséget
+MainMenu.Editor.PartsAdjustment,Adjustment,Beállítás
+MainMenu.Search,Search...,Keresés...
+MainMenu.Editor.SaveCharacter,Save Character,Karakter mentése
+MainMenu.Editor.Unload,Clear Character,Tiszta karakter
+MainMenu.Editor.DeleteCharacter,Delete Character,Karakter törlése
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,Egyéni textúrák használata
+MainMenu.Editor.ReloadTextures,Reload Textures,Textúrák újratöltése
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Nyissa meg az Egyéni textúra mappát
+MainMenu.Editor.Color,Color,Szín
+MainMenu.Editor.TintColor,TintColor,TintColor
+MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor
+MainMenu.Editor.LICENSE,LICENSE,ENGEDÉLY
+MainMenu.Editor.AssetTypeAA,Default Assets,Alapértelmezett eszközök
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,Harmadik féltől származó eszközök
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,A név nem lehet üres.
+MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,A név nem haladhatja meg a {0} karaktert.
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","A név nem tartalmazhatja a ""{0}"" karaktert."
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" egy lefoglalt név, és nem használható."
+MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,A név nem végződhet ponttal.
+MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,A név nem tartalmazhat csak szóközt.
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Töltse ki az aktuális modellt
+MainMenu.Settings.GeneralSettings,General Settings,Általános beállítások
+MainMenu.Settings.GeneralSettings.Language,Language,Nyelv
+MainMenu.Settings.ViewportSettings,Viewport Settings,Nézetablak beállításai
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Zoom Speed
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Forgási sebesség
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Modell skála
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Eltolás Vízszintes
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Függőleges eltolás
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Állítsa vissza a nézetablak beállításokat
+MainMenu.Settings.ExportSettings,Animation Export Settings,Animáció exportálási beállításai
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Hely mentése
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Előbeállítások exportálása
+MainMenu.Settings.ExportSettings.Encoder,Encoder,Kódoló
+MainMenu.Settings.ExportSettings.Width,Width,Szélesség
+MainMenu.Settings.ExportSettings.Height,Height,Magasság
+MainMenu.Settings.ExportSettings.FPS,FPS,FPS
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Limit Max. Képkockaszám
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,Max. Képkockaszám
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Alfa-küszöb
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Dithering engedélyezése
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Állítsa vissza az exportálási beállításokat
+MainMenu.Editor.Export,Export Emote,Export Emote
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,"A modell készítője által biztosított licenc. Csak referenciaként jelenik meg, és nem képviseli az EmoteLab fejlesztő nézeteit vagy jogi álláspontját."
+LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Az engedély nem található. Az engedélyezett felhasználás megerősítése az alkotóval.
+LicensePopup.Close,Close,Közeli
+MainMenu.Editor.OpenExportFolder,Open Export Folder,Nyissa meg az Exportálás mappát
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Töltsön be mintakaraktereket a beépített modellekhez
+MainMenu.Settings.ModelSettings,Model Settings,Modell beállításai
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Karakteradatok mentése...
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Karakter betöltése...
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Harmadik fél licencei
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Végfelhasználói licencszerződés (EULA)
+MainMenu.Info.Documentation,Documentation,Dokumentáció
+MainMenu.Info.Discord,Join Our Discord,Csatlakozz Discordunkhoz
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.","Ez az előbeállítás beállítja a megfelelő formátumot és méreteket. A nagyon hosszú animációk meghaladhatják a platform fájlméret-korlátait, és egyes platformok korlátoznak bizonyos tartalmakat."
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Nyissa meg a Helyi Modell mappát
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Nyissa meg a Karakter mappát
+MainMenu.Info.Log,Open Log Folder,Nyissa meg a Napló mappát
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Globális színtábla használata
+MainMenu.Editor.ExportStatic,Export Static Image,Statikus kép exportálása
+MainMenu.Editor.Player.Speed,Speed,Sebesség
+MainMenu.Settings.StaticImageSettings,Static Image Settings,Statikus képbeállítások
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Állítsa vissza a statikus képbeállításokat
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Mintavételi sebesség
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Ezzel a kapcsolóval válthat a belső és az egyéni textúra között
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,"Szerkessze a PNG-ket az Egyéni textúra mappában. Mentse átlátszósággal, és ne módosítsa a képméretet"
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","A módosítások mentése után kattintson erre a gombra, hogy alkalmazza a módosításokat a modellen."
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Mentsd meg a karaktered. A mentés gomb a karakterlista alatt található a felület bal oldalán.
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,"Kérjük, olvassa el az Egyéni textúrák használata kézikönyvet a funkció használata előtt."
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,Egyedi textúra
+MainMenu.Editor.Texture.Step1,Step 1,1. lépés
+MainMenu.Editor.Texture.Step2,Step 2,2. lépés
+MainMenu.Editor.Texture.Step3,Step 3,3. lépés
+MainMenu.Editor.Texture.Step4,Step 4,4. lépés
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Javítsa ki a kiválasztott körvonalat
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Állítsa vissza a kiválasztott atlaszt
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,Texture Utility
+MainMenu.Editor.Texture.SelectAll,Select All,Válassza az Összes lehetőséget
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Kiválasztás váltása
+MainMenu.Editor.Texture.AtlasList,Atlas List,Atlasz lista
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,"Ezzel visszaállítja a kiválasztott atlaszoldalakat a beépített verziókra. A nem mentett szerkesztések elvesznek, és nem állíthatók vissza. Folytatja?"
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Paletta algoritmus

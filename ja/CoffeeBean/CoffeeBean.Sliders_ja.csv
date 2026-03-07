@@ -1,29 +1,29 @@
-﻿Key,en,ja
-Eyelash Length,Eyelash Length,
-Brows Distance,Brows Distance,
-Brows Height,Brows Height,
-Ear Shape 1,Ear Shape 1,
-Ear Shape 2,Ear Shape 2,
-Hair Bang >< Length,Hair Bang >< Length,
-Hair Bang >< Shear,Hair Bang >< Shear,
-Hair Bang >> Position,Hair Bang >> Position,
-Hair Bang >> Length,Hair Bang >> Length,
-Hair Bang >> Shear,Hair Bang >> Shear,
-Hair Bang << Position,Hair Bang << Position,
-Hair Bang << Length,Hair Bang << Length,
-Hair Bang << Shear,Hair Bang << Shear,
-Hair Framing << Length,Hair Framing << Length,
-Hair Framing >> Length,Hair Framing >> Length,
-Hair Side Length,Hair Side Length,
-Hair Rear Length,Hair Rear Length,
-Ahoge Position,Ahoge Position,
-Ahoge Angle,Ahoge Angle,
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,
-Fin & Gill Position,Fin & Gill Position,
-Halo Position,Halo Position,
-Hat Position,Hat Position,
-Horn >> Length,Horn >> Length,
-Horn << Length,Horn << Length,
-Horn >< Length,Horn >< Length,
-Horn Position,Horn Position,
-Ear Wing Position,Ear Wing Position,
+Key,en,ja
+Eyelash Length,Eyelash Length,まつげの長さ
+Brows Distance,Brows Distance,眉間の距離
+Brows Height,Brows Height,眉の高さ
+Ear Shape 1,Ear Shape 1,耳の形1
+Ear Shape 2,Ear Shape 2,耳の形2
+Hair Bang >< Length,Hair Bang >< Length,前髪 >< 長さ
+Hair Bang >< Shear,Hair Bang >< Shear,ヘアバング >< シアー
+Hair Bang >> Position,Hair Bang >> Position,前髪 >> ポジション
+Hair Bang >> Length,Hair Bang >> Length,前髪 >> 長さ
+Hair Bang >> Shear,Hair Bang >> Shear,ヘアバング >> シアー
+Hair Bang << Position,Hair Bang << Position,前髪 << 位置
+Hair Bang << Length,Hair Bang << Length,前髪 << 長さ
+Hair Bang << Shear,Hair Bang << Shear,ヘアバング << シアー
+Hair Framing << Length,Hair Framing << Length,髪のフレーミング << 長さ
+Hair Framing >> Length,Hair Framing >> Length,ヘアフレーミング >> 長さ
+Hair Side Length,Hair Side Length,髪のサイドの長さ
+Hair Rear Length,Hair Rear Length,後ろ髪の長さ
+Ahoge Position,Ahoge Position,アホ毛の位置
+Ahoge Angle,Ahoge Angle,アホ毛アングル
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,動物の耳とアンテナの位置
+Fin & Gill Position,Fin & Gill Position,ヒレとエラの位置
+Halo Position,Halo Position,ハローポジション
+Hat Position,Hat Position,帽子の位置
+Horn >> Length,Horn >> Length,ホーン >> 長さ
+Horn << Length,Horn << Length,ホルン << 長さ
+Horn >< Length,Horn >< Length,ホーン >< 長さ
+Horn Position,Horn Position,ホーンの位置
+Ear Wing Position,Ear Wing Position,耳翅の位置

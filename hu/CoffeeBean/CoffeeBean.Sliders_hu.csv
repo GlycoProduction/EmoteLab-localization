@@ -1,29 +1,29 @@
-﻿Key,en,ko
-Eyelash Length,Eyelash Length,
-Brows Distance,Brows Distance,
-Brows Height,Brows Height,
-Ear Shape 1,Ear Shape 1,
-Ear Shape 2,Ear Shape 2,
-Hair Bang >< Length,Hair Bang >< Length,
-Hair Bang >< Shear,Hair Bang >< Shear,
-Hair Bang >> Position,Hair Bang >> Position,
-Hair Bang >> Length,Hair Bang >> Length,
-Hair Bang >> Shear,Hair Bang >> Shear,
-Hair Bang << Position,Hair Bang << Position,
-Hair Bang << Length,Hair Bang << Length,
-Hair Bang << Shear,Hair Bang << Shear,
-Hair Framing << Length,Hair Framing << Length,
-Hair Framing >> Length,Hair Framing >> Length,
-Hair Side Length,Hair Side Length,
-Hair Rear Length,Hair Rear Length,
-Ahoge Position,Ahoge Position,
-Ahoge Angle,Ahoge Angle,
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,
-Fin & Gill Position,Fin & Gill Position,
-Halo Position,Halo Position,
-Hat Position,Hat Position,
-Horn >> Length,Horn >> Length,
-Horn << Length,Horn << Length,
-Horn >< Length,Horn >< Length,
-Horn Position,Horn Position,
-Ear Wing Position,Ear Wing Position,
+Key,en,hu
+Eyelash Length,Eyelash Length,Szempilla hossza
+Brows Distance,Brows Distance,Szemöldök távolság
+Brows Height,Brows Height,Szemöldökmagasság
+Ear Shape 1,Ear Shape 1,Fül alakja 1
+Ear Shape 2,Ear Shape 2,Fül alakja 2
+Hair Bang >< Length,Hair Bang >< Length,Hajhullás >< hossz
+Hair Bang >< Shear,Hair Bang >< Shear,Hair Bang >< Shear
+Hair Bang >> Position,Hair Bang >> Position,Hair Bang >> Pozíció
+Hair Bang >> Length,Hair Bang >> Length,Hajhullás >> Hossz
+Hair Bang >> Shear,Hair Bang >> Shear,Hajhullás >> Nyírás
+Hair Bang << Position,Hair Bang << Position,Hair Bang << Pozíció
+Hair Bang << Length,Hair Bang << Length,Hair Bang << Hossz
+Hair Bang << Shear,Hair Bang << Shear,Hair Bang << Shear
+Hair Framing << Length,Hair Framing << Length,Hajkeretezés << Hossz
+Hair Framing >> Length,Hair Framing >> Length,Hajkeretezés >> Hossz
+Hair Side Length,Hair Side Length,Haj oldalhossz
+Hair Rear Length,Hair Rear Length,Haj hátsó hossz
+Ahoge Position,Ahoge Position,Ahoge pozíció
+Ahoge Angle,Ahoge Angle,Ahoge Angle
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Állati fül és antenna helyzete
+Fin & Gill Position,Fin & Gill Position,Uszony és kopoltyú pozíció
+Halo Position,Halo Position,Halo pozíció
+Hat Position,Hat Position,Kalap pozíció
+Horn >> Length,Horn >> Length,Kürt >> Hossz
+Horn << Length,Horn << Length,Kürt << Hossz
+Horn >< Length,Horn >< Length,Kürt >< Hossz
+Horn Position,Horn Position,Kürt pozíció
+Ear Wing Position,Ear Wing Position,Fülszárny helyzete

@@ -1,29 +1,29 @@
 Key,en,fr
-Eyelash Length,Eyelash Length,
-Brows Distance,Brows Distance,
-Brows Height,Brows Height,
-Ear Shape 1,Ear Shape 1,
-Ear Shape 2,Ear Shape 2,
-Hair Bang >< Length,Hair Bang >< Length,
-Hair Bang >< Shear,Hair Bang >< Shear,
-Hair Bang >> Position,Hair Bang >> Position,
-Hair Bang >> Length,Hair Bang >> Length,
-Hair Bang >> Shear,Hair Bang >> Shear,
-Hair Bang << Position,Hair Bang << Position,
-Hair Bang << Length,Hair Bang << Length,
-Hair Bang << Shear,Hair Bang << Shear,
-Hair Framing << Length,Hair Framing << Length,
-Hair Framing >> Length,Hair Framing >> Length,
-Hair Side Length,Hair Side Length,
-Hair Rear Length,Hair Rear Length,
-Ahoge Position,Ahoge Position,
-Ahoge Angle,Ahoge Angle,
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,
-Fin & Gill Position,Fin & Gill Position,
-Halo Position,Halo Position,
-Hat Position,Hat Position,
-Horn >> Length,Horn >> Length,
-Horn << Length,Horn << Length,
-Horn >< Length,Horn >< Length,
-Horn Position,Horn Position,
-Ear Wing Position,Ear Wing Position,
+Eyelash Length,Eyelash Length,Longueur des cils
+Brows Distance,Brows Distance,Distance des sourcils
+Brows Height,Brows Height,Hauteur des sourcils
+Ear Shape 1,Ear Shape 1,Forme d'oreille 1
+Ear Shape 2,Ear Shape 2,Forme d'oreille 2
+Hair Bang >< Length,Hair Bang >< Length,Frange de cheveux >< Longueur
+Hair Bang >< Shear,Hair Bang >< Shear,Frange de cheveux >< Cisaillement
+Hair Bang >> Position,Hair Bang >> Position,Frange de cheveux >> Position
+Hair Bang >> Length,Hair Bang >> Length,Frange de cheveux >> Longueur
+Hair Bang >> Shear,Hair Bang >> Shear,Frange de cheveux >> Cisaillement
+Hair Bang << Position,Hair Bang << Position,Frange de cheveux << Position
+Hair Bang << Length,Hair Bang << Length,Frange de cheveux << Longueur
+Hair Bang << Shear,Hair Bang << Shear,Frange de cheveux << Cisaillement
+Hair Framing << Length,Hair Framing << Length,Encadrement des cheveux << Longueur
+Hair Framing >> Length,Hair Framing >> Length,Cadrage des cheveux >> Longueur
+Hair Side Length,Hair Side Length,Longueur du côté des cheveux
+Hair Rear Length,Hair Rear Length,Longueur arrière des cheveux
+Ahoge Position,Ahoge Position,Position d'Ahoge
+Ahoge Angle,Ahoge Angle,Angle d'Ahoge
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Position de l'oreille et de l'antenne de l'animal
+Fin & Gill Position,Fin & Gill Position,Position des nageoires et des branchies
+Halo Position,Halo Position,Position du halo
+Hat Position,Hat Position,Position du chapeau
+Horn >> Length,Horn >> Length,Corne >> Longueur
+Horn << Length,Horn << Length,Corne << Longueur
+Horn >< Length,Horn >< Length,Corne >< Longueur
+Horn Position,Horn Position,Position du klaxon
+Ear Wing Position,Ear Wing Position,Position de l'aile de l'oreille
