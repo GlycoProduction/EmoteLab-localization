@@ -1,79 +1,79 @@
 Key,en,de,reviewed
-Alert Bits,Alert Bits,Alarmbits,False
-Alert Donation,Alert Donation,Alarmspende,False
-Alert Heart,Alert Heart,Alarmierendes Herz,False
-Alert Like,Alert Like,Alert Like,False
-Alert Star,Alert Star,Alarmstern,False
-Angry,Angry,Wütend,False
-Arrive,Arrive,Ankommen,False
-Arrive (with Chopstick),Arrive (with Chopstick),Ankommen (mit Essstäbchen),False
-Arrive (with Spoon),Arrive (with Spoon),Ankommen (mit Löffel),False
-Bonk,Bonk,Bonk,False
-Copium,Copium,Copium,False
-Crowbar 1,Crowbar 1,Brecheisen 1,False
-Crowbar 2,Crowbar 2,Brecheisen 2,False
-Crowbar 3,Crowbar 3,Brecheisen 3,False
-Cry 1,Cry 1,Weinen 1,False
-Cry 2,Cry 2,Weinen 2,False
-Cry 3,Cry 3,Schrei 3,False
-Dead,Dead,Tot,False
-Dizzy,Dizzy,Schwindlig,False
-Drink (Beverage Cup),Drink (Beverage Cup),Getränk (Getränkebecher),False
-Drive,Drive,Fahren,False
-Drooling (Chopstick),Drooling (Chopstick),Sabbern (Essstäbchen),False
-Drooling (Fork&Knife),Drooling (Fork&Knife),Sabbern (Gabel und Messer),False
-Dum 1,Dum 1,Dum 1,False
-Dum 2,Dum 2,Dum 2,False
-Dum 3,Dum 3,Dum 3,False
-Dum Sticker 1,Dum Sticker 1,Dum-Aufkleber 1,False
-Dum Sticker 2,Dum Sticker 2,Dum-Aufkleber 2,False
-Dum Sticker 3,Dum Sticker 3,Dum-Aufkleber 3,False
+Alert Bits,Alert Bits,Alert Bits,True
+Alert Donation,Alert Donation,Alert Spende,True
+Alert Heart,Alert Heart,Alert Herz,True
+Alert Like,Alert Like,Alert Like,True
+Alert Star,Alert Star,Alert Stern,True
+Angry,Angry,Wütend,True
+Arrive,Arrive,Ankommen,True
+Arrive (with Chopstick),Arrive (with Chopstick),Ankommen (Essstäbchen),True
+Arrive (with Spoon),Arrive (with Spoon),Ankommen (Löffel),True
+Bonk,Bonk,Bonk,True
+Copium,Copium,Copium,True
+Crowbar 1,Crowbar 1,Brecheisen 1,True
+Crowbar 2,Crowbar 2,Brecheisen 2,True
+Crowbar 3,Crowbar 3,Brecheisen 3,True
+Cry 1,Cry 1,Weinen 1,True
+Cry 2,Cry 2,Weinen 2,True
+Cry 3,Cry 3,Weinen 3,True
+Dead,Dead,Tot,True
+Dizzy,Dizzy,Schwindlig,True
+Drink (Beverage Cup),Drink (Beverage Cup),Getränk (Becher),True
+Drive,Drive,Fahren,True
+Drooling (Chopstick),Drooling (Chopstick),Sabbern (Essstäbchen),True
+Drooling (Fork&Knife),Drooling (Fork&Knife),Sabbern (Gabel&Messer),True
+Dum 1,Dum 1,Dum 1,True
+Dum 2,Dum 2,Dum 2,True
+Dum 3,Dum 3,Dum 3,True
+Dum Sticker 1,Dum Sticker 1,Dum-Aufkleber 1,True
+Dum Sticker 2,Dum Sticker 2,Dum-Aufkleber 2,True
+Dum Sticker 3,Dum Sticker 3,Dum-Aufkleber 3,True
 Exclamation,Exclamation,Ausruf,False
-Jail 1,Jail 1,Gefängnis 1,False
-Jail 2,Jail 2,Gefängnis 2,False
-Knife 1,Knife 1,Messer 1,False
-Knife 2,Knife 2,Messer 2,False
-Laugh,Laugh,Lachen,False
-Lick,Lick,Lecken,False
-Lightstick 1,Lightstick 1,Leuchtstab 1,False
-Lightstick 2,Lightstick 2,Leuchtstab 2,False
+Jail 1,Jail 1,Gefängnis 1,True
+Jail 2,Jail 2,Gefängnis 2,True
+Knife 1,Knife 1,Messer 1,True
+Knife 2,Knife 2,Messer 2,True
+Laugh,Laugh,Lachen,True
+Lick,Lick,Lecken,True
+Lightstick 1,Lightstick 1,Leuchtstab 1,True
+Lightstick 2,Lightstick 2,Leuchtstab 2,True
 Lurk 1,Lurk 1,Lauern 1,False
 Lurk 2,Lurk 2,Lauern 2,False
-Luv 1,Luv 1,Liebe 1,False
-Luv 2,Luv 2,Liebe 2,False
-Luv 3,Luv 3,Liebe 3,False
-Money,Money,Geld,False
-Mute 1,Mute 1,Stumm 1,False
-Mute 2,Mute 2,Stumm 2,False
-Nervous 1,Nervous 1,Nervös 1,False
-Nervous 2,Nervous 2,Nervös 2,False
-Noted 1,Noted 1,Notiert 1,False
-Noted 2,Noted 2,Notiert 2,False
-Pat,Pat,Klopfen,False
-Point,Point,Punkt,False
-Question,Question,Frage,False
-Raid 1,Raid 1,Überfall 1,False
-Raid 2,Raid 2,Überfall 2,False
+Luv 1,Luv 1,Liebe 1,True
+Luv 2,Luv 2,Liebe 2,True
+Luv 3,Luv 3,Liebe 3,True
+Money,Money,Geld,True
+Mute 1,Mute 1,Stumm 1,True
+Mute 2,Mute 2,Stumm 2,True
+Nervous 1,Nervous 1,Nervös 1,True
+Nervous 2,Nervous 2,Nervös 2,True
+Noted 1,Noted 1,Notiz 1,True
+Noted 2,Noted 2,Notiz 2,True
+Pat,Pat,Streicheln,True
+Point,Point,Zeigen,True
+Question,Question,Frage,True
+Raid 1,Raid 1,Raid 1,True
+Raid 2,Raid 2,Raid 2,True
 RedPacket 1,RedPacket 1,RedPacket 1,False
 RedPacket 2,RedPacket 2,RedPacket 2,False
-Rose,Rose,Rose,False
-Score (0 Point),Score (0 Point),Punktzahl (0 Punkt),False
-Score (10 Point),Score (10 Point),Punktzahl (10 Punkte),False
-Shy 1,Shy 1,Schüchtern 1,False
-Shy 2,Shy 2,Schüchtern 2,False
-Sleep (Normal),Sleep (Normal),Schlaf (normal),False
-Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Schlaf (Vorbereitungsphase 1),False
-Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Schlaf (Vorbereitungsphase 2),False
-Sleep (UU),Sleep (UU),Schlaf (UU),False
-Sparkling,Sparkling,Funkelnd,False
-Surprise,Surprise,Überraschung,False
-Sweat,Sweat,Schweiß,False
-Thumb Down,Thumb Down,Daumen runter,False
-Thumb Up,Thumb Up,Daumen hoch,False
-Type Angry,Type Angry,Geben Sie Wütend ein,False
-Type Annoyed,Type Annoyed,Geben Sie „Genervt“ ein,False
-Type Normal,Type Normal,Geben Sie „Normal“ ein,False
-Work Angry,Work Angry,Wütend arbeiten,False
-Work Nap,Work Nap,Arbeitsschlaf,False
-Work Normal,Work Normal,Normal arbeiten,False
-Work Tired,Work Tired,Arbeitsmüde,False
+Rose,Rose,Rose,True
+Score (0 Point),Score (0 Point),Punkte (0 Punkte),True
+Score (10 Point),Score (10 Point),Punkte (10 Punkte),True
+Shy 1,Shy 1,Schüchtern 1,True
+Shy 2,Shy 2,Schüchtern 2,True
+Sleep (Normal),Sleep (Normal),Schlaf (normal),True
+Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Schlaf (Vorbereitung 1),True
+Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Schlaf (Vorbereitung 2),True
+Sleep (UU),Sleep (UU),Schlaf (UU),True
+Sparkling,Sparkling,Funkeln,True
+Surprise,Surprise,Überraschung,True
+Sweat,Sweat,Schweiß,True
+Thumb Down,Thumb Down,Daumen runter,True
+Thumb Up,Thumb Up,Daumen hoch,True
+Type Angry,Type Angry,Tippen Wütend,True
+Type Annoyed,Type Annoyed,Tippen Genervt,True
+Type Normal,Type Normal,Tippen Normal,True
+Work Angry,Work Angry,Arbeit Wütend,True
+Work Nap,Work Nap,Arbeit Nickerchen,True
+Work Normal,Work Normal,Arbeit normal,True
+Work Tired,Work Tired,Arbeit Müde,True
