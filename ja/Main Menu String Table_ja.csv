@@ -12,11 +12,11 @@ MainMenu.Editor.PartsSelection,Choose Parts,パーツ選択,True
 MainMenu.Editor.PartsAdjustment,Adjustment,調整,True
 MainMenu.Search,Search...,検索…,True
 MainMenu.Editor.SaveCharacter,Save Character,キャラクターを保存,True
-MainMenu.Editor.Unload,Clear Character,キャラクターをクリア,True
+MainMenu.Editor.Unload,Clear Character,キャラクターを初期化,True
 MainMenu.Editor.DeleteCharacter,Delete Character,キャラクターを削除,True
 MainMenu.Editor.UseCustomTextures,Use Custom Textures,カスタムテクスチャを使用,True
 MainMenu.Editor.ReloadTextures,Reload Textures,テクスチャを再読み込み,True
-MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,カスタムテクスチャフォルダーを開く,True
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,カスタムテクスチャフォルダを開く,True
 MainMenu.Editor.Color,Color,色,True
 MainMenu.Editor.TintColor,TintColor,色合い,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,黒の色合い,True
@@ -55,19 +55,19 @@ MainMenu.Editor.Export,Export Emote,エモートを書き出し,True
 LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position.,ライセンスはモデル制作者が提供したものです。参考情報として表示されており、EmoteLab開発者の見解や法的立場を示すものではありません。,True
 LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,ライセンスが見つかりません。使用許可は制作者に確認してください。,True
 LicensePopup.Close,Close,閉じる,True
-MainMenu.Editor.OpenExportFolder,Open Export Folder,書き出しフォルダーを開く,True
+MainMenu.Editor.OpenExportFolder,Open Export Folder,書き出しフォルダを開く,True
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,組み込みモデルのサンプルキャラクターを読み込む,True
 MainMenu.Settings.ModelSettings,Model Settings,モデル設定,True
 MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,キャラクターデータを保存中…,True
 MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,キャラクターを読み込み中…,True
 MainMenu.Info.ThirdPartyLicense,Third Party Licenses,サードパーティライセンス,True
-MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),エンドユーザー使用許諾契約（EULA）,True
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),エンドユーザーライセンス契約（EULA）,True
 MainMenu.Info.Documentation,Documentation,ドキュメント,True
 MainMenu.Info.Discord,Join Our Discord,Discordに参加,True
 MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",このプリセットは適切な形式とサイズを設定します。非常に長いアニメーションはプラットフォームのファイルサイズ制限を超える場合があります。また、一部のプラットフォームでは特定のコンテンツが制限される場合があります。,True
-MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,ローカルモデルフォルダーを開く,True
-MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,キャラクターフォルダーを開く,True
-MainMenu.Info.Log,Open Log Folder,ログフォルダーを開く,True
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,ローカルモデルフォルダを開く,True
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,キャラクターフォルダを開く,True
+MainMenu.Info.Log,Open Log Folder,ログフォルダを開く,True
 MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,グローバルカラーテーブルを使用,True
 MainMenu.Editor.ExportStatic,Export Static Image,静止画像を書き出し,True
 MainMenu.Editor.Player.Speed,Speed,速度,True
@@ -75,7 +75,7 @@ MainMenu.Settings.StaticImageSettings,Static Image Settings,静止画設定,True
 MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,静止画設定をリセット,True
 MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,サンプリングレート,True
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,この操作で初期テクスチャとカスタムテクスチャを切り替えられます,True
-MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Custom Textureフォルダー内のPNGを編集してください。透過状態で保存し、画像サイズは変更しないでください,True
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Custom Textureフォルダ内のPNGを編集してください。透過状態で保存し、画像サイズは変更しないでください,True
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",編集を保存した後、このボタンを押すとモデルに変更が適用されます,True
 MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,キャラクターを保存してください。保存ボタンは画面左側のキャラクターリストの下にあります,True
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,この機能を使用する前に「カスタムテクスチャの使用」マニュアルを確認してください,True
