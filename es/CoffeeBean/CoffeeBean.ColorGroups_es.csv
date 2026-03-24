@@ -1,156 +1,156 @@
 Key,en,es,reviewed
-Hair Ahoge,Hair Ahoge,pelo ahogado,False
-Hair Ahoge Outline,Hair Ahoge Outline,Contorno de pelo ahoge,False
+Hair Ahoge,Hair Ahoge,Ahoge,False
+Hair Ahoge Outline,Hair Ahoge Outline,Contorno del Ahoge,False
 Animal Ear >>,Animal Ear >>,Oreja de animal >>,False
-Animal Ear >> Fur,Animal Ear >> Fur,Oreja de animal >> Piel,False
-Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,Oreja de animal >> Contorno de pelaje,False
-Animal Ear >> Outline,Animal Ear >> Outline,Oreja de animal >> Contorno,False
-Animal Ear <<,Animal Ear <<,Oreja de animal <<,False
-Animal Ear << Fur,Animal Ear << Fur,Oreja de animal << Piel,False
-Animal Ear << Fur Outline,Animal Ear << Fur Outline,Oreja de animal << Contorno de piel,False
-Animal Ear << Outline,Animal Ear << Outline,Oreja de animal << Contorno,False
+Animal Ear >> Fur,Animal Ear >> Fur,Orejas de animal >> Pelaje,False
+Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,Orejas de animal >> Contorno del pelaje,False
+Animal Ear >> Outline,Animal Ear >> Outline,Orejas de animal >> Contorno,False
+Animal Ear <<,Animal Ear <<,Orejas de animal <<,False
+Animal Ear << Fur,Animal Ear << Fur,Orejas de animal << Pelaje,False
+Animal Ear << Fur Outline,Animal Ear << Fur Outline,Orejas de animal << Contorno del pelaje,False
+Animal Ear << Outline,Animal Ear << Outline,Orejas de animal << Contorno,False
 Antenna >>,Antenna >>,Antena >>,False
-Antenna >> Outline,Antenna >> Outline,Antena >> Esquema,False
+Antenna >> Outline,Antenna >> Outline,Antena >> Contorno,False
 Antenna <<,Antenna <<,Antena <<,False
-Antenna << Outline,Antenna << Outline,Antena << Esquema,False
-Hair Rear,Hair Rear,pelo trasero,False
-Hair Rear Outline,Hair Rear Outline,Contorno trasero del cabello,False
-Beverage Cup,Beverage Cup,Taza de bebida,False
-Beverage Liquid,Beverage Liquid,Bebida Líquida,False
-Beverage Liquid 2,Beverage Liquid 2,Bebida Líquida 2,False
-Bill,Bill,Factura,False
+Antenna << Outline,Antenna << Outline,Antena << Contorno,False
+Hair Rear,Hair Rear,Pelo trasero,False
+Hair Rear Outline,Hair Rear Outline,Contorno del pelo trasero,False
+Beverage Cup,Beverage Cup,Vaso de bebida,False
+Beverage Liquid,Beverage Liquid,Líquido del vaso,False
+Beverage Liquid 2,Beverage Liquid 2,Líquido del vaso 2,False
+Bill,Bill,Billetes,False
 Blanket Inner,Blanket Inner,Manta interior,False
 Blanket Outter,Blanket Outter,Manta exterior,False
-Face Blush,Face Blush,rubor facial,False
-Brow >>,Brow >>,frente >>,False
-Brow <<,Brow <<,Frente <<,False
-Chopstick,Chopstick,palillo,False
+Face Blush,Face Blush,Rubor,False
+Brow >>,Brow >>,Ceja >>,False
+Brow <<,Brow <<,Ceja <<,False
+Chopstick,Chopstick,Palillos,False
 Crowbar,Crowbar,Palanca,False
 Cup,Cup,Taza,False
-Cup Steam,Cup Steam,Taza de vapor,False
+Cup Steam,Cup Steam,Vapor de la taza,False
 Door/Wall,Door/Wall,Puerta/Pared,False
-Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,Pupila del ojo (tonta) >>,False
-Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Pupila ocular (tonta) <<,False
-Eyebag,Eyebag,bolsa para los ojos,False
-Eye Iris Dark >>,Eye Iris Dark >>,Ojo Iris Oscuro >>,False
-Eye Iris Dark <<,Eye Iris Dark <<,Ojo Iris Oscuro <<,False
-Eye Dollar,Eye Dollar,dólar ojo,False
-Eye Heart,Eye Heart,Ojo Corazón,False
-Eye Highlight,Eye Highlight,Resaltado de ojos,False
+Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,Pupila (tonta) >>,False
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Pupila (tonta) <<,False
+Eyebag,Eyebag,Ojeras,False
+Eye Iris Dark >>,Eye Iris Dark >>,Iris Oscuro >>,False
+Eye Iris Dark <<,Eye Iris Dark <<,Iris Oscuro <<,False
+Eye Dollar,Eye Dollar,Ojos de dinero,False
+Eye Heart,Eye Heart,Ojos de corazón,False
+Eye Highlight,Eye Highlight,Brillo del ojo,False
 Eyelashes,Eyelashes,Pestañas,False
-Eye Iris Light >>,Eye Iris Light >>,Luz del iris del ojo >>,False
-Eye Iris Light <<,Eye Iris Light <<,Luz del iris del ojo <<,False
+Eye Iris Light >>,Eye Iris Light >>,Brillo del iris >>,False
+Eye Iris Light <<,Eye Iris Light <<,Brillo del iris <<,False
 Eye(Dum) Outline,Eye(Dum) Outline,Contorno de ojo (tonto),False
-Eye Sparkling,Eye Sparkling,Ojo chispeante,False
-Eye Spiral,Eye Spiral,Espiral de ojos,False
-Eye White,Eye White,ojo blanco,False
-Face Shadow,Face Shadow,Sombra de cara,False
+Eye Sparkling,Eye Sparkling,Ojos chispeantes,False
+Eye Spiral,Eye Spiral,Espiral en los ojos,False
+Eye White,Eye White,Ojo blanco,False
+Face Shadow,Face Shadow,Sombra de la cara,False
 Fin >>,Fin >>,Aleta >>,False
-Fin >> Outline,Fin >> Outline,Aleta >> Esquema,False
+Fin >> Outline,Fin >> Outline,Aleta >> Contorno,False
 Fin <<,Fin <<,aleta <<,False
-Fin << Outline,Fin << Outline,Fin << Esquema,False
-Hair Framing >>,Hair Framing >>,Enmarcado del cabello >>,False
-Hair Framing >> Outline,Hair Framing >> Outline,Encuadre del cabello >> Contorno,False
-Hair Framing <<,Hair Framing <<,Enmarcado del cabello <<,False
-Hair Framing << Outline,Hair Framing << Outline,Encuadre del cabello << Contorno,False
+Fin << Outline,Fin << Outline,Fin << Contorno,False
+Hair Framing >>,Hair Framing >>,Mechón frontal >>,False
+Hair Framing >> Outline,Hair Framing >> Outline,Mechón frontal >> Contorno,False
+Hair Framing <<,Hair Framing <<,Mechón frontal <<,False
+Hair Framing << Outline,Hair Framing << Outline,Mechón frontal << Contorno,False
 Gill,Gill,Branquia,False
-Gill Outline,Gill Outline,Contorno branquial,False
+Gill Outline,Gill Outline,Contorno de la branquia,False
 Glasses,Glasses,Anteojos,False
 Hairband A,Hairband A,Diadema A,False
-Hairband A Outline,Hairband A Outline,Diadema A Contorno,False
+Hairband A Outline,Hairband A Outline,Contorno de Diadema A,False
 Hairband B,Hairband B,Diadema B,False
-Hairband B Outline,Hairband B Outline,Contorno de diadema B,False
+Hairband B Outline,Hairband B Outline,Contorno de Diadema B,False
 Hairband C,Hairband C,Diadema C,False
-Hairband C Outline,Hairband C Outline,Esquema de la diadema C,False
+Hairband C Outline,Hairband C Outline,Contorno de Diadema C,False
 Hairband D,Hairband D,Diadema D,False
-Hairband D Outline,Hairband D Outline,Diadema D Contorno,False
-Hair Bang >>,Hair Bang >>,Flequillo de pelo >>,False
-Hair Bang >> Outline,Hair Bang >> Outline,Flequillo de pelo >> Contorno,False
-Hair Bang ><,Hair Bang ><,Flequillo de pelo ><,False
-Hair Bang >< Outline,Hair Bang >< Outline,Flequillo de pelo >< Esquema,False
-Hair Bang <<,Hair Bang <<,Flequillo de pelo <<,False
-Hair Bang << Outline,Hair Bang << Outline,Flequillo de pelo << Contorno,False
+Hairband D Outline,Hairband D Outline,Contorno de Diadema D,False
+Hair Bang >>,Hair Bang >>,Flequillo >>,False
+Hair Bang >> Outline,Hair Bang >> Outline,Flequillo >> Contorno,False
+Hair Bang ><,Hair Bang ><,Flequillo ><,False
+Hair Bang >< Outline,Hair Bang >< Outline,Flequillo >< Contorno,False
+Hair Bang <<,Hair Bang <<,Flequillo <<,False
+Hair Bang << Outline,Hair Bang << Outline,Flequillo << Contorno,False
 Hair Clip >>,Hair Clip >>,Pinza para el pelo >>,False
 Hair Clip >> Outline,Hair Clip >> Outline,Pinza para el cabello >> Contorno,False
 Hair Clip <<,Hair Clip <<,Pinza para el pelo <<,False
 Hair Clip << Outline,Hair Clip << Outline,Pinza para el cabello << Contorno,False
-Hair Highlight 1 >>,Hair Highlight 1 >>,Destacado del cabello 1 >>,False
-Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Resaltado del cabello 1 >> Contorno,False
-Hair Highlight 2 >>,Hair Highlight 2 >>,Destacado del cabello 2 >>,False
-Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Destacado del cabello 2 >> Contorno,False
-Hair Highlight 3 >>,Hair Highlight 3 >>,Destacado del cabello 3 >>,False
-Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Resaltado del cabello 3 >> Contorno,False
-Hair Highlight 1 ><,Hair Highlight 1 ><,Destacado del cabello 1 ><,False
-Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Resaltado del cabello 1 >< Contorno,False
-Hair Highlight 2 ><,Hair Highlight 2 ><,Destacado del cabello 2 ><,False
-Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Resaltado del cabello 2 >< Contorno,False
+Hair Highlight 1 >>,Hair Highlight 1 >>,Mechas de cabello 1 >>,False
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Mechas de cabello 1 >> Contorno,False
+Hair Highlight 2 >>,Hair Highlight 2 >>,Mechas de cabello 2 >>,False
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Mechas de cabello 2 >> Contorno,False
+Hair Highlight 3 >>,Hair Highlight 3 >>,Mechas de cabello 3 >>,False
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Mechas de cabello 3 >> Contorno,False
+Hair Highlight 1 ><,Hair Highlight 1 ><,Mechas de cabello 1 ><,False
+Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Mechas de cabello 1 >< Contorno,False
+Hair Highlight 2 ><,Hair Highlight 2 ><,Mechas de cabello 2 ><,False
+Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Mechas de cabello 2 >< Contorno,False
 Hair Highlight 3 ><,Hair Highlight 3 ><,Destacado del cabello 3 ><,False
-Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Resaltado del cabello 3 >< Contorno,False
-Hair Highlight 4 ><,Hair Highlight 4 ><,Resaltado del cabello 4 ><,False
-Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Resaltado del cabello 4 >< Contorno,False
-Hair Highlight 5 ><,Hair Highlight 5 ><,Destacado del cabello 5 ><,False
-Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Resaltado del cabello 5 >< Contorno,False
-Hair Highlight 6 ><,Hair Highlight 6 ><,Destacado del cabello 6 ><,False
-Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Resaltado del cabello 6 >< Contorno,False
-Hair Highlight 1 <<,Hair Highlight 1 <<,Destacado del cabello 1 <<,False
-Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Resaltado del cabello 1 << Contorno,False
-Hair Highlight 2 <<,Hair Highlight 2 <<,Destacado del cabello 2 <<,False
-Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Resaltado del cabello 2 << Contorno,False
-Hair Highlight 3 <<,Hair Highlight 3 <<,Destacado del cabello 3 <<,False
-Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Resaltado del cabello 3 << Contorno,False
+Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Mechas de cabello 3 >< Contorno,False
+Hair Highlight 4 ><,Hair Highlight 4 ><,Mechas de cabello 4 ><,False
+Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Mechas de cabello 4 >< Contorno,False
+Hair Highlight 5 ><,Hair Highlight 5 ><,Mechas de cabello 5 ><,False
+Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Mechas de cabello 5 >< Contorno,False
+Hair Highlight 6 ><,Hair Highlight 6 ><,Mechas de cabello 6 ><,False
+Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Mechas de cabello 6 >< Contorno,False
+Hair Highlight 1 <<,Hair Highlight 1 <<,Mechas de cabello 1 <<,False
+Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Mechas de cabello 1 << Contorno,False
+Hair Highlight 2 <<,Hair Highlight 2 <<,Mechas de cabello 2 <<,False
+Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Mechas de cabello 2 << Contorno,False
+Hair Highlight 3 <<,Hair Highlight 3 <<,Mechas de cabello 3 <<,False
+Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Mechas de cabello 3 << Contorno,False
 Hairline Outline,Hairline Outline,Contorno de la rayita,False
 Hair Shine,Hair Shine,Brillo del cabello,False
-Hair Shine Outline,Hair Shine Outline,Contorno de brillo del cabello,False
+Hair Shine Outline,Hair Shine Outline,Contorno del brillo del cabello,False
 Halo,Halo,Halo,False
-Halo Outline,Halo Outline,Esquema de halo,False
+Halo Outline,Halo Outline,Contorno del halo,False
 Hat,Hat,Sombrero,False
 Hat Outline,Hat Outline,Contorno del sombrero,False
 Hat Secondary,Hat Secondary,Sombrero Secundario,False
-Hat Secondary Outline,Hat Secondary Outline,Esquema secundario del sombrero,False
+Hat Secondary Outline,Hat Secondary Outline,Contorno del sombrero secundario,False
 Hammer,Hammer,Martillo,False
 Ear Wing >>,Ear Wing >>,Ala de oreja >>,False
 Ear Wing >> Outline,Ear Wing >> Outline,Ala de oreja >> Contorno,False
 Ear Wing <<,Ear Wing <<,Ala de oreja <<,False
-Ear Wing << Outline,Ear Wing << Outline,Oreja << Contorno,False
+Ear Wing << Outline,Ear Wing << Outline,Ala de oreja << Contorno,False
 Heart,Heart,Corazón,False
 Horn >>,Horn >>,Cuerno >>,False
 Horn >> Outline,Horn >> Outline,Cuerno >> Contorno,False
 Horn <<,Horn <<,Cuerno <<,False
-Horn << Outline,Horn << Outline,Cuerno << Esquema,False
+Horn << Outline,Horn << Outline,Cuerno << Contorno,False
 Horn ><,Horn ><,Cuerno ><,False
-Horn >< Outline,Horn >< Outline,Cuerno >< Esquema,False
-Jail Grill,Jail Grill,Parrilla de la cárcel,False
+Horn >< Outline,Horn >< Outline,Cuerno >< Contorno,False
+Jail Grill,Jail Grill,Barrotes de la cárcel,False
 Keyboard,Keyboard,Teclado,False
 Kitchen Knife,Kitchen Knife,Cuchillo de cocina,False
 Laptop,Laptop,Computadora portátil,False
-Laptop Light,Laptop Light,Luz del ordenador portátil,False
+Laptop Light,Laptop Light,Luz de la computadora portátil,False
 Leg >>,Leg >>,Pierna >>,False
 Leg <<,Leg <<,Pierna <<,False
-Lightstick Handle,Lightstick Handle,Mango de barra de luz,False
-Light Stick >>,Light Stick >>,Palo de luz >>,False
-Light Stick <<,Light Stick <<,Palo de luz <<,False
-Mecha,Mecha,mecha,False
+Lightstick Handle,Lightstick Handle,Mango del Lightstick,False
+Light Stick >>,Light Stick >>,Lightstick >>,False
+Light Stick <<,Light Stick <<,Lightstick <<,False
+Mecha,Mecha,Mecha,False
 Mecha >>,Mecha >>,Mecha >>,False
-Mecha >> Outline,Mecha >> Outline,Mecha >> Esquema,False
-Mecha Outline,Mecha Outline,Esquema del mecha,False
+Mecha >> Outline,Mecha >> Outline,Mecha >> Contorno,False
+Mecha Outline,Mecha Outline,Contorno del mecha,False
 Mecha <<,Mecha <<,Mecha <<,False
-Mecha << Outline,Mecha << Outline,Mecha << Esquema,False
+Mecha << Outline,Mecha << Outline,Mecha << Contorno,False
 Mouse,Mouse,Ratón,False
 Mouth/Tongue,Mouth/Tongue,Boca/Lengua,False
 Mouth/Tongue Shadow,Mouth/Tongue Shadow,Sombra de boca/lengua,False
-Notepad,Notepad,Bloc,False
-Outfit Collar,Outfit Collar,Cuello del traje,False
-Outfit Collar Outline,Outfit Collar Outline,Contorno del cuello del traje,False
-Outfit Inner,Outfit Inner,Conjunto interior,False
-Outfit Inner Outline,Outfit Inner Outline,Contorno interior del atuendo,False
-Outfit Neckwear A,Outfit Neckwear A,Traje Corbatas A,False
-Outfit Neckwear A Outline,Outfit Neckwear A Outline,Traje Corbatas Un Esquema,False
-Outfit Neckwear B,Outfit Neckwear B,Conjunto Corbatas B,False
-Outfit Neckwear B Outline,Outfit Neckwear B Outline,Conjunto Corbatas B Contorno,False
-Outfit Neckwear C,Outfit Neckwear C,Conjunto Corbatas C,False
-Outfit Neckwear C Outline,Outfit Neckwear C Outline,Conjunto Corbatas Contorno C,False
+Notepad,Notepad,Bloc de notas,False
+Outfit Collar,Outfit Collar,Cuello del Outfit,False
+Outfit Collar Outline,Outfit Collar Outline,Contorno del cuello del Outfit,False
+Outfit Inner,Outfit Inner,Outfit interior,False
+Outfit Inner Outline,Outfit Inner Outline,Contorno del Outfit interior,False
+Outfit Neckwear A,Outfit Neckwear A,Accesorios de cuello A,False
+Outfit Neckwear A Outline,Outfit Neckwear A Outline,Contorno del accesorio de cuello A,False
+Outfit Neckwear B,Outfit Neckwear B,Accesorios de cuello B,False
+Outfit Neckwear B Outline,Outfit Neckwear B Outline,Contorno del accesorio de cuello B,False
+Outfit Neckwear C,Outfit Neckwear C,Accesorios de cuello C,False
+Outfit Neckwear C Outline,Outfit Neckwear C Outline,Contorno del accesorio de cuello C,False
 Outfit Outer,Outfit Outer,Traje exterior,False
-Outfit Outer Outline,Outfit Outer Outline,Contorno exterior del atuendo,False
+Outfit Outer Outline,Outfit Outer Outline,Contorno del traje exterior,False
 Pencil,Pencil,Lápiz,False
 Phone,Phone,Teléfono,False
 Phone Light,Phone Light,Luz del teléfono,False
@@ -159,35 +159,35 @@ Hair Pigtail >> Outline,Hair Pigtail >> Outline,Coleta de pelo >> Contorno,False
 Hair Pigtail <<,Hair Pigtail <<,Coleta de pelo <<,False
 Hair Pigtail << Outline,Hair Pigtail << Outline,Coleta de pelo << Contorno,False
 Rose,Rose,Rosa,False
-Round Sign,Round Sign,Signo redondo,False
-Round Sign Text,Round Sign Text,Texto de signo redondo,False
-Hair Side,Hair Side,Lado del cabello,False
-Hair Side Outline,Hair Side Outline,Contorno del lado del cabello,False
+Round Sign,Round Sign,Señal redonda,False
+Round Sign Text,Round Sign Text,Texto de la señal redonda,False
+Hair Side,Hair Side,Cabello de los lados trasero,False
+Hair Side Outline,Hair Side Outline,Contorno del cabello de los lados trasero,False
 Skin,Skin,Piel,False
 Skin Outline,Skin Outline,Contorno de la piel,False
-Square Sign,Square Sign,Signo cuadrado,False
-Square Sign Text,Square Sign Text,Texto de signo cuadrado,False
+Square Sign,Square Sign,Señal cuadrada,False
+Square Sign Text,Square Sign Text,Texto de la señal cuadrada,False
 Steering Wheel,Steering Wheel,Volante,False
-Gas Bottle,Gas Bottle,Botella de gas,False
-Pat Hand,Pat Hand,palmadita mano,False
-Sticker Alert,Sticker Alert,Alerta de pegatina,False
-Sticker Alert Effect,Sticker Alert Effect,Efecto de alerta de pegatina,False
-Sticker Alert Outline,Sticker Alert Outline,Esquema de alerta de pegatina,False
-Sticker Angry,Sticker Angry,Pegatina Enojado,False
-Sticker Exclamation Mark,Sticker Exclamation Mark,Vinilo Signo de exclamación,False
-Sticker Ghost,Sticker Ghost,Vinilo Fantasma,False
-Sticker Heart,Sticker Heart,Pegatina Corazón,False
-Sticker Laugh,Sticker Laugh,Pegatina Risa,False
-Sticker Question Mark,Sticker Question Mark,Pegatina Signo de interrogación,False
-Sticker Sleep,Sticker Sleep,Vinilo Dormir,False
-Sticker Star,Sticker Star,Pegatina Estrella,False
-Sticker Steam,Sticker Steam,Pegatina Vapor,False
-Sticker Surprise,Sticker Surprise,Pegatina Sorpresa,False
-Sticker Sweat,Sticker Sweat,Pegatina Sudor,False
-Sticker Sweat (Large),Sticker Sweat (Large),Pegatina Sudor (Grande),False
-Sticker Volume,Sticker Volume,Volumen de pegatinas,False
+Gas Bottle,Gas Bottle,Tanque de Copium,False
+Pat Hand,Pat Hand,Mano de la palmadita,False
+Sticker Alert,Sticker Alert,Color de la alerta,False
+Sticker Alert Effect,Sticker Alert Effect,Efecto de la alerta,False
+Sticker Alert Outline,Sticker Alert Outline,Contorno de la alerta,False
+Sticker Angry,Sticker Angry,Efecto enojado,False
+Sticker Exclamation Mark,Sticker Exclamation Mark,Signo de exclamación,False
+Sticker Ghost,Sticker Ghost,Efecto Fantasma,False
+Sticker Heart,Sticker Heart,Efecto Corazón,False
+Sticker Laugh,Sticker Laugh,Efecto Risa,False
+Sticker Question Mark,Sticker Question Mark,Signo de interrogación,False
+Sticker Sleep,Sticker Sleep,Efecto Dormir,False
+Sticker Star,Sticker Star,Efecto Estrella,False
+Sticker Steam,Sticker Steam,Efecto Vapor,False
+Sticker Surprise,Sticker Surprise,Efecto Sorpresa,False
+Sticker Sweat,Sticker Sweat,Gota de Sudor,False
+Sticker Sweat (Large),Sticker Sweat (Large),Gota de Sudor (Grande),False
+Sticker Volume,Sticker Volume,Efecto de Volumen,False
 Sticky Note,Sticky Note,Nota adhesiva,False
 Sticky Note Text,Sticky Note Text,Texto de nota adhesiva,False
-Eye Tear,Eye Tear,lágrima ocular,False
+Eye Tear,Eye Tear,Lágrima del ojo,False
 Utensil,Utensil,Utensilio,False
-Outfit Collar String,Outfit Collar String,Cordón del cuello del traje,False
+Outfit Collar String,Outfit Collar String,Cordón del cuello del Outfit,False
