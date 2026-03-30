@@ -1,100 +1,100 @@
-AnimationName,DisplayName,en,ko,de,hu,ru,es,ja,fr,zh-Hans,zh-Hant
-ANIM/Alert-Bits,Alert Bits,Alert Bits,경고 비트,Alert Bits,Figyelmeztető bitek,Биты оповещений,Alerta de Bits,ビッツアラート,Bits d'alerte,通知/提示 Bits,警報位
-ANIM/Alert-Donation,Alert Donation,Alert Donation,알림 기부,Alert Spende,Figyelmeztető adományozás,Оповещение о пожертвовании,Alerta de donación,寄付アラート,Alerte Don,通知/提示 硬币,警報捐贈
-ANIM/Alert-Heart,Alert Heart,Alert Heart,경고 심장,Alert Herz,Figyelmes szív,Бдительное сердце,Alerta de corazón,ハートアラート,Coeur d'alerte,通知/提示 爱心/喜欢,警惕之心
-ANIM/Alert-Like,Alert Like,Alert Like,좋아요 알림,Alert Like,Alert Like,Оповещение лайком,Alerta de Like,いいねアラート,Alerte J'aime,通知/提示 点赞,提醒喜歡
-ANIM/Alert-Star,Alert Star,Alert Star,경고 스타,Alert Stern,Figyelmeztető csillag,Тревога Звезда,Alerta de estrella,星アラート,Étoile d'alerte,通知/提示 星星/收藏,警報星
-ANIM/Angry,Angry,Angry,화난,Wütend,Dühös,Злой,Enojado,怒り顔,En colère,生气,生氣的
-ANIM/Arrive,Arrive,Arrive,도착하다,Ankommen,Megérkezik,Приезжать,Llegando,登場,Arriver,到达,到達
-ANIM/Arrive-Chopstick,Arrive (with Chopstick),Arrive (with Chopstick),도착(젓가락 사용),Ankommen (Essstäbchen),Érkezés (pálcikával),Прибытие (с палочками для еды),Llegando(con palillos),登場（箸）,Arriver (avec une baguette),到达(拿筷子),到達（用筷子）
-ANIM/Arrive-Spoon,Arrive (with Spoon),Arrive (with Spoon),도착 (스푼 포함),Ankommen (Löffel),Érkezés (kanállal),Прибытие (с ложкой),Llegando(con cuchara),登場（スプーン）,Arriver (avec une cuillère),到达(拿勺子),到達（用湯匙）
-ANIM/Bonk,Bonk,Bonk,봉크,Bonk,Bonk,Бонк,Bonk,ボンク,Bonk,敲头,邦克
-ANIM/Copium,Copium,Copium,코피움,Copium,Copium,Копиум,Copium,コピウム（現実逃避）,Copie,自我安慰,科皮姆
-ANIM/Crowbar-1,Crowbar 1,Crowbar 1,크로우바 1,Brecheisen 1,Vargavas 1,Лом 1,Palanca 1,バール1,Pied de biche 1,撬棍 1,撬棍1
-ANIM/Crowbar-2,Crowbar 2,Crowbar 2,크로우바 2,Brecheisen 2,Vargavas 2,Лом 2,Palanca 2,バール2,Pied de biche 2,撬棍 2,撬棍2
-ANIM/Crowbar-3,Crowbar 3,Crowbar 3,크로우바 3,Brecheisen 3,Vargavas 3,Лом 3,Palanca 3,バール3,Pied de biche 3,撬棍 3,撬棍3
-ANIM/Cry-1,Cry 1,Cry 1,울다 1,Weinen 1,Sírás 1,Плачь 1,Llorar 1,泣き顔1,Pleurer 1,哭 1,哭泣1
-ANIM/Cry-2,Cry 2,Cry 2,울다 2,Weinen 2,Sírás 2,Плачь 2,llorar 2,泣き顔2,Pleurer 2,哭 2,哭泣2
-ANIM/Cry-3,Cry 3,Cry 3,울다 3,Weinen 3,Sírás 3,Плачь 3,Llorar 3,泣き顔3,Pleurer 3,哭 3,哭泣3
-ANIM/Dead,Dead,Dead,죽은,Tot,Halott,Мертвый,Muerto,ダウン,Mort,死亡,死的
-ANIM/Dizzy,Dizzy,Dizzy,어지러운,Schwindlig,Szédül,Испытывающий головокружение,Mareado,目まわし,Vertigineux,头晕,暈眩的
-ANIM/Drink-BeverageCup,Drink (Beverage Cup),Drink (Beverage Cup),음료(음료컵),Getränk (Becher),Ital (italos csésze),Напиток (Чашка для напитков),Bebiendo (Vaso de bebida),ドリンク（カップ）,Boisson (tasse de boisson),喝(饮料杯),飲料（飲料杯）
-ANIM/Drive,Drive,Drive,운전하다,Fahren,Hajtás,Водить машину,Conduciendo,ドライブ,Conduire,驾驶,駕駛
-ANIM/Drooling-Chopstick,Drooling (Chopstick),Drooling (Chopstick),침흘림(젓가락),Sabbern (Essstäbchen),Nyálcsorgatás (evőpálcika),Слюни (Палочки для еды),Babeando (palillo),よだれ（箸）,Baver (baguette),馋(筷子),流口水（筷子）
-ANIM/Drooling-ForkKnife,Drooling (Fork&Knife),Drooling (Fork&Knife),침흘림(포크&나이프),Sabbern (Gabel&Messer),Nyálcsorgatás (villa és kés),Слюни (вилка и нож),Babeando (tenedor y cuchillo),よだれ（フォーク＆ナイフ）,Bave (Fourchette et Couteau),馋(刀叉),流口水（刀叉）
-ANIM/Dum-1,Dum 1,Dum 1,덤 1,Dum 1,Dum 1,Дум 1,Tonto 1,ほげ1,Doum 1,呆 1,達姆 1
-ANIM/Dum-2,Dum 2,Dum 2,덤 2,Dum 2,Dum 2,Дум 2,Tonto 2,ほげ2,Doum 2,呆 2,達姆2
-ANIM/Dum-3,Dum 3,Dum 3,덤 3,Dum 3,Dum 3,Дум 3,Tonto 3,ほげ3,Doum 3,呆 3,達姆3
-ANIM/Dum-Sticker-1,Dum Sticker 1,Dum Sticker 1,덤 스티커 1,Dum-Aufkleber 1,Dum matrica 1,Дум стикер 1,"Post-it ""Dumb"" 1",ほげステッカー1,Autocollant Dum 1,呆(贴纸) 1,達姆貼紙 1
-ANIM/Dum-Sticker-2,Dum Sticker 2,Dum Sticker 2,덤 스티커 2,Dum-Aufkleber 2,Dum matrica 2,Дум стикер 2,"Post-it ""Dumb"" 2",ほげステッカー2,Autocollant Dum 2,呆(贴纸) 2,達姆貼紙 2
-ANIM/Dum-Sticker-3,Dum Sticker 3,Dum Sticker 3,덤 스티커 3,Dum-Aufkleber 3,Dum matrica 3,Дум Стикер 3,"Post-it ""Dumb""3",ほげステッカー3,Autocollant Dum 3,呆(贴纸) 3,達姆貼紙 3
-ANIM/Exclamation,Exclamation,Exclamation,감탄,Ausrufezeichen,Felkiáltás,восклицательный знак,Exclamación,びっくり,Exclamation,叹号,驚嘆
-ANIM/Jail-1,Jail 1,Jail 1,감옥 1,Gefängnis 1,Börtön 1,Тюрьма 1,Cárcel 1,牢屋1,Prison 1,坐牢 1,監獄 1
-ANIM/Jail-2,Jail 2,Jail 2,감옥 2,Gefängnis 2,Börtön 2,Тюрьма 2,Cárcel 2,牢屋2,Prison 2,坐牢 2,監獄2
-ANIM/Knife-1,Knife 1,Knife 1,칼 1,Messer 1,Kés 1,Нож 1,Cuchillo 1,ナイフ1,Couteau 1,刀 1,刀1
-ANIM/Knife-2,Knife 2,Knife 2,칼 2,Messer 2,Kés 2,Нож 2,Cuchillo 2,ナイフ2,Couteau 2,刀 2,刀2
-ANIM/Laugh,Laugh,Laugh,웃다,Lachen,Nevetés,Смех,Riendo,笑い顔,Rire,笑,笑
-ANIM/Lick,Lick,Lick,핥다,Lecken,Nyalás,Лизать,Lamiendo,ぺろり,Lécher,舔舔,舔
-ANIM/Lightstick-1,Lightstick 1,Lightstick 1,응원봉 1,Leuchtstab 1,Lightstick 1,Лайтстик 1,Lightstick 1,ペンライト1,Bâton lumineux 1,荧光棒 1,螢光棒1
-ANIM/Lightstick-2,Lightstick 2,Lightstick 2,응원봉 2,Leuchtstab 2,Lightstick 2,Лайтстик 2,Lightstick 2,ペンライト2,Bâton lumineux 2,荧光棒 2,螢光棒2
-ANIM/Lurk-1,Lurk 1,Lurk 1,러크 1,Lurken 1,Lappangás 1,Скрываться 1,Lurkeo 1,ちらっ1,Cachez-vous 1,冒泡 1,潛伏1
-ANIM/Lurk-2,Lurk 2,Lurk 2,러크 2,Lurken 2,Lappangás 2,Скрываться 2,Lurkeo 2,ちらっ2,Cachez-vous 2,冒泡 2,潛伏2
-ANIM/Luv-1,Luv 1,Luv 1,러브 1,Liebe 1,Luv 1,любовь 1,Amor 1,ラブ1,Amour 1,爱心 1,愛1
-ANIM/Luv-2,Luv 2,Luv 2,러브 2,Liebe 2,Luv 2,любовь 2,Amor 2,ラブ2,Amour 2,爱心 2,愛2
-ANIM/Luv-3,Luv 3,Luv 3,러브 3,Liebe 3,Luv 3,любовь 3,Amor 3,ラブ3,Amour 3,爱心 3,愛3
-ANIM/Money,Money,Money,돈,Geld,Pénz,Деньги,Dinero,お金,Argent,钱,錢
-ANIM/Mute-1,Mute 1,Mute 1,음소거 1,Stumm 1,Némítás 1,Отключить звук 1,Muteado 1,ミュート1,Muet 1,静音 1,靜音1
-ANIM/Mute-2,Mute 2,Mute 2,음소거 2,Stumm 2,Némítás 2,Без звука 2,Muteado 2,ミュート2,Muet 2,静音 2,靜音2
-ANIM/Nervous-1,Nervous 1,Nervous 1,긴장 1,Nervös 1,Ideges 1,Нервный 1,Nervioso 1,ドキドキ1,Nerveux 1,紧张 1,緊張1
-ANIM/Nervous-2,Nervous 2,Nervous 2,긴장 2,Nervös 2,Ideges 2,Нервный 2,Nervioso 2,ドキドキ2,Nerveux 2,紧张 2,緊張2
-ANIM/Noted-1,Noted 1,Noted 1,주목 1,Notiz 1,Megjegyezte 1,Отмечено 1,Anotando 1,了解1,Noté 1,记录 1,註 1
-ANIM/Noted-2,Noted 2,Noted 2,주목2,Notiz 2,Megjegyezte 2,Отмечено 2,Anotando 2,了解2,Noté 2,记录 2,註2
-ANIM/Pat,Pat,Pat,가볍게 두드리기,Streicheln,Pat,Пэт,Palmadita,なでなで,Tapoter,摸头,拍
-ANIM/Point,Point,Point,가리키다,Zeigen,Pont,Точка,Apuntar,指さし,Indiquer,指,觀點
-ANIM/Question,Question,Question,질문,Frage,Kérdés,Вопрос,Pregunta,はてな,Question,问号,問題
-ANIM/Raid-1,Raid 1,Raid 1,레이드 1,Raid 1,Raid 1,Рейд 1,Raid 1,レイド1,Raid 1,Raid 1,突襲1
-ANIM/Raid-2,Raid 2,Raid 2,레이드 2,Raid 2,Raid 2,Рейд 2,Raid 2,レイド2,Raid 2,Raid 2,突襲2
-ANIM/RedPacket-1,RedPacket 1,RedPacket 1,레드패킷 1,Glücksumschlag 1,RedPacket 1,РедПакет 1,Sobre rojo 1,お年玉1,Paquet rouge 1,红包 1,紅包1
-ANIM/RedPacket-2,RedPacket 2,RedPacket 2,레드패킷 2,Glücksumschlag 2,RedPacket 2,РедПакет 2,Sobre rojo 2,お年玉2,Paquet rouge 2,红包 2,紅包2
-ANIM/Rose,Rose,Rose,장미,Rose,Rózsa,Роза,Rosa,バラ,Rose,玫瑰,玫瑰
-ANIM/Score-0Point,Score (0 Point),Score (0 Point),점수(0점),Punkte (0),Pontszám (0 pont),Оценка (0 очков),Puntuación (0 puntos),採点（0点）,Score (0 point),得分(0分),得分（0 分）
-ANIM/Score-10Point,Score (10 Point),Score (10 Point),점수(10점),Punkte (10),Pontszám (10 pont),Оценка (10 баллов),Puntuación (10 puntos),採点（10点）,Score (10 points),得分(10分),得分（10 分）
-ANIM/Shy-1,Shy 1,Shy 1,수줍음 1,Schüchtern 1,Félénk 1,Застенчивый 1,Tímido 1,照れ顔1,Timide 1,害羞 1,害羞1
-ANIM/Shy-2,Shy 2,Shy 2,수줍음 2,Schüchtern 2,Félénk 2,Застенчивый 2,Tímido 2,照れ顔2,Timide 2,害羞 2,害羞2
-ANIM/Sleep-Normal,Sleep (Normal),Sleep (Normal),수면(일반),Schlaf (Normal),Alvás (normál),Сон (нормальный),Dormir (Normal),寝る（通常）,Sommeil (normal),睡觉(普通),睡眠（正常）
-ANIM/Sleep-Preparing-Stage1,Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),수면(1단계 준비),Schlaf (Vorbereitung 1),Alvás (1. előkészítési szakasz),Сон (подготовительный этап 1),Dormir (Preparación 1),寝る（準備1）,Sommeil (étape de préparation 1),睡觉(准备阶段1),睡眠（準備階段 1）
-ANIM/Sleep-Preparing-Stage2,Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),수면(2단계 준비),Schlaf (Vorbereitung 2),Alvás (2. előkészítési szakasz),Сон (подготовительный этап 2),Dormir (Preparación 2),寝る（準備2）,Sommeil (étape de préparation 2),睡觉(准备阶段2),睡眠（準備階段 2）
-ANIM/Sleep-UU,Sleep (UU),Sleep (UU),수면(UU),Schlaf (UU),Alvás (UU),Сон (УУ),Dormir (UU),寝る（すやすや）,Sommeil (UU),睡觉 (UU),睡眠（UU）
-ANIM/Sparkling,Sparkling,Sparkling,스파클링,Funkeln,Szikrázó,Игристый,Centelleante,キラキラ,Pétillant,期待,閃閃發光
-ANIM/Surprise,Surprise,Surprise,놀라다,Überraschung,Meglepetés,Сюрприз,Sorpresa,びっくり顔,Surprendre,惊吓,驚喜
-ANIM/Sweat,Sweat,Sweat,땀,Schweiß,Izzad,Пот,Sudor,冷や汗,Transpirer,汗,汗
-ANIM/ThumbDown,Thumb Down,Thumb Down,아래로 엄지손가락,Daumen runter,Lefelé hüvelykujj,Большой палец вниз,Pulgar hacia abajo,よくないね,Pouce vers le bas,反向点赞,拇指向下
-ANIM/ThumbUp,Thumb Up,Thumb Up,엄지손가락을 위로,Daumen hoch,Menj fel,Большой палец вверх,Pulgar hacia arriba,いいね,Pouce vers le haut,点赞,豎起大拇指
-ANIM/Type-Angry,Type Angry,Type Angry,화난 유형,Tippen Wütend,Írd be: Dühös,Тип Злой,Escribiendo enojado,タイピング（怒り）,Tapez en colère,打字(生气),類型憤怒
-ANIM/Type-Annoyed,Type Annoyed,Type Annoyed,짜증나는 유형,Tippen Genervt,Típus Bosszús,Тип Раздраженный,Escribiendo molesto,タイピング（イライラ）,Type Ennuyé,打字(恼怒),類型惱怒
-ANIM/Type-Normal,Type Normal,Type Normal,유형 일반,Tippen Normal,Normál típus,Тип Нормальный,Escribiendo normal,タイピング（通常）,Type Normal,打字(普通),類型 正常
-ANIM/Work-Angry,Work Angry,Work Angry,화가 나서 일하다,Arbeit Wütend,Work Angry,Работа Злой,Trabajando enojado,作業（怒り）,Travailler en colère,工作(生气),憤怒地工作
-ANIM/Work-Nap,Work Nap,Work Nap,일하다 낮잠,Arbeit Nickerchen,Munkaszünet,Рабочий сон,Dormido trabajando,作業（居眠り）,Sieste de travail,工作(小睡),工作午睡
-ANIM/Work-Normal,Work Normal,Work Normal,정상근무,Arbeit Normal,Normál munkavégzés,Работает нормально,Trabajando Normal,作業（通常）,Travail normal,工作(普通),工作正常
-ANIM/Work-Tired,Work Tired,Work Tired,일하다 피곤하다,Arbeit Müde,Munka fáradt,Усталость от работы,Trabajando cansado,作業（疲れ）,Travailler fatigué,工作(疲倦),工作累
-ANIM/Bell,Bell,Bell,벨,Glocke,Harang,Белл,Campana,ベル,Cloche,摇铃,鐘
-ANIM/Cake,Cake,Cake,케이크,Kuchen,Torta,Торт,Pastel,ケーキ,Gâteau,蛋糕,蛋糕
-ANIM/Caught-Phone,Caught in 4K (Phone),Caught in 4K (Phone),4K에 포착됨(전화),Gefangen in 4K (Telefon),4K-ban rögzítve (telefon),Снято в 4K (телефон),Captado en 4K (teléfono),4K で撮影 (携帯電話),Pris en 4K (téléphone),抓拍(手机),陷入 4K 困境（手機）
-ANIM/Caught-VideoCamera,Caught in 4K (Video Camera),Caught in 4K (Video Camera),4K로 포착(비디오 카메라),Aufgenommen in 4K (Videokamera),4K-ban rögzítve (videokamera),Снято в 4K (видеокамера),Captado en 4K (cámara de vídeo),4K（ビデオカメラ）で撮影,Pris en 4K (caméra vidéo),抓拍(摄像机),4K 捕捉（攝影機）
-ANIM/Celebration,Celebration,Celebration,축하,Feier,Ünneplés,Праздник,Celebración,お祝い,Célébration,庆祝,慶典
-ANIM/Head-Nod,Head Nod,Head Nod,고개 끄덕임,Kopfnicken,Fej bólint,кивок головой,Asentir con la cabeza,うなずく,Hochement de tête,点头,點點頭
-ANIM/Head-Shake,Head Shake,Head Shake,머리 흔들기,Kopfschütteln,Fej rázza,покачивание головой,Sacudir la cabeza,首を振る,Secousse de tête,摇头,搖頭
-ANIM/Hypnosis,Hypnosis,Hypnosis,최면,Hypnose,Hipnózis,Гипноз,Hipnosis,催眠術,Hypnose,催眠,催眠
-ANIM/Laugh-Point,Laugh (Point),Laugh (Point),웃음(포인트),Lachen (Punkt),Nevetés (pont),Смейся (Точка),Reír (punto),笑い（ポイント）,Rire (pointer),笑(指),笑（點）
-ANIM/LoveLetter,Love Letter,Love Letter,연애 편지,Liebesbrief,Szerelmeslevél,Любовное письмо,carta de amor,ラブレター,Lettre d'amour,情书,情書
-ANIM/NeedFood,Need Food,Need Food,음식이 필요해,Brauchen Sie Essen,Élelmiszer kell,Нужна еда,Necesito comida,食べ物が必要です,Besoin de nourriture,要米,需要食物
-ANIM/PNGTuber-Idle,PNGTuber Idle,PNGTuber Idle,PNGTuber 유휴 상태,PNGTuber im Leerlauf,PNGTuber Idle,PNGТубер бездействующий,PNGTuber inactivo,PNGTuberアイドル,PNGTuber inactif,PNGTuber 闲置,PNGTuber 閒置
-ANIM/PNGTuber-Idle2,PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber 유휴 2,PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber inactivo 2,PNGTuber アイドル 2,PNGTuber Inactif 2,PNGTuber 闲置 2,PNGTuber 空閒 2
-ANIM/PNGTuber-Talk,PNGTuber Talk,PNGTuber Talk,PNGTuber 토크,PNGTuber-Talk,PNGTuber Talk,PNGTuber Talk,Charla de Tuber,PNGTuber トーク,Discussion sur les tubercules PNG,PNGTuber 说话,PNGTuber 談話
-ANIM/PNGTuber-Talk2,PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber 토크 2,PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber Talk 2,Charla de Tuber 2,PNGTuber トーク 2,PNGTuber Discussion 2,PNGTuber 说话 2,PNGTuber 談話 2
-ANIM/PNGTuber-Yap,PNGTuber Yap,PNGTuber Yap,PNGTuber 얍,PNGTuber Yap,PNGTuber Yap,PNGТубер Яп,PNGTuber Yap,PNGチューバー ヤップ,PNGTuber Yap,PNGTuber 说教,PNGTuber 雅普
-ANIM/Popcat-Frame,Popcat Frame,Popcat Frame,팝캣 프레임,Popcat-Rahmen,Popcat keret,Попкэт Рамка,Marco de gato pop,ポップキャットフレーム,Cadre Popcat,Popcat 帧,流行貓框架
-ANIM/Popcat-Smooth,Popcat Smooth,Popcat Smooth,팝캣 스무스,Popcat glatt,Popcat Smooth,Попкэт Гладкий,Gato suave,ポップキャットスムーズ,Popcat Lisse,Popcat 平滑,Popcat 光滑
-ANIM/Sing,Sing,Sing,노래하다,Singen,Énekel,Петь,Cantar,歌う,Chanter,唱歌,唱歌
-ANIM/Tablet,Tablet,Tablet,태블릿,Tablette,Tabletta,Таблетка,Tableta,錠剤,Comprimé,画板,藥片
-ANIM/TailWag,Tail Wag,Tail Wag,꼬리 흔들기,Schwanzwedeln,Tail Wag,Виляние хвостом,Meneo de cola,テールワグ,Remuer la queue,雨刮器尾巴,尾巴搖擺
+AnimationName,DisplayName,en,zh-Hans,hu,es,ja,ru,zh-Hant,fr,de,ko
+ANIM/Alert-Bits,Alert Bits,Alert Bits,通知/提示 Bits,Figyelmeztető bitek,Alerta de Bits,ビッツアラート,Биты оповещений,通知/提示 Bits,Bits d'alerte,Alert Bits,경고 비트
+ANIM/Alert-Donation,Alert Donation,Alert Donation,通知/提示 硬币,Figyelmeztető adományozás,Alerta de donación,寄付アラート,Оповещение о пожертвовании,通知/提示 硬幣,Alerte Don,Alert Spende,알림 기부
+ANIM/Alert-Heart,Alert Heart,Alert Heart,通知/提示 爱心/喜欢,Figyelmes szív,Alerta de corazón,ハートアラート,Бдительное сердце,通知/提示 愛心/喜歡,Coeur d'alerte,Alert Herz,경고 심장
+ANIM/Alert-Like,Alert Like,Alert Like,通知/提示 点赞,Alert Like,Alerta de Like,いいねアラート,Оповещение лайком,通知/提示 點贊,Alerte J'aime,Alert Like,좋아요 알림
+ANIM/Alert-Star,Alert Star,Alert Star,通知/提示 星星/收藏,Figyelmeztető csillag,Alerta de estrella,星アラート,Тревога Звезда,通知/提示 星星/收藏,Étoile d'alerte,Alert Stern,경고 스타
+ANIM/Angry,Angry,Angry,生气,Dühös,Enojado,怒り顔,Злой,生氣,En colère,Wütend,화난
+ANIM/Arrive,Arrive,Arrive,到达,Megérkezik,Llegando,登場,Приезжать,到達,Arriver,Ankommen,도착하다
+ANIM/Arrive-Chopstick,Arrive (with Chopstick),Arrive (with Chopstick),到达(拿筷子),Érkezés (pálcikával),Llegando(con palillos),登場（箸）,Прибытие (с палочками для еды),到達(拿筷子),Arriver (avec une baguette),Ankommen (Essstäbchen),도착(젓가락 사용)
+ANIM/Arrive-Spoon,Arrive (with Spoon),Arrive (with Spoon),到达(拿勺子),Érkezés (kanállal),Llegando(con cuchara),登場（スプーン）,Прибытие (с ложкой),到達(拿勺子),Arriver (avec une cuillère),Ankommen (Löffel),도착 (스푼 포함)
+ANIM/Bonk,Bonk,Bonk,敲头,Bonk,Bonk,ボンク,Бонк,敲頭,Bonk,Bonk,봉크
+ANIM/Copium,Copium,Copium,自我安慰,Copium,Copium,コピウム（現実逃避）,Копиум,自我安慰,Copie,Copium,코피움
+ANIM/Crowbar-1,Crowbar 1,Crowbar 1,撬棍 1,Vargavas 1,Palanca 1,バール1,Лом 1,撬棍 1,Pied de biche 1,Brecheisen 1,크로우바 1
+ANIM/Crowbar-2,Crowbar 2,Crowbar 2,撬棍 2,Vargavas 2,Palanca 2,バール2,Лом 2,撬棍 2,Pied de biche 2,Brecheisen 2,크로우바 2
+ANIM/Crowbar-3,Crowbar 3,Crowbar 3,撬棍 3,Vargavas 3,Palanca 3,バール3,Лом 3,撬棍 3,Pied de biche 3,Brecheisen 3,크로우바 3
+ANIM/Cry-1,Cry 1,Cry 1,哭 1,Sírás 1,Llorar 1,泣き顔1,Плачь 1,哭 1,Pleurer 1,Weinen 1,울다 1
+ANIM/Cry-2,Cry 2,Cry 2,哭 2,Sírás 2,llorar 2,泣き顔2,Плачь 2,哭 2,Pleurer 2,Weinen 2,울다 2
+ANIM/Cry-3,Cry 3,Cry 3,哭 3,Sírás 3,Llorar 3,泣き顔3,Плачь 3,哭 3,Pleurer 3,Weinen 3,울다 3
+ANIM/Dead,Dead,Dead,死亡,Halott,Muerto,ダウン,Мертвый,死亡,Mort,Tot,죽은
+ANIM/Dizzy,Dizzy,Dizzy,头晕,Szédül,Mareado,目まわし,Испытывающий головокружение,頭暈,Vertigineux,Schwindlig,어지러운
+ANIM/Drink-BeverageCup,Drink (Beverage Cup),Drink (Beverage Cup),喝(饮料杯),Ital (italos csésze),Bebiendo (Vaso de bebida),ドリンク（カップ）,Напиток (Чашка для напитков),喝(飲料杯),Boisson (tasse de boisson),Getränk (Becher),음료(음료컵)
+ANIM/Drive,Drive,Drive,驾驶,Hajtás,Conduciendo,ドライブ,Водить машину,駕駛,Conduire,Fahren,운전하다
+ANIM/Drooling-Chopstick,Drooling (Chopstick),Drooling (Chopstick),馋(筷子),Nyálcsorgatás (evőpálcika),Babeando (palillo),よだれ（箸）,Слюни (Палочки для еды),饞(筷子),Baver (baguette),Sabbern (Essstäbchen),침흘림(젓가락)
+ANIM/Drooling-ForkKnife,Drooling (Fork&Knife),Drooling (Fork&Knife),馋(刀叉),Nyálcsorgatás (villa és kés),Babeando (tenedor y cuchillo),よだれ（フォーク＆ナイフ）,Слюни (вилка и нож),饞(刀叉),Bave (Fourchette et Couteau),Sabbern (Gabel&Messer),침흘림(포크&나이프)
+ANIM/Dum-1,Dum 1,Dum 1,呆 1,Dum 1,Tonto 1,ほげ1,Дум 1,呆 1,Doum 1,Dum 1,덤 1
+ANIM/Dum-2,Dum 2,Dum 2,呆 2,Dum 2,Tonto 2,ほげ2,Дум 2,呆 2,Doum 2,Dum 2,덤 2
+ANIM/Dum-3,Dum 3,Dum 3,呆 3,Dum 3,Tonto 3,ほげ3,Дум 3,呆 3,Doum 3,Dum 3,덤 3
+ANIM/Dum-Sticker-1,Dum Sticker 1,Dum Sticker 1,呆(贴纸) 1,Dum matrica 1,"Post-it ""Dumb"" 1",ほげステッカー1,Дум стикер 1,呆(貼紙) 1,Autocollant Dum 1,Dum-Aufkleber 1,덤 스티커 1
+ANIM/Dum-Sticker-2,Dum Sticker 2,Dum Sticker 2,呆(贴纸) 2,Dum matrica 2,"Post-it ""Dumb"" 2",ほげステッカー2,Дум стикер 2,呆(貼紙) 2,Autocollant Dum 2,Dum-Aufkleber 2,덤 스티커 2
+ANIM/Dum-Sticker-3,Dum Sticker 3,Dum Sticker 3,呆(贴纸) 3,Dum matrica 3,"Post-it ""Dumb""3",ほげステッカー3,Дум Стикер 3,呆(貼紙) 3,Autocollant Dum 3,Dum-Aufkleber 3,덤 스티커 3
+ANIM/Exclamation,Exclamation,Exclamation,叹号,Felkiáltás,Exclamación,びっくり,восклицательный знак,歎號,Exclamation,Ausrufezeichen,감탄
+ANIM/Jail-1,Jail 1,Jail 1,坐牢 1,Börtön 1,Cárcel 1,牢屋1,Тюрьма 1,坐牢 1,Prison 1,Gefängnis 1,감옥 1
+ANIM/Jail-2,Jail 2,Jail 2,坐牢 2,Börtön 2,Cárcel 2,牢屋2,Тюрьма 2,坐牢 2,Prison 2,Gefängnis 2,감옥 2
+ANIM/Knife-1,Knife 1,Knife 1,刀 1,Kés 1,Cuchillo 1,ナイフ1,Нож 1,刀 1,Couteau 1,Messer 1,칼 1
+ANIM/Knife-2,Knife 2,Knife 2,刀 2,Kés 2,Cuchillo 2,ナイフ2,Нож 2,刀 2,Couteau 2,Messer 2,칼 2
+ANIM/Laugh,Laugh,Laugh,笑,Nevetés,Riendo,笑い顔,Смех,笑,Rire,Lachen,웃다
+ANIM/Lick,Lick,Lick,舔舔,Nyalás,Lamiendo,ぺろり,Лизать,舔舔,Lécher,Lecken,핥다
+ANIM/Lightstick-1,Lightstick 1,Lightstick 1,荧光棒 1,Lightstick 1,Lightstick 1,ペンライト1,Лайтстик 1,熒光棒 1,Bâton lumineux 1,Leuchtstab 1,응원봉 1
+ANIM/Lightstick-2,Lightstick 2,Lightstick 2,荧光棒 2,Lightstick 2,Lightstick 2,ペンライト2,Лайтстик 2,熒光棒 2,Bâton lumineux 2,Leuchtstab 2,응원봉 2
+ANIM/Lurk-1,Lurk 1,Lurk 1,冒泡 1,Lappangás 1,Lurkeo 1,ちらっ1,Скрываться 1,冒泡 1,Cachez-vous 1,Lurken 1,러크 1
+ANIM/Lurk-2,Lurk 2,Lurk 2,冒泡 2,Lappangás 2,Lurkeo 2,ちらっ2,Скрываться 2,冒泡 2,Cachez-vous 2,Lurken 2,러크 2
+ANIM/Luv-1,Luv 1,Luv 1,爱心 1,Luv 1,Amor 1,ラブ1,любовь 1,愛心 1,Amour 1,Liebe 1,러브 1
+ANIM/Luv-2,Luv 2,Luv 2,爱心 2,Luv 2,Amor 2,ラブ2,любовь 2,愛心 2,Amour 2,Liebe 2,러브 2
+ANIM/Luv-3,Luv 3,Luv 3,爱心 3,Luv 3,Amor 3,ラブ3,любовь 3,愛心 3,Amour 3,Liebe 3,러브 3
+ANIM/Money,Money,Money,钱,Pénz,Dinero,お金,Деньги,錢,Argent,Geld,돈
+ANIM/Mute-1,Mute 1,Mute 1,静音 1,Némítás 1,Muteado 1,ミュート1,Отключить звук 1,靜音 1,Muet 1,Stumm 1,음소거 1
+ANIM/Mute-2,Mute 2,Mute 2,静音 2,Némítás 2,Muteado 2,ミュート2,Без звука 2,靜音 2,Muet 2,Stumm 2,음소거 2
+ANIM/Nervous-1,Nervous 1,Nervous 1,紧张 1,Ideges 1,Nervioso 1,ドキドキ1,Нервный 1,緊張 1,Nerveux 1,Nervös 1,긴장 1
+ANIM/Nervous-2,Nervous 2,Nervous 2,紧张 2,Ideges 2,Nervioso 2,ドキドキ2,Нервный 2,緊張 2,Nerveux 2,Nervös 2,긴장 2
+ANIM/Noted-1,Noted 1,Noted 1,记录 1,Megjegyezte 1,Anotando 1,了解1,Отмечено 1,記錄 1,Noté 1,Notiz 1,주목 1
+ANIM/Noted-2,Noted 2,Noted 2,记录 2,Megjegyezte 2,Anotando 2,了解2,Отмечено 2,記錄 2,Noté 2,Notiz 2,주목2
+ANIM/Pat,Pat,Pat,摸头,Pat,Palmadita,なでなで,Пэт,摸頭,Tapoter,Streicheln,가볍게 두드리기
+ANIM/Point,Point,Point,指,Pont,Apuntar,指さし,Точка,指,Indiquer,Zeigen,가리키다
+ANIM/Question,Question,Question,问号,Kérdés,Pregunta,はてな,Вопрос,問號,Question,Frage,질문
+ANIM/Raid-1,Raid 1,Raid 1,Raid 1,Raid 1,Raid 1,レイド1,Рейд 1,Raid 1,Raid 1,Raid 1,레이드 1
+ANIM/Raid-2,Raid 2,Raid 2,Raid 2,Raid 2,Raid 2,レイド2,Рейд 2,Raid 2,Raid 2,Raid 2,레이드 2
+ANIM/RedPacket-1,RedPacket 1,RedPacket 1,红包 1,RedPacket 1,Sobre rojo 1,お年玉1,РедПакет 1,紅包 1,Paquet rouge 1,Glücksumschlag 1,레드패킷 1
+ANIM/RedPacket-2,RedPacket 2,RedPacket 2,红包 2,RedPacket 2,Sobre rojo 2,お年玉2,РедПакет 2,紅包 2,Paquet rouge 2,Glücksumschlag 2,레드패킷 2
+ANIM/Rose,Rose,Rose,玫瑰,Rózsa,Rosa,バラ,Роза,玫瑰,Rose,Rose,장미
+ANIM/Score-0Point,Score (0 Point),Score (0 Point),得分(0分),Pontszám (0 pont),Puntuación (0 puntos),採点（0点）,Оценка (0 очков),得分(0分),Score (0 point),Punkte (0),점수(0점)
+ANIM/Score-10Point,Score (10 Point),Score (10 Point),得分(10分),Pontszám (10 pont),Puntuación (10 puntos),採点（10点）,Оценка (10 баллов),得分(10分),Score (10 points),Punkte (10),점수(10점)
+ANIM/Shy-1,Shy 1,Shy 1,害羞 1,Félénk 1,Tímido 1,照れ顔1,Застенчивый 1,害羞 1,Timide 1,Schüchtern 1,수줍음 1
+ANIM/Shy-2,Shy 2,Shy 2,害羞 2,Félénk 2,Tímido 2,照れ顔2,Застенчивый 2,害羞 2,Timide 2,Schüchtern 2,수줍음 2
+ANIM/Sleep-Normal,Sleep (Normal),Sleep (Normal),睡觉(普通),Alvás (normál),Dormir (Normal),寝る（通常）,Сон (нормальный),睡覺(普通),Sommeil (normal),Schlaf (Normal),수면(일반)
+ANIM/Sleep-Preparing-Stage1,Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),睡觉(准备阶段1),Alvás (1. előkészítési szakasz),Dormir (Preparación 1),寝る（準備1）,Сон (подготовительный этап 1),睡覺(準備階段1),Sommeil (étape de préparation 1),Schlaf (Vorbereitung 1),수면(1단계 준비)
+ANIM/Sleep-Preparing-Stage2,Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),睡觉(准备阶段2),Alvás (2. előkészítési szakasz),Dormir (Preparación 2),寝る（準備2）,Сон (подготовительный этап 2),睡覺(準備階段2),Sommeil (étape de préparation 2),Schlaf (Vorbereitung 2),수면(2단계 준비)
+ANIM/Sleep-UU,Sleep (UU),Sleep (UU),睡觉 (UU),Alvás (UU),Dormir (UU),寝る（すやすや）,Сон (УУ),睡覺 (UU),Sommeil (UU),Schlaf (UU),수면(UU)
+ANIM/Sparkling,Sparkling,Sparkling,期待,Szikrázó,Centelleante,キラキラ,Игристый,期待,Pétillant,Funkeln,스파클링
+ANIM/Surprise,Surprise,Surprise,惊吓,Meglepetés,Sorpresa,びっくり顔,Сюрприз,驚嚇,Surprendre,Überraschung,놀라다
+ANIM/Sweat,Sweat,Sweat,汗,Izzad,Sudor,冷や汗,Пот,汗,Transpirer,Schweiß,땀
+ANIM/ThumbDown,Thumb Down,Thumb Down,反向点赞,Lefelé hüvelykujj,Pulgar hacia abajo,よくないね,Большой палец вниз,反向點贊,Pouce vers le bas,Daumen runter,아래로 엄지손가락
+ANIM/ThumbUp,Thumb Up,Thumb Up,点赞,Menj fel,Pulgar hacia arriba,いいね,Большой палец вверх,點贊,Pouce vers le haut,Daumen hoch,엄지손가락을 위로
+ANIM/Type-Angry,Type Angry,Type Angry,打字(生气),Írd be: Dühös,Escribiendo enojado,タイピング（怒り）,Тип Злой,打字(生氣),Tapez en colère,Tippen Wütend,화난 유형
+ANIM/Type-Annoyed,Type Annoyed,Type Annoyed,打字(恼怒),Típus Bosszús,Escribiendo molesto,タイピング（イライラ）,Тип Раздраженный,打字(惱怒),Type Ennuyé,Tippen Genervt,짜증나는 유형
+ANIM/Type-Normal,Type Normal,Type Normal,打字(普通),Normál típus,Escribiendo normal,タイピング（通常）,Тип Нормальный,打字(普通),Type Normal,Tippen Normal,유형 일반
+ANIM/Work-Angry,Work Angry,Work Angry,工作(生气),Work Angry,Trabajando enojado,作業（怒り）,Работа Злой,工作(生氣),Travailler en colère,Arbeit Wütend,화가 나서 일하다
+ANIM/Work-Nap,Work Nap,Work Nap,工作(小睡),Munkaszünet,Dormido trabajando,作業（居眠り）,Рабочий сон,工作(小睡),Sieste de travail,Arbeit Nickerchen,일하다 낮잠
+ANIM/Work-Normal,Work Normal,Work Normal,工作(普通),Normál munkavégzés,Trabajando Normal,作業（通常）,Работает нормально,工作(普通),Travail normal,Arbeit Normal,정상근무
+ANIM/Work-Tired,Work Tired,Work Tired,工作(疲倦),Munka fáradt,Trabajando cansado,作業（疲れ）,Усталость от работы,工作(疲倦),Travailler fatigué,Arbeit Müde,일하다 피곤하다
+ANIM/Bell,Bell,Bell,摇铃,Harang,Campana,ベル,Белл,搖鈴,Cloche,Glocke,벨
+ANIM/Cake,Cake,Cake,蛋糕,Torta,Pastel,ケーキ,Торт,蛋糕,Gâteau,Kuchen,케이크
+ANIM/Caught-Phone,Caught in 4K (Phone),Caught in 4K (Phone),抓拍(手机),4K-ban rögzítve (telefon),Captado en 4K (teléfono),4K で撮影 (携帯電話),Снято в 4K (телефон),抓拍(手機),Pris en 4K (téléphone),Gefangen in 4K (Telefon),4K에 포착됨(전화)
+ANIM/Caught-VideoCamera,Caught in 4K (Video Camera),Caught in 4K (Video Camera),抓拍(摄像机),4K-ban rögzítve (videokamera),Captado en 4K (cámara de vídeo),4K（ビデオカメラ）で撮影,Снято в 4K (видеокамера),抓拍(攝像機),Pris en 4K (caméra vidéo),Aufgenommen in 4K (Videokamera),4K로 포착(비디오 카메라)
+ANIM/Celebration,Celebration,Celebration,庆祝,Ünneplés,Celebración,お祝い,Праздник,慶祝,Célébration,Feier,축하
+ANIM/Head-Nod,Head Nod,Head Nod,点头,Fej bólint,Asentir con la cabeza,うなずく,кивок головой,點頭,Hochement de tête,Kopfnicken,고개 끄덕임
+ANIM/Head-Shake,Head Shake,Head Shake,摇头,Fej rázza,Sacudir la cabeza,首を振る,покачивание головой,搖頭,Secousse de tête,Kopfschütteln,머리 흔들기
+ANIM/Hypnosis,Hypnosis,Hypnosis,催眠,Hipnózis,Hipnosis,催眠術,Гипноз,催眠,Hypnose,Hypnose,최면
+ANIM/Laugh-Point,Laugh (Point),Laugh (Point),笑(指),Nevetés (pont),Reír (punto),笑い（ポイント）,Смейся (Точка),笑(指),Rire (pointer),Lachen (Punkt),웃음(포인트)
+ANIM/LoveLetter,Love Letter,Love Letter,情书,Szerelmeslevél,carta de amor,ラブレター,Любовное письмо,情書,Lettre d'amour,Liebesbrief,연애 편지
+ANIM/NeedFood,Need Food,Need Food,要米,Élelmiszer kell,Necesito comida,食べ物が必要です,Нужна еда,要米,Besoin de nourriture,Brauchen Sie Essen,음식이 필요해
+ANIM/PNGTuber-Idle,PNGTuber Idle,PNGTuber Idle,PNGTuber 闲置,PNGTuber Idle,PNGTuber inactivo,PNGTuberアイドル,PNGТубер бездействующий,PNGTuber 閒置,PNGTuber inactif,PNGTuber im Leerlauf,PNGTuber 유휴 상태
+ANIM/PNGTuber-Idle2,PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber 闲置 2,PNGTuber Idle 2,PNGTuber inactivo 2,PNGTuber アイドル 2,PNGTuber Idle 2,PNGTuber 閒置 2,PNGTuber Inactif 2,PNGTuber Idle 2,PNGTuber 유휴 2
+ANIM/PNGTuber-Talk,PNGTuber Talk,PNGTuber Talk,PNGTuber 说话,PNGTuber Talk,Charla de Tuber,PNGTuber トーク,PNGTuber Talk,PNGTuber 說話,Discussion sur les tubercules PNG,PNGTuber-Talk,PNGTuber 토크
+ANIM/PNGTuber-Talk2,PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber 说话 2,PNGTuber Talk 2,Charla de Tuber 2,PNGTuber トーク 2,PNGTuber Talk 2,PNGTuber 說話 2,PNGTuber Discussion 2,PNGTuber Talk 2,PNGTuber 토크 2
+ANIM/PNGTuber-Yap,PNGTuber Yap,PNGTuber Yap,PNGTuber 说教,PNGTuber Yap,PNGTuber Yap,PNGチューバー ヤップ,PNGТубер Яп,PNGTuber 說教,PNGTuber Yap,PNGTuber Yap,PNGTuber 얍
+ANIM/Popcat-Frame,Popcat Frame,Popcat Frame,Popcat 帧,Popcat keret,Marco de gato pop,ポップキャットフレーム,Попкэт Рамка,Popcat 幀,Cadre Popcat,Popcat-Rahmen,팝캣 프레임
+ANIM/Popcat-Smooth,Popcat Smooth,Popcat Smooth,Popcat 平滑,Popcat Smooth,Gato suave,ポップキャットスムーズ,Попкэт Гладкий,Popcat 平滑,Popcat Lisse,Popcat glatt,팝캣 스무스
+ANIM/Sing,Sing,Sing,唱歌,Énekel,Cantar,歌う,Петь,唱歌,Chanter,Singen,노래하다
+ANIM/Tablet,Tablet,Tablet,画板,Tabletta,Tableta,錠剤,Таблетка,畫板,Comprimé,Tablette,태블릿
+ANIM/TailWag,Tail Wag,Tail Wag,雨刮器尾巴,Tail Wag,Meneo de cola,テールワグ,Виляние хвостом,雨刮器尾巴,Remuer la queue,Schwanzwedeln,꼬리 흔들기

@@ -1,218 +1,218 @@
-GroupName,DisplayName,en,ko,de,hu,ru,es,ja,fr,zh-Hans,zh-Hant
-Ahoge,Hair Ahoge,Hair Ahoge,헤어 아호게,Haare Ahoge,Haj Ahoge,Волосы Ахоге,Ahoge,アホ毛,Cheveux Ahoge,头发呆毛,頭髮奧格
-AhogeOutline,Hair Ahoge Outline,Hair Ahoge Outline,헤어 아호게 윤곽선,Haare Ahoge Umriss,Haj Ahoge vázlat,Наброски волос Ахоге,Contorno del Ahoge,アホ毛 輪郭,Aperçu des cheveux Ahoge,头发呆毛轮廓,頭髮輪廓
-AnimalEarLeft,Animal Ear >>,Animal Ear >>,동물의 귀 >>,Tierohr >>,Állati fül >>,Ухо животного >>,Oreja de animal >>,ケモ耳 >>,Oreille d'animal >>,兽耳 >>,獸耳>>
-AnimalEarLeftFur,Animal Ear >> Fur,Animal Ear >> Fur,동물의 귀 >> 모피,Tierohr >> Fell,Állati fül >> Szőrme,Уши животных >> Мех,Orejas de animal >> Pelaje,ケモ耳 毛 >>,Oreille d'animal >> Fourrure,兽耳 >> 毛,獸耳 >> 毛皮
-AnimalEarLeftFurOutline,Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,동물의 귀 >> 모피 개요,Tierohr >> Fellumriss,Állati fül >> Szőrme körvonala,Ухо животного >> Контур меха,Orejas de animal >> Contorno del pelaje,ケモ耳 毛 輪郭 >>,Oreille d'animal >> Contour de fourrure,兽耳 >> 毛轮廓,動物耳朵 >> 毛皮輪廓
-AnimalEarLeftOutline,Animal Ear >> Outline,Animal Ear >> Outline,동물의 귀 >> 개요,Tierohr >> Umriss,Állati fül >> Vázlat,Ухо животного >> Схема,Orejas de animal >> Contorno,ケモ耳 輪郭 >>,Oreille d'animal >> Aperçu,兽耳 >> 轮廓,獸耳 >> 摘要
-AnimalEarRight,Animal Ear <<,Animal Ear <<,동물의 귀 <<,Tierohr <<,Állati fül <<,Ухо животного <<,Orejas de animal <<,ケモ耳 <<,Oreille d'animal <<,兽耳 <<,獸耳<<
-AnimalEarRightFur,Animal Ear << Fur,Animal Ear << Fur,동물의 귀 << 모피,Tierohr << Fell,Állati fül << Szőrme,Ухо животного << Мех,Orejas de animal << Pelaje,ケモ耳 毛 <<,Oreille d'animal << Fourrure,兽耳 << 毛,動物耳朵 << 毛皮
-AnimalEarRightFurOutline,Animal Ear << Fur Outline,Animal Ear << Fur Outline,동물 귀 << 모피 개요,Tierohr << Fellumriss,Állati fül << szőrme körvonala,Ухо животного << Контур меха,Orejas de animal << Contorno del pelaje,ケモ耳 毛 輪郭 <<,Oreille d'animal << Contour de fourrure,兽耳 << 毛轮廓,動物耳朵 << 毛皮輪廓
-AnimalEarRightOutline,Animal Ear << Outline,Animal Ear << Outline,동물의 귀 << 개요,Tierohr << Umriss,Állati fül << Vázlat,Ухо животного << Схема,Orejas de animal << Contorno,ケモ耳 輪郭 <<,Oreille d'animal << Aperçu,兽耳 << 轮廓,動物耳朵<<大綱
-AntennaLeft,Antenna >>,Antenna >>,안테나 >>,Antenne >>,Antenna >>,Антенна >>,Antena >>,アンテナ >>,Antenne >>,触角 >>,天線>>
-AntennaLeftOutline,Antenna >> Outline,Antenna >> Outline,안테나 >> 개요,Antenne >> Umriss,Antenna >> Vázlat,Антенна >> Схема,Antena >> Contorno,アンテナ 輪郭 >>,Antenne >> Aperçu,触角 >> 轮廓,天線 >> 摘要
-AntennaRight,Antenna <<,Antenna <<,안테나 <<,Antenne <<,Antenna <<,Антенна <<,Antena <<,アンテナ <<,Antenne <<,触角 <<,天線 <<
-AntennaRightOutline,Antenna << Outline,Antenna << Outline,안테나 << 개요,Antenne << Umriss,Antenna << Vázlat,Антенна << Схема,Antena << Contorno,アンテナ 輪郭 <<,Antenne << Aperçu,触角 << 轮廓,天線 << 摘要
-BackHair,Hair Rear,Hair Rear,헤어 리어,Haare hinten,Haj Hátsó,Волосы сзади,Pelo trasero,後ろ髪,Cheveux arrière,头发 后侧,頭髮後部
-BackHairOutline,Hair Rear Outline,Hair Rear Outline,헤어 후면 윤곽선,Haare hinten Umriss,Haj hátsó körvonala,Контур волос сзади,Contorno del pelo trasero,後ろ髪 輪郭,Contour arrière des cheveux,头发 后侧 轮廓,頭髮後輪廓
-BeverageCup,Beverage Cup,Beverage Cup,음료 컵,Getränkebecher,Italpohár,Кубок для напитков,Vaso de bebida,飲み物のカップ,Tasse de boisson,饮料杯,飲料杯
-BeverageLiquid,Beverage Liquid,Beverage Liquid,음료수 액체,Becherflüssigkeit,Folyékony ital,жидкость для напитков,Líquido del vaso,飲み物,Boisson liquide,饮料杯 液体,飲料液
-BeverageLiquid2,Beverage Liquid 2,Beverage Liquid 2,음료수 2,Becherflüssigkeit 2,Folyékony ital 2,Жидкость для напитков 2,Líquido del vaso 2,飲み物2,Boisson liquide 2,饮料杯 液体 2,飲料液2
-Bill,Bill,Bill,청구서,Schnabel,Számla,Счет,Billetes,紙幣,Facture,钞票,帳單
-BlanketInner,Blanket Inner,Blanket Inner,담요 내부,Decke innen,Belső takaró,Одеяло внутреннее,Manta interior,ブランケット内側,Couverture intérieure,被子 里侧,毛毯內層
-BlanketOutter,Blanket Outter,Blanket Outter,담요 외부,Decke außen,Külső takaró,Одеяло наружное,Manta exterior,ブランケット外側,Couverture extérieure,被子 外侧,毛毯外層
-Blush,Face Blush,Face Blush,페이스 블러셔,Gesichtsröte,Arcpirosító,Румяна для лица,Rubor,頬の赤み,Fard À Joues Pour Le Visage,脸红,臉紅
-BrowLeft,Brow >>,Brow >>,눈썹 >>,Augenbraue >>,Szemöldök >>,Брови >>,Ceja >>,眉 >>,Sourcil >>,眉毛 >>,眉毛>>
-BrowRight,Brow <<,Brow <<,눈썹 <<,Augenbraue <<,Szemöldök <<,Брови <<,Ceja <<,眉 <<,Sourcils <<,眉毛 <<,眉毛<<
-Chopstick,Chopstick,Chopstick,젓가락,Stäbchen,Pálcika,Палочки для еды,Palillos,お箸,Baguette,筷子,筷子
-Crowbar,Crowbar,Crowbar,바,Brecheisen,Emelőrúd,лом,Palanca,バール,Pied de biche,撬棍,撬棍
-Cup,Cup,Cup,컵,Tasse,Csésze,Чашка,Taza,カップ,Tasse,咖啡杯,杯子
-CupSteam,Cup Steam,Cup Steam,컵 스팀,Tasse Dampf,Kupa Steam,Кубок Паровой,Vapor de la taza,湯気,Tasse Vapeur,咖啡杯 蒸汽,杯蒸
-Door,Door/Wall,Door/Wall,문/벽,Tür/Wand,Ajtó/fal,Дверь/Стена,Puerta/Pared,ドア／壁,Porte/Mur,门/墙,門/牆
-DumEyePupilLeft,Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,눈(Dum) 눈동자 >>,Auge(Dum) Pupille >>,Szem(Dum) Pupilla >>,Глаз(Дум) Зрачок >>,Pupila (tonta) >>,ほげ目 瞳 >>,Oeil (Dum) Pupille >>,呆眼 瞳孔 >>,眼睛（啞）瞳孔 >>
-DumEyePupilRight,Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,눈(덤) 동공 <<,Auge(Dum) Pupille <<,Szem(Dum) Pupilla <<,Глаз (Дум) Зрачок <<,Pupila (tonta) <<,ほげ目 瞳 <<,Oeil(Dum)Pupille <<,呆眼 瞳孔  <<,眼睛（達姆）瞳孔 <<
-Eyebag,Eyebag,Eyebag,아이백,Tränensack,Szemtáska,Мешок для глаз,Ojeras,目のクマ,Poche oculaire,眼袋,眼袋
-EyeDarkLeft,Eye Iris Dark >>,Eye Iris Dark >>,아이 아이리스 다크 >>,Augeniris dunkel >>,Szem Iris Sötét >>,Глаза Ирис Темные >>,Iris Oscuro >>,虹彩 濃 >>,Iris des yeux foncé >>,眼睛 虹膜深色 >>,眼睛虹膜深色>>
-EyeDarkRight,Eye Iris Dark <<,Eye Iris Dark <<,눈 홍채 다크 <<,Augeniris dunkel <<,Szem Iris Sötét <<,Глаза Радужная оболочка Темные <<,Iris Oscuro <<,虹彩 濃 <<,Iris des yeux foncé <<,眼睛 虹膜深色 <<,眼睛虹膜深色 <<
-EyeDollar,Eye Dollar,Eye Dollar,아이달러,Augendollar,Szem dollár,Глаз доллара,Ojos de dinero,お金の目,Dollar pour les yeux,眼睛 钱,眼睛美元
-EyeHeart,Eye Heart,Eye Heart,아이하트,Augenherz,Szem Szív,Глаз Сердце,Ojos de corazón,ハート目,Oeil Coeur,眼睛 爱心,眼心
-EyeHighlight,Eye Highlight,Eye Highlight,아이 하이라이트,Augen Highlight,Szemkiemelés,Выделение глаз,Brillo del ojo,目ハイライト,Point culminant des yeux,眼睛 高光,眼睛高光
-Eyelash,Eyelashes,Eyelashes,속눈썹,Wimpern,Szempilla,Ресницы,Pestañas,まつげ,Cils,眼睛 睫毛,睫毛
-EyeLightLeft,Eye Iris Light >>,Eye Iris Light >>,눈 홍채 라이트 >>,Augeniris hell >>,Szem írisz fénye >>,Глаза Ирис Светлый >>,Brillo del iris >>,虹彩 淡 >>,Lumière de l'iris des yeux >>,眼睛 虹膜浅色 >>,眼睛虹膜燈>>
-EyeLightRight,Eye Iris Light <<,Eye Iris Light <<,눈 홍채 빛 <<,Augeniris hell <<,Eye Iris Light <<,Глаза Ирис Светлый <<,Brillo del iris <<,虹彩 淡 <<,Lumière de l'iris des yeux <<,眼睛 虹膜浅色 <<,眼睛虹膜燈 <<
-EyeOutline,Eye(Dum) Outline,Eye(Dum) Outline,눈(Dum) 외곽선,Augen(Dum) Umriss,Szem(Dum) körvonal,Контур глаза (дум),Contorno de ojo (tonto),ほげ目 輪郭,Contour de l'oeil (Dum),呆眼 轮廓,眼睛（啞）輪廓
-EyeSparkling,Eye Sparkling,Eye Sparkling,눈 반짝임,Augenfunkeln,Szem csillogó,Сверкающие глаза,Ojos chispeantes,キラキラ目,Oeil pétillant,眼睛 星星,眼睛閃閃發光
-EyeSpiral,Eye Spiral,Eye Spiral,눈 나선형,Augenspirale,Szemspirál,Глазная спираль,Espiral en los ojos,ぐるぐる目,Spirale des yeux,眼睛 圈圈,眼睛螺旋
-EyeWhite,Eye White,Eye White,눈 흰자,Augenweiß,Szem fehér,Глаз Белый,Ojo blanco,白目,Oeil blanc,眼睛 白色部分,眼白
-FaceShadow,Face Shadow,Face Shadow,페이스 섀도우,Gesichtsschatten,Arcárnyék,Тень для лица,Sombra de la cara,顔影,Ombre à visage,脸 阴影,臉部陰影
-FinLeft,Fin >>,Fin >>,핀 >>,Flosse >>,Fin >>,Фин >>,Aleta >>,ヒレ >>,Aileron >>,鳍 >>,鰭>>
-FinLeftOutline,Fin >> Outline,Fin >> Outline,핀 >> 개요,Flosse >> Umriss,Fin >> Vázlat,Фин >> Схема,Aleta >> Contorno,ヒレ 輪郭 >>,Fin >> Aperçu,鳍 >> 轮廓,翅片 >> 摘要
-FinRight,Fin <<,Fin <<,핀 <<,Flosse <<,Fin <<,Фин <<,aleta <<,ヒレ <<,Fin <<,鳍 <<,鰭 <<
-FinRightOutline,Fin << Outline,Fin << Outline,핀 << 개요,Flosse << Umriss,Fin << Vázlat,Плавник << Схема,Fin << Contorno,ヒレ 輪郭 <<,Fin << Aperçu,鳍 << 轮廓,鰭 << 輪廓
-FrameHairLeft,Hair Framing >>,Hair Framing >>,헤어 프레이밍 >>,Seitensträhnen >>,Hajkeretezés >>,Оформление волос >>,Mechón frontal >>,顔まわり髪 >>,Encadrement des cheveux >>,头发 脸颊 >>,頭髮定型>>
-FrameHairLeftOutline,Hair Framing >> Outline,Hair Framing >> Outline,헤어 프레이밍 >> 개요,Seitensträhnen >> Umriss,Hajkeretezés >> Vázlat,Оформление волос >> Схема,Mechón frontal >> Contorno,顔まわり髪 輪郭 >>,Encadrement des cheveux >> Aperçu,头发 脸颊 >> 轮廓,發框 >> 摘要
-FrameHairRight,Hair Framing <<,Hair Framing <<,헤어 프레이밍 <<,Seitensträhnen <<,Hajkeretezés <<,Оформление волос <<,Mechón frontal <<,顔まわり髪 <<,Encadrement des cheveux <<,头发 脸颊 <<,頭髮框架 <<
-FrameHairRightOutline,Hair Framing << Outline,Hair Framing << Outline,헤어 프레이밍 << 개요,Seitensträhnen << Umriss,Hajkeretezés << Vázlat,Оформление волос << Схема,Mechón frontal << Contorno,顔まわり髪 輪郭 <<,Encadrement des cheveux << Aperçu,头发 脸颊 << 轮廓,頭髮框架 << 輪廓
-Gill,Gill,Gill,아가미,Kieme,Kopoltyú,Джилл,Branquia,エラ,Gil,腮,鰓
-GillOutline,Gill Outline,Gill Outline,길 외곽선,Kiemen Umriss,Gill vázlat,Схема Джилла,Contorno de la branquia,エラ 輪郭,Aperçu des branchies,腮 轮廓,鰓輪廓
-Glasses,Glasses,Glasses,안경,Brille,Szemüveg,Очки,Anteojos,メガネ,Lunettes,眼镜,眼鏡
-HairbandA,Hairband A,Hairband A,헤어밴드A,Haarband A,Hajpánt A,Лента для волос А,Diadema A,ヘアバンドA,Bandeau A,发带 A,髮帶A
-HairbandAOutline,Hairband A Outline,Hairband A Outline,헤어밴드A 개요,Haarband A Umriss,Hajpánt Vázlat,Лента для волос A Outline,Contorno de Diadema A,ヘアバンドA 輪郭,Bandeau A Contour,发带 A 轮廓,髮帶A輪廓
-HairbandB,Hairband B,Hairband B,헤어밴드B,Haarband B,Hajpánt B,Лента для волос Б,Diadema B,ヘアバンドB,Bandeau B,发带 B,髮帶B
-HairbandBOutline,Hairband B Outline,Hairband B Outline,헤어밴드B 개요,Haarband B Umriss,Hajpánt B körvonal,Лента для волос B. Контур,Contorno de Diadema B,ヘアバンドB 輪郭,Bandeau B Contour,发带 B 轮廓,髮帶B輪廓
-HairbandC,Hairband C,Hairband C,헤어밴드 C,Haarband C,Hajpánt C,Повязка для волос С,Diadema C,ヘアバンドC,Bandeau C,发带 C,髮帶C
-HairbandCOutline,Hairband C Outline,Hairband C Outline,헤어밴드C 개요,Haarband C Umriss,Hajpánt C körvonal,Лента для волос C. Контур,Contorno de Diadema C,ヘアバンドC 輪郭,Bandeau C Contour,发带 C 轮廓,髮帶C輪廓
-HairbandD,Hairband D,Hairband D,헤어밴드 D,Haarband D,Hajpánt D,Ободок для волос D,Diadema D,ヘアバンドD,Bandeau D,发带 D,髮帶D
-HairbandDOutline,Hairband D Outline,Hairband D Outline,헤어밴드D 개요,Haarband D Umriss,Hajpánt D körvonal,Повязка для волос D Outline,Contorno de Diadema D,ヘアバンドD 輪郭,Bandeau D Contour,发带 D 轮廓,髮帶 D 輪廓
-HairBangLeft,Hair Bang >>,Hair Bang >>,헤어뱅 >>,Pony >>,Hair Bang >>,Челка >>,Flequillo >>,前髪 >>,Frange de cheveux >>,头发 刘海 >>,發瀏海>>
-HairBangLeftOutline,Hair Bang >> Outline,Hair Bang >> Outline,헤어뱅 >> 개요,Pony >> Umriss,Hair Bang >> Vázlat,Челка >> Схема,Flequillo >> Contorno,前髪 輪郭 >>,Frange de cheveux >> Aperçu,头发 刘海 >> 轮廓,瀏海 >> 摘要
-HairBangMiddle,Hair Bang ><,Hair Bang ><,헤어뱅 ><,Pony ><,Hair Bang ><,Челка для волос ><,Flequillo ><,前髪 中央,Frange de cheveux ><,头发 刘海 ><,頭髮瀏海><
-HairBangMiddleOutline,Hair Bang >< Outline,Hair Bang >< Outline,헤어뱅 >< 개요,Pony >< Umriss,Hair Bang >< Vázlat,Челка >< Схема,Flequillo >< Contorno,前髪 中央 輪郭,Frange de cheveux >< Aperçu,头发 刘海 >< 轮廓,瀏海>< 輪廓
-HairBangRight,Hair Bang <<,Hair Bang <<,헤어뱅 <<,Pony <<,Hair Bang <<,Челка для волос <<,Flequillo <<,前髪 <<,Frange de cheveux <<,头发 刘海 <<,頭髮瀏海 <<
-HairBangRightOutline,Hair Bang << Outline,Hair Bang << Outline,헤어뱅 << 개요,Pony << Umriss,Hair Bang << Vázlat,Челка << Схема,Flequillo << Contorno,前髪 輪郭 <<,Frange de cheveux << Aperçu,头发 刘海 << 轮廓,瀏海<<大綱
-HairClipLeft,Hair Clip >>,Hair Clip >>,헤어클립 >>,Haarspange >>,Hajcsipesz >>,Заколка для волос >>,Pinza para el pelo >>,ヘアクリップ >>,Pince à cheveux >>,发夹 >>,髮夾>>
-HairClipLeftOutline,Hair Clip >> Outline,Hair Clip >> Outline,헤어핀 >> 개요,Haarspange >> Umriss,Hajcsat >> Vázlat,Заколка для волос >> Схема,Pinza para el cabello >> Contorno,ヘアクリップ 輪郭 >>,Pince à cheveux >> Aperçu,发夹 >> 轮廓,髮夾 >> 摘要
-HairClipRight,Hair Clip <<,Hair Clip <<,헤어클립 <<,Haarspange <<,Hajcsat <<,Заколка для волос <<,Pinza para el pelo <<,ヘアクリップ <<,Pince à cheveux <<,发夹 <<,髮夾<<
-HairClipRightOutline,Hair Clip << Outline,Hair Clip << Outline,헤어클립 << 개요,Haarspange << Umriss,Hajcsat << Vázlat,Заколка для волос << Схема,Pinza para el cabello << Contorno,ヘアクリップ 輪郭 <<,Pince à cheveux << Aperçu,发夹 << 轮廓,髮夾 << 輪廓
-HairHighlightLeft1,Hair Highlight 1 >>,Hair Highlight 1 >>,헤어 하이라이트 1 >>,Haar Highlight 1 >>,Hajkiemelés 1 >>,Мелирование волос 1 >>,Mechas de cabello 1 >>,髪ハイライト1 >>,Mèches de cheveux 1 >>,挑染 1 >> ,頭髮亮點1 >>
-HairHighlightLeft1Outline,Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,헤어 하이라이트 1 >> 개요,Haar Highlight 1 >> Umriss,Hajkiemelés 1 >> Vázlat,Мелирование волос 1 >> Контур,Mechas de cabello 1 >> Contorno,髪ハイライト1 輪郭 >>,Mèches de cheveux 1 >> Aperçu,挑染 1 >> 轮廓,頭髮亮點 1 >> 輪廓
-HairHighlightLeft2,Hair Highlight 2 >>,Hair Highlight 2 >>,헤어 하이라이트 2 >>,Haar Highlight 2 >>,Hajkiemelés 2 >>,Мелирование волос 2 >>,Mechas de cabello 2 >>,髪ハイライト2 >>,Mèches de cheveux 2 >>,挑染 2 >> ,頭髮亮點2>>
-HairHighlightLeft2Outline,Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,헤어하이라이트2 >> 개요,Haar Highlight 2 >> Umriss,Hajkiemelés 2 >> Vázlat,Мелирование волос 2 >> Контур,Mechas de cabello 2 >> Contorno,髪ハイライト2 輪郭 >>,Mèches capillaires 2 >> Aperçu,挑染 2 >> 轮廓,頭髮亮點 2 >> 輪廓
-HairHighlightLeft3,Hair Highlight 3 >>,Hair Highlight 3 >>,헤어 하이라이트 3 >>,Haar Highlight 3 >>,Hajkiemelés 3 >>,Мелирование волос 3 >>,Mechas de cabello 3 >>,髪ハイライト3 >>,Mèches de cheveux 3 >>,挑染 3 >> ,頭髮亮點3>>
-HairHighlightLeft3Outline,Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,헤어하이라이트3 >> 개요,Haar Highlight 3 >> Umriss,Hajkiemelés 3 >> Vázlat,Мелирование волос 3 >> Контур,Mechas de cabello 3 >> Contorno,髪ハイライト3 輪郭 >>,Mèches capillaires 3 >> Aperçu,挑染 3 >> 轮廓,頭髮亮點 3 >> 輪廓
-HairHighlightMiddle1,Hair Highlight 1 ><,Hair Highlight 1 ><,헤어하이라이트 1 ><,Haar Highlight 1 ><,Hajkiemelés 1 ><,Мелирование волос 1 ><,Mechas de cabello 1 ><,髪ハイライト1 中央,Mèches de cheveux 1 ><,挑染 1 >< ,頭髮亮點1><
-HairHighlightMiddle1Outline,Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,헤어하이라이트 1 >< 개요,Haar Highlight 1 >< Umriss,Hajkiemelés 1 >< Vázlat,Мелирование волос 1 >< Схема,Mechas de cabello 1 >< Contorno,髪ハイライト1 中央 輪郭,Mèches de cheveux 1 >< Aperçu,挑染 1 >< 轮廓,頭髮亮點 1 >< 輪廓
-HairHighlightMiddle2,Hair Highlight 2 ><,Hair Highlight 2 ><,헤어하이라이트 2 ><,Haar Highlight 2 ><,Hajkiemelés 2 ><,Мелирование волос 2 ><,Mechas de cabello 2 ><,髪ハイライト2 中央,Mèches de cheveux 2 ><,挑染 2 >< ,頭髮亮點2><
-HairHighlightMiddle2Outline,Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,헤어하이라이트 2 >< 개요,Haar Highlight 2 >< Umriss,Hajkiemelés 2 >< Vázlat,Мелирование волос 2 >< Схема,Mechas de cabello 2 >< Contorno,髪ハイライト2 中央 輪郭,Mèches de cheveux 2 >< Aperçu,挑染 2 >< 轮廓,頭髮亮點 2 >< 輪廓
-HairHighlightMiddle3,Hair Highlight 3 ><,Hair Highlight 3 ><,헤어하이라이트 3 ><,Haar Highlight 3 ><,Hajkiemelés 3 ><,Мелирование волос 3 ><,Destacado del cabello 3 ><,髪ハイライト3 中央,Mèches de cheveux 3 ><,挑染 3 >< ,頭髮亮點3><
-HairHighlightMiddle3Outline,Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,헤어하이라이트3 >< 개요,Haar Highlight 3 >< Umriss,Hajkiemelés 3 >< Vázlat,Мелирование волос 3 >< Схема,Mechas de cabello 3 >< Contorno,髪ハイライト3 中央 輪郭,Mèches de cheveux 3 >< Aperçu,挑染 3 >< 轮廓,頭髮亮點 3 >< 輪廓
-HairHighlightMiddle4,Hair Highlight 4 ><,Hair Highlight 4 ><,헤어하이라이트 4 ><,Haar Highlight 4 ><,Hajkiemelés 4 ><,Мелирование волос 4 ><,Mechas de cabello 4 ><,髪ハイライト4 中央,Mèches de cheveux 4 ><,挑染 4 >< ,頭髮亮點4><
-HairHighlightMiddle4Outline,Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,헤어하이라이트 4 >< 개요,Haar Highlight 4 >< Umriss,Hajkiemelés 4 >< Vázlat,Мелирование волос 4 >< Схема,Mechas de cabello 4 >< Contorno,髪ハイライト4 中央 輪郭,Mèches de cheveux 4 >< Aperçu,挑染 4 >< 轮廓,頭髮亮點 4 >< 輪廓
-HairHighlightMiddle5,Hair Highlight 5 ><,Hair Highlight 5 ><,헤어하이라이트 5 ><,Haar Highlight 5 ><,Hajkiemelés 5 ><,Мелирование волос 5 ><,Mechas de cabello 5 ><,髪ハイライト5 中央,Mèches de cheveux 5 ><,挑染 5 >< ,頭髮亮點5><
-HairHighlightMiddle5Outline,Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,헤어하이라이트 5 >< 개요,Haar Highlight 5 >< Umriss,Hajkiemelés 5 >< Vázlat,Мелирование волос 5 >< Схема,Mechas de cabello 5 >< Contorno,髪ハイライト5 中央 輪郭,Mèches de cheveux 5 >< Aperçu,挑染 5 >< 轮廓,頭髮亮點 5 >< 輪廓
-HairHighlightMiddle6,Hair Highlight 6 ><,Hair Highlight 6 ><,헤어하이라이트 6 ><,Haar Highlight 6 ><,Hajkiemelés 6 ><,Мелирование волос 6 ><,Mechas de cabello 6 ><,髪ハイライト6 中央,Mèches de cheveux 6 ><,挑染 6 >< ,頭髮亮點6><
-HairHighlightMiddle6Outline,Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,헤어하이라이트 6 >< 개요,Haar Highlight 6 >< Umriss,Hajkiemelés 6 >< Vázlat,Мелирование волос 6 >< Схема,Mechas de cabello 6 >< Contorno,髪ハイライト6 中央 輪郭,Mèches de cheveux 6 >< Aperçu,挑染 6 >< 轮廓,頭髮亮點 6 >< 輪廓
-HairHighlightRight1,Hair Highlight 1 <<,Hair Highlight 1 <<,헤어 하이라이트 1 <<,Haar Highlight 1 <<,Hajkiemelés 1 <<,Мелирование волос 1 <<,Mechas de cabello 1 <<,髪ハイライト1 <<,Mèches de cheveux 1 <<,挑染 1 << ,頭髮亮點 1 <<
-HairHighlightRight1Outline,Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,헤어 하이라이트 1 << 개요,Haar Highlight 1 << Umriss,Hajkiemelés 1 << Vázlat,Мелирование волос 1 << Схема,Mechas de cabello 1 << Contorno,髪ハイライト1 輪郭 <<,Mèches de cheveux 1 << Aperçu,挑染 1 << 轮廓,頭髮亮點 1 << 輪廓
-HairHighlightRight2,Hair Highlight 2 <<,Hair Highlight 2 <<,헤어 하이라이트 2 <<,Haar Highlight 2 <<,Hajkiemelés 2 <<,Мелирование волос 2 <<,Mechas de cabello 2 <<,髪ハイライト2 <<,Mèches de cheveux 2 <<,挑染 2 << ,頭髮亮點2 <<
-HairHighlightRight2Outline,Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,헤어하이라이트 2 << 개요,Haar Highlight 2 << Umriss,Hajkiemelés 2 << Vázlat,Мелирование волос 2 << Схема,Mechas de cabello 2 << Contorno,髪ハイライト2 輪郭 <<,Mèches de cheveux 2 << Aperçu,挑染 2 << 轮廓,頭髮亮點 2 << 輪廓
-HairHighlightRight3,Hair Highlight 3 <<,Hair Highlight 3 <<,헤어 하이라이트 3 <<,Haar Highlight 3 <<,Hajkiemelés 3 <<,Мелирование волос 3 <<,Mechas de cabello 3 <<,髪ハイライト3 <<,Mèches de cheveux 3 <<,挑染 3 << ,頭髮亮點 3 <<
-HairHighlightRight3Outline,Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,헤어하이라이트3 << 개요,Haar Highlight 3 << Umriss,Hajkiemelés 3 << Vázlat,Мелирование волос 3 << Схема,Mechas de cabello 3 << Contorno,髪ハイライト3 輪郭 <<,Mèches de cheveux 3 << Aperçu,挑染 3 << 轮廓,頭髮亮點 3 << 輪廓
-Hairline,Hairline Outline,Hairline Outline,헤어라인 외곽선,Haarlinien Umriss,Hajvonal vázlat,Контур линии роста волос,Contorno de la rayita,生え際 輪郭,Contour des cheveux,发际线 轮廓,髮際線輪廓
-HairShine,Hair Shine,Hair Shine,헤어 샤인,Haarglanz,Hajfény,Блеск Волос,Brillo del cabello,髪ツヤ,Brillance des cheveux,头发 高光,頭髮光澤
-HairShineOutline,Hair Shine Outline,Hair Shine Outline,헤어 샤인 개요,Haarglanz Umriss,Hajfény vázlat,Контур блеска волос,Contorno del brillo del cabello,髪ツヤ 輪郭,Aperçu de la brillance des cheveux,头发 高光 轮廓,頭髮光澤輪廓
-Halo,Halo,Halo,후광,Heiligenschein,Halo,Гало,Halo,天使の輪,Halo,光环,暈
-HaloOutline,Halo Outline,Halo Outline,헤일로 개요,Heiligenschein Umriss,Halo Outline,Гало Контур,Contorno del halo,天使の輪 輪郭,Aperçu du halo,光环 轮廓,光環輪廓
-Hat,Hat,Hat,모자,Hut,Kalap,Шляпа,Sombrero,帽子,Chapeau,帽子,帽子
-HatOutline,Hat Outline,Hat Outline,모자 개요,Hut Umriss,Kalap vázlat,Контур шляпы,Contorno del sombrero,帽子 輪郭,Aperçu du chapeau,帽子 轮廓,帽子輪廓
-HatSecondary,Hat Secondary,Hat Secondary,모자 보조,Hut Sekundär,Kalap másodlagos,Шляпа вторичная,Sombrero Secundario,帽子パーツ,Chapeau Secondaire,帽子 次要,帽子中學
-HatOutlineSecondary,Hat Secondary Outline,Hat Secondary Outline,모자 보조 개요,Hut Sekundär Umriss,Kalap másodlagos vázlat,Вторичный контур шляпы,Contorno del sombrero secundario,帽子パーツ 輪郭,Contour secondaire du chapeau,帽子 次要 轮廓,帽子次要輪廓
-Hammer,Hammer,Hammer,망치,Hammer,Kalapács,Молоток,Martillo,ハンマー,Marteau,锤子,槌
-HeadWingLeft,Ear Wing >>,Ear Wing >>,귀 날개 >>,Ohrflügel >>,Fülszárny >>,Ухо Крыло >>,Ala de oreja >>,耳羽 >>,Aile d'oreille >>,翅膀耳朵 >>,耳翼>>
-HeadWingLeftOutline,Ear Wing >> Outline,Ear Wing >> Outline,Ear Wing >> 개요,Ohrflügel >> Umriss,Fülszárny >> Vázlat,Ухо Крыло >> Схема,Ala de oreja >> Contorno,耳羽 輪郭 >>,Aile d'oreille >> Aperçu,翅膀耳朵 >> 轮廓,耳翼 >> 摘要
-HeadWingRight,Ear Wing <<,Ear Wing <<,귀 날개 <<,Ohrflügel <<,Fülszárny <<,Ухо Крыло <<,Ala de oreja <<,耳羽 <<,Aile d'oreille <<,翅膀耳朵 <<,耳翼 <<
-HeadWingRightOutline,Ear Wing << Outline,Ear Wing << Outline,이어윙 << 개요,Ohrflügel << Umriss,Fülszárny << Vázlat,Ухо-крыло << Контур,Ala de oreja << Contorno,耳羽 輪郭 <<,Aile d'oreille << Aperçu,翅膀耳朵 << 轮廓,耳翼 << 輪廓
-Heart,Heart,Heart,마음,Herz,Szív,Сердце,Corazón,ハート,Cœur,爱心,心
-HornLeft,Horn >>,Horn >>,혼 >>,Horn >>,Kürt >>,Рог >>,Cuerno >>,角 >>,Corne >>,角 >>,喇叭>>
-HornLeftOutline,Horn >> Outline,Horn >> Outline,혼 >> 개요,Horn >> Umriss,Kürt >> Vázlat,Рог >> Схема,Cuerno >> Contorno,角 輪郭 >>,Corne >> Aperçu,角 >> 轮廓,喇叭 >> 概要
-HornRight,Horn <<,Horn <<,혼 <<,Horn <<,Kürt <<,Рог <<,Cuerno <<,角 <<,Corne <<,角 <<,號角<<
-HornRightOutline,Horn << Outline,Horn << Outline,혼 << 개요,Horn << Umriss,Kürt << Vázlat,Рог << Схема,Cuerno << Contorno,角 輪郭 <<,Corne << Aperçu,角 <<轮廓,號角 << 概要
-HornMiddle,Horn ><,Horn ><,혼 ><,Horn ><,Kürt ><,Рог ><,Cuerno ><,角 中央,Corne ><,角 ><,喇叭><
-HornMiddleOutline,Horn >< Outline,Horn >< Outline,혼 >< 개요,Horn >< Umriss,Kürt >< Vázlat,Рог >< Схема,Cuerno >< Contorno,角 中央 輪郭,Corne >< Aperçu,角 >< 轮廓,喇叭 >< 概要
-JailGrill,Jail Grill,Jail Grill,감옥 그릴,Gefängnis,Jail Grill,Тюремный гриль,Barrotes de la cárcel,牢屋格子,Grill de prison,监狱栅栏,監獄燒烤
-Keyboard,Keyboard,Keyboard,건반,Tastatur,Billentyűzet,Клавиатура,Teclado,キーボード,Clavier,键盘,鍵盤
-KitchenKnife,Kitchen Knife,Kitchen Knife,부엌칼,Küchenmesser,Konyhai kés,Кухонный нож,Cuchillo de cocina,包丁,Couteau de cuisine,厨房刀,花椰菜刀
-Laptop,Laptop,Laptop,랩탑,Laptop,Laptop,Ноутбук,Computadora portátil,ノートPC,Ordinateur portable,电脑,筆記型電腦
-LaptopLight,Laptop Light,Laptop Light,노트북 라이트,Laptop Licht,Laptop fény,Свет для ноутбука,Luz de la computadora portátil,ノートPCライト,Lumière pour ordinateur portable,电脑 屏幕光,筆記型電腦燈
-LegLeft,Leg >>,Leg >>,다리 >>,Bein >>,Láb >>,Нога >>,Pierna >>,脚 >>,Jambe >>,腿 >>,腿>>
-LegRight,Leg <<,Leg <<,다리 <<,Bein <<,Láb <<,Нога <<,Pierna <<,脚 <<,Jambe <<,腿 <<,腿<<
-LightstickHandle,Lightstick Handle,Lightstick Handle,응원봉 손잡이,Leuchtstabgriff,Lightstick fogantyú,Ручка светового стика,Mango del Lightstick,ペンライト持ち手,Poignée de bâton lumineux,荧光棒 把手,螢光棒手柄
-LightStickLeft,Light Stick >>,Light Stick >>,라이트스틱 >>,Leuchtstab >>,Light Stick >>,Световая палочка >>,Lightstick >>,ペンライト >>,Bâton lumineux >>,荧光棒 >>,螢光棒>>
-LightStickRight,Light Stick <<,Light Stick <<,라이트스틱 <<,Leuchtstab <<,Light Stick <<,Световая палка <<,Lightstick <<,ペンライト <<,Bâton lumineux <<,荧光棒 <<,螢光棒<<
-Mecha,Mecha,Mecha,메카,Mecha,Mecha,Меха,Mecha,メカ,Mécha,机械,機甲
-MechaLeft,Mecha >>,Mecha >>,메카 >>,Mecha >>,Mecha >>,Меха >>,Mecha >>,メカ >>,Mécha >>,机械 >>,機甲>>
-MechaLeftOutline,Mecha >> Outline,Mecha >> Outline,메카 >> 개요,Mecha >> Umriss,Mecha >> Vázlat,Меха >> Схема,Mecha >> Contorno,メカ 輪郭 >>,Mecha >> Aperçu,机械 >> 轮廓,機甲 >> 摘要
-MechaOutline,Mecha Outline,Mecha Outline,메카 개요,Mecha Umriss,Mecha körvonal,Механический контур,Contorno del mecha,メカ 輪郭,Aperçu du méca,机械 轮廓,機甲概要
-MechaRight,Mecha <<,Mecha <<,메카 <<,Mecha <<,Mecha <<,Меха <<,Mecha <<,メカ <<,Mécha <<,机械 <<,機甲 <<
-MechaRightOutline,Mecha << Outline,Mecha << Outline,메카 << 개요,Mecha << Umriss,Mecha << Vázlat,Меха << Схема,Mecha << Contorno,メカ 輪郭 <<,Mecha << Aperçu,机械 << 轮廓,機甲<<大綱
-Mouse,Mouse,Mouse,생쥐,Maus,Egér,Мышь,Ratón,マウス,Souris,鼠标,老鼠
-Mouth,Mouth/Tongue,Mouth/Tongue,입/혀,Mund/Zunge,Száj/nyelv,Рот/Язык,Boca/Lengua,口／舌,Bouche/Langue,嘴/舌头,嘴巴/舌頭
-MouthShadow,Mouth/Tongue Shadow,Mouth/Tongue Shadow,입/혀 그림자,Mund/Zungenschatten,Száj/nyelv árnyék,Тень рта/языка,Sombra de boca/lengua,口／舌 影,Ombre bouche/langue,嘴/舌头 阴影,嘴/舌頭陰影
-Notepad,Notepad,Notepad,메모장,Notizblock,Jegyzettömb,Блокнот,Bloc de notas,メモ帳,Bloc-notes,记事本,記事本
-OutfitCollar,Outfit Collar,Outfit Collar,의상 칼라,Outfit Kragen,Outfit gallér,Воротник наряда,Cuello del Outfit,襟,Collier de tenue,服装 领子,服裝領子
-OutfitCollarOutline,Outfit Collar Outline,Outfit Collar Outline,의상 칼라 개요,Outfit Kragen Umriss,Outfit gallér vázlat,Схема воротника наряда,Contorno del cuello del Outfit,襟 輪郭,Aperçu du col de la tenue,服装 领子 轮廓,服裝領型輪廓
-OutfitInner,Outfit Inner,Outfit Inner,의상 내부,Outfit innen,Outfit belső,Внутренний наряд,Outfit interior,服 内側,Tenue intérieure,服装 里侧,服飾內搭
-OutfitInnerOutline,Outfit Inner Outline,Outfit Inner Outline,의상 내부 개요,Outfit innen Umriss,Outfit belső körvonala,Внутренний контур наряда,Contorno del Outfit interior,服 内側 輪郭,Aperçu intérieur de la tenue,服装 里侧 轮廓,服裝內部輪廓
-OutfitNeckwearA,Outfit Neckwear A,Outfit Neckwear A,아웃핏 넥웨어 A,Outfit Halsschmuck A,Outfit Neckwear A,Наряд Галстук А,Accesorios de cuello A,ネックウェアA,Tenue Cravate A,服装 颈部装饰 A,服裝項鍊A
-OutfitNeckwearAOutline,Outfit Neckwear A Outline,Outfit Neckwear A Outline,아웃핏 넥웨어 A 개요,Outfit Halsschmuck A Umriss,Outfit Neckwear Egy körvonal,"Наряд, галстук, контур",Contorno del accesorio de cuello A,ネックウェアA 輪郭,Tenue Cravates Un Contour,服装 颈部装饰 A 轮廓,服裝 領帶 A 輪廓
-OutfitNeckwearB,Outfit Neckwear B,Outfit Neckwear B,아웃핏 넥웨어 B,Outfit Halsschmuck B,Outfit Neckwear B,Наряд Галстук Б,Accesorios de cuello B,ネックウェアB,Tenue Cravate B,服装 颈部装饰 B,服飾領帶B
-OutfitNeckwearBOutline,Outfit Neckwear B Outline,Outfit Neckwear B Outline,아웃핏 넥웨어 B 개요,Outfit Halsschmuck B Umriss,Outfit Neckwear B körvonal,"Наряд, галстук, B, контур",Contorno del accesorio de cuello B,ネックウェアB 輪郭,Tenue Cravates B Outline,服装 颈部装饰 B 轮廓,服裝 領帶 B 輪廓
-OutfitNeckwearC,Outfit Neckwear C,Outfit Neckwear C,아웃핏 넥웨어 C,Outfit Halsschmuck C,Outfit Neckwear C,Наряд Галстук C,Accesorios de cuello C,ネックウェアC,Tenue Cravate C,服装 颈部装饰 C,服飾領帶C
-OutfitNeckwearCOutline,Outfit Neckwear C Outline,Outfit Neckwear C Outline,아웃핏 넥웨어 C 개요,Outfit Halsschmuck C Umriss,Outfit Neckwear C körvonal,Наряд Галстук C Контур,Contorno del accesorio de cuello C,ネックウェアC 輪郭,Tenue Cravate C Outline,服装 颈部装饰 C 轮廓,服飾 領帶 C 輪廓
-OutfitOuter,Outfit Outer,Outfit Outer,의상 아우터,Outfit außen,Outfit Outer,Наряд Внешний,Traje exterior,服 外側,Tenue extérieure,服装 外侧,服裝外套
-OutfitOuterOutline,Outfit Outer Outline,Outfit Outer Outline,의상 외부 개요,Outfit außen Umriss,Outfit külső körvonala,Внешний контур наряда,Contorno del traje exterior,服 外側 輪郭,Contour extérieur de la tenue,服装 外侧 轮廓,服裝外觀輪廓
-Pencil,Pencil,Pencil,연필,Bleistift,Ceruza,Карандаш,Lápiz,鉛筆,Crayon,铅笔,鉛筆
-Phone,Phone,Phone,핸드폰,Telefon,Telefon,Телефон,Teléfono,スマホ,Téléphone,手机,電話
-PhoneLight,Phone Light,Phone Light,전화 조명,Telefon Licht,Telefonfény,Телефон Свет,Luz del teléfono,スマホライト,Lumière du téléphone,手机 屏幕光,手機燈
-PigtailLeft,Hair Pigtail >>,Hair Pigtail >>,헤어 피그테일 >>,Haarzopf >>,Haj Pigtail >>,Косичка для волос >>,Coleta de pelo >>,おさげ >>,Queue de cochon >>,头发 马尾 >>,頭髮辮子>>
-PigtailLeftOutline,Hair Pigtail >> Outline,Hair Pigtail >> Outline,헤어 피그테일 >> 개요,Haarzopf >> Umriss,Haj Pigtail >> Vázlat,Косичка для волос >> Схема,Coleta de pelo >> Contorno,おさげ 輪郭 >>,Queue de cochon >> Aperçu,头发 马尾 >> 轮廓,辮子 >> 摘要
-PigtailRight,Hair Pigtail <<,Hair Pigtail <<,머리 땋은 머리 <<,Haarzopf <<,Haj Pigtail <<,Косичка для волос <<,Coleta de pelo <<,おさげ <<,Queue de cochon <<,头发 马尾 <<,辮子 <<
-PigtailRightOutline,Hair Pigtail << Outline,Hair Pigtail << Outline,헤어 피그테일 << 개요,Haarzopf << Umriss,Haj Pigtail << Vázlat,Косичка для волос << Схема,Coleta de pelo << Contorno,おさげ 輪郭 <<,Queue de cochon << Aperçu,头发 马尾 << 轮廓,辮子 << 大綱
-Rose,Rose,Rose,장미,Rose,Rózsa,Роза,Rosa,バラ,Rose,玫瑰,玫瑰
-RoundSign,Round Sign,Round Sign,둥근 표시,Rundes Schild,Kerek Jel,Круглый знак,Señal redonda,採点棒,Signe rond,圆形标牌,圓形標誌
-RoundSignText,Round Sign Text,Round Sign Text,둥근 기호 텍스트,Rundes Schild Text,Kerek jel szöveg,Текст круглого знака,Texto de la señal redonda,採点棒の文字,Texte de signe rond,圆形标牌 文字,圓形標誌文本
-SideHair,Hair Side,Hair Side,헤어사이드,Haare Seite,Hajoldal,Сторона волос,Cabello de los lados trasero,横髪,Côté cheveux,头发 侧面,頭髮側
-SideHairOutline,Hair Side Outline,Hair Side Outline,머리 옆 윤곽선,Haare Seite Umriss,Haj oldalsó körvonal,Контур волос сбоку,Contorno del cabello de los lados trasero,横髪 輪郭,Contour côté cheveux,头发 侧面 轮廓,頭髮側面輪廓
-Skin,Skin,Skin,피부,Haut,Bőr,Кожа,Piel,肌,Peau,肤色,皮膚
-SkinOutline,Skin Outline,Skin Outline,피부 윤곽,Hautumriss,Bőr körvonala,Контур кожи,Contorno de la piel,肌 輪郭,Contour de la peau,肤色 轮廓,皮膚輪廓
-SquareSign,Square Sign,Square Sign,정사각형 표시,Quadratisches Schild,négyzet alakú jel,Квадратный знак,Señal cuadrada,手持ち看板,Signe carré,方形标牌,方形標誌
-SquareSignText,Square Sign Text,Square Sign Text,사각형 기호 텍스트,Quadratisches Schild Text,Négyzet alakú jel szöveg,Текст квадратного знака,Texto de la señal cuadrada,手持ち看板の文字,Texte de signe carré,方形标牌 文字,方形符號文字
-SteeringWheel,Steering Wheel,Steering Wheel,스티어링 휠,Lenkrad,Kormánykerék,Руль,Volante,ハンドル,Volant,方向盘,方向盤
-GasBottle,Gas Bottle,Gas Bottle,가스통,Gasflasche,Gázpalack,Газовый баллон,Tanque de Copium,ガスボンベ,Bouteille de gaz,压缩气瓶,氣瓶
-Sticker_Front/PatHand,Pat Hand,Pat Hand,팻 핸드,Streichelhand,Pat Hand,Пэт Хэнд,Mano de la palmadita,なで手,Pat Main,摸头手,拍手
-StickerAlert,Sticker Alert,Sticker Alert,스티커 알림,Aufkleber Alert,Matrica figyelmeztetés,Наклейка Оповещение,Color de la alerta,アラートステッカー,Alerte autocollant,表情贴纸 通知/提示,貼紙警報
-StickerAlertEffect,Sticker Alert Effect,Sticker Alert Effect,스티커 알림 효과,Aufkleber Alert Effekt,Matrica figyelmeztető hatás,Эффект оповещения стикера,Efecto de la alerta,アラートエフェクト,Effet d'alerte autocollant,表情贴纸 通知/提示 特效,貼紙警報效果
-StickerAlertOutline,Sticker Alert Outline,Sticker Alert Outline,스티커 알림 개요,Aufkleber Alert Umriss,Matrica figyelmeztetés vázlata,Схема оповещения о наклейках,Contorno de la alerta,アラート 輪郭,Aperçu de l’alerte autocollant,表情贴纸 通知/提示 轮廓,貼紙警報大綱
-StickerAngry,Sticker Angry,Sticker Angry,스티커 화가,Aufkleber Wütend,Dühös matrica,Наклейка Злой,Efecto enojado,怒りステッカー,Autocollant En colère,表情贴纸 生气,貼紙生氣
-StickerExclamationMark,Sticker Exclamation Mark,Sticker Exclamation Mark,스티커 느낌표,Aufkleber Ausrufezeichen,Matrica felkiáltójel,Наклейка с восклицательным знаком,Signo de exclamación,びっくりマークステッカー,Autocollant point d'exclamation,表情贴纸 感叹号,貼紙驚嘆號
-StickerGhost,Sticker Ghost,Sticker Ghost,스티커 고스트,Aufkleber Geist,Matrica Ghost,Наклейка Призрак,Efecto Fantasma,おばけステッカー,Autocollant Fantôme,表情贴纸 幽灵,貼紙幽靈
-StickerHeart,Sticker Heart,Sticker Heart,스티커 하트,Aufkleber Herz,Matrica szív,Наклейка Сердце,Efecto Corazón,ハートステッカー,Autocollant Coeur,表情贴纸 爱心,貼紙心
-StickerLaugh,Sticker Laugh,Sticker Laugh,스티커 웃음,Aufkleber Lachen,Nevetés matrica,Наклейка «Смех»,Efecto Risa,笑いステッカー,Autocollant Rire,表情贴纸 笑,貼紙笑
-StickerQuestionMark,Sticker Question Mark,Sticker Question Mark,스티커 물음표,Aufkleber Fragezeichen,Matrica kérdőjel,Наклейка с вопросительным знаком,Signo de interrogación,はてなステッカー,Autocollant point d'interrogation,表情贴纸 问号,貼紙問號
-StickerSleep,Sticker Sleep,Sticker Sleep,스티커 수면,Aufkleber Schlaf,Alvó matrica,Наклейка Сон,Efecto Dormir,寝るステッカー,Autocollant Sommeil,表情贴纸 睡觉,貼紙睡眠
-StickerStar,Sticker Star,Sticker Star,스티커 별,Aufkleber Stern,Matrica csillag,Наклейка Звезда,Efecto Estrella,星ステッカー,Autocollant Étoile,表情贴纸 星星,貼紙明星
-StickerSteam,Sticker Steam,Sticker Steam,스티커 스팀,Aufkleber Dampf,Steam matrica,Наклейка Steam,Efecto Vapor,湯気ステッカー,Autocollant Vapeur,表情贴纸 气,貼紙蒸汽
-StickerSurprise,Sticker Surprise,Sticker Surprise,스티커 서프라이즈,Aufkleber Überraschung,Matrica Meglepetés,Наклейка-сюрприз,Efecto Sorpresa,びっくりステッカー,Autocollant Surprise,表情贴纸 惊吓,貼紙驚喜
-StickerSweat,Sticker Sweat,Sticker Sweat,스티커 땀,Aufkleber Schweiß,Matrica verejték,Наклейка Пот,Gota de Sudor,汗ステッカー,Autocollant Sueur,表情贴纸 汗,貼紙汗水
-StickerSweatLarge,Sticker Sweat (Large),Sticker Sweat (Large),스티커 스웨트(대),Aufkleber Schweiß (Groß),Izzadt matrica (nagy),Наклейка Пот (большая),Gota de Sudor (Grande),汗ステッカー（大）,Autocollant Sweat (Grand),表情贴纸 汗（大）,汗貼（大）
-StickerVolume,Sticker Volume,Sticker Volume,스티커 볼륨,Aufkleber Lautstärke,Matrica kötet,Объем наклейки,Efecto de Volumen,音量ステッカー,Volume des autocollants,表情贴纸 音量,貼紙量
-StickyNote,Sticky Note,Sticky Note,스티커 메모,Haftnotiz,Sticky Note,Заметка,Nota adhesiva,ふせん,Pense-bête,表情贴纸 便签,便利貼
-StickyNoteText,Sticky Note Text,Sticky Note Text,스티커 메모 텍스트,Haftnotiz Text,Sticky Note szöveg,Текст заметки,Texto de nota adhesiva,ふせんの文字,Texte de pense-bête,表情贴纸 便签 文字,便箋文本
-Tear,Eye Tear,Eye Tear,눈의 눈물,Augentränen,Eye Tear,Глазная слеза,Lágrima del ojo,涙,Larme aux yeux,眼睛 眼泪,眼睛流淚
-Utensil,Utensil,Utensil,기구,Besteck,Konyhaedény,Посуда,Utensilio,食器,Ustensile,餐具,用具
-OutfitCollarString,Outfit Collar String,Outfit Collar String,의상 칼라 스트링,Outfit Kragenschnur,Outfit nyakörv,Строка для воротника наряда,Cordón del cuello del Outfit,襟ひも,Chaîne de collier de tenue,服装 领子 抽绳,服飾領帶
-Bell,Bell,Bell,벨,Glocke,Harang,Белл,Campana,ベル,Cloche,铃铛,鐘
-Confetti1,Confetti 1,Confetti 1,색종이 1,Konfetti 1,Konfetti 1,Конфетти 1,Confeti 1,紙吹雪1,Confettis 1,彩纸 1,五彩紙屑 1
-Confetti2,Confetti 2,Confetti 2,색종이 2,Konfetti 2,Konfetti 2,Конфетти 2,Confeti 2,紙吹雪2,Confettis 2,彩纸 2,五彩紙屑 2
-Confetti3,Confetti 3,Confetti 3,색종이 3,Konfetti 3,Konfetti 3,Конфетти 3,Confeti 3,紙吹雪3,Confettis 3,彩纸 3,五彩紙屑 3
-Microphone,Microphone,Microphone,마이크로폰,Mikrofon,Mikrofon,Микрофон,Micrófono,マイクロフォン,Microphone,麦克风,麥克風
-Gleam,Gleam,Gleam,번득임,Glänzen,Csillog,Блеск,Destello,光る,Lueur,光晕,微光
-VideoCamera,Video Camera,Video Camera,비디오 카메라,Videokamera,Videokamera,Видеокамера,Cámara de video,ビデオカメラ,Caméra vidéo,摄像机,攝影機
-PointHand,Point Hand,Point Hand,포인트 핸드,Zeigen Sie mit der Hand,Pontos kéz,Точка руки,Punto de la mano,ポイントハンド,Pointer la main,指人手,點手
-Bowl,Bowl,Bowl,그릇,Schüssel,Tál,Чаша,Bol,ボウル,Bol,碗,碗
-Cake,Cake,Cake,케이크,Kuchen,Torta,Торт,Pastel,ケーキ,Gâteau,蛋糕,蛋糕
-CandleFire,Candle Fire,Candle Fire,촛불불,Kerzenfeuer,Gyertya tűz,Свеча Огонь,fuego de vela,キャンドルファイア,Feu de bougie,蜡烛 火焰,蠟燭火
-DrawingTablet,Drawing Tablet,Drawing Tablet,드로잉 태블릿,Zeichentablett,Rajz tábla,Планшет для рисования,tableta de dibujo,お絵描きタブレット,Tablette à dessin,画板,繪圖板
-LoveLetter,Love Letter,Love Letter,연애 편지,Liebesbrief,Szerelmeslevél,Любовное письмо,carta de amor,ラブレター,Lettre d'amour,情书,情書
-Popper,Popper,Popper,포퍼,Popper,Popper,Поппер,Corchete,ポッパー,Popper,彩纸筒,波普爾
-Stylus,Stylus,Stylus,첨필,Stift,Stylus,Стилус,Aguja,スタイラス,Style,手写笔,手寫筆
-Tablet,Tablet,Tablet,태블릿,Tablette,Tabletta,Таблетка,Tableta,錠剤,Comprimé,画板,藥片
-MusicalNote1,Musical Note 1,Musical Note 1,음표 1,Musiknote 1,Hangjegy 1,Музыкальная нота 1,Nota musical 1,音符1,Note de musique 1,音乐 音符 1,音符1
-MusicalNote2,Musical Note 2,Musical Note 2,음표 2,Musiknote 2,Hangjegy 2,Музыкальная нота 2,Nota musical 2,音符2,Note de musique 2,音乐 音符 2,音符2
-PhoneScreen,Phone Screen,Phone Screen,전화 화면,Telefonbildschirm,Telefon képernyő,Экран телефона,Pantalla del teléfono,電話画面,Écran du téléphone,手机 屏幕,手機螢幕
-Tail,Tail,Tail,꼬리,Schwanz,Farok,Хвост,Cola,しっぽ,Queue,尾巴,尾巴
-TailOutline,Tail Outline,Tail Outline,꼬리 외곽선,Schwanzumriss,Farok körvonala,Контур хвоста,Contorno de la cola,尾部の輪郭,Contour de la queue,尾巴 轮廓,尾部輪廓
-WingLeft,Wing >>,Wing >>,윙 >>,Flügel >>,Szárny >>,Крыло >>,Ala >>,ウィング >>,Aile >>,翅膀 >>,翼>>
-WingLeftOutline,Wing >> Outline,Wing >> Outline,날개 >> 개요,Flügel >> Umriss,Szárny >> Vázlat,Крыло >> Схема,Ala >> Contorno,ウイング >> 概要,Aile >> Aperçu,翅膀 >> 轮廓,翼>>概要
-WingRight,Wing <<,Wing <<,윙 <<,Flügel <<,Szárny <<,Крыло <<,Ala <<,ウィング <<,Aile <<,翅膀 <<,翼 <<
-WingRightOutline,Wing << Outline,Wing << Outline,날개 << 개요,Flügel << Umriss,Szárny << Vázlat,Крыло << Схема,Ala << Contorno,ウイング << 概要,Aile << Aperçu,翅膀 << 轮廓,翼 << 大綱
+GroupName,DisplayName,en,zh-Hans,hu,es,ja,ru,zh-Hant,fr,de,ko
+Ahoge,Hair Ahoge,Hair Ahoge,头发呆毛,Haj Ahoge,Ahoge,アホ毛,Волосы Ахоге,頭髮呆毛,Cheveux Ahoge,Haare Ahoge,헤어 아호게
+AhogeOutline,Hair Ahoge Outline,Hair Ahoge Outline,头发呆毛轮廓,Haj Ahoge vázlat,Contorno del Ahoge,アホ毛 輪郭,Наброски волос Ахоге,頭髮呆毛輪廓,Aperçu des cheveux Ahoge,Haare Ahoge Umriss,헤어 아호게 윤곽선
+AnimalEarLeft,Animal Ear >>,Animal Ear >>,兽耳 >>,Állati fül >>,Oreja de animal >>,ケモ耳 >>,Ухо животного >>,獸耳 >>,Oreille d'animal >>,Tierohr >>,동물의 귀 >>
+AnimalEarLeftFur,Animal Ear >> Fur,Animal Ear >> Fur,兽耳 >> 毛,Állati fül >> Szőrme,Orejas de animal >> Pelaje,ケモ耳 毛 >>,Уши животных >> Мех,獸耳 >> 毛,Oreille d'animal >> Fourrure,Tierohr >> Fell,동물의 귀 >> 모피
+AnimalEarLeftFurOutline,Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,兽耳 >> 毛轮廓,Állati fül >> Szőrme körvonala,Orejas de animal >> Contorno del pelaje,ケモ耳 毛 輪郭 >>,Ухо животного >> Контур меха,獸耳 >> 毛輪廓,Oreille d'animal >> Contour de fourrure,Tierohr >> Fellumriss,동물의 귀 >> 모피 개요
+AnimalEarLeftOutline,Animal Ear >> Outline,Animal Ear >> Outline,兽耳 >> 轮廓,Állati fül >> Vázlat,Orejas de animal >> Contorno,ケモ耳 輪郭 >>,Ухо животного >> Схема,獸耳 >> 輪廓,Oreille d'animal >> Aperçu,Tierohr >> Umriss,동물의 귀 >> 개요
+AnimalEarRight,Animal Ear <<,Animal Ear <<,兽耳 <<,Állati fül <<,Orejas de animal <<,ケモ耳 <<,Ухо животного <<,獸耳 <<,Oreille d'animal <<,Tierohr <<,동물의 귀 <<
+AnimalEarRightFur,Animal Ear << Fur,Animal Ear << Fur,兽耳 << 毛,Állati fül << Szőrme,Orejas de animal << Pelaje,ケモ耳 毛 <<,Ухо животного << Мех,獸耳 << 毛,Oreille d'animal << Fourrure,Tierohr << Fell,동물의 귀 << 모피
+AnimalEarRightFurOutline,Animal Ear << Fur Outline,Animal Ear << Fur Outline,兽耳 << 毛轮廓,Állati fül << szőrme körvonala,Orejas de animal << Contorno del pelaje,ケモ耳 毛 輪郭 <<,Ухо животного << Контур меха,獸耳 << 毛輪廓,Oreille d'animal << Contour de fourrure,Tierohr << Fellumriss,동물 귀 << 모피 개요
+AnimalEarRightOutline,Animal Ear << Outline,Animal Ear << Outline,兽耳 << 轮廓,Állati fül << Vázlat,Orejas de animal << Contorno,ケモ耳 輪郭 <<,Ухо животного << Схема,獸耳 << 輪廓,Oreille d'animal << Aperçu,Tierohr << Umriss,동물의 귀 << 개요
+AntennaLeft,Antenna >>,Antenna >>,触角 >>,Antenna >>,Antena >>,アンテナ >>,Антенна >>,觸角 >>,Antenne >>,Antenne >>,안테나 >>
+AntennaLeftOutline,Antenna >> Outline,Antenna >> Outline,触角 >> 轮廓,Antenna >> Vázlat,Antena >> Contorno,アンテナ 輪郭 >>,Антенна >> Схема,觸角 >> 輪廓,Antenne >> Aperçu,Antenne >> Umriss,안테나 >> 개요
+AntennaRight,Antenna <<,Antenna <<,触角 <<,Antenna <<,Antena <<,アンテナ <<,Антенна <<,觸角 <<,Antenne <<,Antenne <<,안테나 <<
+AntennaRightOutline,Antenna << Outline,Antenna << Outline,触角 << 轮廓,Antenna << Vázlat,Antena << Contorno,アンテナ 輪郭 <<,Антенна << Схема,觸角 << 輪廓,Antenne << Aperçu,Antenne << Umriss,안테나 << 개요
+BackHair,Hair Rear,Hair Rear,头发 后侧,Haj Hátsó,Pelo trasero,後ろ髪,Волосы сзади,頭髮 後側,Cheveux arrière,Haare hinten,헤어 리어
+BackHairOutline,Hair Rear Outline,Hair Rear Outline,头发 后侧 轮廓,Haj hátsó körvonala,Contorno del pelo trasero,後ろ髪 輪郭,Контур волос сзади,頭髮 後側 輪廓,Contour arrière des cheveux,Haare hinten Umriss,헤어 후면 윤곽선
+BeverageCup,Beverage Cup,Beverage Cup,饮料杯,Italpohár,Vaso de bebida,飲み物のカップ,Кубок для напитков,飲料杯,Tasse de boisson,Getränkebecher,음료 컵
+BeverageLiquid,Beverage Liquid,Beverage Liquid,饮料杯 液体,Folyékony ital,Líquido del vaso,飲み物,жидкость для напитков,飲料杯 液體,Boisson liquide,Becherflüssigkeit,음료수 액체
+BeverageLiquid2,Beverage Liquid 2,Beverage Liquid 2,饮料杯 液体 2,Folyékony ital 2,Líquido del vaso 2,飲み物2,Жидкость для напитков 2,飲料杯 液體 2,Boisson liquide 2,Becherflüssigkeit 2,음료수 2
+Bill,Bill,Bill,钞票,Számla,Billetes,紙幣,Счет,鈔票,Facture,Schnabel,청구서
+BlanketInner,Blanket Inner,Blanket Inner,被子 里侧,Belső takaró,Manta interior,ブランケット内側,Одеяло внутреннее,被子 裏側,Couverture intérieure,Decke innen,담요 내부
+BlanketOutter,Blanket Outter,Blanket Outter,被子 外侧,Külső takaró,Manta exterior,ブランケット外側,Одеяло наружное,被子 外側,Couverture extérieure,Decke außen,담요 외부
+Blush,Face Blush,Face Blush,脸红,Arcpirosító,Rubor,頬の赤み,Румяна для лица,臉紅,Fard À Joues Pour Le Visage,Gesichtsröte,페이스 블러셔
+BrowLeft,Brow >>,Brow >>,眉毛 >>,Szemöldök >>,Ceja >>,眉 >>,Брови >>,眉毛 >>,Sourcil >>,Augenbraue >>,눈썹 >>
+BrowRight,Brow <<,Brow <<,眉毛 <<,Szemöldök <<,Ceja <<,眉 <<,Брови <<,眉毛 <<,Sourcils <<,Augenbraue <<,눈썹 <<
+Chopstick,Chopstick,Chopstick,筷子,Pálcika,Palillos,お箸,Палочки для еды,筷子,Baguette,Stäbchen,젓가락
+Crowbar,Crowbar,Crowbar,撬棍,Emelőrúd,Palanca,バール,лом,撬棍,Pied de biche,Brecheisen,바
+Cup,Cup,Cup,咖啡杯,Csésze,Taza,カップ,Чашка,咖啡杯,Tasse,Tasse,컵
+CupSteam,Cup Steam,Cup Steam,咖啡杯 蒸汽,Kupa Steam,Vapor de la taza,湯気,Кубок Паровой,咖啡杯 蒸汽,Tasse Vapeur,Tasse Dampf,컵 스팀
+Door,Door/Wall,Door/Wall,门/墙,Ajtó/fal,Puerta/Pared,ドア／壁,Дверь/Стена,門/牆,Porte/Mur,Tür/Wand,문/벽
+DumEyePupilLeft,Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,呆眼 瞳孔 >>,Szem(Dum) Pupilla >>,Pupila (tonta) >>,ほげ目 瞳 >>,Глаз(Дум) Зрачок >>,呆眼 瞳孔 >>,Oeil (Dum) Pupille >>,Auge(Dum) Pupille >>,눈(Dum) 눈동자 >>
+DumEyePupilRight,Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,呆眼 瞳孔  <<,Szem(Dum) Pupilla <<,Pupila (tonta) <<,ほげ目 瞳 <<,Глаз (Дум) Зрачок <<,呆眼 瞳孔  <<,Oeil(Dum)Pupille <<,Auge(Dum) Pupille <<,눈(덤) 동공 <<
+Eyebag,Eyebag,Eyebag,眼袋,Szemtáska,Ojeras,目のクマ,Мешок для глаз,眼袋,Poche oculaire,Tränensack,아이백
+EyeDarkLeft,Eye Iris Dark >>,Eye Iris Dark >>,眼睛 虹膜深色 >>,Szem Iris Sötét >>,Iris Oscuro >>,虹彩 濃 >>,Глаза Ирис Темные >>,眼睛 虹膜深色 >>,Iris des yeux foncé >>,Augeniris dunkel >>,아이 아이리스 다크 >>
+EyeDarkRight,Eye Iris Dark <<,Eye Iris Dark <<,眼睛 虹膜深色 <<,Szem Iris Sötét <<,Iris Oscuro <<,虹彩 濃 <<,Глаза Радужная оболочка Темные <<,眼睛 虹膜深色 <<,Iris des yeux foncé <<,Augeniris dunkel <<,눈 홍채 다크 <<
+EyeDollar,Eye Dollar,Eye Dollar,眼睛 钱,Szem dollár,Ojos de dinero,お金の目,Глаз доллара,眼睛 錢,Dollar pour les yeux,Augendollar,아이달러
+EyeHeart,Eye Heart,Eye Heart,眼睛 爱心,Szem Szív,Ojos de corazón,ハート目,Глаз Сердце,眼睛 愛心,Oeil Coeur,Augenherz,아이하트
+EyeHighlight,Eye Highlight,Eye Highlight,眼睛 高光,Szemkiemelés,Brillo del ojo,目ハイライト,Выделение глаз,眼睛 高光,Point culminant des yeux,Augen Highlight,아이 하이라이트
+Eyelash,Eyelashes,Eyelashes,眼睛 睫毛,Szempilla,Pestañas,まつげ,Ресницы,眼睛 睫毛,Cils,Wimpern,속눈썹
+EyeLightLeft,Eye Iris Light >>,Eye Iris Light >>,眼睛 虹膜浅色 >>,Szem írisz fénye >>,Brillo del iris >>,虹彩 淡 >>,Глаза Ирис Светлый >>,眼睛 虹膜淺色 >>,Lumière de l'iris des yeux >>,Augeniris hell >>,눈 홍채 라이트 >>
+EyeLightRight,Eye Iris Light <<,Eye Iris Light <<,眼睛 虹膜浅色 <<,Eye Iris Light <<,Brillo del iris <<,虹彩 淡 <<,Глаза Ирис Светлый <<,眼睛 虹膜淺色 <<,Lumière de l'iris des yeux <<,Augeniris hell <<,눈 홍채 빛 <<
+EyeOutline,Eye(Dum) Outline,Eye(Dum) Outline,呆眼 轮廓,Szem(Dum) körvonal,Contorno de ojo (tonto),ほげ目 輪郭,Контур глаза (дум),呆眼 輪廓,Contour de l'oeil (Dum),Augen(Dum) Umriss,눈(Dum) 외곽선
+EyeSparkling,Eye Sparkling,Eye Sparkling,眼睛 星星,Szem csillogó,Ojos chispeantes,キラキラ目,Сверкающие глаза,眼睛 星星,Oeil pétillant,Augenfunkeln,눈 반짝임
+EyeSpiral,Eye Spiral,Eye Spiral,眼睛 圈圈,Szemspirál,Espiral en los ojos,ぐるぐる目,Глазная спираль,眼睛 圈圈,Spirale des yeux,Augenspirale,눈 나선형
+EyeWhite,Eye White,Eye White,眼睛 白色部分,Szem fehér,Ojo blanco,白目,Глаз Белый,眼睛 白色部分,Oeil blanc,Augenweiß,눈 흰자
+FaceShadow,Face Shadow,Face Shadow,脸 阴影,Arcárnyék,Sombra de la cara,顔影,Тень для лица,臉 陰影,Ombre à visage,Gesichtsschatten,페이스 섀도우
+FinLeft,Fin >>,Fin >>,鳍 >>,Fin >>,Aleta >>,ヒレ >>,Фин >>,鰭 >>,Aileron >>,Flosse >>,핀 >>
+FinLeftOutline,Fin >> Outline,Fin >> Outline,鳍 >> 轮廓,Fin >> Vázlat,Aleta >> Contorno,ヒレ 輪郭 >>,Фин >> Схема,鰭 >> 輪廓,Fin >> Aperçu,Flosse >> Umriss,핀 >> 개요
+FinRight,Fin <<,Fin <<,鳍 <<,Fin <<,aleta <<,ヒレ <<,Фин <<,鰭 <<,Fin <<,Flosse <<,핀 <<
+FinRightOutline,Fin << Outline,Fin << Outline,鳍 << 轮廓,Fin << Vázlat,Fin << Contorno,ヒレ 輪郭 <<,Плавник << Схема,鰭 << 輪廓,Fin << Aperçu,Flosse << Umriss,핀 << 개요
+FrameHairLeft,Hair Framing >>,Hair Framing >>,头发 脸颊 >>,Hajkeretezés >>,Mechón frontal >>,顔まわり髪 >>,Оформление волос >>,頭髮 臉頰 >>,Encadrement des cheveux >>,Seitensträhnen >>,헤어 프레이밍 >>
+FrameHairLeftOutline,Hair Framing >> Outline,Hair Framing >> Outline,头发 脸颊 >> 轮廓,Hajkeretezés >> Vázlat,Mechón frontal >> Contorno,顔まわり髪 輪郭 >>,Оформление волос >> Схема,頭髮 臉頰 >> 輪廓,Encadrement des cheveux >> Aperçu,Seitensträhnen >> Umriss,헤어 프레이밍 >> 개요
+FrameHairRight,Hair Framing <<,Hair Framing <<,头发 脸颊 <<,Hajkeretezés <<,Mechón frontal <<,顔まわり髪 <<,Оформление волос <<,頭髮 臉頰 <<,Encadrement des cheveux <<,Seitensträhnen <<,헤어 프레이밍 <<
+FrameHairRightOutline,Hair Framing << Outline,Hair Framing << Outline,头发 脸颊 << 轮廓,Hajkeretezés << Vázlat,Mechón frontal << Contorno,顔まわり髪 輪郭 <<,Оформление волос << Схема,頭髮 臉頰 << 輪廓,Encadrement des cheveux << Aperçu,Seitensträhnen << Umriss,헤어 프레이밍 << 개요
+Gill,Gill,Gill,腮,Kopoltyú,Branquia,エラ,Джилл,腮,Gil,Kieme,아가미
+GillOutline,Gill Outline,Gill Outline,腮 轮廓,Gill vázlat,Contorno de la branquia,エラ 輪郭,Схема Джилла,腮 輪廓,Aperçu des branchies,Kiemen Umriss,길 외곽선
+Glasses,Glasses,Glasses,眼镜,Szemüveg,Anteojos,メガネ,Очки,眼鏡,Lunettes,Brille,안경
+HairbandA,Hairband A,Hairband A,发带 A,Hajpánt A,Diadema A,ヘアバンドA,Лента для волос А,髮帶 A,Bandeau A,Haarband A,헤어밴드A
+HairbandAOutline,Hairband A Outline,Hairband A Outline,发带 A 轮廓,Hajpánt Vázlat,Contorno de Diadema A,ヘアバンドA 輪郭,Лента для волос A Outline,髮帶 A 輪廓,Bandeau A Contour,Haarband A Umriss,헤어밴드A 개요
+HairbandB,Hairband B,Hairband B,发带 B,Hajpánt B,Diadema B,ヘアバンドB,Лента для волос Б,髮帶 B,Bandeau B,Haarband B,헤어밴드B
+HairbandBOutline,Hairband B Outline,Hairband B Outline,发带 B 轮廓,Hajpánt B körvonal,Contorno de Diadema B,ヘアバンドB 輪郭,Лента для волос B. Контур,髮帶 B 輪廓,Bandeau B Contour,Haarband B Umriss,헤어밴드B 개요
+HairbandC,Hairband C,Hairband C,发带 C,Hajpánt C,Diadema C,ヘアバンドC,Повязка для волос С,髮帶 C,Bandeau C,Haarband C,헤어밴드 C
+HairbandCOutline,Hairband C Outline,Hairband C Outline,发带 C 轮廓,Hajpánt C körvonal,Contorno de Diadema C,ヘアバンドC 輪郭,Лента для волос C. Контур,髮帶 C 輪廓,Bandeau C Contour,Haarband C Umriss,헤어밴드C 개요
+HairbandD,Hairband D,Hairband D,发带 D,Hajpánt D,Diadema D,ヘアバンドD,Ободок для волос D,髮帶 D,Bandeau D,Haarband D,헤어밴드 D
+HairbandDOutline,Hairband D Outline,Hairband D Outline,发带 D 轮廓,Hajpánt D körvonal,Contorno de Diadema D,ヘアバンドD 輪郭,Повязка для волос D Outline,髮帶 D 輪廓,Bandeau D Contour,Haarband D Umriss,헤어밴드D 개요
+HairBangLeft,Hair Bang >>,Hair Bang >>,头发 刘海 >>,Hair Bang >>,Flequillo >>,前髪 >>,Челка >>,頭髮 劉海 >>,Frange de cheveux >>,Pony >>,헤어뱅 >>
+HairBangLeftOutline,Hair Bang >> Outline,Hair Bang >> Outline,头发 刘海 >> 轮廓,Hair Bang >> Vázlat,Flequillo >> Contorno,前髪 輪郭 >>,Челка >> Схема,頭髮 劉海 >> 輪廓,Frange de cheveux >> Aperçu,Pony >> Umriss,헤어뱅 >> 개요
+HairBangMiddle,Hair Bang ><,Hair Bang ><,头发 刘海 ><,Hair Bang ><,Flequillo ><,前髪 中央,Челка для волос ><,頭髮 劉海 ><,Frange de cheveux ><,Pony ><,헤어뱅 ><
+HairBangMiddleOutline,Hair Bang >< Outline,Hair Bang >< Outline,头发 刘海 >< 轮廓,Hair Bang >< Vázlat,Flequillo >< Contorno,前髪 中央 輪郭,Челка >< Схема,頭髮 劉海 >< 輪廓,Frange de cheveux >< Aperçu,Pony >< Umriss,헤어뱅 >< 개요
+HairBangRight,Hair Bang <<,Hair Bang <<,头发 刘海 <<,Hair Bang <<,Flequillo <<,前髪 <<,Челка для волос <<,頭髮 劉海 <<,Frange de cheveux <<,Pony <<,헤어뱅 <<
+HairBangRightOutline,Hair Bang << Outline,Hair Bang << Outline,头发 刘海 << 轮廓,Hair Bang << Vázlat,Flequillo << Contorno,前髪 輪郭 <<,Челка << Схема,頭髮 劉海 << 輪廓,Frange de cheveux << Aperçu,Pony << Umriss,헤어뱅 << 개요
+HairClipLeft,Hair Clip >>,Hair Clip >>,发夹 >>,Hajcsipesz >>,Pinza para el pelo >>,ヘアクリップ >>,Заколка для волос >>,髮夾 >>,Pince à cheveux >>,Haarspange >>,헤어클립 >>
+HairClipLeftOutline,Hair Clip >> Outline,Hair Clip >> Outline,发夹 >> 轮廓,Hajcsat >> Vázlat,Pinza para el cabello >> Contorno,ヘアクリップ 輪郭 >>,Заколка для волос >> Схема,髮夾 >> 輪廓,Pince à cheveux >> Aperçu,Haarspange >> Umriss,헤어핀 >> 개요
+HairClipRight,Hair Clip <<,Hair Clip <<,发夹 <<,Hajcsat <<,Pinza para el pelo <<,ヘアクリップ <<,Заколка для волос <<,髮夾 <<,Pince à cheveux <<,Haarspange <<,헤어클립 <<
+HairClipRightOutline,Hair Clip << Outline,Hair Clip << Outline,发夹 << 轮廓,Hajcsat << Vázlat,Pinza para el cabello << Contorno,ヘアクリップ 輪郭 <<,Заколка для волос << Схема,髮夾 << 輪廓,Pince à cheveux << Aperçu,Haarspange << Umriss,헤어클립 << 개요
+HairHighlightLeft1,Hair Highlight 1 >>,Hair Highlight 1 >>,挑染 1 >> ,Hajkiemelés 1 >>,Mechas de cabello 1 >>,髪ハイライト1 >>,Мелирование волос 1 >>,挑染 1 >> ,Mèches de cheveux 1 >>,Haar Highlight 1 >>,헤어 하이라이트 1 >>
+HairHighlightLeft1Outline,Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,挑染 1 >> 轮廓,Hajkiemelés 1 >> Vázlat,Mechas de cabello 1 >> Contorno,髪ハイライト1 輪郭 >>,Мелирование волос 1 >> Контур,挑染 1 >> 輪廓,Mèches de cheveux 1 >> Aperçu,Haar Highlight 1 >> Umriss,헤어 하이라이트 1 >> 개요
+HairHighlightLeft2,Hair Highlight 2 >>,Hair Highlight 2 >>,挑染 2 >> ,Hajkiemelés 2 >>,Mechas de cabello 2 >>,髪ハイライト2 >>,Мелирование волос 2 >>,挑染 2 >> ,Mèches de cheveux 2 >>,Haar Highlight 2 >>,헤어 하이라이트 2 >>
+HairHighlightLeft2Outline,Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,挑染 2 >> 轮廓,Hajkiemelés 2 >> Vázlat,Mechas de cabello 2 >> Contorno,髪ハイライト2 輪郭 >>,Мелирование волос 2 >> Контур,挑染 2 >> 輪廓,Mèches capillaires 2 >> Aperçu,Haar Highlight 2 >> Umriss,헤어하이라이트2 >> 개요
+HairHighlightLeft3,Hair Highlight 3 >>,Hair Highlight 3 >>,挑染 3 >> ,Hajkiemelés 3 >>,Mechas de cabello 3 >>,髪ハイライト3 >>,Мелирование волос 3 >>,挑染 3 >> ,Mèches de cheveux 3 >>,Haar Highlight 3 >>,헤어 하이라이트 3 >>
+HairHighlightLeft3Outline,Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,挑染 3 >> 轮廓,Hajkiemelés 3 >> Vázlat,Mechas de cabello 3 >> Contorno,髪ハイライト3 輪郭 >>,Мелирование волос 3 >> Контур,挑染 3 >> 輪廓,Mèches capillaires 3 >> Aperçu,Haar Highlight 3 >> Umriss,헤어하이라이트3 >> 개요
+HairHighlightMiddle1,Hair Highlight 1 ><,Hair Highlight 1 ><,挑染 1 >< ,Hajkiemelés 1 ><,Mechas de cabello 1 ><,髪ハイライト1 中央,Мелирование волос 1 ><,挑染 1 >< ,Mèches de cheveux 1 ><,Haar Highlight 1 ><,헤어하이라이트 1 ><
+HairHighlightMiddle1Outline,Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,挑染 1 >< 轮廓,Hajkiemelés 1 >< Vázlat,Mechas de cabello 1 >< Contorno,髪ハイライト1 中央 輪郭,Мелирование волос 1 >< Схема,挑染 1 >< 輪廓,Mèches de cheveux 1 >< Aperçu,Haar Highlight 1 >< Umriss,헤어하이라이트 1 >< 개요
+HairHighlightMiddle2,Hair Highlight 2 ><,Hair Highlight 2 ><,挑染 2 >< ,Hajkiemelés 2 ><,Mechas de cabello 2 ><,髪ハイライト2 中央,Мелирование волос 2 ><,挑染 2 >< ,Mèches de cheveux 2 ><,Haar Highlight 2 ><,헤어하이라이트 2 ><
+HairHighlightMiddle2Outline,Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,挑染 2 >< 轮廓,Hajkiemelés 2 >< Vázlat,Mechas de cabello 2 >< Contorno,髪ハイライト2 中央 輪郭,Мелирование волос 2 >< Схема,挑染 2 >< 輪廓,Mèches de cheveux 2 >< Aperçu,Haar Highlight 2 >< Umriss,헤어하이라이트 2 >< 개요
+HairHighlightMiddle3,Hair Highlight 3 ><,Hair Highlight 3 ><,挑染 3 >< ,Hajkiemelés 3 ><,Destacado del cabello 3 ><,髪ハイライト3 中央,Мелирование волос 3 ><,挑染 3 >< ,Mèches de cheveux 3 ><,Haar Highlight 3 ><,헤어하이라이트 3 ><
+HairHighlightMiddle3Outline,Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,挑染 3 >< 轮廓,Hajkiemelés 3 >< Vázlat,Mechas de cabello 3 >< Contorno,髪ハイライト3 中央 輪郭,Мелирование волос 3 >< Схема,挑染 3 >< 輪廓,Mèches de cheveux 3 >< Aperçu,Haar Highlight 3 >< Umriss,헤어하이라이트3 >< 개요
+HairHighlightMiddle4,Hair Highlight 4 ><,Hair Highlight 4 ><,挑染 4 >< ,Hajkiemelés 4 ><,Mechas de cabello 4 ><,髪ハイライト4 中央,Мелирование волос 4 ><,挑染 4 >< ,Mèches de cheveux 4 ><,Haar Highlight 4 ><,헤어하이라이트 4 ><
+HairHighlightMiddle4Outline,Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,挑染 4 >< 轮廓,Hajkiemelés 4 >< Vázlat,Mechas de cabello 4 >< Contorno,髪ハイライト4 中央 輪郭,Мелирование волос 4 >< Схема,挑染 4 >< 輪廓,Mèches de cheveux 4 >< Aperçu,Haar Highlight 4 >< Umriss,헤어하이라이트 4 >< 개요
+HairHighlightMiddle5,Hair Highlight 5 ><,Hair Highlight 5 ><,挑染 5 >< ,Hajkiemelés 5 ><,Mechas de cabello 5 ><,髪ハイライト5 中央,Мелирование волос 5 ><,挑染 5 >< ,Mèches de cheveux 5 ><,Haar Highlight 5 ><,헤어하이라이트 5 ><
+HairHighlightMiddle5Outline,Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,挑染 5 >< 轮廓,Hajkiemelés 5 >< Vázlat,Mechas de cabello 5 >< Contorno,髪ハイライト5 中央 輪郭,Мелирование волос 5 >< Схема,挑染 5 >< 輪廓,Mèches de cheveux 5 >< Aperçu,Haar Highlight 5 >< Umriss,헤어하이라이트 5 >< 개요
+HairHighlightMiddle6,Hair Highlight 6 ><,Hair Highlight 6 ><,挑染 6 >< ,Hajkiemelés 6 ><,Mechas de cabello 6 ><,髪ハイライト6 中央,Мелирование волос 6 ><,挑染 6 >< ,Mèches de cheveux 6 ><,Haar Highlight 6 ><,헤어하이라이트 6 ><
+HairHighlightMiddle6Outline,Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,挑染 6 >< 轮廓,Hajkiemelés 6 >< Vázlat,Mechas de cabello 6 >< Contorno,髪ハイライト6 中央 輪郭,Мелирование волос 6 >< Схема,挑染 6 >< 輪廓,Mèches de cheveux 6 >< Aperçu,Haar Highlight 6 >< Umriss,헤어하이라이트 6 >< 개요
+HairHighlightRight1,Hair Highlight 1 <<,Hair Highlight 1 <<,挑染 1 << ,Hajkiemelés 1 <<,Mechas de cabello 1 <<,髪ハイライト1 <<,Мелирование волос 1 <<,挑染 1 << ,Mèches de cheveux 1 <<,Haar Highlight 1 <<,헤어 하이라이트 1 <<
+HairHighlightRight1Outline,Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,挑染 1 << 轮廓,Hajkiemelés 1 << Vázlat,Mechas de cabello 1 << Contorno,髪ハイライト1 輪郭 <<,Мелирование волос 1 << Схема,挑染 1 << 輪廓,Mèches de cheveux 1 << Aperçu,Haar Highlight 1 << Umriss,헤어 하이라이트 1 << 개요
+HairHighlightRight2,Hair Highlight 2 <<,Hair Highlight 2 <<,挑染 2 << ,Hajkiemelés 2 <<,Mechas de cabello 2 <<,髪ハイライト2 <<,Мелирование волос 2 <<,挑染 2 << ,Mèches de cheveux 2 <<,Haar Highlight 2 <<,헤어 하이라이트 2 <<
+HairHighlightRight2Outline,Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,挑染 2 << 轮廓,Hajkiemelés 2 << Vázlat,Mechas de cabello 2 << Contorno,髪ハイライト2 輪郭 <<,Мелирование волос 2 << Схема,挑染 2 << 輪廓,Mèches de cheveux 2 << Aperçu,Haar Highlight 2 << Umriss,헤어하이라이트 2 << 개요
+HairHighlightRight3,Hair Highlight 3 <<,Hair Highlight 3 <<,挑染 3 << ,Hajkiemelés 3 <<,Mechas de cabello 3 <<,髪ハイライト3 <<,Мелирование волос 3 <<,挑染 3 << ,Mèches de cheveux 3 <<,Haar Highlight 3 <<,헤어 하이라이트 3 <<
+HairHighlightRight3Outline,Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,挑染 3 << 轮廓,Hajkiemelés 3 << Vázlat,Mechas de cabello 3 << Contorno,髪ハイライト3 輪郭 <<,Мелирование волос 3 << Схема,挑染 3 << 輪廓,Mèches de cheveux 3 << Aperçu,Haar Highlight 3 << Umriss,헤어하이라이트3 << 개요
+Hairline,Hairline Outline,Hairline Outline,发际线 轮廓,Hajvonal vázlat,Contorno de la rayita,生え際 輪郭,Контур линии роста волос,髮際線 輪廓,Contour des cheveux,Haarlinien Umriss,헤어라인 외곽선
+HairShine,Hair Shine,Hair Shine,头发 高光,Hajfény,Brillo del cabello,髪ツヤ,Блеск Волос,頭髮 高光,Brillance des cheveux,Haarglanz,헤어 샤인
+HairShineOutline,Hair Shine Outline,Hair Shine Outline,头发 高光 轮廓,Hajfény vázlat,Contorno del brillo del cabello,髪ツヤ 輪郭,Контур блеска волос,頭髮 高光 輪廓,Aperçu de la brillance des cheveux,Haarglanz Umriss,헤어 샤인 개요
+Halo,Halo,Halo,光环,Halo,Halo,天使の輪,Гало,光環,Halo,Heiligenschein,후광
+HaloOutline,Halo Outline,Halo Outline,光环 轮廓,Halo Outline,Contorno del halo,天使の輪 輪郭,Гало Контур,光環 輪廓,Aperçu du halo,Heiligenschein Umriss,헤일로 개요
+Hat,Hat,Hat,帽子,Kalap,Sombrero,帽子,Шляпа,帽子,Chapeau,Hut,모자
+HatOutline,Hat Outline,Hat Outline,帽子 轮廓,Kalap vázlat,Contorno del sombrero,帽子 輪郭,Контур шляпы,帽子 輪廓,Aperçu du chapeau,Hut Umriss,모자 개요
+HatSecondary,Hat Secondary,Hat Secondary,帽子 次要,Kalap másodlagos,Sombrero Secundario,帽子パーツ,Шляпа вторичная,帽子 次要,Chapeau Secondaire,Hut Sekundär,모자 보조
+HatOutlineSecondary,Hat Secondary Outline,Hat Secondary Outline,帽子 次要 轮廓,Kalap másodlagos vázlat,Contorno del sombrero secundario,帽子パーツ 輪郭,Вторичный контур шляпы,帽子 次要 輪廓,Contour secondaire du chapeau,Hut Sekundär Umriss,모자 보조 개요
+Hammer,Hammer,Hammer,锤子,Kalapács,Martillo,ハンマー,Молоток,錘子,Marteau,Hammer,망치
+HeadWingLeft,Ear Wing >>,Ear Wing >>,翅膀耳朵 >>,Fülszárny >>,Ala de oreja >>,耳羽 >>,Ухо Крыло >>,翅膀耳朵 >>,Aile d'oreille >>,Ohrflügel >>,귀 날개 >>
+HeadWingLeftOutline,Ear Wing >> Outline,Ear Wing >> Outline,翅膀耳朵 >> 轮廓,Fülszárny >> Vázlat,Ala de oreja >> Contorno,耳羽 輪郭 >>,Ухо Крыло >> Схема,翅膀耳朵 >> 輪廓,Aile d'oreille >> Aperçu,Ohrflügel >> Umriss,Ear Wing >> 개요
+HeadWingRight,Ear Wing <<,Ear Wing <<,翅膀耳朵 <<,Fülszárny <<,Ala de oreja <<,耳羽 <<,Ухо Крыло <<,翅膀耳朵 <<,Aile d'oreille <<,Ohrflügel <<,귀 날개 <<
+HeadWingRightOutline,Ear Wing << Outline,Ear Wing << Outline,翅膀耳朵 << 轮廓,Fülszárny << Vázlat,Ala de oreja << Contorno,耳羽 輪郭 <<,Ухо-крыло << Контур,翅膀耳朵 << 輪廓,Aile d'oreille << Aperçu,Ohrflügel << Umriss,이어윙 << 개요
+Heart,Heart,Heart,爱心,Szív,Corazón,ハート,Сердце,愛心,Cœur,Herz,마음
+HornLeft,Horn >>,Horn >>,角 >>,Kürt >>,Cuerno >>,角 >>,Рог >>,角 >>,Corne >>,Horn >>,혼 >>
+HornLeftOutline,Horn >> Outline,Horn >> Outline,角 >> 轮廓,Kürt >> Vázlat,Cuerno >> Contorno,角 輪郭 >>,Рог >> Схема,角 >> 輪廓,Corne >> Aperçu,Horn >> Umriss,혼 >> 개요
+HornRight,Horn <<,Horn <<,角 <<,Kürt <<,Cuerno <<,角 <<,Рог <<,角 <<,Corne <<,Horn <<,혼 <<
+HornRightOutline,Horn << Outline,Horn << Outline,角 <<轮廓,Kürt << Vázlat,Cuerno << Contorno,角 輪郭 <<,Рог << Схема,角 <<輪廓,Corne << Aperçu,Horn << Umriss,혼 << 개요
+HornMiddle,Horn ><,Horn ><,角 ><,Kürt ><,Cuerno ><,角 中央,Рог ><,角 ><,Corne ><,Horn ><,혼 ><
+HornMiddleOutline,Horn >< Outline,Horn >< Outline,角 >< 轮廓,Kürt >< Vázlat,Cuerno >< Contorno,角 中央 輪郭,Рог >< Схема,角 >< 輪廓,Corne >< Aperçu,Horn >< Umriss,혼 >< 개요
+JailGrill,Jail Grill,Jail Grill,监狱栅栏,Jail Grill,Barrotes de la cárcel,牢屋格子,Тюремный гриль,監獄柵欄,Grill de prison,Gefängnis,감옥 그릴
+Keyboard,Keyboard,Keyboard,键盘,Billentyűzet,Teclado,キーボード,Клавиатура,鍵盤,Clavier,Tastatur,건반
+KitchenKnife,Kitchen Knife,Kitchen Knife,厨房刀,Konyhai kés,Cuchillo de cocina,包丁,Кухонный нож,廚房刀,Couteau de cuisine,Küchenmesser,부엌칼
+Laptop,Laptop,Laptop,电脑,Laptop,Computadora portátil,ノートPC,Ноутбук,電腦,Ordinateur portable,Laptop,랩탑
+LaptopLight,Laptop Light,Laptop Light,电脑 屏幕光,Laptop fény,Luz de la computadora portátil,ノートPCライト,Свет для ноутбука,電腦 螢幕光,Lumière pour ordinateur portable,Laptop Licht,노트북 라이트
+LegLeft,Leg >>,Leg >>,腿 >>,Láb >>,Pierna >>,脚 >>,Нога >>,腿 >>,Jambe >>,Bein >>,다리 >>
+LegRight,Leg <<,Leg <<,腿 <<,Láb <<,Pierna <<,脚 <<,Нога <<,腿 <<,Jambe <<,Bein <<,다리 <<
+LightstickHandle,Lightstick Handle,Lightstick Handle,荧光棒 把手,Lightstick fogantyú,Mango del Lightstick,ペンライト持ち手,Ручка светового стика,熒光棒 把手,Poignée de bâton lumineux,Leuchtstabgriff,응원봉 손잡이
+LightStickLeft,Light Stick >>,Light Stick >>,荧光棒 >>,Light Stick >>,Lightstick >>,ペンライト >>,Световая палочка >>,熒光棒 >>,Bâton lumineux >>,Leuchtstab >>,라이트스틱 >>
+LightStickRight,Light Stick <<,Light Stick <<,荧光棒 <<,Light Stick <<,Lightstick <<,ペンライト <<,Световая палка <<,熒光棒 <<,Bâton lumineux <<,Leuchtstab <<,라이트스틱 <<
+Mecha,Mecha,Mecha,机械,Mecha,Mecha,メカ,Меха,機械,Mécha,Mecha,메카
+MechaLeft,Mecha >>,Mecha >>,机械 >>,Mecha >>,Mecha >>,メカ >>,Меха >>,機械 >>,Mécha >>,Mecha >>,메카 >>
+MechaLeftOutline,Mecha >> Outline,Mecha >> Outline,机械 >> 轮廓,Mecha >> Vázlat,Mecha >> Contorno,メカ 輪郭 >>,Меха >> Схема,機械 >> 輪廓,Mecha >> Aperçu,Mecha >> Umriss,메카 >> 개요
+MechaOutline,Mecha Outline,Mecha Outline,机械 轮廓,Mecha körvonal,Contorno del mecha,メカ 輪郭,Механический контур,機械 輪廓,Aperçu du méca,Mecha Umriss,메카 개요
+MechaRight,Mecha <<,Mecha <<,机械 <<,Mecha <<,Mecha <<,メカ <<,Меха <<,機械 <<,Mécha <<,Mecha <<,메카 <<
+MechaRightOutline,Mecha << Outline,Mecha << Outline,机械 << 轮廓,Mecha << Vázlat,Mecha << Contorno,メカ 輪郭 <<,Меха << Схема,機械 << 輪廓,Mecha << Aperçu,Mecha << Umriss,메카 << 개요
+Mouse,Mouse,Mouse,鼠标,Egér,Ratón,マウス,Мышь,滑鼠,Souris,Maus,생쥐
+Mouth,Mouth/Tongue,Mouth/Tongue,嘴/舌头,Száj/nyelv,Boca/Lengua,口／舌,Рот/Язык,嘴/舌頭,Bouche/Langue,Mund/Zunge,입/혀
+MouthShadow,Mouth/Tongue Shadow,Mouth/Tongue Shadow,嘴/舌头 阴影,Száj/nyelv árnyék,Sombra de boca/lengua,口／舌 影,Тень рта/языка,嘴/舌頭 陰影,Ombre bouche/langue,Mund/Zungenschatten,입/혀 그림자
+Notepad,Notepad,Notepad,记事本,Jegyzettömb,Bloc de notas,メモ帳,Блокнот,記事本,Bloc-notes,Notizblock,메모장
+OutfitCollar,Outfit Collar,Outfit Collar,服装 领子,Outfit gallér,Cuello del Outfit,襟,Воротник наряда,服裝 領子,Collier de tenue,Outfit Kragen,의상 칼라
+OutfitCollarOutline,Outfit Collar Outline,Outfit Collar Outline,服装 领子 轮廓,Outfit gallér vázlat,Contorno del cuello del Outfit,襟 輪郭,Схема воротника наряда,服裝 領子 輪廓,Aperçu du col de la tenue,Outfit Kragen Umriss,의상 칼라 개요
+OutfitInner,Outfit Inner,Outfit Inner,服装 里侧,Outfit belső,Outfit interior,服 内側,Внутренний наряд,服裝 裏側,Tenue intérieure,Outfit innen,의상 내부
+OutfitInnerOutline,Outfit Inner Outline,Outfit Inner Outline,服装 里侧 轮廓,Outfit belső körvonala,Contorno del Outfit interior,服 内側 輪郭,Внутренний контур наряда,服裝 裏側 輪廓,Aperçu intérieur de la tenue,Outfit innen Umriss,의상 내부 개요
+OutfitNeckwearA,Outfit Neckwear A,Outfit Neckwear A,服装 颈部装饰 A,Outfit Neckwear A,Accesorios de cuello A,ネックウェアA,Наряд Галстук А,服裝 頸部裝飾 A,Tenue Cravate A,Outfit Halsschmuck A,아웃핏 넥웨어 A
+OutfitNeckwearAOutline,Outfit Neckwear A Outline,Outfit Neckwear A Outline,服装 颈部装饰 A 轮廓,Outfit Neckwear Egy körvonal,Contorno del accesorio de cuello A,ネックウェアA 輪郭,"Наряд, галстук, контур",服裝 頸部裝飾 A 輪廓,Tenue Cravates Un Contour,Outfit Halsschmuck A Umriss,아웃핏 넥웨어 A 개요
+OutfitNeckwearB,Outfit Neckwear B,Outfit Neckwear B,服装 颈部装饰 B,Outfit Neckwear B,Accesorios de cuello B,ネックウェアB,Наряд Галстук Б,服裝 頸部裝飾 B,Tenue Cravate B,Outfit Halsschmuck B,아웃핏 넥웨어 B
+OutfitNeckwearBOutline,Outfit Neckwear B Outline,Outfit Neckwear B Outline,服装 颈部装饰 B 轮廓,Outfit Neckwear B körvonal,Contorno del accesorio de cuello B,ネックウェアB 輪郭,"Наряд, галстук, B, контур",服裝 頸部裝飾 B 輪廓,Tenue Cravates B Outline,Outfit Halsschmuck B Umriss,아웃핏 넥웨어 B 개요
+OutfitNeckwearC,Outfit Neckwear C,Outfit Neckwear C,服装 颈部装饰 C,Outfit Neckwear C,Accesorios de cuello C,ネックウェアC,Наряд Галстук C,服裝 頸部裝飾 C,Tenue Cravate C,Outfit Halsschmuck C,아웃핏 넥웨어 C
+OutfitNeckwearCOutline,Outfit Neckwear C Outline,Outfit Neckwear C Outline,服装 颈部装饰 C 轮廓,Outfit Neckwear C körvonal,Contorno del accesorio de cuello C,ネックウェアC 輪郭,Наряд Галстук C Контур,服裝 頸部裝飾 C 輪廓,Tenue Cravate C Outline,Outfit Halsschmuck C Umriss,아웃핏 넥웨어 C 개요
+OutfitOuter,Outfit Outer,Outfit Outer,服装 外侧,Outfit Outer,Traje exterior,服 外側,Наряд Внешний,服裝 外側,Tenue extérieure,Outfit außen,의상 아우터
+OutfitOuterOutline,Outfit Outer Outline,Outfit Outer Outline,服装 外侧 轮廓,Outfit külső körvonala,Contorno del traje exterior,服 外側 輪郭,Внешний контур наряда,服裝 外側 輪廓,Contour extérieur de la tenue,Outfit außen Umriss,의상 외부 개요
+Pencil,Pencil,Pencil,铅笔,Ceruza,Lápiz,鉛筆,Карандаш,鉛筆,Crayon,Bleistift,연필
+Phone,Phone,Phone,手机,Telefon,Teléfono,スマホ,Телефон,手機,Téléphone,Telefon,핸드폰
+PhoneLight,Phone Light,Phone Light,手机 屏幕光,Telefonfény,Luz del teléfono,スマホライト,Телефон Свет,手機 螢幕光,Lumière du téléphone,Telefon Licht,전화 조명
+PigtailLeft,Hair Pigtail >>,Hair Pigtail >>,头发 马尾 >>,Haj Pigtail >>,Coleta de pelo >>,おさげ >>,Косичка для волос >>,頭髮 馬尾 >>,Queue de cochon >>,Haarzopf >>,헤어 피그테일 >>
+PigtailLeftOutline,Hair Pigtail >> Outline,Hair Pigtail >> Outline,头发 马尾 >> 轮廓,Haj Pigtail >> Vázlat,Coleta de pelo >> Contorno,おさげ 輪郭 >>,Косичка для волос >> Схема,頭髮 馬尾 >> 輪廓,Queue de cochon >> Aperçu,Haarzopf >> Umriss,헤어 피그테일 >> 개요
+PigtailRight,Hair Pigtail <<,Hair Pigtail <<,头发 马尾 <<,Haj Pigtail <<,Coleta de pelo <<,おさげ <<,Косичка для волос <<,頭髮 馬尾 <<,Queue de cochon <<,Haarzopf <<,머리 땋은 머리 <<
+PigtailRightOutline,Hair Pigtail << Outline,Hair Pigtail << Outline,头发 马尾 << 轮廓,Haj Pigtail << Vázlat,Coleta de pelo << Contorno,おさげ 輪郭 <<,Косичка для волос << Схема,頭髮 馬尾 << 輪廓,Queue de cochon << Aperçu,Haarzopf << Umriss,헤어 피그테일 << 개요
+Rose,Rose,Rose,玫瑰,Rózsa,Rosa,バラ,Роза,玫瑰,Rose,Rose,장미
+RoundSign,Round Sign,Round Sign,圆形标牌,Kerek Jel,Señal redonda,採点棒,Круглый знак,圓形標牌,Signe rond,Rundes Schild,둥근 표시
+RoundSignText,Round Sign Text,Round Sign Text,圆形标牌 文字,Kerek jel szöveg,Texto de la señal redonda,採点棒の文字,Текст круглого знака,圓形標牌 文字,Texte de signe rond,Rundes Schild Text,둥근 기호 텍스트
+SideHair,Hair Side,Hair Side,头发 侧面,Hajoldal,Cabello de los lados trasero,横髪,Сторона волос,頭髮 側面,Côté cheveux,Haare Seite,헤어사이드
+SideHairOutline,Hair Side Outline,Hair Side Outline,头发 侧面 轮廓,Haj oldalsó körvonal,Contorno del cabello de los lados trasero,横髪 輪郭,Контур волос сбоку,頭髮 側面 輪廓,Contour côté cheveux,Haare Seite Umriss,머리 옆 윤곽선
+Skin,Skin,Skin,肤色,Bőr,Piel,肌,Кожа,膚色,Peau,Haut,피부
+SkinOutline,Skin Outline,Skin Outline,肤色 轮廓,Bőr körvonala,Contorno de la piel,肌 輪郭,Контур кожи,膚色 輪廓,Contour de la peau,Hautumriss,피부 윤곽
+SquareSign,Square Sign,Square Sign,方形标牌,négyzet alakú jel,Señal cuadrada,手持ち看板,Квадратный знак,方形標牌,Signe carré,Quadratisches Schild,정사각형 표시
+SquareSignText,Square Sign Text,Square Sign Text,方形标牌 文字,Négyzet alakú jel szöveg,Texto de la señal cuadrada,手持ち看板の文字,Текст квадратного знака,方形標牌 文字,Texte de signe carré,Quadratisches Schild Text,사각형 기호 텍스트
+SteeringWheel,Steering Wheel,Steering Wheel,方向盘,Kormánykerék,Volante,ハンドル,Руль,方向盤,Volant,Lenkrad,스티어링 휠
+GasBottle,Gas Bottle,Gas Bottle,压缩气瓶,Gázpalack,Tanque de Copium,ガスボンベ,Газовый баллон,壓縮氣瓶,Bouteille de gaz,Gasflasche,가스통
+Sticker_Front/PatHand,Pat Hand,Pat Hand,摸头手,Pat Hand,Mano de la palmadita,なで手,Пэт Хэнд,摸頭手,Pat Main,Streichelhand,팻 핸드
+StickerAlert,Sticker Alert,Sticker Alert,表情贴纸 通知/提示,Matrica figyelmeztetés,Color de la alerta,アラートステッカー,Наклейка Оповещение,表情貼紙 通知/提示,Alerte autocollant,Aufkleber Alert,스티커 알림
+StickerAlertEffect,Sticker Alert Effect,Sticker Alert Effect,表情贴纸 通知/提示 特效,Matrica figyelmeztető hatás,Efecto de la alerta,アラートエフェクト,Эффект оповещения стикера,表情貼紙 通知/提示 特效,Effet d'alerte autocollant,Aufkleber Alert Effekt,스티커 알림 효과
+StickerAlertOutline,Sticker Alert Outline,Sticker Alert Outline,表情贴纸 通知/提示 轮廓,Matrica figyelmeztetés vázlata,Contorno de la alerta,アラート 輪郭,Схема оповещения о наклейках,表情貼紙 通知/提示 輪廓,Aperçu de l’alerte autocollant,Aufkleber Alert Umriss,스티커 알림 개요
+StickerAngry,Sticker Angry,Sticker Angry,表情贴纸 生气,Dühös matrica,Efecto enojado,怒りステッカー,Наклейка Злой,表情貼紙 生氣,Autocollant En colère,Aufkleber Wütend,스티커 화가
+StickerExclamationMark,Sticker Exclamation Mark,Sticker Exclamation Mark,表情贴纸 感叹号,Matrica felkiáltójel,Signo de exclamación,びっくりマークステッカー,Наклейка с восклицательным знаком,表情貼紙 感嘆號,Autocollant point d'exclamation,Aufkleber Ausrufezeichen,스티커 느낌표
+StickerGhost,Sticker Ghost,Sticker Ghost,表情贴纸 幽灵,Matrica Ghost,Efecto Fantasma,おばけステッカー,Наклейка Призрак,表情貼紙 幽靈,Autocollant Fantôme,Aufkleber Geist,스티커 고스트
+StickerHeart,Sticker Heart,Sticker Heart,表情贴纸 爱心,Matrica szív,Efecto Corazón,ハートステッカー,Наклейка Сердце,表情貼紙 愛心,Autocollant Coeur,Aufkleber Herz,스티커 하트
+StickerLaugh,Sticker Laugh,Sticker Laugh,表情贴纸 笑,Nevetés matrica,Efecto Risa,笑いステッカー,Наклейка «Смех»,表情貼紙 笑,Autocollant Rire,Aufkleber Lachen,스티커 웃음
+StickerQuestionMark,Sticker Question Mark,Sticker Question Mark,表情贴纸 问号,Matrica kérdőjel,Signo de interrogación,はてなステッカー,Наклейка с вопросительным знаком,表情貼紙 問號,Autocollant point d'interrogation,Aufkleber Fragezeichen,스티커 물음표
+StickerSleep,Sticker Sleep,Sticker Sleep,表情贴纸 睡觉,Alvó matrica,Efecto Dormir,寝るステッカー,Наклейка Сон,表情貼紙 睡覺,Autocollant Sommeil,Aufkleber Schlaf,스티커 수면
+StickerStar,Sticker Star,Sticker Star,表情贴纸 星星,Matrica csillag,Efecto Estrella,星ステッカー,Наклейка Звезда,表情貼紙 星星,Autocollant Étoile,Aufkleber Stern,스티커 별
+StickerSteam,Sticker Steam,Sticker Steam,表情贴纸 气,Steam matrica,Efecto Vapor,湯気ステッカー,Наклейка Steam,表情貼紙 氣,Autocollant Vapeur,Aufkleber Dampf,스티커 스팀
+StickerSurprise,Sticker Surprise,Sticker Surprise,表情贴纸 惊吓,Matrica Meglepetés,Efecto Sorpresa,びっくりステッカー,Наклейка-сюрприз,表情貼紙 驚嚇,Autocollant Surprise,Aufkleber Überraschung,스티커 서프라이즈
+StickerSweat,Sticker Sweat,Sticker Sweat,表情贴纸 汗,Matrica verejték,Gota de Sudor,汗ステッカー,Наклейка Пот,表情貼紙 汗,Autocollant Sueur,Aufkleber Schweiß,스티커 땀
+StickerSweatLarge,Sticker Sweat (Large),Sticker Sweat (Large),表情贴纸 汗（大）,Izzadt matrica (nagy),Gota de Sudor (Grande),汗ステッカー（大）,Наклейка Пот (большая),表情貼紙 汗（大）,Autocollant Sweat (Grand),Aufkleber Schweiß (Groß),스티커 스웨트(대)
+StickerVolume,Sticker Volume,Sticker Volume,表情贴纸 音量,Matrica kötet,Efecto de Volumen,音量ステッカー,Объем наклейки,表情貼紙 音量,Volume des autocollants,Aufkleber Lautstärke,스티커 볼륨
+StickyNote,Sticky Note,Sticky Note,表情贴纸 便签,Sticky Note,Nota adhesiva,ふせん,Заметка,表情貼紙 便籤,Pense-bête,Haftnotiz,스티커 메모
+StickyNoteText,Sticky Note Text,Sticky Note Text,表情贴纸 便签 文字,Sticky Note szöveg,Texto de nota adhesiva,ふせんの文字,Текст заметки,表情貼紙 便籤 文字,Texte de pense-bête,Haftnotiz Text,스티커 메모 텍스트
+Tear,Eye Tear,Eye Tear,眼睛 眼泪,Eye Tear,Lágrima del ojo,涙,Глазная слеза,眼睛 眼淚,Larme aux yeux,Augentränen,눈의 눈물
+Utensil,Utensil,Utensil,餐具,Konyhaedény,Utensilio,食器,Посуда,餐具,Ustensile,Besteck,기구
+OutfitCollarString,Outfit Collar String,Outfit Collar String,服装 领子 抽绳,Outfit nyakörv,Cordón del cuello del Outfit,襟ひも,Строка для воротника наряда,服裝 領子 抽繩,Chaîne de collier de tenue,Outfit Kragenschnur,의상 칼라 스트링
+Bell,Bell,Bell,铃铛,Harang,Campana,ベル,Белл,鈴鐺,Cloche,Glocke,벨
+Confetti1,Confetti 1,Confetti 1,彩纸 1,Konfetti 1,Confeti 1,紙吹雪1,Конфетти 1,彩紙 1,Confettis 1,Konfetti 1,색종이 1
+Confetti2,Confetti 2,Confetti 2,彩纸 2,Konfetti 2,Confeti 2,紙吹雪2,Конфетти 2,彩紙 2,Confettis 2,Konfetti 2,색종이 2
+Confetti3,Confetti 3,Confetti 3,彩纸 3,Konfetti 3,Confeti 3,紙吹雪3,Конфетти 3,彩紙 3,Confettis 3,Konfetti 3,색종이 3
+Microphone,Microphone,Microphone,麦克风,Mikrofon,Micrófono,マイクロフォン,Микрофон,麥克風,Microphone,Mikrofon,마이크로폰
+Gleam,Gleam,Gleam,光晕,Csillog,Destello,光る,Блеск,光暈,Lueur,Glänzen,번득임
+VideoCamera,Video Camera,Video Camera,摄像机,Videokamera,Cámara de video,ビデオカメラ,Видеокамера,攝像機,Caméra vidéo,Videokamera,비디오 카메라
+PointHand,Point Hand,Point Hand,指人手,Pontos kéz,Punto de la mano,ポイントハンド,Точка руки,指人手,Pointer la main,Zeigen Sie mit der Hand,포인트 핸드
+Bowl,Bowl,Bowl,碗,Tál,Bol,ボウル,Чаша,碗,Bol,Schüssel,그릇
+Cake,Cake,Cake,蛋糕,Torta,Pastel,ケーキ,Торт,蛋糕,Gâteau,Kuchen,케이크
+CandleFire,Candle Fire,Candle Fire,蜡烛 火焰,Gyertya tűz,fuego de vela,キャンドルファイア,Свеча Огонь,蠟燭 火焰,Feu de bougie,Kerzenfeuer,촛불불
+DrawingTablet,Drawing Tablet,Drawing Tablet,画板,Rajz tábla,tableta de dibujo,お絵描きタブレット,Планшет для рисования,畫板,Tablette à dessin,Zeichentablett,드로잉 태블릿
+LoveLetter,Love Letter,Love Letter,情书,Szerelmeslevél,carta de amor,ラブレター,Любовное письмо,情書,Lettre d'amour,Liebesbrief,연애 편지
+Popper,Popper,Popper,彩纸筒,Popper,Corchete,ポッパー,Поппер,彩紙筒,Popper,Popper,포퍼
+Stylus,Stylus,Stylus,手写笔,Stylus,Aguja,スタイラス,Стилус,手寫筆,Style,Stift,첨필
+Tablet,Tablet,Tablet,画板,Tabletta,Tableta,錠剤,Таблетка,畫板,Comprimé,Tablette,태블릿
+MusicalNote1,Musical Note 1,Musical Note 1,音乐 音符 1,Hangjegy 1,Nota musical 1,音符1,Музыкальная нота 1,音樂 音符 1,Note de musique 1,Musiknote 1,음표 1
+MusicalNote2,Musical Note 2,Musical Note 2,音乐 音符 2,Hangjegy 2,Nota musical 2,音符2,Музыкальная нота 2,音樂 音符 2,Note de musique 2,Musiknote 2,음표 2
+PhoneScreen,Phone Screen,Phone Screen,手机 屏幕,Telefon képernyő,Pantalla del teléfono,電話画面,Экран телефона,手機 螢幕,Écran du téléphone,Telefonbildschirm,전화 화면
+Tail,Tail,Tail,尾巴,Farok,Cola,しっぽ,Хвост,尾巴,Queue,Schwanz,꼬리
+TailOutline,Tail Outline,Tail Outline,尾巴 轮廓,Farok körvonala,Contorno de la cola,尾部の輪郭,Контур хвоста,尾巴 輪廓,Contour de la queue,Schwanzumriss,꼬리 외곽선
+WingLeft,Wing >>,Wing >>,翅膀 >>,Szárny >>,Ala >>,ウィング >>,Крыло >>,翅膀 >>,Aile >>,Flügel >>,윙 >>
+WingLeftOutline,Wing >> Outline,Wing >> Outline,翅膀 >> 轮廓,Szárny >> Vázlat,Ala >> Contorno,ウイング >> 概要,Крыло >> Схема,翅膀 >> 輪廓,Aile >> Aperçu,Flügel >> Umriss,날개 >> 개요
+WingRight,Wing <<,Wing <<,翅膀 <<,Szárny <<,Ala <<,ウィング <<,Крыло <<,翅膀 <<,Aile <<,Flügel <<,윙 <<
+WingRightOutline,Wing << Outline,Wing << Outline,翅膀 << 轮廓,Szárny << Vázlat,Ala << Contorno,ウイング << 概要,Крыло << Схема,翅膀 << 輪廓,Aile << Aperçu,Flügel << Umriss,날개 << 개요

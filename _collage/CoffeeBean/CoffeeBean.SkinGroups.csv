@@ -1,63 +1,63 @@
-GroupName,DisplayName,en,ko,de,hu,ru,es,ja,fr,zh-Hans,zh-Hant
-Brows,Brows,Brows,눈썹,Augenbrauen,Szemöldök,Брови,Cejas,眉,Sourcils,眉毛,眉毛
-Ear,Ear,Ear,귀,Ohr,Fül,Ухо,Oreja,耳,Oreille,耳朵,耳朵
-Eye,Eye,Eye,눈,Auge,Szem,Глаз,Ojo,目,Œil,眼睛,眼睛
-BaseHair,Base Hair,Base Hair,베이스 헤어,Basishaare,Alaphaj,Базовые волосы,Cabello Base,髪ベース,Cheveux de base,基础头发,基礎毛髮
-HairBangLeft,Hair Bang >>,Hair Bang >>,헤어뱅 >>,Pony >>,Hair Bang >>,Челка >>,Flequillo de pelo >>,前髪 >>,Frange de cheveux >>,头发 刘海 >>,發瀏海>>
-HairBangMiddle,Hair Bang ><,Hair Bang ><,헤어뱅 ><,Pony ><,Hair Bang ><,Челка для волос ><,Flequillo de pelo ><,前髪 中央,Frange de cheveux ><,头发 刘海 ><,頭髮瀏海><
-HairBangRight,Hair Bang <<,Hair Bang <<,헤어뱅 <<,Pony <<,Hair Bang <<,Челка для волос <<,Flequillo de pelo <<,前髪 <<,Frange de cheveux <<,头发 刘海 <<,頭髮瀏海 <<
-HairShine,Hair Shine,Hair Shine,헤어 샤인,Haarglanz,Hajfény,Блеск Волос,Brillo del cabello,髪ツヤ,Brillance des cheveux,头发 高光,頭髮光澤
-FrameHairBranchL,Hair Branch >>,Hair Branch >>,헤어 브랜치 >>,Haarzweig >>,Hajág >>,Ветка волос >>,Rama de pelo >>,髪ハネ >>,Branche de cheveux >>,头发 分叉 >>,發科>>
-FrameHairBranchR,Hair Branch <<,Hair Branch <<,헤어 브랜치 <<,Haarzweig <<,Hajág <<,Ветка волос <<,Rama de cabello <<,髪ハネ <<,Branche de cheveux <<,头发 分叉 <<,發枝<<
-FrameHairL,Hair Framing >>,Hair Framing >>,헤어 프레이밍 >>,Seitensträhnen >>,Hajkeretezés >>,Оформление волос >>,Enmarcado del cabello >>,顔まわり髪 >>,Encadrement des cheveux >>,头发 脸颊 >>,頭髮定型>>
-FrameHairR,Hair Framing <<,Hair Framing <<,헤어 프레이밍 <<,Seitensträhnen <<,Hajkeretezés <<,Оформление волос <<,Enmarcado del cabello <<,顔まわり髪 <<,Encadrement des cheveux <<,头发 脸颊 <<,頭髮框架 <<
-FrameHair,Hair Framing,Hair Framing,헤어 프레이밍,Seitensträhnen,Hajkeretezés,Обрамление волос,Encuadre del cabello,顔まわり髪,Encadrement des cheveux,头发 脸颊两侧,頭髮定型
-HairHighlightLeft1,Hair Highlight 1 >>,Hair Highlight 1 >>,헤어 하이라이트 1 >>,Haar-Highlight 1 >>,Hajkiemelés 1 >>,Мелирование волос 1 >>,Destacado del cabello 1 >>,髪ハイライト1 >>,Mèches de cheveux 1 >>,挑染 1 >>,頭髮亮點1 >>
-HairHighlightLeft2,Hair Highlight 2 >>,Hair Highlight 2 >>,헤어 하이라이트 2 >>,Haar-Highlight 2 >>,Hajkiemelés 2 >>,Мелирование волос 2 >>,Destacado del cabello 2 >>,髪ハイライト2 >>,Mèches de cheveux 2 >>,挑染 2 >>,頭髮亮點2>>
-HairHighlightLeft3,Hair Highlight 3 >>,Hair Highlight 3 >>,헤어 하이라이트 3 >>,Haar-Highlight 3 >>,Hajkiemelés 3 >>,Мелирование волос 3 >>,Destacado del cabello 3 >>,髪ハイライト3 >>,Mèches de cheveux 3 >>,挑染 3 >>,頭髮亮點3>>
-HairHighlightMiddle1,Hair Highlight 1 ><,Hair Highlight 1 ><,헤어하이라이트 1 ><,Haar-Highlight 1 ><,Hajkiemelés 1 ><,Мелирование волос 1 ><,Destacado del cabello 1 ><,髪ハイライト1 中央,Mèches de cheveux 1 ><,挑染 1 ><,頭髮亮點1><
-HairHighlightMiddle2,Hair Highlight 2 ><,Hair Highlight 2 ><,헤어하이라이트 2 ><,Haar-Highlight 2 ><,Hajkiemelés 2 ><,Мелирование волос 2 ><,Destacado del cabello 2 ><,髪ハイライト2 中央,Mèches de cheveux 2 ><,挑染 2 ><,頭髮亮點2><
-HairHighlightMiddle3,Hair Highlight 3 ><,Hair Highlight 3 ><,헤어하이라이트 3 ><,Haar-Highlight 3 ><,Hajkiemelés 3 ><,Мелирование волос 3 ><,Destacado del cabello 3 ><,髪ハイライト3 中央,Mèches de cheveux 3 ><,挑染 3 ><,頭髮亮點3><
-HairHighlightMiddle4,Hair Highlight 4 ><,Hair Highlight 4 ><,헤어하이라이트 4 ><,Haar-Highlight 4 ><,Hajkiemelés 4 ><,Мелирование волос 4 ><,Resaltado del cabello 4 ><,髪ハイライト4 中央,Mèches de cheveux 4 ><,挑染 4 ><,頭髮亮點4><
-HairHighlightMiddle5,Hair Highlight 5 ><,Hair Highlight 5 ><,헤어하이라이트 5 ><,Haar-Highlight 5 ><,Hajkiemelés 5 ><,Мелирование волос 5 ><,Destacado del cabello 5 ><,髪ハイライト5 中央,Mèches de cheveux 5 ><,挑染 5 ><,頭髮亮點5><
-HairHighlightMiddle6,Hair Highlight 6 ><,Hair Highlight 6 ><,헤어하이라이트 6 ><,Haar-Highlight 6 ><,Hajkiemelés 6 ><,Мелирование волос 6 ><,Destacado del cabello 6 ><,髪ハイライト6 中央,Mèches de cheveux 6 ><,挑染 6 ><,頭髮亮點6><
-HairHighlightRight1,Hair Highlight 1 <<,Hair Highlight 1 <<,헤어 하이라이트 1 <<,Haar-Highlight 1 <<,Hajkiemelés 1 <<,Мелирование волос 1 <<,Destacado del cabello 1 <<,髪ハイライト1 <<,Mèches de cheveux 1 <<,挑染 1 <<,頭髮亮點 1 <<
-HairHighlightRight2,Hair Highlight 2 <<,Hair Highlight 2 <<,헤어 하이라이트 2 <<,Haar-Highlight 2 <<,Hajkiemelés 2 <<,Мелирование волос 2 <<,Destacado del cabello 2 <<,髪ハイライト2 <<,Mèches de cheveux 2 <<,挑染 2 <<,頭髮亮點2 <<
-HairHighlightRight3,Hair Highlight 3 <<,Hair Highlight 3 <<,헤어 하이라이트 3 <<,Haar-Highlight 3 <<,Hajkiemelés 3 <<,Мелирование волос 3 <<,Destacado del cabello 3 <<,髪ハイライト3 <<,Mèches de cheveux 3 <<,挑染 3 <<,頭髮亮點 3 <<
-SideHair,Hair Side,Hair Side,헤어사이드,Haare Seite,Hajoldal,Сторона волос,Lado del cabello,横髪,Côté cheveux,头发 侧面,頭髮側
-Ahoge,Hair Ahoge,Hair Ahoge,헤어 아호게,Haare Ahoge,Haj Ahoge,Волосы Ахоге,pelo ahogado,アホ毛,Cheveux Ahoge,头发 呆毛,頭髮奧格
-BackHair,Hair Rear,Hair Rear,헤어 리어,Haare hinten,Haj Hátsó,Волосы сзади,pelo trasero,後ろ髪,Cheveux arrière,头发 后侧,頭髮後部
-PigtailLeft,Hair Pigtail >>,Hair Pigtail >>,헤어 피그테일 >>,Haarzopf >>,Haj Pigtail >>,Косичка для волос >>,Coleta de pelo >>,おさげ >>,Queue de cochon >>,头发 马尾 >>,頭髮辮子>>
-PigtailRight,Hair Pigtail <<,Hair Pigtail <<,머리 땋은 머리 <<,Haarzopf <<,Haj Pigtail <<,Косичка для волос <<,Coleta de pelo <<,おさげ <<,Queue de cochon <<,头发 马尾 <<,辮子 <<
-AnimalEar,Animal Ear,Animal Ear,동물의 귀,Tierohr,Állati fül,Ухо животного,oreja de animal,ケモ耳,Oreille d'animal,兽耳,獸耳
-Antenna,Antenna,Antenna,안테나,Antenne,Antenna,Антенна,Antena,アンテナ,Antenne,触角,天線
-Fin,Fin,Fin,지느러미,Flosse,Uszony,Плавник,Aleta,ヒレ,Ailette,鳍,鰭
-Gill,Gill,Gill,아가미,Kieme,Kopoltyú,Джилл,Branquia,エラ,Gil,腮,鰓
-Glasses,Glasses,Glasses,안경,Brille,Szemüveg,Очки,Anteojos,メガネ,Lunettes,眼镜,眼鏡
-HairbandA,Hairband A,Hairband A,헤어밴드A,Haarband A,Hajpánt A,Лента для волос А,Diadema A,ヘアバンドA,Bandeau A,发带 A,髮帶A
-HairbandB,Hairband B,Hairband B,헤어밴드B,Haarband B,Hajpánt B,Лента для волос Б,Diadema B,ヘアバンドB,Bandeau B,发带 B,髮帶B
-HairbandC,Hairband C,Hairband C,헤어밴드 C,Haarband C,Hajpánt C,Повязка для волос С,Diadema C,ヘアバンドC,Bandeau C,发带 C,髮帶C
-HairbandD,Hairband D,Hairband D,헤어밴드 D,Haarband D,Hajpánt D,Ободок для волос D,Diadema D,ヘアバンドD,Bandeau D,发带 D,髮帶D
-HairClipLeft,Hair Clip >>,Hair Clip >>,헤어클립 >>,Haarspange >>,Hajcsipesz >>,Заколка для волос >>,Pinza para el pelo >>,ヘアクリップ >>,Pince à cheveux >>,发夹 >>,髮夾>>
-HairClipRight,Hair Clip <<,Hair Clip <<,헤어클립 <<,Haarspange <<,Hajcsat <<,Заколка для волос <<,Pinza para el pelo <<,ヘアクリップ <<,Pince à cheveux <<,发夹 <<,髮夾<<
-Halo,Halo,Halo,후광,Heiligenschein,Halo,Гало,Halo,天使の輪,Halo,光环,暈
-Hat,Hat,Hat,모자,Hut,Kalap,Шляпа,Sombrero,帽子,Chapeau,帽子,帽子
-HeadWing,Ear Wing,Ear Wing,귀 날개,Ohrflügel,Fülszárny,Ухо Крыло,Ala de oreja,耳羽,Aile d'oreille,翅膀耳朵,耳翼
-Horn,Horn,Horn,뿔,Horn,Kürt,Рог,Bocina,角,Corne,角,喇叭
-HornFrontMiddle,Horn Front ><,Horn Front ><,혼 프론트 ><,Horn vorne ><,Kürt Elöl ><,Рог спереди ><,Frente de bocina ><,角 前中央,Corne avant ><,角 前 ><,喇叭前部><
-HornFront,Horn Front,Horn Front,혼 프론트,Horn vorne,Horn Front,Рог спереди,Frente de bocina,角 前,Corne avant,角 前,喇叭前部
-Mecha,Mecha,Mecha,메카,Mecha,Mecha,Меха,mecha,メカ,Mécha,机械,機甲
-OutfitInnerCollar,Outfit Collar Inner,Outfit Collar Inner,의상 칼라 내부,Outfit-Kragen innen,Outfit gallér belső,Внутренний воротник наряда,Interior del cuello del traje.,襟 内側,Tenue Col Intérieur,服装 领子 里侧,服裝領子內
-OutfitInner,Outfit Inner,Outfit Inner,의상 내부,Outfit innen,Outfit belső,Внутренний наряд,Conjunto interior,服 内側,Tenue intérieure,服装 里侧,服飾內搭
-OutfitOuter,Outfit Outer,Outfit Outer,의상 아우터,Outfit außen,Outfit Outer,Наряд Внешний,Traje exterior,服 外側,Tenue extérieure,服装 外侧,服裝外套
-NeckwearA,Outfit Neckwear A,Outfit Neckwear A,아웃핏 넥웨어 A,Outfit Halsschmuck A,Outfit Neckwear A,Наряд Галстук А,Traje Corbatas A,首の衣装A,Tenue Cravate A,服装 颈部装饰 A,服裝項鍊A
-NeckwearB,Outfit Neckwear B,Outfit Neckwear B,아웃핏 넥웨어 B,Outfit Halsschmuck B,Outfit Neckwear B,Наряд Галстук Б,Conjunto Corbatas B,首の衣装B,Tenue Cravate B,服装 颈部装饰 B,服飾領帶B
-NeckwearC,Outfit Neckwear C,Outfit Neckwear C,아웃핏 넥웨어 C,Outfit Halsschmuck C,Outfit Neckwear C,Наряд Галстук C,Conjunto Corbatas C,首の衣装C,Tenue Cravate C,服装 颈部装饰 C,服飾領帶C
-SideHairBranchLeftA,Hair Side Branch >> A,Hair Side Branch >> A,헤어사이드 브랜치 >> A,Haarseitenzweig >> A,Haj oldalág >> A,Боковая ветвь волос >> A,Rama lateral del cabello >> A,横髪 ハネ >> A,Branche latérale des cheveux >> A,头发 侧面分叉 >> A,發側枝 >> A
-SideHairBranchLeftB,Hair Side Branch >> B,Hair Side Branch >> B,헤어사이드브랜치 >> B,Haarseitenzweig >> B,Haj oldalág >> B,Боковая ветвь волос >> B,Rama lateral del cabello >> B,横髪 ハネ >> B,Branche latérale des cheveux >> B,头发 侧面分叉 >> B,發側枝 >> B
-SideHairBranchLeftC,Hair Side Branch >> C,Hair Side Branch >> C,헤어사이드 브랜치 >> C,Haarseitenzweig >> C,Haj oldalág >> C,Боковая ветвь волос >> C,Rama lateral del cabello >> C,横髪 ハネ >> C,Branche latérale des cheveux >> C,头发 侧面分叉 >> C,發側枝 >> C
-SideHairBranchRightA,Hair Side Branch << A,Hair Side Branch << A,헤어사이드 브랜치 << A,Haarseitenzweig << A,Haj oldalág << A,Боковая ветвь волос << A,Rama lateral del cabello << A,横髪 ハネ << A,Branche latérale des cheveux << A,头发 侧面分叉 << A,頭髮側枝 << A
-SideHairBranchRightB,Hair Side Branch << B,Hair Side Branch << B,헤어사이드 브랜치 << B,Haarseitenzweig << B,Haj oldalág << B,Боковая ветвь волос << B,Rama lateral del cabello << B,横髪 ハネ << B,Branche latérale des cheveux << B,头发 侧面分叉 << B,頭髮側枝 << B
-SideHairBranchRightC,Hair Side Branch << C,Hair Side Branch << C,헤어사이드 브랜치 << C,Haarseitenzweig << C,Haj oldalág << C,Боковая ветвь волос << C,Rama lateral del cabello << C,横髪 ハネ << C,Branche latérale des cheveux << C,头发 侧面分叉 << C,頭髮側枝 << C
-Tail,Tail,Tail,꼬리,Schwanz,Farok,Хвост,Cola,しっぽ,Queue,尾巴,尾巴
-Wing,Wing,Wing,비행,Flügel,Szárny,Крыло,Ala,翼,Aile,翅膀,翼
+GroupName,DisplayName,en,zh-Hans,hu,es,ja,ru,zh-Hant,fr,de,ko
+Brows,Brows,Brows,眉毛,Szemöldök,Cejas,眉,Брови,眉毛,Sourcils,Augenbrauen,눈썹
+Ear,Ear,Ear,耳朵,Fül,Oreja,耳,Ухо,耳朵,Oreille,Ohr,귀
+Eye,Eye,Eye,眼睛,Szem,Ojo,目,Глаз,眼睛,Œil,Auge,눈
+BaseHair,Base Hair,Base Hair,基础头发,Alaphaj,Cabello Base,髪ベース,Базовые волосы,基礎頭髮,Cheveux de base,Basishaare,베이스 헤어
+HairBangLeft,Hair Bang >>,Hair Bang >>,头发 刘海 >>,Hair Bang >>,Flequillo de pelo >>,前髪 >>,Челка >>,頭髮 劉海 >>,Frange de cheveux >>,Pony >>,헤어뱅 >>
+HairBangMiddle,Hair Bang ><,Hair Bang ><,头发 刘海 ><,Hair Bang ><,Flequillo de pelo ><,前髪 中央,Челка для волос ><,頭髮 劉海 ><,Frange de cheveux ><,Pony ><,헤어뱅 ><
+HairBangRight,Hair Bang <<,Hair Bang <<,头发 刘海 <<,Hair Bang <<,Flequillo de pelo <<,前髪 <<,Челка для волос <<,頭髮 劉海 <<,Frange de cheveux <<,Pony <<,헤어뱅 <<
+HairShine,Hair Shine,Hair Shine,头发 高光,Hajfény,Brillo del cabello,髪ツヤ,Блеск Волос,頭髮 高光,Brillance des cheveux,Haarglanz,헤어 샤인
+FrameHairBranchL,Hair Branch >>,Hair Branch >>,头发 分叉 >>,Hajág >>,Rama de pelo >>,髪ハネ >>,Ветка волос >>,頭髮 分叉 >>,Branche de cheveux >>,Haarzweig >>,헤어 브랜치 >>
+FrameHairBranchR,Hair Branch <<,Hair Branch <<,头发 分叉 <<,Hajág <<,Rama de cabello <<,髪ハネ <<,Ветка волос <<,頭髮 分叉 <<,Branche de cheveux <<,Haarzweig <<,헤어 브랜치 <<
+FrameHairL,Hair Framing >>,Hair Framing >>,头发 脸颊 >>,Hajkeretezés >>,Enmarcado del cabello >>,顔まわり髪 >>,Оформление волос >>,頭髮 臉頰 >>,Encadrement des cheveux >>,Seitensträhnen >>,헤어 프레이밍 >>
+FrameHairR,Hair Framing <<,Hair Framing <<,头发 脸颊 <<,Hajkeretezés <<,Enmarcado del cabello <<,顔まわり髪 <<,Оформление волос <<,頭髮 臉頰 <<,Encadrement des cheveux <<,Seitensträhnen <<,헤어 프레이밍 <<
+FrameHair,Hair Framing,Hair Framing,头发 脸颊两侧,Hajkeretezés,Encuadre del cabello,顔まわり髪,Обрамление волос,頭髮 臉頰兩側,Encadrement des cheveux,Seitensträhnen,헤어 프레이밍
+HairHighlightLeft1,Hair Highlight 1 >>,Hair Highlight 1 >>,挑染 1 >>,Hajkiemelés 1 >>,Destacado del cabello 1 >>,髪ハイライト1 >>,Мелирование волос 1 >>,挑染 1 >>,Mèches de cheveux 1 >>,Haar-Highlight 1 >>,헤어 하이라이트 1 >>
+HairHighlightLeft2,Hair Highlight 2 >>,Hair Highlight 2 >>,挑染 2 >>,Hajkiemelés 2 >>,Destacado del cabello 2 >>,髪ハイライト2 >>,Мелирование волос 2 >>,挑染 2 >>,Mèches de cheveux 2 >>,Haar-Highlight 2 >>,헤어 하이라이트 2 >>
+HairHighlightLeft3,Hair Highlight 3 >>,Hair Highlight 3 >>,挑染 3 >>,Hajkiemelés 3 >>,Destacado del cabello 3 >>,髪ハイライト3 >>,Мелирование волос 3 >>,挑染 3 >>,Mèches de cheveux 3 >>,Haar-Highlight 3 >>,헤어 하이라이트 3 >>
+HairHighlightMiddle1,Hair Highlight 1 ><,Hair Highlight 1 ><,挑染 1 ><,Hajkiemelés 1 ><,Destacado del cabello 1 ><,髪ハイライト1 中央,Мелирование волос 1 ><,挑染 1 ><,Mèches de cheveux 1 ><,Haar-Highlight 1 ><,헤어하이라이트 1 ><
+HairHighlightMiddle2,Hair Highlight 2 ><,Hair Highlight 2 ><,挑染 2 ><,Hajkiemelés 2 ><,Destacado del cabello 2 ><,髪ハイライト2 中央,Мелирование волос 2 ><,挑染 2 ><,Mèches de cheveux 2 ><,Haar-Highlight 2 ><,헤어하이라이트 2 ><
+HairHighlightMiddle3,Hair Highlight 3 ><,Hair Highlight 3 ><,挑染 3 ><,Hajkiemelés 3 ><,Destacado del cabello 3 ><,髪ハイライト3 中央,Мелирование волос 3 ><,挑染 3 ><,Mèches de cheveux 3 ><,Haar-Highlight 3 ><,헤어하이라이트 3 ><
+HairHighlightMiddle4,Hair Highlight 4 ><,Hair Highlight 4 ><,挑染 4 ><,Hajkiemelés 4 ><,Resaltado del cabello 4 ><,髪ハイライト4 中央,Мелирование волос 4 ><,挑染 4 ><,Mèches de cheveux 4 ><,Haar-Highlight 4 ><,헤어하이라이트 4 ><
+HairHighlightMiddle5,Hair Highlight 5 ><,Hair Highlight 5 ><,挑染 5 ><,Hajkiemelés 5 ><,Destacado del cabello 5 ><,髪ハイライト5 中央,Мелирование волос 5 ><,挑染 5 ><,Mèches de cheveux 5 ><,Haar-Highlight 5 ><,헤어하이라이트 5 ><
+HairHighlightMiddle6,Hair Highlight 6 ><,Hair Highlight 6 ><,挑染 6 ><,Hajkiemelés 6 ><,Destacado del cabello 6 ><,髪ハイライト6 中央,Мелирование волос 6 ><,挑染 6 ><,Mèches de cheveux 6 ><,Haar-Highlight 6 ><,헤어하이라이트 6 ><
+HairHighlightRight1,Hair Highlight 1 <<,Hair Highlight 1 <<,挑染 1 <<,Hajkiemelés 1 <<,Destacado del cabello 1 <<,髪ハイライト1 <<,Мелирование волос 1 <<,挑染 1 <<,Mèches de cheveux 1 <<,Haar-Highlight 1 <<,헤어 하이라이트 1 <<
+HairHighlightRight2,Hair Highlight 2 <<,Hair Highlight 2 <<,挑染 2 <<,Hajkiemelés 2 <<,Destacado del cabello 2 <<,髪ハイライト2 <<,Мелирование волос 2 <<,挑染 2 <<,Mèches de cheveux 2 <<,Haar-Highlight 2 <<,헤어 하이라이트 2 <<
+HairHighlightRight3,Hair Highlight 3 <<,Hair Highlight 3 <<,挑染 3 <<,Hajkiemelés 3 <<,Destacado del cabello 3 <<,髪ハイライト3 <<,Мелирование волос 3 <<,挑染 3 <<,Mèches de cheveux 3 <<,Haar-Highlight 3 <<,헤어 하이라이트 3 <<
+SideHair,Hair Side,Hair Side,头发 侧面,Hajoldal,Lado del cabello,横髪,Сторона волос,頭髮 側面,Côté cheveux,Haare Seite,헤어사이드
+Ahoge,Hair Ahoge,Hair Ahoge,头发 呆毛,Haj Ahoge,pelo ahogado,アホ毛,Волосы Ахоге,頭髮 呆毛,Cheveux Ahoge,Haare Ahoge,헤어 아호게
+BackHair,Hair Rear,Hair Rear,头发 后侧,Haj Hátsó,pelo trasero,後ろ髪,Волосы сзади,頭髮 後側,Cheveux arrière,Haare hinten,헤어 리어
+PigtailLeft,Hair Pigtail >>,Hair Pigtail >>,头发 马尾 >>,Haj Pigtail >>,Coleta de pelo >>,おさげ >>,Косичка для волос >>,頭髮 馬尾 >>,Queue de cochon >>,Haarzopf >>,헤어 피그테일 >>
+PigtailRight,Hair Pigtail <<,Hair Pigtail <<,头发 马尾 <<,Haj Pigtail <<,Coleta de pelo <<,おさげ <<,Косичка для волос <<,頭髮 馬尾 <<,Queue de cochon <<,Haarzopf <<,머리 땋은 머리 <<
+AnimalEar,Animal Ear,Animal Ear,兽耳,Állati fül,oreja de animal,ケモ耳,Ухо животного,獸耳,Oreille d'animal,Tierohr,동물의 귀
+Antenna,Antenna,Antenna,触角,Antenna,Antena,アンテナ,Антенна,觸角,Antenne,Antenne,안테나
+Fin,Fin,Fin,鳍,Uszony,Aleta,ヒレ,Плавник,鰭,Ailette,Flosse,지느러미
+Gill,Gill,Gill,腮,Kopoltyú,Branquia,エラ,Джилл,腮,Gil,Kieme,아가미
+Glasses,Glasses,Glasses,眼镜,Szemüveg,Anteojos,メガネ,Очки,眼鏡,Lunettes,Brille,안경
+HairbandA,Hairband A,Hairband A,发带 A,Hajpánt A,Diadema A,ヘアバンドA,Лента для волос А,髮帶 A,Bandeau A,Haarband A,헤어밴드A
+HairbandB,Hairband B,Hairband B,发带 B,Hajpánt B,Diadema B,ヘアバンドB,Лента для волос Б,髮帶 B,Bandeau B,Haarband B,헤어밴드B
+HairbandC,Hairband C,Hairband C,发带 C,Hajpánt C,Diadema C,ヘアバンドC,Повязка для волос С,髮帶 C,Bandeau C,Haarband C,헤어밴드 C
+HairbandD,Hairband D,Hairband D,发带 D,Hajpánt D,Diadema D,ヘアバンドD,Ободок для волос D,髮帶 D,Bandeau D,Haarband D,헤어밴드 D
+HairClipLeft,Hair Clip >>,Hair Clip >>,发夹 >>,Hajcsipesz >>,Pinza para el pelo >>,ヘアクリップ >>,Заколка для волос >>,髮夾 >>,Pince à cheveux >>,Haarspange >>,헤어클립 >>
+HairClipRight,Hair Clip <<,Hair Clip <<,发夹 <<,Hajcsat <<,Pinza para el pelo <<,ヘアクリップ <<,Заколка для волос <<,髮夾 <<,Pince à cheveux <<,Haarspange <<,헤어클립 <<
+Halo,Halo,Halo,光环,Halo,Halo,天使の輪,Гало,光環,Halo,Heiligenschein,후광
+Hat,Hat,Hat,帽子,Kalap,Sombrero,帽子,Шляпа,帽子,Chapeau,Hut,모자
+HeadWing,Ear Wing,Ear Wing,翅膀耳朵,Fülszárny,Ala de oreja,耳羽,Ухо Крыло,翅膀耳朵,Aile d'oreille,Ohrflügel,귀 날개
+Horn,Horn,Horn,角,Kürt,Bocina,角,Рог,角,Corne,Horn,뿔
+HornFrontMiddle,Horn Front ><,Horn Front ><,角 前 ><,Kürt Elöl ><,Frente de bocina ><,角 前中央,Рог спереди ><,角 前 ><,Corne avant ><,Horn vorne ><,혼 프론트 ><
+HornFront,Horn Front,Horn Front,角 前,Horn Front,Frente de bocina,角 前,Рог спереди,角 前,Corne avant,Horn vorne,혼 프론트
+Mecha,Mecha,Mecha,机械,Mecha,mecha,メカ,Меха,機械,Mécha,Mecha,메카
+OutfitInnerCollar,Outfit Collar Inner,Outfit Collar Inner,服装 领子 里侧,Outfit gallér belső,Interior del cuello del traje.,襟 内側,Внутренний воротник наряда,服裝 領子 裏側,Tenue Col Intérieur,Outfit-Kragen innen,의상 칼라 내부
+OutfitInner,Outfit Inner,Outfit Inner,服装 里侧,Outfit belső,Conjunto interior,服 内側,Внутренний наряд,服裝 裏側,Tenue intérieure,Outfit innen,의상 내부
+OutfitOuter,Outfit Outer,Outfit Outer,服装 外侧,Outfit Outer,Traje exterior,服 外側,Наряд Внешний,服裝 外側,Tenue extérieure,Outfit außen,의상 아우터
+NeckwearA,Outfit Neckwear A,Outfit Neckwear A,服装 颈部装饰 A,Outfit Neckwear A,Traje Corbatas A,首の衣装A,Наряд Галстук А,服裝 頸部裝飾 A,Tenue Cravate A,Outfit Halsschmuck A,아웃핏 넥웨어 A
+NeckwearB,Outfit Neckwear B,Outfit Neckwear B,服装 颈部装饰 B,Outfit Neckwear B,Conjunto Corbatas B,首の衣装B,Наряд Галстук Б,服裝 頸部裝飾 B,Tenue Cravate B,Outfit Halsschmuck B,아웃핏 넥웨어 B
+NeckwearC,Outfit Neckwear C,Outfit Neckwear C,服装 颈部装饰 C,Outfit Neckwear C,Conjunto Corbatas C,首の衣装C,Наряд Галстук C,服裝 頸部裝飾 C,Tenue Cravate C,Outfit Halsschmuck C,아웃핏 넥웨어 C
+SideHairBranchLeftA,Hair Side Branch >> A,Hair Side Branch >> A,头发 侧面分叉 >> A,Haj oldalág >> A,Rama lateral del cabello >> A,横髪 ハネ >> A,Боковая ветвь волос >> A,頭髮 側面分叉 >> A,Branche latérale des cheveux >> A,Haarseitenzweig >> A,헤어사이드 브랜치 >> A
+SideHairBranchLeftB,Hair Side Branch >> B,Hair Side Branch >> B,头发 侧面分叉 >> B,Haj oldalág >> B,Rama lateral del cabello >> B,横髪 ハネ >> B,Боковая ветвь волос >> B,頭髮 側面分叉 >> B,Branche latérale des cheveux >> B,Haarseitenzweig >> B,헤어사이드브랜치 >> B
+SideHairBranchLeftC,Hair Side Branch >> C,Hair Side Branch >> C,头发 侧面分叉 >> C,Haj oldalág >> C,Rama lateral del cabello >> C,横髪 ハネ >> C,Боковая ветвь волос >> C,頭髮 側面分叉 >> C,Branche latérale des cheveux >> C,Haarseitenzweig >> C,헤어사이드 브랜치 >> C
+SideHairBranchRightA,Hair Side Branch << A,Hair Side Branch << A,头发 侧面分叉 << A,Haj oldalág << A,Rama lateral del cabello << A,横髪 ハネ << A,Боковая ветвь волос << A,頭髮 側面分叉 << A,Branche latérale des cheveux << A,Haarseitenzweig << A,헤어사이드 브랜치 << A
+SideHairBranchRightB,Hair Side Branch << B,Hair Side Branch << B,头发 侧面分叉 << B,Haj oldalág << B,Rama lateral del cabello << B,横髪 ハネ << B,Боковая ветвь волос << B,頭髮 側面分叉 << B,Branche latérale des cheveux << B,Haarseitenzweig << B,헤어사이드 브랜치 << B
+SideHairBranchRightC,Hair Side Branch << C,Hair Side Branch << C,头发 侧面分叉 << C,Haj oldalág << C,Rama lateral del cabello << C,横髪 ハネ << C,Боковая ветвь волос << C,頭髮 側面分叉 << C,Branche latérale des cheveux << C,Haarseitenzweig << C,헤어사이드 브랜치 << C
+Tail,Tail,Tail,尾巴,Farok,Cola,しっぽ,Хвост,尾巴,Queue,Schwanz,꼬리
+Wing,Wing,Wing,翅膀,Szárny,Ala,翼,Крыло,翅膀,Aile,Flügel,비행
