@@ -1,218 +1,218 @@
-Unnamed: 0,Key,en,es,reviewed
-0.0,Hair Ahoge,Hair Ahoge,Ahoge,True
-1.0,Hair Ahoge Outline,Hair Ahoge Outline,Contorno del Ahoge,True
-2.0,Animal Ear >>,Animal Ear >>,Oreja de animal >>,True
-3.0,Animal Ear >> Fur,Animal Ear >> Fur,Orejas de animal >> Pelaje,True
-4.0,Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,Orejas de animal >> Contorno del pelaje,True
-5.0,Animal Ear >> Outline,Animal Ear >> Outline,Orejas de animal >> Contorno,True
-6.0,Animal Ear <<,Animal Ear <<,Orejas de animal <<,True
-7.0,Animal Ear << Fur,Animal Ear << Fur,Orejas de animal << Pelaje,True
-8.0,Animal Ear << Fur Outline,Animal Ear << Fur Outline,Orejas de animal << Contorno del pelaje,True
-9.0,Animal Ear << Outline,Animal Ear << Outline,Orejas de animal << Contorno,True
-10.0,Antenna >>,Antenna >>,Antena >>,True
-11.0,Antenna >> Outline,Antenna >> Outline,Antena >> Contorno,True
-12.0,Antenna <<,Antenna <<,Antena <<,True
-13.0,Antenna << Outline,Antenna << Outline,Antena << Contorno,True
-14.0,Hair Rear,Hair Rear,Pelo trasero,True
-15.0,Hair Rear Outline,Hair Rear Outline,Contorno del pelo trasero,True
-16.0,Beverage Cup,Beverage Cup,Vaso de bebida,True
-17.0,Beverage Liquid,Beverage Liquid,Líquido del vaso,True
-18.0,Beverage Liquid 2,Beverage Liquid 2,Líquido del vaso 2,True
-19.0,Bill,Bill,Billetes,True
-20.0,Blanket Inner,Blanket Inner,Manta interior,True
-21.0,Blanket Outter,Blanket Outter,Manta exterior,True
-22.0,Face Blush,Face Blush,Rubor,True
-23.0,Brow >>,Brow >>,Ceja >>,True
-24.0,Brow <<,Brow <<,Ceja <<,True
-25.0,Chopstick,Chopstick,Palillos,True
-26.0,Crowbar,Crowbar,Palanca,True
-27.0,Cup,Cup,Taza,True
-28.0,Cup Steam,Cup Steam,Vapor de la taza,True
-29.0,Door/Wall,Door/Wall,Puerta/Pared,True
-30.0,Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,Pupila (tonta) >>,True
-31.0,Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Pupila (tonta) <<,True
-32.0,Eyebag,Eyebag,Ojeras,True
-33.0,Eye Iris Dark >>,Eye Iris Dark >>,Iris Oscuro >>,True
-34.0,Eye Iris Dark <<,Eye Iris Dark <<,Iris Oscuro <<,True
-35.0,Eye Dollar,Eye Dollar,Ojos de dinero,True
-36.0,Eye Heart,Eye Heart,Ojos de corazón,True
-37.0,Eye Highlight,Eye Highlight,Brillo del ojo,True
-38.0,Eyelashes,Eyelashes,Pestañas,True
-39.0,Eye Iris Light >>,Eye Iris Light >>,Brillo del iris >>,True
-40.0,Eye Iris Light <<,Eye Iris Light <<,Brillo del iris <<,True
-41.0,Eye(Dum) Outline,Eye(Dum) Outline,Contorno de ojo (tonto),True
-42.0,Eye Sparkling,Eye Sparkling,Ojos chispeantes,True
-43.0,Eye Spiral,Eye Spiral,Espiral en los ojos,True
-44.0,Eye White,Eye White,Ojo blanco,True
-45.0,Face Shadow,Face Shadow,Sombra de la cara,True
-46.0,Fin >>,Fin >>,Aleta >>,True
-47.0,Fin >> Outline,Fin >> Outline,Aleta >> Contorno,True
-48.0,Fin <<,Fin <<,aleta <<,True
-49.0,Fin << Outline,Fin << Outline,Fin << Contorno,True
-50.0,Hair Framing >>,Hair Framing >>,Mechón frontal >>,True
-51.0,Hair Framing >> Outline,Hair Framing >> Outline,Mechón frontal >> Contorno,True
-52.0,Hair Framing <<,Hair Framing <<,Mechón frontal <<,True
-53.0,Hair Framing << Outline,Hair Framing << Outline,Mechón frontal << Contorno,True
-54.0,Gill,Gill,Branquia,True
-55.0,Gill Outline,Gill Outline,Contorno de la branquia,True
-56.0,Glasses,Glasses,Anteojos,True
-57.0,Hairband A,Hairband A,Diadema A,True
-58.0,Hairband A Outline,Hairband A Outline,Contorno de Diadema A,True
-59.0,Hairband B,Hairband B,Diadema B,True
-60.0,Hairband B Outline,Hairband B Outline,Contorno de Diadema B,True
-61.0,Hairband C,Hairband C,Diadema C,True
-62.0,Hairband C Outline,Hairband C Outline,Contorno de Diadema C,True
-63.0,Hairband D,Hairband D,Diadema D,True
-64.0,Hairband D Outline,Hairband D Outline,Contorno de Diadema D,True
-65.0,Hair Bang >>,Hair Bang >>,Flequillo >>,True
-66.0,Hair Bang >> Outline,Hair Bang >> Outline,Flequillo >> Contorno,True
-67.0,Hair Bang ><,Hair Bang ><,Flequillo ><,True
-68.0,Hair Bang >< Outline,Hair Bang >< Outline,Flequillo >< Contorno,True
-69.0,Hair Bang <<,Hair Bang <<,Flequillo <<,True
-70.0,Hair Bang << Outline,Hair Bang << Outline,Flequillo << Contorno,True
-71.0,Hair Clip >>,Hair Clip >>,Pinza para el pelo >>,True
-72.0,Hair Clip >> Outline,Hair Clip >> Outline,Pinza para el cabello >> Contorno,True
-73.0,Hair Clip <<,Hair Clip <<,Pinza para el pelo <<,True
-74.0,Hair Clip << Outline,Hair Clip << Outline,Pinza para el cabello << Contorno,True
-75.0,Hair Highlight 1 >>,Hair Highlight 1 >>,Mechas de cabello 1 >>,True
-76.0,Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Mechas de cabello 1 >> Contorno,True
-77.0,Hair Highlight 2 >>,Hair Highlight 2 >>,Mechas de cabello 2 >>,True
-78.0,Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Mechas de cabello 2 >> Contorno,True
-79.0,Hair Highlight 3 >>,Hair Highlight 3 >>,Mechas de cabello 3 >>,True
-80.0,Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Mechas de cabello 3 >> Contorno,True
-81.0,Hair Highlight 1 ><,Hair Highlight 1 ><,Mechas de cabello 1 ><,True
-82.0,Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Mechas de cabello 1 >< Contorno,True
-83.0,Hair Highlight 2 ><,Hair Highlight 2 ><,Mechas de cabello 2 ><,True
-84.0,Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Mechas de cabello 2 >< Contorno,True
-85.0,Hair Highlight 3 ><,Hair Highlight 3 ><,Destacado del cabello 3 ><,True
-86.0,Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Mechas de cabello 3 >< Contorno,True
-87.0,Hair Highlight 4 ><,Hair Highlight 4 ><,Mechas de cabello 4 ><,True
-88.0,Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Mechas de cabello 4 >< Contorno,True
-89.0,Hair Highlight 5 ><,Hair Highlight 5 ><,Mechas de cabello 5 ><,True
-90.0,Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Mechas de cabello 5 >< Contorno,True
-91.0,Hair Highlight 6 ><,Hair Highlight 6 ><,Mechas de cabello 6 ><,True
-92.0,Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Mechas de cabello 6 >< Contorno,True
-93.0,Hair Highlight 1 <<,Hair Highlight 1 <<,Mechas de cabello 1 <<,True
-94.0,Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Mechas de cabello 1 << Contorno,True
-95.0,Hair Highlight 2 <<,Hair Highlight 2 <<,Mechas de cabello 2 <<,True
-96.0,Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Mechas de cabello 2 << Contorno,True
-97.0,Hair Highlight 3 <<,Hair Highlight 3 <<,Mechas de cabello 3 <<,True
-98.0,Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Mechas de cabello 3 << Contorno,True
-99.0,Hairline Outline,Hairline Outline,Contorno de la rayita,True
-100.0,Hair Shine,Hair Shine,Brillo del cabello,True
-101.0,Hair Shine Outline,Hair Shine Outline,Contorno del brillo del cabello,True
-102.0,Halo,Halo,Halo,True
-103.0,Halo Outline,Halo Outline,Contorno del halo,True
-104.0,Hat,Hat,Sombrero,True
-105.0,Hat Outline,Hat Outline,Contorno del sombrero,True
-106.0,Hat Secondary,Hat Secondary,Sombrero Secundario,True
-107.0,Hat Secondary Outline,Hat Secondary Outline,Contorno del sombrero secundario,True
-108.0,Hammer,Hammer,Martillo,True
-109.0,Ear Wing >>,Ear Wing >>,Ala de oreja >>,True
-110.0,Ear Wing >> Outline,Ear Wing >> Outline,Ala de oreja >> Contorno,True
-111.0,Ear Wing <<,Ear Wing <<,Ala de oreja <<,True
-112.0,Ear Wing << Outline,Ear Wing << Outline,Ala de oreja << Contorno,True
-113.0,Heart,Heart,Corazón,True
-114.0,Horn >>,Horn >>,Cuerno >>,True
-115.0,Horn >> Outline,Horn >> Outline,Cuerno >> Contorno,True
-116.0,Horn <<,Horn <<,Cuerno <<,True
-117.0,Horn << Outline,Horn << Outline,Cuerno << Contorno,True
-118.0,Horn ><,Horn ><,Cuerno ><,True
-119.0,Horn >< Outline,Horn >< Outline,Cuerno >< Contorno,True
-120.0,Jail Grill,Jail Grill,Barrotes de la cárcel,True
-121.0,Keyboard,Keyboard,Teclado,True
-122.0,Kitchen Knife,Kitchen Knife,Cuchillo de cocina,True
-123.0,Laptop,Laptop,Computadora portátil,True
-124.0,Laptop Light,Laptop Light,Luz de la computadora portátil,True
-125.0,Leg >>,Leg >>,Pierna >>,True
-126.0,Leg <<,Leg <<,Pierna <<,True
-127.0,Lightstick Handle,Lightstick Handle,Mango del Lightstick,True
-128.0,Light Stick >>,Light Stick >>,Lightstick >>,True
-129.0,Light Stick <<,Light Stick <<,Lightstick <<,True
-130.0,Mecha,Mecha,Mecha,True
-131.0,Mecha >>,Mecha >>,Mecha >>,True
-132.0,Mecha >> Outline,Mecha >> Outline,Mecha >> Contorno,True
-133.0,Mecha Outline,Mecha Outline,Contorno del mecha,True
-134.0,Mecha <<,Mecha <<,Mecha <<,True
-135.0,Mecha << Outline,Mecha << Outline,Mecha << Contorno,True
-136.0,Mouse,Mouse,Ratón,True
-137.0,Mouth/Tongue,Mouth/Tongue,Boca/Lengua,True
-138.0,Mouth/Tongue Shadow,Mouth/Tongue Shadow,Sombra de boca/lengua,True
-139.0,Notepad,Notepad,Bloc de notas,True
-140.0,Outfit Collar,Outfit Collar,Cuello del Outfit,True
-141.0,Outfit Collar Outline,Outfit Collar Outline,Contorno del cuello del Outfit,True
-142.0,Outfit Inner,Outfit Inner,Outfit interior,True
-143.0,Outfit Inner Outline,Outfit Inner Outline,Contorno del Outfit interior,True
-144.0,Outfit Neckwear A,Outfit Neckwear A,Accesorios de cuello A,True
-145.0,Outfit Neckwear A Outline,Outfit Neckwear A Outline,Contorno del accesorio de cuello A,True
-146.0,Outfit Neckwear B,Outfit Neckwear B,Accesorios de cuello B,True
-147.0,Outfit Neckwear B Outline,Outfit Neckwear B Outline,Contorno del accesorio de cuello B,True
-148.0,Outfit Neckwear C,Outfit Neckwear C,Accesorios de cuello C,True
-149.0,Outfit Neckwear C Outline,Outfit Neckwear C Outline,Contorno del accesorio de cuello C,True
-150.0,Outfit Outer,Outfit Outer,Traje exterior,True
-151.0,Outfit Outer Outline,Outfit Outer Outline,Contorno del traje exterior,True
-152.0,Pencil,Pencil,Lápiz,True
-153.0,Phone,Phone,Teléfono,True
-154.0,Phone Light,Phone Light,Luz del teléfono,True
-155.0,Hair Pigtail >>,Hair Pigtail >>,Coleta de pelo >>,True
-156.0,Hair Pigtail >> Outline,Hair Pigtail >> Outline,Coleta de pelo >> Contorno,True
-157.0,Hair Pigtail <<,Hair Pigtail <<,Coleta de pelo <<,True
-158.0,Hair Pigtail << Outline,Hair Pigtail << Outline,Coleta de pelo << Contorno,True
-159.0,Rose,Rose,Rosa,True
-160.0,Round Sign,Round Sign,Señal redonda,True
-161.0,Round Sign Text,Round Sign Text,Texto de la señal redonda,True
-162.0,Hair Side,Hair Side,Cabello de los lados trasero,True
-163.0,Hair Side Outline,Hair Side Outline,Contorno del cabello de los lados trasero,True
-164.0,Skin,Skin,Piel,True
-165.0,Skin Outline,Skin Outline,Contorno de la piel,True
-166.0,Square Sign,Square Sign,Señal cuadrada,True
-167.0,Square Sign Text,Square Sign Text,Texto de la señal cuadrada,True
-168.0,Steering Wheel,Steering Wheel,Volante,True
-169.0,Gas Bottle,Gas Bottle,Tanque de Copium,True
-170.0,Pat Hand,Pat Hand,Mano de la palmadita,True
-171.0,Sticker Alert,Sticker Alert,Color de la alerta,True
-172.0,Sticker Alert Effect,Sticker Alert Effect,Efecto de la alerta,True
-173.0,Sticker Alert Outline,Sticker Alert Outline,Contorno de la alerta,True
-174.0,Sticker Angry,Sticker Angry,Efecto enojado,True
-175.0,Sticker Exclamation Mark,Sticker Exclamation Mark,Signo de exclamación,True
-176.0,Sticker Ghost,Sticker Ghost,Efecto Fantasma,True
-177.0,Sticker Heart,Sticker Heart,Efecto Corazón,True
-178.0,Sticker Laugh,Sticker Laugh,Efecto Risa,True
-179.0,Sticker Question Mark,Sticker Question Mark,Signo de interrogación,True
-180.0,Sticker Sleep,Sticker Sleep,Efecto Dormir,True
-181.0,Sticker Star,Sticker Star,Efecto Estrella,True
-182.0,Sticker Steam,Sticker Steam,Efecto Vapor,True
-183.0,Sticker Surprise,Sticker Surprise,Efecto Sorpresa,True
-184.0,Sticker Sweat,Sticker Sweat,Gota de Sudor,True
-185.0,Sticker Sweat (Large),Sticker Sweat (Large),Gota de Sudor (Grande),True
-186.0,Sticker Volume,Sticker Volume,Efecto de Volumen,True
-187.0,Sticky Note,Sticky Note,Nota adhesiva,True
-188.0,Sticky Note Text,Sticky Note Text,Texto de nota adhesiva,True
-189.0,Eye Tear,Eye Tear,Lágrima del ojo,True
-190.0,Utensil,Utensil,Utensilio,True
-191.0,Outfit Collar String,Outfit Collar String,Cordón del cuello del Outfit,True
-,Bell,Bell,Campana,False
-,Confetti 1,Confetti 1,Confeti 1,False
-,Confetti 2,Confetti 2,Confeti 2,False
-,Confetti 3,Confetti 3,Confeti 3,False
-,Microphone,Microphone,Micrófono,False
-,Gleam,Gleam,Destello,False
-,Video Camera,Video Camera,Cámara de video,False
-,Point Hand,Point Hand,Punto de la mano,False
-,Bowl,Bowl,Bol,False
-,Cake,Cake,Pastel,False
-,Candle Fire,Candle Fire,fuego de vela,False
-,Drawing Tablet,Drawing Tablet,tableta de dibujo,False
-,Love Letter,Love Letter,carta de amor,False
-,Popper,Popper,Corchete,False
-,Stylus,Stylus,Aguja,False
-,Tablet,Tablet,Tableta,False
-,Musical Note 1,Musical Note 1,Nota musical 1,False
-,Musical Note 2,Musical Note 2,Nota musical 2,False
-,Phone Screen,Phone Screen,Pantalla del teléfono,False
-,Tail,Tail,Cola,False
-,Tail Outline,Tail Outline,Contorno de la cola,False
-,Wing >>,Wing >>,Ala >>,False
-,Wing >> Outline,Wing >> Outline,Ala >> Contorno,False
-,Wing <<,Wing <<,Ala <<,False
-,Wing << Outline,Wing << Outline,Ala << Contorno,False
+Key,en,es,reviewed
+Hair Ahoge,Hair Ahoge,Ahoge,TRUE
+Hair Ahoge Outline,Hair Ahoge Outline,Contorno del Ahoge,TRUE
+Animal Ear >>,Animal Ear >>,Oreja de animal >>,TRUE
+Animal Ear >> Fur,Animal Ear >> Fur,Orejas de animal >> Pelaje,TRUE
+Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,Orejas de animal >> Contorno del pelaje,TRUE
+Animal Ear >> Outline,Animal Ear >> Outline,Orejas de animal >> Contorno,TRUE
+Animal Ear <<,Animal Ear <<,Orejas de animal <<,TRUE
+Animal Ear << Fur,Animal Ear << Fur,Orejas de animal << Pelaje,TRUE
+Animal Ear << Fur Outline,Animal Ear << Fur Outline,Orejas de animal << Contorno del pelaje,TRUE
+Animal Ear << Outline,Animal Ear << Outline,Orejas de animal << Contorno,TRUE
+Antenna >>,Antenna >>,Antena >>,TRUE
+Antenna >> Outline,Antenna >> Outline,Antena >> Contorno,TRUE
+Antenna <<,Antenna <<,Antena <<,TRUE
+Antenna << Outline,Antenna << Outline,Antena << Contorno,TRUE
+Hair Rear,Hair Rear,Pelo trasero,TRUE
+Hair Rear Outline,Hair Rear Outline,Contorno del pelo trasero,TRUE
+Beverage Cup,Beverage Cup,Vaso de bebida,TRUE
+Beverage Liquid,Beverage Liquid,Líquido del vaso,TRUE
+Beverage Liquid 2,Beverage Liquid 2,Líquido del vaso 2,TRUE
+Bill,Bill,Billetes,TRUE
+Blanket Inner,Blanket Inner,Manta interior,TRUE
+Blanket Outter,Blanket Outter,Manta exterior,TRUE
+Face Blush,Face Blush,Rubor,TRUE
+Brow >>,Brow >>,Ceja >>,TRUE
+Brow <<,Brow <<,Ceja <<,TRUE
+Chopstick,Chopstick,Palillos,TRUE
+Crowbar,Crowbar,Palanca,TRUE
+Cup,Cup,Taza,TRUE
+Cup Steam,Cup Steam,Vapor de la taza,TRUE
+Door/Wall,Door/Wall,Puerta/Pared,TRUE
+Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,Pupila (tonta) >>,TRUE
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Pupila (tonta) <<,TRUE
+Eyebag,Eyebag,Ojeras,TRUE
+Eye Iris Dark >>,Eye Iris Dark >>,Iris Oscuro >>,TRUE
+Eye Iris Dark <<,Eye Iris Dark <<,Iris Oscuro <<,TRUE
+Eye Dollar,Eye Dollar,Ojos de dinero,TRUE
+Eye Heart,Eye Heart,Ojos de corazón,TRUE
+Eye Highlight,Eye Highlight,Brillo del ojo,TRUE
+Eyelashes,Eyelashes,Pestañas,TRUE
+Eye Iris Light >>,Eye Iris Light >>,Brillo del iris >>,TRUE
+Eye Iris Light <<,Eye Iris Light <<,Brillo del iris <<,TRUE
+Eye(Dum) Outline,Eye(Dum) Outline,Contorno de ojo (tonto),TRUE
+Eye Sparkling,Eye Sparkling,Ojos chispeantes,TRUE
+Eye Spiral,Eye Spiral,Espiral en los ojos,TRUE
+Eye White,Eye White,Ojo blanco,TRUE
+Face Shadow,Face Shadow,Sombra de la cara,TRUE
+Fin >>,Fin >>,Aleta >>,TRUE
+Fin >> Outline,Fin >> Outline,Aleta >> Contorno,TRUE
+Fin <<,Fin <<,aleta <<,TRUE
+Fin << Outline,Fin << Outline,Fin << Contorno,TRUE
+Hair Framing >>,Hair Framing >>,Mechón frontal >>,TRUE
+Hair Framing >> Outline,Hair Framing >> Outline,Mechón frontal >> Contorno,TRUE
+Hair Framing <<,Hair Framing <<,Mechón frontal <<,TRUE
+Hair Framing << Outline,Hair Framing << Outline,Mechón frontal << Contorno,TRUE
+Gill,Gill,Branquia,TRUE
+Gill Outline,Gill Outline,Contorno de la branquia,TRUE
+Glasses,Glasses,Anteojos,TRUE
+Hairband A,Hairband A,Diadema A,TRUE
+Hairband A Outline,Hairband A Outline,Contorno de Diadema A,TRUE
+Hairband B,Hairband B,Diadema B,TRUE
+Hairband B Outline,Hairband B Outline,Contorno de Diadema B,TRUE
+Hairband C,Hairband C,Diadema C,TRUE
+Hairband C Outline,Hairband C Outline,Contorno de Diadema C,TRUE
+Hairband D,Hairband D,Diadema D,TRUE
+Hairband D Outline,Hairband D Outline,Contorno de Diadema D,TRUE
+Hair Bang >>,Hair Bang >>,Flequillo >>,TRUE
+Hair Bang >> Outline,Hair Bang >> Outline,Flequillo >> Contorno,TRUE
+Hair Bang ><,Hair Bang ><,Flequillo ><,TRUE
+Hair Bang >< Outline,Hair Bang >< Outline,Flequillo >< Contorno,TRUE
+Hair Bang <<,Hair Bang <<,Flequillo <<,TRUE
+Hair Bang << Outline,Hair Bang << Outline,Flequillo << Contorno,TRUE
+Hair Clip >>,Hair Clip >>,Pinza para el pelo >>,TRUE
+Hair Clip >> Outline,Hair Clip >> Outline,Pinza para el cabello >> Contorno,TRUE
+Hair Clip <<,Hair Clip <<,Pinza para el pelo <<,TRUE
+Hair Clip << Outline,Hair Clip << Outline,Pinza para el cabello << Contorno,TRUE
+Hair Highlight 1 >>,Hair Highlight 1 >>,Mechas de cabello 1 >>,TRUE
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Mechas de cabello 1 >> Contorno,TRUE
+Hair Highlight 2 >>,Hair Highlight 2 >>,Mechas de cabello 2 >>,TRUE
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Mechas de cabello 2 >> Contorno,TRUE
+Hair Highlight 3 >>,Hair Highlight 3 >>,Mechas de cabello 3 >>,TRUE
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Mechas de cabello 3 >> Contorno,TRUE
+Hair Highlight 1 ><,Hair Highlight 1 ><,Mechas de cabello 1 ><,TRUE
+Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Mechas de cabello 1 >< Contorno,TRUE
+Hair Highlight 2 ><,Hair Highlight 2 ><,Mechas de cabello 2 ><,TRUE
+Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Mechas de cabello 2 >< Contorno,TRUE
+Hair Highlight 3 ><,Hair Highlight 3 ><,Destacado del cabello 3 ><,TRUE
+Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Mechas de cabello 3 >< Contorno,TRUE
+Hair Highlight 4 ><,Hair Highlight 4 ><,Mechas de cabello 4 ><,TRUE
+Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Mechas de cabello 4 >< Contorno,TRUE
+Hair Highlight 5 ><,Hair Highlight 5 ><,Mechas de cabello 5 ><,TRUE
+Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Mechas de cabello 5 >< Contorno,TRUE
+Hair Highlight 6 ><,Hair Highlight 6 ><,Mechas de cabello 6 ><,TRUE
+Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Mechas de cabello 6 >< Contorno,TRUE
+Hair Highlight 1 <<,Hair Highlight 1 <<,Mechas de cabello 1 <<,TRUE
+Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Mechas de cabello 1 << Contorno,TRUE
+Hair Highlight 2 <<,Hair Highlight 2 <<,Mechas de cabello 2 <<,TRUE
+Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Mechas de cabello 2 << Contorno,TRUE
+Hair Highlight 3 <<,Hair Highlight 3 <<,Mechas de cabello 3 <<,TRUE
+Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Mechas de cabello 3 << Contorno,TRUE
+Hairline Outline,Hairline Outline,Contorno de la rayita,TRUE
+Hair Shine,Hair Shine,Brillo del cabello,TRUE
+Hair Shine Outline,Hair Shine Outline,Contorno del brillo del cabello,TRUE
+Halo,Halo,Halo,TRUE
+Halo Outline,Halo Outline,Contorno del halo,TRUE
+Hat,Hat,Sombrero,TRUE
+Hat Outline,Hat Outline,Contorno del sombrero,TRUE
+Hat Secondary,Hat Secondary,Sombrero Secundario,TRUE
+Hat Secondary Outline,Hat Secondary Outline,Contorno del sombrero secundario,TRUE
+Hammer,Hammer,Martillo,TRUE
+Ear Wing >>,Ear Wing >>,Ala de oreja >>,TRUE
+Ear Wing >> Outline,Ear Wing >> Outline,Ala de oreja >> Contorno,TRUE
+Ear Wing <<,Ear Wing <<,Ala de oreja <<,TRUE
+Ear Wing << Outline,Ear Wing << Outline,Ala de oreja << Contorno,TRUE
+Heart,Heart,Corazón,TRUE
+Horn >>,Horn >>,Cuerno >>,TRUE
+Horn >> Outline,Horn >> Outline,Cuerno >> Contorno,TRUE
+Horn <<,Horn <<,Cuerno <<,TRUE
+Horn << Outline,Horn << Outline,Cuerno << Contorno,TRUE
+Horn ><,Horn ><,Cuerno ><,TRUE
+Horn >< Outline,Horn >< Outline,Cuerno >< Contorno,TRUE
+Jail Grill,Jail Grill,Barrotes de la cárcel,TRUE
+Keyboard,Keyboard,Teclado,TRUE
+Kitchen Knife,Kitchen Knife,Cuchillo de cocina,TRUE
+Laptop,Laptop,Computadora portátil,TRUE
+Laptop Light,Laptop Light,Luz de la computadora portátil,TRUE
+Leg >>,Leg >>,Pierna >>,TRUE
+Leg <<,Leg <<,Pierna <<,TRUE
+Lightstick Handle,Lightstick Handle,Mango del Lightstick,TRUE
+Light Stick >>,Light Stick >>,Lightstick >>,TRUE
+Light Stick <<,Light Stick <<,Lightstick <<,TRUE
+Mecha,Mecha,Mecha,TRUE
+Mecha >>,Mecha >>,Mecha >>,TRUE
+Mecha >> Outline,Mecha >> Outline,Mecha >> Contorno,TRUE
+Mecha Outline,Mecha Outline,Contorno del mecha,TRUE
+Mecha <<,Mecha <<,Mecha <<,TRUE
+Mecha << Outline,Mecha << Outline,Mecha << Contorno,TRUE
+Mouse,Mouse,Ratón,TRUE
+Mouth/Tongue,Mouth/Tongue,Boca/Lengua,TRUE
+Mouth/Tongue Shadow,Mouth/Tongue Shadow,Sombra de boca/lengua,TRUE
+Notepad,Notepad,Bloc de notas,TRUE
+Outfit Collar,Outfit Collar,Cuello del Outfit,TRUE
+Outfit Collar Outline,Outfit Collar Outline,Contorno del cuello del Outfit,TRUE
+Outfit Inner,Outfit Inner,Outfit interior,TRUE
+Outfit Inner Outline,Outfit Inner Outline,Contorno del Outfit interior,TRUE
+Outfit Neckwear A,Outfit Neckwear A,Accesorios de cuello A,TRUE
+Outfit Neckwear A Outline,Outfit Neckwear A Outline,Contorno del accesorio de cuello A,TRUE
+Outfit Neckwear B,Outfit Neckwear B,Accesorios de cuello B,TRUE
+Outfit Neckwear B Outline,Outfit Neckwear B Outline,Contorno del accesorio de cuello B,TRUE
+Outfit Neckwear C,Outfit Neckwear C,Accesorios de cuello C,TRUE
+Outfit Neckwear C Outline,Outfit Neckwear C Outline,Contorno del accesorio de cuello C,TRUE
+Outfit Outer,Outfit Outer,Traje exterior,TRUE
+Outfit Outer Outline,Outfit Outer Outline,Contorno del traje exterior,TRUE
+Pencil,Pencil,Lápiz,TRUE
+Phone,Phone,Teléfono,TRUE
+Phone Light,Phone Light,Luz del teléfono,TRUE
+Hair Pigtail >>,Hair Pigtail >>,Coleta de pelo >>,TRUE
+Hair Pigtail >> Outline,Hair Pigtail >> Outline,Coleta de pelo >> Contorno,TRUE
+Hair Pigtail <<,Hair Pigtail <<,Coleta de pelo <<,TRUE
+Hair Pigtail << Outline,Hair Pigtail << Outline,Coleta de pelo << Contorno,TRUE
+Rose,Rose,Rosa,TRUE
+Round Sign,Round Sign,Señal redonda,TRUE
+Round Sign Text,Round Sign Text,Texto de la señal redonda,TRUE
+Hair Side,Hair Side,Cabello de los lados trasero,TRUE
+Hair Side Outline,Hair Side Outline,Contorno del cabello de los lados trasero,TRUE
+Skin,Skin,Piel,TRUE
+Skin Outline,Skin Outline,Contorno de la piel,TRUE
+Square Sign,Square Sign,Señal cuadrada,TRUE
+Square Sign Text,Square Sign Text,Texto de la señal cuadrada,TRUE
+Steering Wheel,Steering Wheel,Volante,TRUE
+Gas Bottle,Gas Bottle,Tanque de Copium,TRUE
+Pat Hand,Pat Hand,Mano de la palmadita,TRUE
+Sticker Alert,Sticker Alert,Color de la alerta,TRUE
+Sticker Alert Effect,Sticker Alert Effect,Efecto de la alerta,TRUE
+Sticker Alert Outline,Sticker Alert Outline,Contorno de la alerta,TRUE
+Sticker Angry,Sticker Angry,Efecto enojado,TRUE
+Sticker Exclamation Mark,Sticker Exclamation Mark,Signo de exclamación,TRUE
+Sticker Ghost,Sticker Ghost,Efecto Fantasma,TRUE
+Sticker Heart,Sticker Heart,Efecto Corazón,TRUE
+Sticker Laugh,Sticker Laugh,Efecto Risa,TRUE
+Sticker Question Mark,Sticker Question Mark,Signo de interrogación,TRUE
+Sticker Sleep,Sticker Sleep,Efecto Dormir,TRUE
+Sticker Star,Sticker Star,Efecto Estrella,TRUE
+Sticker Steam,Sticker Steam,Efecto Vapor,TRUE
+Sticker Surprise,Sticker Surprise,Efecto Sorpresa,TRUE
+Sticker Sweat,Sticker Sweat,Gota de Sudor,TRUE
+Sticker Sweat (Large),Sticker Sweat (Large),Gota de Sudor (Grande),TRUE
+Sticker Volume,Sticker Volume,Efecto de Volumen,TRUE
+Sticky Note,Sticky Note,Nota adhesiva,TRUE
+Sticky Note Text,Sticky Note Text,Texto de nota adhesiva,TRUE
+Eye Tear,Eye Tear,Lágrima del ojo,TRUE
+Utensil,Utensil,Utensilio,TRUE
+Outfit Collar String,Outfit Collar String,Cordón del cuello del Outfit,TRUE
+Bell,Bell,Campana,FALSE
+Confetti 1,Confetti 1,Confeti 1,FALSE
+Confetti 2,Confetti 2,Confeti 2,FALSE
+Confetti 3,Confetti 3,Confeti 3,FALSE
+Microphone,Microphone,Micrófono,FALSE
+Gleam,Gleam,Destello,FALSE
+Video Camera,Video Camera,Cámara de video,FALSE
+Point Hand,Point Hand,Punto de la mano,FALSE
+Bowl,Bowl,Bol,FALSE
+Cake,Cake,Pastel,FALSE
+Candle Fire,Candle Fire,fuego de vela,FALSE
+Drawing Tablet,Drawing Tablet,tableta de dibujo,FALSE
+Love Letter,Love Letter,carta de amor,FALSE
+Popper,Popper,Corchete,FALSE
+Stylus,Stylus,Aguja,FALSE
+Tablet,Tablet,Tableta,FALSE
+Musical Note 1,Musical Note 1,Nota musical 1,FALSE
+Musical Note 2,Musical Note 2,Nota musical 2,FALSE
+Phone Screen,Phone Screen,Pantalla del teléfono,FALSE
+Tail,Tail,Cola,FALSE
+Tail Outline,Tail Outline,Contorno de la cola,FALSE
+Wing >>,Wing >>,Ala >>,FALSE
+Wing >> Outline,Wing >> Outline,Ala >> Contorno,FALSE
+Wing <<,Wing <<,Ala <<,FALSE
+Wing << Outline,Wing << Outline,Ala << Contorno,FALSE

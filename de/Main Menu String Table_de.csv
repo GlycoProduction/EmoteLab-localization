@@ -3,7 +3,7 @@ MainMenu.TabHeaderLable.Editor,Editor,Editor,True
 MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Bist du sicher, dass du den Charakter „{0}“ löschen möchtest? Diese Aktion kann nicht rückgängig gemacht werden.",True
 MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","Der Charakter „{0}“ ist bereits vorhanden. Bist du sicher, dass du den Charakter „{0}“ überschreiben möchtest? Diese Aktion kann nicht rückgängig gemacht werden.",True
 MainMenu.Confirm,Confirm,Bestätigen,True
-MainMenu.Cancel,0Cancel,0Abbrechen,True
+MainMenu.Cancel,Cancel,Abbrechen,True
 MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,Bitte gib einen Charakternamen ein:,True
 MainMenu.Editor.Model,Models,Modelle,True
 MainMenu.Editor.Character,Character,Charakter,True

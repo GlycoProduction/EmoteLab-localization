@@ -1,100 +1,100 @@
-Unnamed: 0,Key,en,es,reviewed
-0.0,Alert Bits,Alert Bits,Alerta de Bits,True
-1.0,Alert Donation,Alert Donation,Alerta de donación,True
-2.0,Alert Heart,Alert Heart,Alerta de corazón,True
-3.0,Alert Like,Alert Like,Alerta de Like,True
-4.0,Alert Star,Alert Star,Alerta de estrella,True
-5.0,Angry,Angry,Enojado,True
-6.0,Arrive,Arrive,Llegando,True
-7.0,Arrive (with Chopstick),Arrive (with Chopstick),Llegando(con palillos),True
-8.0,Arrive (with Spoon),Arrive (with Spoon),Llegando(con cuchara),True
-9.0,Bonk,Bonk,Bonk,True
-10.0,Copium,Copium,Copium,True
-11.0,Crowbar 1,Crowbar 1,Palanca 1,True
-12.0,Crowbar 2,Crowbar 2,Palanca 2,True
-13.0,Crowbar 3,Crowbar 3,Palanca 3,True
-14.0,Cry 1,Cry 1,Llorar 1,True
-15.0,Cry 2,Cry 2,llorar 2,True
-16.0,Cry 3,Cry 3,Llorar 3,True
-17.0,Dead,Dead,Muerto,True
-18.0,Dizzy,Dizzy,Mareado,True
-19.0,Drink (Beverage Cup),Drink (Beverage Cup),Bebiendo (Vaso de bebida),True
-20.0,Drive,Drive,Conduciendo,True
-21.0,Drooling (Chopstick),Drooling (Chopstick),Babeando (palillo),True
-22.0,Drooling (Fork&Knife),Drooling (Fork&Knife),Babeando (tenedor y cuchillo),True
-23.0,Dum 1,Dum 1,Tonto 1,True
-24.0,Dum 2,Dum 2,Tonto 2,True
-25.0,Dum 3,Dum 3,Tonto 3,True
-26.0,Dum Sticker 1,Dum Sticker 1,"Post-it ""Dumb"" 1",True
-27.0,Dum Sticker 2,Dum Sticker 2,"Post-it ""Dumb"" 2",True
-28.0,Dum Sticker 3,Dum Sticker 3,"Post-it ""Dumb""3",True
-29.0,Exclamation,Exclamation,Exclamación,True
-30.0,Jail 1,Jail 1,Cárcel 1,True
-31.0,Jail 2,Jail 2,Cárcel 2,True
-32.0,Knife 1,Knife 1,Cuchillo 1,True
-33.0,Knife 2,Knife 2,Cuchillo 2,True
-34.0,Laugh,Laugh,Riendo,True
-35.0,Lick,Lick,Lamiendo,True
-36.0,Lightstick 1,Lightstick 1,Lightstick 1,True
-37.0,Lightstick 2,Lightstick 2,Lightstick 2,True
-38.0,Lurk 1,Lurk 1,Lurkeo 1,True
-39.0,Lurk 2,Lurk 2,Lurkeo 2,True
-40.0,Luv 1,Luv 1,Amor 1,True
-41.0,Luv 2,Luv 2,Amor 2,True
-42.0,Luv 3,Luv 3,Amor 3,True
-43.0,Money,Money,Dinero,True
-44.0,Mute 1,Mute 1,Muteado 1,True
-45.0,Mute 2,Mute 2,Muteado 2,True
-46.0,Nervous 1,Nervous 1,Nervioso 1,True
-47.0,Nervous 2,Nervous 2,Nervioso 2,True
-48.0,Noted 1,Noted 1,Anotando 1,True
-49.0,Noted 2,Noted 2,Anotando 2,True
-50.0,Pat,Pat,Palmadita,True
-51.0,Point,Point,Apuntar,True
-52.0,Question,Question,Pregunta,True
-53.0,Raid 1,Raid 1,Raid 1,True
-54.0,Raid 2,Raid 2,Raid 2,True
-55.0,RedPacket 1,RedPacket 1,Sobre rojo 1,True
-56.0,RedPacket 2,RedPacket 2,Sobre rojo 2,True
-57.0,Rose,Rose,Rosa,True
-58.0,Score (0 Point),Score (0 Point),Puntuación (0 puntos),True
-59.0,Score (10 Point),Score (10 Point),Puntuación (10 puntos),True
-60.0,Shy 1,Shy 1,Tímido 1,True
-61.0,Shy 2,Shy 2,Tímido 2,True
-62.0,Sleep (Normal),Sleep (Normal),Dormir (Normal),True
-63.0,Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Dormir (Preparación 1),True
-64.0,Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Dormir (Preparación 2),True
-65.0,Sleep (UU),Sleep (UU),Dormir (UU),True
-66.0,Sparkling,Sparkling,Centelleante,True
-67.0,Surprise,Surprise,Sorpresa,True
-68.0,Sweat,Sweat,Sudor,True
-69.0,Thumb Down,Thumb Down,Pulgar hacia abajo,True
-70.0,Thumb Up,Thumb Up,Pulgar hacia arriba,True
-71.0,Type Angry,Type Angry,Escribiendo enojado,True
-72.0,Type Annoyed,Type Annoyed,Escribiendo molesto,True
-73.0,Type Normal,Type Normal,Escribiendo normal,True
-74.0,Work Angry,Work Angry,Trabajando enojado,True
-75.0,Work Nap,Work Nap,Dormido trabajando,True
-76.0,Work Normal,Work Normal,Trabajando Normal,True
-77.0,Work Tired,Work Tired,Trabajando cansado,True
-,Bell,Bell,Campana,False
-,Cake,Cake,Pastel,False
-,Caught in 4K (Phone),Caught in 4K (Phone),Captado en 4K (teléfono),False
-,Caught in 4K (Video Camera),Caught in 4K (Video Camera),Captado en 4K (cámara de vídeo),False
-,Celebration,Celebration,Celebración,False
-,Head Nod,Head Nod,Asentir con la cabeza,False
-,Head Shake,Head Shake,Sacudir la cabeza,False
-,Hypnosis,Hypnosis,Hipnosis,False
-,Laugh (Point),Laugh (Point),Reír (punto),False
-,Love Letter,Love Letter,carta de amor,False
-,Need Food,Need Food,Necesito comida,False
-,PNGTuber Idle,PNGTuber Idle,PNGTuber inactivo,False
-,PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber inactivo 2,False
-,PNGTuber Talk,PNGTuber Talk,Charla de Tuber,False
-,PNGTuber Talk 2,PNGTuber Talk 2,Charla de Tuber 2,False
-,PNGTuber Yap,PNGTuber Yap,PNGTuber Yap,False
-,Popcat Frame,Popcat Frame,Marco de gato pop,False
-,Popcat Smooth,Popcat Smooth,Gato suave,False
-,Sing,Sing,Cantar,False
-,Tablet,Tablet,Tableta,False
-,Tail Wag,Tail Wag,Meneo de cola,False
+Key,en,es,reviewed
+Alert Bits,Alert Bits,Alerta de Bits,TRUE
+Alert Donation,Alert Donation,Alerta de donación,TRUE
+Alert Heart,Alert Heart,Alerta de corazón,TRUE
+Alert Like,Alert Like,Alerta de Like,TRUE
+Alert Star,Alert Star,Alerta de estrella,TRUE
+Angry,Angry,Enojado,TRUE
+Arrive,Arrive,Llegando,TRUE
+Arrive (with Chopstick),Arrive (with Chopstick),Llegando(con palillos),TRUE
+Arrive (with Spoon),Arrive (with Spoon),Llegando(con cuchara),TRUE
+Bonk,Bonk,Bonk,TRUE
+Copium,Copium,Copium,TRUE
+Crowbar 1,Crowbar 1,Palanca 1,TRUE
+Crowbar 2,Crowbar 2,Palanca 2,TRUE
+Crowbar 3,Crowbar 3,Palanca 3,TRUE
+Cry 1,Cry 1,Llorar 1,TRUE
+Cry 2,Cry 2,llorar 2,TRUE
+Cry 3,Cry 3,Llorar 3,TRUE
+Dead,Dead,Muerto,TRUE
+Dizzy,Dizzy,Mareado,TRUE
+Drink (Beverage Cup),Drink (Beverage Cup),Bebiendo (Vaso de bebida),TRUE
+Drive,Drive,Conduciendo,TRUE
+Drooling (Chopstick),Drooling (Chopstick),Babeando (palillo),TRUE
+Drooling (Fork&Knife),Drooling (Fork&Knife),Babeando (tenedor y cuchillo),TRUE
+Dum 1,Dum 1,Tonto 1,TRUE
+Dum 2,Dum 2,Tonto 2,TRUE
+Dum 3,Dum 3,Tonto 3,TRUE
+Dum Sticker 1,Dum Sticker 1,"Post-it ""Dumb"" 1",TRUE
+Dum Sticker 2,Dum Sticker 2,"Post-it ""Dumb"" 2",TRUE
+Dum Sticker 3,Dum Sticker 3,"Post-it ""Dumb""3",TRUE
+Exclamation,Exclamation,Exclamación,TRUE
+Jail 1,Jail 1,Cárcel 1,TRUE
+Jail 2,Jail 2,Cárcel 2,TRUE
+Knife 1,Knife 1,Cuchillo 1,TRUE
+Knife 2,Knife 2,Cuchillo 2,TRUE
+Laugh,Laugh,Riendo,TRUE
+Lick,Lick,Lamiendo,TRUE
+Lightstick 1,Lightstick 1,Lightstick 1,TRUE
+Lightstick 2,Lightstick 2,Lightstick 2,TRUE
+Lurk 1,Lurk 1,Lurkeo 1,TRUE
+Lurk 2,Lurk 2,Lurkeo 2,TRUE
+Luv 1,Luv 1,Amor 1,TRUE
+Luv 2,Luv 2,Amor 2,TRUE
+Luv 3,Luv 3,Amor 3,TRUE
+Money,Money,Dinero,TRUE
+Mute 1,Mute 1,Muteado 1,TRUE
+Mute 2,Mute 2,Muteado 2,TRUE
+Nervous 1,Nervous 1,Nervioso 1,TRUE
+Nervous 2,Nervous 2,Nervioso 2,TRUE
+Noted 1,Noted 1,Anotando 1,TRUE
+Noted 2,Noted 2,Anotando 2,TRUE
+Pat,Pat,Palmadita,TRUE
+Point,Point,Apuntar,TRUE
+Question,Question,Pregunta,TRUE
+Raid 1,Raid 1,Raid 1,TRUE
+Raid 2,Raid 2,Raid 2,TRUE
+RedPacket 1,RedPacket 1,Sobre rojo 1,TRUE
+RedPacket 2,RedPacket 2,Sobre rojo 2,TRUE
+Rose,Rose,Rosa,TRUE
+Score (0 Point),Score (0 Point),Puntuación (0 puntos),TRUE
+Score (10 Point),Score (10 Point),Puntuación (10 puntos),TRUE
+Shy 1,Shy 1,Tímido 1,TRUE
+Shy 2,Shy 2,Tímido 2,TRUE
+Sleep (Normal),Sleep (Normal),Dormir (Normal),TRUE
+Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Dormir (Preparación 1),TRUE
+Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Dormir (Preparación 2),TRUE
+Sleep (UU),Sleep (UU),Dormir (UU),TRUE
+Sparkling,Sparkling,Centelleante,TRUE
+Surprise,Surprise,Sorpresa,TRUE
+Sweat,Sweat,Sudor,TRUE
+Thumb Down,Thumb Down,Pulgar hacia abajo,TRUE
+Thumb Up,Thumb Up,Pulgar hacia arriba,TRUE
+Type Angry,Type Angry,Escribiendo enojado,TRUE
+Type Annoyed,Type Annoyed,Escribiendo molesto,TRUE
+Type Normal,Type Normal,Escribiendo normal,TRUE
+Work Angry,Work Angry,Trabajando enojado,TRUE
+Work Nap,Work Nap,Dormido trabajando,TRUE
+Work Normal,Work Normal,Trabajando Normal,TRUE
+Work Tired,Work Tired,Trabajando cansado,TRUE
+Bell,Bell,Campana,FALSE
+Cake,Cake,Pastel,FALSE
+Caught in 4K (Phone),Caught in 4K (Phone),Captado en 4K (teléfono),FALSE
+Caught in 4K (Video Camera),Caught in 4K (Video Camera),Captado en 4K (cámara de vídeo),FALSE
+Celebration,Celebration,Celebración,FALSE
+Head Nod,Head Nod,Asentir con la cabeza,FALSE
+Head Shake,Head Shake,Sacudir la cabeza,FALSE
+Hypnosis,Hypnosis,Hipnosis,FALSE
+Laugh (Point),Laugh (Point),Reír (punto),FALSE
+Love Letter,Love Letter,carta de amor,FALSE
+Need Food,Need Food,Necesito comida,FALSE
+PNGTuber Idle,PNGTuber Idle,PNGTuber inactivo,FALSE
+PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber inactivo 2,FALSE
+PNGTuber Talk,PNGTuber Talk,Charla de Tuber,FALSE
+PNGTuber Talk 2,PNGTuber Talk 2,Charla de Tuber 2,FALSE
+PNGTuber Yap,PNGTuber Yap,PNGTuber Yap,FALSE
+Popcat Frame,Popcat Frame,Marco de gato pop,FALSE
+Popcat Smooth,Popcat Smooth,Gato suave,FALSE
+Sing,Sing,Cantar,FALSE
+Tablet,Tablet,Tableta,FALSE
+Tail Wag,Tail Wag,Meneo de cola,FALSE
