@@ -1,35 +1,35 @@
-SliderName,DisplayName,en,zh-Hant,ja,ko,fr,hu,es,zh-Hans,de,ru
-Character/Eyelash_Length,Eyelash Length,Eyelash Length,睫毛長度,まつげ 長さ,속눈썹 길이,Longueur des cils,Szempilla hossza,Longitud de las pestañas,睫毛 长度,Wimpern Länge,Длина ресниц
-Character/Brows_Distance,Brows Distance,Brows Distance,眉間距離,眉 距離,눈썹 거리,Distance des sourcils,Szemöldök távolság,Distancia de las cejas,眉毛 距离,Augenbrauen Abstand,Расстояние между бровями
-Character/Brows_Height,Brows Height,Brows Height,眉毛高度,眉 高さ,눈썹 높이,Hauteur des sourcils,Szemöldökmagasság,Altura de las cejas,眉毛 高度,Augenbrauen Höhe,Высота бровей
-Character/EarShape1,Ear Shape 1,Ear Shape 1,耳朵形狀1,耳 形状1,귀 모양 1,Forme d'oreille 1,Fül alakja 1,Forma de oreja 1,耳朵 形状 1,Ohr Form 1,Форма ушей 1
-Character/EarShape2,Ear Shape 2,Ear Shape 2,耳朵形狀2,耳 形状2,귀 모양 2,Forme d'oreille 2,Fül alakja 2,Forma de oreja 2,耳朵 形状 2,Ohr Form 2,Форма ушей 2
-Character/MiddleBang_Length,Hair Bang >< Length,Hair Bang >< Length,瀏海>< 長度,前髪 >< 長さ,헤어뱅 >< 길이,Frange de cheveux >< Longueur,Hajhullás >< hossz,Flequillo de pelo >< Longitud,头发 刘海 >< 长度,Pony >< Länge,Челка >< Длина
-Character/MiddleBang_Shear,Hair Bang >< Shear,Hair Bang >< Shear,瀏海 >< 剪髮,前髪 >< 傾き,헤어뱅 >< 쉬어,Frange de cheveux >< Cisaillement,Hair Bang >< Shear,Flequillo de pelo >< Cizalla,头发 刘海 >< 剪切,Pony >< Neigung,Челка >< Стрижка
-Character/BangLeft_Position,Hair Bang >> Position,Hair Bang >> Position,瀏海 >> 位置,前髪 >> 位置,헤어뱅 >> 위치,Frange de cheveux >> Position,Hair Bang >> Pozíció,Flequillo de pelo >> Posición,头发 刘海 >> 位置,Pony >> Position,Челка >> Позиция
-Character/BangLeft_Length,Hair Bang >> Length,Hair Bang >> Length,瀏海 >> 長度,前髪 >> 長さ,헤어뱅 >> 길이,Frange de cheveux >> Longueur,Hajhullás >> Hossz,Flequillo del pelo >> Longitud,头发 刘海 >> 长度,Pony >> Länge,Челка >> Длина
-Character/BangLeft_Shear,Hair Bang >> Shear,Hair Bang >> Shear,發瀏海 >> 剪,前髪 >> 傾き,헤어뱅 >> 쉬어,Frange de cheveux >> Cisaillement,Hajhullás >> Nyírás,Flequillo de pelo >> Cizalla,头发 刘海 >> 剪切,Pony >> Neigung,Челка >> Стрижка
-Character/BangRight_Position,Hair Bang << Position,Hair Bang << Position,瀏海 << 位置,前髪 << 位置,헤어뱅 << 위치,Frange de cheveux << Position,Hair Bang << Pozíció,Flequillo de pelo << Posición,头发 刘海 << 位置,Pony << Position,Челка << Позиция
-Character/BangRight_Length,Hair Bang << Length,Hair Bang << Length,瀏海 << 長度,前髪 << 長さ,헤어뱅 << 길이,Frange de cheveux << Longueur,Hair Bang << Hossz,Flequillo de pelo << Longitud,头发 刘海 << 长度,Pony << Länge,Челка << Длина
-Character/BangRight_Shear,Hair Bang << Shear,Hair Bang << Shear,頭髮瀏海 << 剪,前髪 << 傾き,헤어뱅 << 쉬어,Frange de cheveux << Cisaillement,Hair Bang << Shear,Flequillo de pelo << Cizalla,头发 刘海 << 剪切,Pony << Neigung,Челка << Стрижка
-Character/FrameHairRight_Length,Hair Framing << Length,Hair Framing << Length,頭髮框架 << 長度,顔まわり髪 << 長さ,헤어 프레이밍 << 길이,Encadrement des cheveux << Longueur,Hajkeretezés << Hossz,Encuadre del cabello << Longitud,头发 脸颊 << 长度,Seitensträhnen << Länge,Оформление волос << Длина
-Character/FrameHairLeft_Length,Hair Framing >> Length,Hair Framing >> Length,發框 >> 長度,顔まわり髪 >> 長さ,헤어 프레이밍 >> 길이,Cadrage des cheveux >> Longueur,Hajkeretezés >> Hossz,Encuadre del cabello >> Longitud,头发 脸颊 >> 长度,Seitensträhnen >> Länge,Оформление волос >> Длина
-Character/SideHair_Length,Hair Side Length,Hair Side Length,頭髮側長,横髪 長さ,머리 옆 길이,Longueur du côté des cheveux,Haj oldalhossz,Longitud del lado del cabello,头发 侧面 长度,Haarseiten Länge,Длина волос по бокам
-Character/BackHair_Length,Hair Rear Length,Hair Rear Length,頭髮後長,後ろ髪 長さ,머리 뒤 길이,Longueur arrière des cheveux,Haj hátsó hossz,Longitud del pelo trasero,头发 后侧 长度,Haar Länge hinten,Длина волос сзади
-Character/Ahoge_Position,Ahoge Position,Ahoge Position,奧格位置,アホ毛 位置,아호게 포지션,Position d'Ahoge,Ahoge pozíció,Posición Ahoge,呆毛 位置,Ahoge Position,Позиция Ахоге
-Character/Ahoge_Angle,Ahoge Angle,Ahoge Angle,奧格角,アホ毛 角度,아호게 앵글,Angle d'Ahoge,Ahoge Angle,Ángulo de Ahoge,呆毛 角度,Ahoge Winkel,Угол Ахоге
-Character/AnimalEarAntenna_Position,Animal Ear & Antenna Position,Animal Ear & Antenna Position,動物耳朵和天線位置,ケモ耳／アンテナ 位置,동물 귀 및 안테나 위치,Position de l'oreille et de l'antenne de l'animal,Állati fül és antenna helyzete,Posición de antena y oreja de animal,动物耳朵 & 触角 位置,Tierohr- & Antennenposition,Положение ушей и антенны животного
-Character/FinGill_Position,Fin & Gill Position,Fin & Gill Position,鰭和鰓的位置,ヒレ／エラ 位置,핀 앤 길 포지션,Position des nageoires et des branchies,Uszony és kopoltyú pozíció,Posición de aletas y branquias,鳍 & 鳃 位置,Flossen- & Kiemenposition,Положение плавников и жабр
-Character/Halo_Position,Halo Position,Halo Position,光環位置,天使の輪 位置,헤일로 포지션,Position du halo,Halo pozíció,Posición del halo,光环 位置,Heiligenschein Position,Позиция ореола
-Character/Hat_Position,Hat Position,Hat Position,帽子位置,帽子 位置,모자 위치,Position du chapeau,Kalap pozíció,Posición del sombrero,帽子 位置,Hut Position,Позиция шляпы
-Character/HornLeft_Length,Horn >> Length,Horn >> Length,喇叭>>長度,角 >> 長さ,혼 >> 길이,Corne >> Longueur,Kürt >> Hossz,Cuerno >> Longitud,角 >> 长度,Horn >> Länge,Рог >> Длина
-Character/HornRight_Length,Horn << Length,Horn << Length,喇叭 << 長度,角 << 長さ,혼 << 길이,Corne << Longueur,Kürt << Hossz,Cuerno << Longitud,角 << 长度,Horn << Länge,Рог << Длина
-Character/HornMiddle_Length,Horn >< Length,Horn >< Length,喇叭 >< 長度,角 中央 長さ,혼 >< 길이,Corne >< Longueur,Kürt >< Hossz,Cuerno >< Longitud,角 >< 长度,Horn >< Länge,Рог >< Длина
-Character/Horn_Position,Horn Position,Horn Position,喇叭位置,角 位置,경적 위치,Position du klaxon,Kürt pozíció,Posición de la bocina,角 位置,Horn Position,Положение рожка
-Character/Headwing_Position,Ear Wing Position,Ear Wing Position,耳翼位置,耳羽 位置,귀 날개 위치,Position de l'aile de l'oreille,Fülszárny helyzete,Posición del ala de la oreja,翅膀耳朵 位置,Ohrflügel Position,Положение крыльев уха
-Character/Wing_Size,Wing Size,Wing Size,,,,,,,翅膀 大小,,
-Character/Wing_Position,Wing Position,Wing Position,,,,,,,翅膀 位置,,
-Character/Wing_Angle,Wing Angle,Wing Angle,,,,,,,翅膀 角度,,
-Character/Tail_Size,Tail Size,Tail Size,,,,,,,尾巴 大小,,
-Character/Tail_Flip,Tail Flip,Tail Flip,,,,,,,尾巴 翻转,,
-Character/Tail_Angle,Tail Angle,Tail Angle,,,,,,,尾巴 角度,,
+SliderName,DisplayName,en,ko,de,hu,ru,es,ja,fr,zh-Hans,zh-Hant
+Character/Eyelash_Length,Eyelash Length,Eyelash Length,속눈썹 길이,Wimpern Länge,Szempilla hossza,Длина ресниц,Longitud de las pestañas,まつげ 長さ,Longueur des cils,睫毛 长度,睫毛長度
+Character/Brows_Distance,Brows Distance,Brows Distance,눈썹 거리,Augenbrauen Abstand,Szemöldök távolság,Расстояние между бровями,Distancia de las cejas,眉 距離,Distance des sourcils,眉毛 距离,眉間距離
+Character/Brows_Height,Brows Height,Brows Height,눈썹 높이,Augenbrauen Höhe,Szemöldökmagasság,Высота бровей,Altura de las cejas,眉 高さ,Hauteur des sourcils,眉毛 高度,眉毛高度
+Character/EarShape1,Ear Shape 1,Ear Shape 1,귀 모양 1,Ohr Form 1,Fül alakja 1,Форма ушей 1,Forma de oreja 1,耳 形状1,Forme d'oreille 1,耳朵 形状 1,耳朵形狀1
+Character/EarShape2,Ear Shape 2,Ear Shape 2,귀 모양 2,Ohr Form 2,Fül alakja 2,Форма ушей 2,Forma de oreja 2,耳 形状2,Forme d'oreille 2,耳朵 形状 2,耳朵形狀2
+Character/MiddleBang_Length,Hair Bang >< Length,Hair Bang >< Length,헤어뱅 >< 길이,Pony >< Länge,Hajhullás >< hossz,Челка >< Длина,Flequillo de pelo >< Longitud,前髪 >< 長さ,Frange de cheveux >< Longueur,头发 刘海 >< 长度,瀏海>< 長度
+Character/MiddleBang_Shear,Hair Bang >< Shear,Hair Bang >< Shear,헤어뱅 >< 쉬어,Pony >< Neigung,Hair Bang >< Shear,Челка >< Стрижка,Flequillo de pelo >< Cizalla,前髪 >< 傾き,Frange de cheveux >< Cisaillement,头发 刘海 >< 剪切,瀏海 >< 剪髮
+Character/BangLeft_Position,Hair Bang >> Position,Hair Bang >> Position,헤어뱅 >> 위치,Pony >> Position,Hair Bang >> Pozíció,Челка >> Позиция,Flequillo de pelo >> Posición,前髪 >> 位置,Frange de cheveux >> Position,头发 刘海 >> 位置,瀏海 >> 位置
+Character/BangLeft_Length,Hair Bang >> Length,Hair Bang >> Length,헤어뱅 >> 길이,Pony >> Länge,Hajhullás >> Hossz,Челка >> Длина,Flequillo del pelo >> Longitud,前髪 >> 長さ,Frange de cheveux >> Longueur,头发 刘海 >> 长度,瀏海 >> 長度
+Character/BangLeft_Shear,Hair Bang >> Shear,Hair Bang >> Shear,헤어뱅 >> 쉬어,Pony >> Neigung,Hajhullás >> Nyírás,Челка >> Стрижка,Flequillo de pelo >> Cizalla,前髪 >> 傾き,Frange de cheveux >> Cisaillement,头发 刘海 >> 剪切,發瀏海 >> 剪
+Character/BangRight_Position,Hair Bang << Position,Hair Bang << Position,헤어뱅 << 위치,Pony << Position,Hair Bang << Pozíció,Челка << Позиция,Flequillo de pelo << Posición,前髪 << 位置,Frange de cheveux << Position,头发 刘海 << 位置,瀏海 << 位置
+Character/BangRight_Length,Hair Bang << Length,Hair Bang << Length,헤어뱅 << 길이,Pony << Länge,Hair Bang << Hossz,Челка << Длина,Flequillo de pelo << Longitud,前髪 << 長さ,Frange de cheveux << Longueur,头发 刘海 << 长度,瀏海 << 長度
+Character/BangRight_Shear,Hair Bang << Shear,Hair Bang << Shear,헤어뱅 << 쉬어,Pony << Neigung,Hair Bang << Shear,Челка << Стрижка,Flequillo de pelo << Cizalla,前髪 << 傾き,Frange de cheveux << Cisaillement,头发 刘海 << 剪切,頭髮瀏海 << 剪
+Character/FrameHairRight_Length,Hair Framing << Length,Hair Framing << Length,헤어 프레이밍 << 길이,Seitensträhnen << Länge,Hajkeretezés << Hossz,Оформление волос << Длина,Encuadre del cabello << Longitud,顔まわり髪 << 長さ,Encadrement des cheveux << Longueur,头发 脸颊 << 长度,頭髮框架 << 長度
+Character/FrameHairLeft_Length,Hair Framing >> Length,Hair Framing >> Length,헤어 프레이밍 >> 길이,Seitensträhnen >> Länge,Hajkeretezés >> Hossz,Оформление волос >> Длина,Encuadre del cabello >> Longitud,顔まわり髪 >> 長さ,Cadrage des cheveux >> Longueur,头发 脸颊 >> 长度,發框 >> 長度
+Character/SideHair_Length,Hair Side Length,Hair Side Length,머리 옆 길이,Haarseiten Länge,Haj oldalhossz,Длина волос по бокам,Longitud del lado del cabello,横髪 長さ,Longueur du côté des cheveux,头发 侧面 长度,頭髮側長
+Character/BackHair_Length,Hair Rear Length,Hair Rear Length,머리 뒤 길이,Haar Länge hinten,Haj hátsó hossz,Длина волос сзади,Longitud del pelo trasero,後ろ髪 長さ,Longueur arrière des cheveux,头发 后侧 长度,頭髮後長
+Character/Ahoge_Position,Ahoge Position,Ahoge Position,아호게 포지션,Ahoge Position,Ahoge pozíció,Позиция Ахоге,Posición Ahoge,アホ毛 位置,Position d'Ahoge,呆毛 位置,奧格位置
+Character/Ahoge_Angle,Ahoge Angle,Ahoge Angle,아호게 앵글,Ahoge Winkel,Ahoge Angle,Угол Ахоге,Ángulo de Ahoge,アホ毛 角度,Angle d'Ahoge,呆毛 角度,奧格角
+Character/AnimalEarAntenna_Position,Animal Ear & Antenna Position,Animal Ear & Antenna Position,동물 귀 및 안테나 위치,Tierohr- & Antennenposition,Állati fül és antenna helyzete,Положение ушей и антенны животного,Posición de antena y oreja de animal,ケモ耳／アンテナ 位置,Position de l'oreille et de l'antenne de l'animal,动物耳朵 & 触角 位置,動物耳朵和天線位置
+Character/FinGill_Position,Fin & Gill Position,Fin & Gill Position,핀 앤 길 포지션,Flossen- & Kiemenposition,Uszony és kopoltyú pozíció,Положение плавников и жабр,Posición de aletas y branquias,ヒレ／エラ 位置,Position des nageoires et des branchies,鳍 & 鳃 位置,鰭和鰓的位置
+Character/Halo_Position,Halo Position,Halo Position,헤일로 포지션,Heiligenschein Position,Halo pozíció,Позиция ореола,Posición del halo,天使の輪 位置,Position du halo,光环 位置,光環位置
+Character/Hat_Position,Hat Position,Hat Position,모자 위치,Hut Position,Kalap pozíció,Позиция шляпы,Posición del sombrero,帽子 位置,Position du chapeau,帽子 位置,帽子位置
+Character/HornLeft_Length,Horn >> Length,Horn >> Length,혼 >> 길이,Horn >> Länge,Kürt >> Hossz,Рог >> Длина,Cuerno >> Longitud,角 >> 長さ,Corne >> Longueur,角 >> 长度,喇叭>>長度
+Character/HornRight_Length,Horn << Length,Horn << Length,혼 << 길이,Horn << Länge,Kürt << Hossz,Рог << Длина,Cuerno << Longitud,角 << 長さ,Corne << Longueur,角 << 长度,喇叭 << 長度
+Character/HornMiddle_Length,Horn >< Length,Horn >< Length,혼 >< 길이,Horn >< Länge,Kürt >< Hossz,Рог >< Длина,Cuerno >< Longitud,角 中央 長さ,Corne >< Longueur,角 >< 长度,喇叭 >< 長度
+Character/Horn_Position,Horn Position,Horn Position,경적 위치,Horn Position,Kürt pozíció,Положение рожка,Posición de la bocina,角 位置,Position du klaxon,角 位置,喇叭位置
+Character/Headwing_Position,Ear Wing Position,Ear Wing Position,귀 날개 위치,Ohrflügel Position,Fülszárny helyzete,Положение крыльев уха,Posición del ala de la oreja,耳羽 位置,Position de l'aile de l'oreille,翅膀耳朵 位置,耳翼位置
+Character/Wing_Size,Wing Size,Wing Size,날개 크기,Flügelgröße,Szárny mérete,Размер крыла,Tamaño del ala,翼のサイズ,Taille de l'aile,翅膀 大小,機翼尺寸
+Character/Wing_Position,Wing Position,Wing Position,날개 위치,Flügelposition,Szárny pozíció,Положение крыла,Posición del ala,ウイングの位置,Position de l'aile,翅膀 位置,機翼位置
+Character/Wing_Angle,Wing Angle,Wing Angle,날개 각도,Flügelwinkel,Szárnyszög,Угол крыла,Ángulo del ala,翼の角度,Angle d'aile,翅膀 角度,翼角
+Character/Tail_Size,Tail Size,Tail Size,꼬리 크기,Schwanzgröße,Farok mérete,Размер хвоста,Tamaño de la cola,尾のサイズ,Taille de la queue,尾巴 大小,尾部尺寸
+Character/Tail_Flip,Tail Flip,Tail Flip,테일 플립,Tail Flip,Tail Flip,Переворот хвостом,Voltear la cola,テールフリップ,Retournement de la queue,尾巴 翻转,尾部翻轉
+Character/Tail_Angle,Tail Angle,Tail Angle,꼬리 각도,Heckwinkel,Farokszög,Угол хвоста,Ángulo de cola,テール角度,Angle de queue,尾巴 角度,尾角
