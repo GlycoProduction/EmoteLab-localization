@@ -1,218 +1,218 @@
 Key,en,zh-Hant,reviewed
-Hair Ahoge,Hair Ahoge,頭髮奧格,False
-Hair Ahoge Outline,Hair Ahoge Outline,頭髮輪廓,False
-Animal Ear >>,Animal Ear >>,獸耳>>,False
-Animal Ear >> Fur,Animal Ear >> Fur,獸耳 >> 毛皮,False
-Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,動物耳朵 >> 毛皮輪廓,False
-Animal Ear >> Outline,Animal Ear >> Outline,獸耳 >> 摘要,False
-Animal Ear <<,Animal Ear <<,獸耳<<,False
-Animal Ear << Fur,Animal Ear << Fur,動物耳朵 << 毛皮,False
-Animal Ear << Fur Outline,Animal Ear << Fur Outline,動物耳朵 << 毛皮輪廓,False
-Animal Ear << Outline,Animal Ear << Outline,動物耳朵<<大綱,False
-Antenna >>,Antenna >>,天線>>,False
-Antenna >> Outline,Antenna >> Outline,天線 >> 摘要,False
-Antenna <<,Antenna <<,天線 <<,False
-Antenna << Outline,Antenna << Outline,天線 << 摘要,False
-Hair Rear,Hair Rear,頭髮後部,False
-Hair Rear Outline,Hair Rear Outline,頭髮後輪廓,False
+Hair Ahoge,Hair Ahoge,頭髮呆毛,False
+Hair Ahoge Outline,Hair Ahoge Outline,頭髮呆毛輪廓,False
+Animal Ear >>,Animal Ear >>,獸耳 >>,False
+Animal Ear >> Fur,Animal Ear >> Fur,獸耳 >> 毛,False
+Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,獸耳 >> 毛輪廓,False
+Animal Ear >> Outline,Animal Ear >> Outline,獸耳 >> 輪廓,False
+Animal Ear <<,Animal Ear <<,獸耳 <<,False
+Animal Ear << Fur,Animal Ear << Fur,獸耳 << 毛,False
+Animal Ear << Fur Outline,Animal Ear << Fur Outline,獸耳 << 毛輪廓,False
+Animal Ear << Outline,Animal Ear << Outline,獸耳 << 輪廓,False
+Antenna >>,Antenna >>,觸角 >>,False
+Antenna >> Outline,Antenna >> Outline,觸角 >> 輪廓,False
+Antenna <<,Antenna <<,觸角 <<,False
+Antenna << Outline,Antenna << Outline,觸角 << 輪廓,False
+Hair Rear,Hair Rear,頭髮 後側,False
+Hair Rear Outline,Hair Rear Outline,頭髮 後側 輪廓,False
 Beverage Cup,Beverage Cup,飲料杯,False
-Beverage Liquid,Beverage Liquid,飲料液,False
-Beverage Liquid 2,Beverage Liquid 2,飲料液2,False
-Bill,Bill,帳單,False
-Blanket Inner,Blanket Inner,毛毯內層,False
-Blanket Outter,Blanket Outter,毛毯外層,False
+Beverage Liquid,Beverage Liquid,飲料杯 液體,False
+Beverage Liquid 2,Beverage Liquid 2,飲料杯 液體 2,False
+Bill,Bill,鈔票,False
+Blanket Inner,Blanket Inner,被子 裏側,False
+Blanket Outter,Blanket Outter,被子 外側,False
 Face Blush,Face Blush,臉紅,False
-Brow >>,Brow >>,眉毛>>,False
-Brow <<,Brow <<,眉毛<<,False
+Brow >>,Brow >>,眉毛 >>,False
+Brow <<,Brow <<,眉毛 <<,False
 Chopstick,Chopstick,筷子,False
 Crowbar,Crowbar,撬棍,False
-Cup,Cup,杯子,False
-Cup Steam,Cup Steam,杯蒸,False
+Cup,Cup,咖啡杯,False
+Cup Steam,Cup Steam,咖啡杯 蒸汽,False
 Door/Wall,Door/Wall,門/牆,False
-Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,眼睛（啞）瞳孔 >>,False
-Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,眼睛（達姆）瞳孔 <<,False
+Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,呆眼 瞳孔 >>,False
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,呆眼 瞳孔  <<,False
 Eyebag,Eyebag,眼袋,False
-Eye Iris Dark >>,Eye Iris Dark >>,眼睛虹膜深色>>,False
-Eye Iris Dark <<,Eye Iris Dark <<,眼睛虹膜深色 <<,False
-Eye Dollar,Eye Dollar,眼睛美元,False
-Eye Heart,Eye Heart,眼心,False
-Eye Highlight,Eye Highlight,眼睛高光,False
-Eyelashes,Eyelashes,睫毛,False
-Eye Iris Light >>,Eye Iris Light >>,眼睛虹膜燈>>,False
-Eye Iris Light <<,Eye Iris Light <<,眼睛虹膜燈 <<,False
-Eye(Dum) Outline,Eye(Dum) Outline,眼睛（啞）輪廓,False
-Eye Sparkling,Eye Sparkling,眼睛閃閃發光,False
-Eye Spiral,Eye Spiral,眼睛螺旋,False
-Eye White,Eye White,眼白,False
-Face Shadow,Face Shadow,臉部陰影,False
-Fin >>,Fin >>,鰭>>,False
-Fin >> Outline,Fin >> Outline,翅片 >> 摘要,False
+Eye Iris Dark >>,Eye Iris Dark >>,眼睛 虹膜深色 >>,False
+Eye Iris Dark <<,Eye Iris Dark <<,眼睛 虹膜深色 <<,False
+Eye Dollar,Eye Dollar,眼睛 錢,False
+Eye Heart,Eye Heart,眼睛 愛心,False
+Eye Highlight,Eye Highlight,眼睛 高光,False
+Eyelashes,Eyelashes,眼睛 睫毛,False
+Eye Iris Light >>,Eye Iris Light >>,眼睛 虹膜淺色 >>,False
+Eye Iris Light <<,Eye Iris Light <<,眼睛 虹膜淺色 <<,False
+Eye(Dum) Outline,Eye(Dum) Outline,呆眼 輪廓,False
+Eye Sparkling,Eye Sparkling,眼睛 星星,False
+Eye Spiral,Eye Spiral,眼睛 圈圈,False
+Eye White,Eye White,眼睛 白色部分,False
+Face Shadow,Face Shadow,臉 陰影,False
+Fin >>,Fin >>,鰭 >>,False
+Fin >> Outline,Fin >> Outline,鰭 >> 輪廓,False
 Fin <<,Fin <<,鰭 <<,False
 Fin << Outline,Fin << Outline,鰭 << 輪廓,False
-Hair Framing >>,Hair Framing >>,頭髮定型>>,False
-Hair Framing >> Outline,Hair Framing >> Outline,發框 >> 摘要,False
-Hair Framing <<,Hair Framing <<,頭髮框架 <<,False
-Hair Framing << Outline,Hair Framing << Outline,頭髮框架 << 輪廓,False
-Gill,Gill,鰓,False
-Gill Outline,Gill Outline,鰓輪廓,False
+Hair Framing >>,Hair Framing >>,頭髮 臉頰 >>,False
+Hair Framing >> Outline,Hair Framing >> Outline,頭髮 臉頰 >> 輪廓,False
+Hair Framing <<,Hair Framing <<,頭髮 臉頰 <<,False
+Hair Framing << Outline,Hair Framing << Outline,頭髮 臉頰 << 輪廓,False
+Gill,Gill,腮,False
+Gill Outline,Gill Outline,腮 輪廓,False
 Glasses,Glasses,眼鏡,False
-Hairband A,Hairband A,髮帶A,False
-Hairband A Outline,Hairband A Outline,髮帶A輪廓,False
-Hairband B,Hairband B,髮帶B,False
-Hairband B Outline,Hairband B Outline,髮帶B輪廓,False
-Hairband C,Hairband C,髮帶C,False
-Hairband C Outline,Hairband C Outline,髮帶C輪廓,False
-Hairband D,Hairband D,髮帶D,False
+Hairband A,Hairband A,髮帶 A,False
+Hairband A Outline,Hairband A Outline,髮帶 A 輪廓,False
+Hairband B,Hairband B,髮帶 B,False
+Hairband B Outline,Hairband B Outline,髮帶 B 輪廓,False
+Hairband C,Hairband C,髮帶 C,False
+Hairband C Outline,Hairband C Outline,髮帶 C 輪廓,False
+Hairband D,Hairband D,髮帶 D,False
 Hairband D Outline,Hairband D Outline,髮帶 D 輪廓,False
-Hair Bang >>,Hair Bang >>,發瀏海>>,False
-Hair Bang >> Outline,Hair Bang >> Outline,瀏海 >> 摘要,False
-Hair Bang ><,Hair Bang ><,頭髮瀏海><,False
-Hair Bang >< Outline,Hair Bang >< Outline,瀏海>< 輪廓,False
-Hair Bang <<,Hair Bang <<,頭髮瀏海 <<,False
-Hair Bang << Outline,Hair Bang << Outline,瀏海<<大綱,False
-Hair Clip >>,Hair Clip >>,髮夾>>,False
-Hair Clip >> Outline,Hair Clip >> Outline,髮夾 >> 摘要,False
-Hair Clip <<,Hair Clip <<,髮夾<<,False
+Hair Bang >>,Hair Bang >>,頭髮 劉海 >>,False
+Hair Bang >> Outline,Hair Bang >> Outline,頭髮 劉海 >> 輪廓,False
+Hair Bang ><,Hair Bang ><,頭髮 劉海 ><,False
+Hair Bang >< Outline,Hair Bang >< Outline,頭髮 劉海 >< 輪廓,False
+Hair Bang <<,Hair Bang <<,頭髮 劉海 <<,False
+Hair Bang << Outline,Hair Bang << Outline,頭髮 劉海 << 輪廓,False
+Hair Clip >>,Hair Clip >>,髮夾 >>,False
+Hair Clip >> Outline,Hair Clip >> Outline,髮夾 >> 輪廓,False
+Hair Clip <<,Hair Clip <<,髮夾 <<,False
 Hair Clip << Outline,Hair Clip << Outline,髮夾 << 輪廓,False
-Hair Highlight 1 >>,Hair Highlight 1 >>,頭髮亮點1 >>,False
-Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,頭髮亮點 1 >> 輪廓,False
-Hair Highlight 2 >>,Hair Highlight 2 >>,頭髮亮點2>>,False
-Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,頭髮亮點 2 >> 輪廓,False
-Hair Highlight 3 >>,Hair Highlight 3 >>,頭髮亮點3>>,False
-Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,頭髮亮點 3 >> 輪廓,False
-Hair Highlight 1 ><,Hair Highlight 1 ><,頭髮亮點1><,False
-Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,頭髮亮點 1 >< 輪廓,False
-Hair Highlight 2 ><,Hair Highlight 2 ><,頭髮亮點2><,False
-Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,頭髮亮點 2 >< 輪廓,False
-Hair Highlight 3 ><,Hair Highlight 3 ><,頭髮亮點3><,False
-Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,頭髮亮點 3 >< 輪廓,False
-Hair Highlight 4 ><,Hair Highlight 4 ><,頭髮亮點4><,False
-Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,頭髮亮點 4 >< 輪廓,False
-Hair Highlight 5 ><,Hair Highlight 5 ><,頭髮亮點5><,False
-Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,頭髮亮點 5 >< 輪廓,False
-Hair Highlight 6 ><,Hair Highlight 6 ><,頭髮亮點6><,False
-Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,頭髮亮點 6 >< 輪廓,False
-Hair Highlight 1 <<,Hair Highlight 1 <<,頭髮亮點 1 <<,False
-Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,頭髮亮點 1 << 輪廓,False
-Hair Highlight 2 <<,Hair Highlight 2 <<,頭髮亮點2 <<,False
-Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,頭髮亮點 2 << 輪廓,False
-Hair Highlight 3 <<,Hair Highlight 3 <<,頭髮亮點 3 <<,False
-Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,頭髮亮點 3 << 輪廓,False
-Hairline Outline,Hairline Outline,髮際線輪廓,False
-Hair Shine,Hair Shine,頭髮光澤,False
-Hair Shine Outline,Hair Shine Outline,頭髮光澤輪廓,False
-Halo,Halo,暈,False
-Halo Outline,Halo Outline,光環輪廓,False
+Hair Highlight 1 >>,Hair Highlight 1 >>,挑染 1 >> ,False
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,挑染 1 >> 輪廓,False
+Hair Highlight 2 >>,Hair Highlight 2 >>,挑染 2 >> ,False
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,挑染 2 >> 輪廓,False
+Hair Highlight 3 >>,Hair Highlight 3 >>,挑染 3 >> ,False
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,挑染 3 >> 輪廓,False
+Hair Highlight 1 ><,Hair Highlight 1 ><,挑染 1 >< ,False
+Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,挑染 1 >< 輪廓,False
+Hair Highlight 2 ><,Hair Highlight 2 ><,挑染 2 >< ,False
+Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,挑染 2 >< 輪廓,False
+Hair Highlight 3 ><,Hair Highlight 3 ><,挑染 3 >< ,False
+Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,挑染 3 >< 輪廓,False
+Hair Highlight 4 ><,Hair Highlight 4 ><,挑染 4 >< ,False
+Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,挑染 4 >< 輪廓,False
+Hair Highlight 5 ><,Hair Highlight 5 ><,挑染 5 >< ,False
+Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,挑染 5 >< 輪廓,False
+Hair Highlight 6 ><,Hair Highlight 6 ><,挑染 6 >< ,False
+Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,挑染 6 >< 輪廓,False
+Hair Highlight 1 <<,Hair Highlight 1 <<,挑染 1 << ,False
+Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,挑染 1 << 輪廓,False
+Hair Highlight 2 <<,Hair Highlight 2 <<,挑染 2 << ,False
+Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,挑染 2 << 輪廓,False
+Hair Highlight 3 <<,Hair Highlight 3 <<,挑染 3 << ,False
+Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,挑染 3 << 輪廓,False
+Hairline Outline,Hairline Outline,髮際線 輪廓,False
+Hair Shine,Hair Shine,頭髮 高光,False
+Hair Shine Outline,Hair Shine Outline,頭髮 高光 輪廓,False
+Halo,Halo,光環,False
+Halo Outline,Halo Outline,光環 輪廓,False
 Hat,Hat,帽子,False
-Hat Outline,Hat Outline,帽子輪廓,False
-Hat Secondary,Hat Secondary,帽子中學,False
-Hat Secondary Outline,Hat Secondary Outline,帽子次要輪廓,False
-Hammer,Hammer,槌,False
-Ear Wing >>,Ear Wing >>,耳翼>>,False
-Ear Wing >> Outline,Ear Wing >> Outline,耳翼 >> 摘要,False
-Ear Wing <<,Ear Wing <<,耳翼 <<,False
-Ear Wing << Outline,Ear Wing << Outline,耳翼 << 輪廓,False
-Heart,Heart,心,False
-Horn >>,Horn >>,喇叭>>,False
-Horn >> Outline,Horn >> Outline,喇叭 >> 概要,False
-Horn <<,Horn <<,號角<<,False
-Horn << Outline,Horn << Outline,號角 << 概要,False
-Horn ><,Horn ><,喇叭><,False
-Horn >< Outline,Horn >< Outline,喇叭 >< 概要,False
-Jail Grill,Jail Grill,監獄燒烤,False
+Hat Outline,Hat Outline,帽子 輪廓,False
+Hat Secondary,Hat Secondary,帽子 次要,False
+Hat Secondary Outline,Hat Secondary Outline,帽子 次要 輪廓,False
+Hammer,Hammer,錘子,False
+Ear Wing >>,Ear Wing >>,翅膀耳朵 >>,False
+Ear Wing >> Outline,Ear Wing >> Outline,翅膀耳朵 >> 輪廓,False
+Ear Wing <<,Ear Wing <<,翅膀耳朵 <<,False
+Ear Wing << Outline,Ear Wing << Outline,翅膀耳朵 << 輪廓,False
+Heart,Heart,愛心,False
+Horn >>,Horn >>,角 >>,False
+Horn >> Outline,Horn >> Outline,角 >> 輪廓,False
+Horn <<,Horn <<,角 <<,False
+Horn << Outline,Horn << Outline,角 <<輪廓,False
+Horn ><,Horn ><,角 ><,False
+Horn >< Outline,Horn >< Outline,角 >< 輪廓,False
+Jail Grill,Jail Grill,監獄柵欄,False
 Keyboard,Keyboard,鍵盤,False
-Kitchen Knife,Kitchen Knife,花椰菜刀,False
-Laptop,Laptop,筆記型電腦,False
-Laptop Light,Laptop Light,筆記型電腦燈,False
-Leg >>,Leg >>,腿>>,False
-Leg <<,Leg <<,腿<<,False
-Lightstick Handle,Lightstick Handle,螢光棒手柄,False
-Light Stick >>,Light Stick >>,螢光棒>>,False
-Light Stick <<,Light Stick <<,螢光棒<<,False
-Mecha,Mecha,機甲,False
-Mecha >>,Mecha >>,機甲>>,False
-Mecha >> Outline,Mecha >> Outline,機甲 >> 摘要,False
-Mecha Outline,Mecha Outline,機甲概要,False
-Mecha <<,Mecha <<,機甲 <<,False
-Mecha << Outline,Mecha << Outline,機甲<<大綱,False
-Mouse,Mouse,老鼠,False
-Mouth/Tongue,Mouth/Tongue,嘴巴/舌頭,False
-Mouth/Tongue Shadow,Mouth/Tongue Shadow,嘴/舌頭陰影,False
+Kitchen Knife,Kitchen Knife,廚房刀,False
+Laptop,Laptop,電腦,False
+Laptop Light,Laptop Light,電腦 螢幕光,False
+Leg >>,Leg >>,腿 >>,False
+Leg <<,Leg <<,腿 <<,False
+Lightstick Handle,Lightstick Handle,熒光棒 把手,False
+Light Stick >>,Light Stick >>,熒光棒 >>,False
+Light Stick <<,Light Stick <<,熒光棒 <<,False
+Mecha,Mecha,機械,False
+Mecha >>,Mecha >>,機械 >>,False
+Mecha >> Outline,Mecha >> Outline,機械 >> 輪廓,False
+Mecha Outline,Mecha Outline,機械 輪廓,False
+Mecha <<,Mecha <<,機械 <<,False
+Mecha << Outline,Mecha << Outline,機械 << 輪廓,False
+Mouse,Mouse,滑鼠,False
+Mouth/Tongue,Mouth/Tongue,嘴/舌頭,False
+Mouth/Tongue Shadow,Mouth/Tongue Shadow,嘴/舌頭 陰影,False
 Notepad,Notepad,記事本,False
-Outfit Collar,Outfit Collar,服裝領子,False
-Outfit Collar Outline,Outfit Collar Outline,服裝領型輪廓,False
-Outfit Inner,Outfit Inner,服飾內搭,False
-Outfit Inner Outline,Outfit Inner Outline,服裝內部輪廓,False
-Outfit Neckwear A,Outfit Neckwear A,服裝項鍊A,False
-Outfit Neckwear A Outline,Outfit Neckwear A Outline,服裝 領帶 A 輪廓,False
-Outfit Neckwear B,Outfit Neckwear B,服飾領帶B,False
-Outfit Neckwear B Outline,Outfit Neckwear B Outline,服裝 領帶 B 輪廓,False
-Outfit Neckwear C,Outfit Neckwear C,服飾領帶C,False
-Outfit Neckwear C Outline,Outfit Neckwear C Outline,服飾 領帶 C 輪廓,False
-Outfit Outer,Outfit Outer,服裝外套,False
-Outfit Outer Outline,Outfit Outer Outline,服裝外觀輪廓,False
+Outfit Collar,Outfit Collar,服裝 領子,False
+Outfit Collar Outline,Outfit Collar Outline,服裝 領子 輪廓,False
+Outfit Inner,Outfit Inner,服裝 裏側,False
+Outfit Inner Outline,Outfit Inner Outline,服裝 裏側 輪廓,False
+Outfit Neckwear A,Outfit Neckwear A,服裝 頸部裝飾 A,False
+Outfit Neckwear A Outline,Outfit Neckwear A Outline,服裝 頸部裝飾 A 輪廓,False
+Outfit Neckwear B,Outfit Neckwear B,服裝 頸部裝飾 B,False
+Outfit Neckwear B Outline,Outfit Neckwear B Outline,服裝 頸部裝飾 B 輪廓,False
+Outfit Neckwear C,Outfit Neckwear C,服裝 頸部裝飾 C,False
+Outfit Neckwear C Outline,Outfit Neckwear C Outline,服裝 頸部裝飾 C 輪廓,False
+Outfit Outer,Outfit Outer,服裝 外側,False
+Outfit Outer Outline,Outfit Outer Outline,服裝 外側 輪廓,False
 Pencil,Pencil,鉛筆,False
-Phone,Phone,電話,False
-Phone Light,Phone Light,手機燈,False
-Hair Pigtail >>,Hair Pigtail >>,頭髮辮子>>,False
-Hair Pigtail >> Outline,Hair Pigtail >> Outline,辮子 >> 摘要,False
-Hair Pigtail <<,Hair Pigtail <<,辮子 <<,False
-Hair Pigtail << Outline,Hair Pigtail << Outline,辮子 << 大綱,False
+Phone,Phone,手機,False
+Phone Light,Phone Light,手機 螢幕光,False
+Hair Pigtail >>,Hair Pigtail >>,頭髮 馬尾 >>,False
+Hair Pigtail >> Outline,Hair Pigtail >> Outline,頭髮 馬尾 >> 輪廓,False
+Hair Pigtail <<,Hair Pigtail <<,頭髮 馬尾 <<,False
+Hair Pigtail << Outline,Hair Pigtail << Outline,頭髮 馬尾 << 輪廓,False
 Rose,Rose,玫瑰,False
-Round Sign,Round Sign,圓形標誌,False
-Round Sign Text,Round Sign Text,圓形標誌文本,False
-Hair Side,Hair Side,頭髮側,False
-Hair Side Outline,Hair Side Outline,頭髮側面輪廓,False
-Skin,Skin,皮膚,False
-Skin Outline,Skin Outline,皮膚輪廓,False
-Square Sign,Square Sign,方形標誌,False
-Square Sign Text,Square Sign Text,方形符號文字,False
+Round Sign,Round Sign,圓形標牌,False
+Round Sign Text,Round Sign Text,圓形標牌 文字,False
+Hair Side,Hair Side,頭髮 側面,False
+Hair Side Outline,Hair Side Outline,頭髮 側面 輪廓,False
+Skin,Skin,膚色,False
+Skin Outline,Skin Outline,膚色 輪廓,False
+Square Sign,Square Sign,方形標牌,False
+Square Sign Text,Square Sign Text,方形標牌 文字,False
 Steering Wheel,Steering Wheel,方向盤,False
-Gas Bottle,Gas Bottle,氣瓶,False
-Pat Hand,Pat Hand,拍手,False
-Sticker Alert,Sticker Alert,貼紙警報,False
-Sticker Alert Effect,Sticker Alert Effect,貼紙警報效果,False
-Sticker Alert Outline,Sticker Alert Outline,貼紙警報大綱,False
-Sticker Angry,Sticker Angry,貼紙生氣,False
-Sticker Exclamation Mark,Sticker Exclamation Mark,貼紙驚嘆號,False
-Sticker Ghost,Sticker Ghost,貼紙幽靈,False
-Sticker Heart,Sticker Heart,貼紙心,False
-Sticker Laugh,Sticker Laugh,貼紙笑,False
-Sticker Question Mark,Sticker Question Mark,貼紙問號,False
-Sticker Sleep,Sticker Sleep,貼紙睡眠,False
-Sticker Star,Sticker Star,貼紙明星,False
-Sticker Steam,Sticker Steam,貼紙蒸汽,False
-Sticker Surprise,Sticker Surprise,貼紙驚喜,False
-Sticker Sweat,Sticker Sweat,貼紙汗水,False
-Sticker Sweat (Large),Sticker Sweat (Large),汗貼（大）,False
-Sticker Volume,Sticker Volume,貼紙量,False
-Sticky Note,Sticky Note,便利貼,False
-Sticky Note Text,Sticky Note Text,便箋文本,False
-Eye Tear,Eye Tear,眼睛流淚,False
-Utensil,Utensil,用具,False
-Outfit Collar String,Outfit Collar String,服飾領帶,False
-Bell,Bell,鐘,False
-Confetti 1,Confetti 1,五彩紙屑 1,False
-Confetti 2,Confetti 2,五彩紙屑 2,False
-Confetti 3,Confetti 3,五彩紙屑 3,False
+Gas Bottle,Gas Bottle,壓縮氣瓶,False
+Pat Hand,Pat Hand,摸頭手,False
+Sticker Alert,Sticker Alert,表情貼紙 通知/提示,False
+Sticker Alert Effect,Sticker Alert Effect,表情貼紙 通知/提示 特效,False
+Sticker Alert Outline,Sticker Alert Outline,表情貼紙 通知/提示 輪廓,False
+Sticker Angry,Sticker Angry,表情貼紙 生氣,False
+Sticker Exclamation Mark,Sticker Exclamation Mark,表情貼紙 感嘆號,False
+Sticker Ghost,Sticker Ghost,表情貼紙 幽靈,False
+Sticker Heart,Sticker Heart,表情貼紙 愛心,False
+Sticker Laugh,Sticker Laugh,表情貼紙 笑,False
+Sticker Question Mark,Sticker Question Mark,表情貼紙 問號,False
+Sticker Sleep,Sticker Sleep,表情貼紙 睡覺,False
+Sticker Star,Sticker Star,表情貼紙 星星,False
+Sticker Steam,Sticker Steam,表情貼紙 氣,False
+Sticker Surprise,Sticker Surprise,表情貼紙 驚嚇,False
+Sticker Sweat,Sticker Sweat,表情貼紙 汗,False
+Sticker Sweat (Large),Sticker Sweat (Large),表情貼紙 汗（大）,False
+Sticker Volume,Sticker Volume,表情貼紙 音量,False
+Sticky Note,Sticky Note,表情貼紙 便籤,False
+Sticky Note Text,Sticky Note Text,表情貼紙 便籤 文字,False
+Eye Tear,Eye Tear,眼睛 眼淚,False
+Utensil,Utensil,餐具,False
+Outfit Collar String,Outfit Collar String,服裝 領子 抽繩,False
+Bell,Bell,鈴鐺,False
+Confetti 1,Confetti 1,彩紙 1,False
+Confetti 2,Confetti 2,彩紙 2,False
+Confetti 3,Confetti 3,彩紙 3,False
 Microphone,Microphone,麥克風,False
-Gleam,Gleam,微光,False
-Video Camera,Video Camera,攝影機,False
-Point Hand,Point Hand,點手,False
+Gleam,Gleam,光暈,False
+Video Camera,Video Camera,攝像機,False
+Point Hand,Point Hand,指人手,False
 Bowl,Bowl,碗,False
 Cake,Cake,蛋糕,False
-Candle Fire,Candle Fire,蠟燭火,False
-Drawing Tablet,Drawing Tablet,繪圖板,False
+Candle Fire,Candle Fire,蠟燭 火焰,False
+Drawing Tablet,Drawing Tablet,畫板,False
 Love Letter,Love Letter,情書,False
-Popper,Popper,波普爾,False
+Popper,Popper,彩紙筒,False
 Stylus,Stylus,手寫筆,False
-Tablet,Tablet,藥片,False
-Musical Note 1,Musical Note 1,音符1,False
-Musical Note 2,Musical Note 2,音符2,False
-Phone Screen,Phone Screen,手機螢幕,False
+Tablet,Tablet,畫板,False
+Musical Note 1,Musical Note 1,音樂 音符 1,False
+Musical Note 2,Musical Note 2,音樂 音符 2,False
+Phone Screen,Phone Screen,手機 螢幕,False
 Tail,Tail,尾巴,False
-Tail Outline,Tail Outline,尾部輪廓,False
-Wing >>,Wing >>,翼>>,False
-Wing >> Outline,Wing >> Outline,翼>>概要,False
-Wing <<,Wing <<,翼 <<,False
-Wing << Outline,Wing << Outline,翼 << 大綱,False
+Tail Outline,Tail Outline,尾巴 輪廓,False
+Wing >>,Wing >>,翅膀 >>,False
+Wing >> Outline,Wing >> Outline,翅膀 >> 輪廓,False
+Wing <<,Wing <<,翅膀 <<,False
+Wing << Outline,Wing << Outline,翅膀 << 輪廓,False
