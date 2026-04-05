@@ -2,62 +2,62 @@ Key,en,ko,reviewed
 Brows,Brows,눈썹,False
 Ear,Ear,귀,False
 Eye,Eye,눈,False
-Base Hair,Base Hair,베이스 헤어,False
-Hair Bang >>,Hair Bang >>,헤어뱅 >>,False
-Hair Bang ><,Hair Bang ><,헤어뱅 ><,False
-Hair Bang <<,Hair Bang <<,헤어뱅 <<,False
-Hair Shine,Hair Shine,헤어 샤인,False
-Hair Branch >>,Hair Branch >>,헤어 브랜치 >>,False
-Hair Branch <<,Hair Branch <<,헤어 브랜치 <<,False
-Hair Framing >>,Hair Framing >>,헤어 프레이밍 >>,False
-Hair Framing <<,Hair Framing <<,헤어 프레이밍 <<,False
-Hair Framing,Hair Framing,헤어 프레이밍,False
-Hair Highlight 1 >>,Hair Highlight 1 >>,헤어 하이라이트 1 >>,False
-Hair Highlight 2 >>,Hair Highlight 2 >>,헤어 하이라이트 2 >>,False
-Hair Highlight 3 >>,Hair Highlight 3 >>,헤어 하이라이트 3 >>,False
-Hair Highlight 1 ><,Hair Highlight 1 ><,헤어하이라이트 1 ><,False
-Hair Highlight 2 ><,Hair Highlight 2 ><,헤어하이라이트 2 ><,False
-Hair Highlight 3 ><,Hair Highlight 3 ><,헤어하이라이트 3 ><,False
-Hair Highlight 4 ><,Hair Highlight 4 ><,헤어하이라이트 4 ><,False
-Hair Highlight 5 ><,Hair Highlight 5 ><,헤어하이라이트 5 ><,False
-Hair Highlight 6 ><,Hair Highlight 6 ><,헤어하이라이트 6 ><,False
-Hair Highlight 1 <<,Hair Highlight 1 <<,헤어 하이라이트 1 <<,False
-Hair Highlight 2 <<,Hair Highlight 2 <<,헤어 하이라이트 2 <<,False
-Hair Highlight 3 <<,Hair Highlight 3 <<,헤어 하이라이트 3 <<,False
-Hair Side,Hair Side,헤어사이드,False
-Hair Ahoge,Hair Ahoge,헤어 아호게,False
-Hair Rear,Hair Rear,헤어 리어,False
-Hair Pigtail >>,Hair Pigtail >>,헤어 피그테일 >>,False
-Hair Pigtail <<,Hair Pigtail <<,머리 땋은 머리 <<,False
-Animal Ear,Animal Ear,동물의 귀,False
+Base Hair,Base Hair,기본 두상,False
+Hair Bang >>,Hair Bang >>,앞머리 >>,False
+Hair Bang ><,Hair Bang ><,앞머리 ><,False
+Hair Bang <<,Hair Bang <<,앞머리 <<,False
+Hair Shine,Hair Shine,머리 하이라이트,False
+Hair Branch >>,Hair Branch >>,머리 가닥 >>,False
+Hair Branch <<,Hair Branch <<,머리 가닥 <<,False
+Hair Framing >>,Hair Framing >>,옆머리 >>,False
+Hair Framing <<,Hair Framing <<,옆머리 <<,False
+Hair Framing,Hair Framing,옆머리,False
+Hair Highlight 1 >>,Hair Highlight 1 >>,머리 브릿지 1 >>,False
+Hair Highlight 2 >>,Hair Highlight 2 >>,머리 브릿지 2 >>,False
+Hair Highlight 3 >>,Hair Highlight 3 >>,머리 브릿지 3 >>,False
+Hair Highlight 1 ><,Hair Highlight 1 ><,머리 브릿지 1 ><,False
+Hair Highlight 2 ><,Hair Highlight 2 ><,머리 브릿지 2 ><,False
+Hair Highlight 3 ><,Hair Highlight 3 ><,머리 브릿지 3 ><,False
+Hair Highlight 4 ><,Hair Highlight 4 ><,머리 브릿지 4 ><,False
+Hair Highlight 5 ><,Hair Highlight 5 ><,머리 브릿지 5 ><,False
+Hair Highlight 6 ><,Hair Highlight 6 ><,머리 브릿지 6 ><,False
+Hair Highlight 1 <<,Hair Highlight 1 <<,머리 브릿지 1 <<,False
+Hair Highlight 2 <<,Hair Highlight 2 <<,머리 브릿지 2 <<,False
+Hair Highlight 3 <<,Hair Highlight 3 <<,머리 브릿지 3 <<,False
+Hair Side,Hair Side,옆머리(전체),False
+Hair Ahoge,Hair Ahoge,바보털,False
+Hair Rear,Hair Rear,뒷머리,False
+Hair Pigtail >>,Hair Pigtail >>,양갈래 머리 >>,False
+Hair Pigtail <<,Hair Pigtail <<,양갈래 머리 <<,False
+Animal Ear,Animal Ear,동물 귀,False
 Antenna,Antenna,안테나,False
 Fin,Fin,지느러미,False
 Gill,Gill,아가미,False
 Glasses,Glasses,안경,False
-Hairband A,Hairband A,헤어밴드A,False
-Hairband B,Hairband B,헤어밴드B,False
-Hairband C,Hairband C,헤어밴드 C,False
-Hairband D,Hairband D,헤어밴드 D,False
-Hair Clip >>,Hair Clip >>,헤어클립 >>,False
-Hair Clip <<,Hair Clip <<,헤어클립 <<,False
-Halo,Halo,후광,False
+Hairband A,Hairband A,머리띠 A,False
+Hairband B,Hairband B,머리띠 B,False
+Hairband C,Hairband C,머리띠 C,False
+Hairband D,Hairband D,머리띠 D,False
+Hair Clip >>,Hair Clip >>,머리핀 >>,False
+Hair Clip <<,Hair Clip <<,머리핀 <<,False
+Halo,Halo,헤일로,False
 Hat,Hat,모자,False
-Ear Wing,Ear Wing,귀 날개,False
+Ear Wing,Ear Wing,날개 귀,False
 Horn,Horn,뿔,False
-Horn Front ><,Horn Front ><,혼 프론트 ><,False
-Horn Front,Horn Front,혼 프론트,False
+Horn Front ><,Horn Front ><,뿔 (앞) ><,False
+Horn Front,Horn Front,뿔 (앞),False
 Mecha,Mecha,메카,False
-Outfit Collar Inner,Outfit Collar Inner,의상 칼라 내부,False
-Outfit Inner,Outfit Inner,의상 내부,False
-Outfit Outer,Outfit Outer,의상 아우터,False
-Outfit Neckwear A,Outfit Neckwear A,아웃핏 넥웨어 A,False
-Outfit Neckwear B,Outfit Neckwear B,아웃핏 넥웨어 B,False
-Outfit Neckwear C,Outfit Neckwear C,아웃핏 넥웨어 C,False
-Hair Side Branch >> A,Hair Side Branch >> A,헤어사이드 브랜치 >> A,False
-Hair Side Branch >> B,Hair Side Branch >> B,헤어사이드브랜치 >> B,False
-Hair Side Branch >> C,Hair Side Branch >> C,헤어사이드 브랜치 >> C,False
-Hair Side Branch << A,Hair Side Branch << A,헤어사이드 브랜치 << A,False
-Hair Side Branch << B,Hair Side Branch << B,헤어사이드 브랜치 << B,False
-Hair Side Branch << C,Hair Side Branch << C,헤어사이드 브랜치 << C,False
+Outfit Collar Inner,Outfit Collar Inner,의상 옷깃 안쪽,False
+Outfit Inner,Outfit Inner,의상,False
+Outfit Outer,Outfit Outer,겉옷,False
+Outfit Neckwear A,Outfit Neckwear A,목장식 A,False
+Outfit Neckwear B,Outfit Neckwear B,목장식 B,False
+Outfit Neckwear C,Outfit Neckwear C,목장식 C,False
+Hair Side Branch >> A,Hair Side Branch >> A,옆머리 가닥 >> A,False
+Hair Side Branch >> B,Hair Side Branch >> B,옆머리 가닥 >> B,False
+Hair Side Branch >> C,Hair Side Branch >> C,옆머리 가닥 >> C,False
+Hair Side Branch << A,Hair Side Branch << A,옆머리 가닥 << A,False
+Hair Side Branch << B,Hair Side Branch << B,옆머리 가닥 << B,False
+Hair Side Branch << C,Hair Side Branch << C,옆머리 가닥 << C,False
 Tail,Tail,꼬리,False
-Wing,Wing,비행,False
+Wing,Wing,날개,False
