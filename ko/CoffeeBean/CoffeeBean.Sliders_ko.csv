@@ -1,35 +1,35 @@
 Key,en,ko,reviewed
 Eyelash Length,Eyelash Length,속눈썹 길이,False
-Brows Distance,Brows Distance,눈썹 거리,False
+Brows Distance,Brows Distance,눈썹 간격,False
 Brows Height,Brows Height,눈썹 높이,False
 Ear Shape 1,Ear Shape 1,귀 모양 1,False
 Ear Shape 2,Ear Shape 2,귀 모양 2,False
-Hair Bang >< Length,Hair Bang >< Length,헤어뱅 >< 길이,False
-Hair Bang >< Shear,Hair Bang >< Shear,헤어뱅 >< 쉬어,False
-Hair Bang >> Position,Hair Bang >> Position,헤어뱅 >> 위치,False
-Hair Bang >> Length,Hair Bang >> Length,헤어뱅 >> 길이,False
-Hair Bang >> Shear,Hair Bang >> Shear,헤어뱅 >> 쉬어,False
-Hair Bang << Position,Hair Bang << Position,헤어뱅 << 위치,False
-Hair Bang << Length,Hair Bang << Length,헤어뱅 << 길이,False
-Hair Bang << Shear,Hair Bang << Shear,헤어뱅 << 쉬어,False
-Hair Framing << Length,Hair Framing << Length,헤어 프레이밍 << 길이,False
-Hair Framing >> Length,Hair Framing >> Length,헤어 프레이밍 >> 길이,False
-Hair Side Length,Hair Side Length,머리 옆 길이,False
-Hair Rear Length,Hair Rear Length,머리 뒤 길이,False
-Ahoge Position,Ahoge Position,아호게 포지션,False
-Ahoge Angle,Ahoge Angle,아호게 앵글,False
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,동물 귀 및 안테나 위치,False
-Fin & Gill Position,Fin & Gill Position,핀 앤 길 포지션,False
-Halo Position,Halo Position,헤일로 포지션,False
+Hair Bang >< Length,Hair Bang >< Length,앞머리 >< 길이,False
+Hair Bang >< Shear,Hair Bang >< Shear,앞머리 >< 기울기,False
+Hair Bang >> Position,Hair Bang >> Position,앞머리 >> 위치,False
+Hair Bang >> Length,Hair Bang >> Length,앞머리 >> 길이,False
+Hair Bang >> Shear,Hair Bang >> Shear,앞머리 >> 기울기,False
+Hair Bang << Position,Hair Bang << Position,앞머리 << 위치,False
+Hair Bang << Length,Hair Bang << Length,앞머리 << 길이,False
+Hair Bang << Shear,Hair Bang << Shear,앞머리 << 기울기,False
+Hair Framing << Length,Hair Framing << Length,옆머리 << 길이,False
+Hair Framing >> Length,Hair Framing >> Length,옆머리 >> 길이,False
+Hair Side Length,Hair Side Length,옆머리(전체) 길이,False
+Hair Rear Length,Hair Rear Length,뒷머리 길이,False
+Ahoge Position,Ahoge Position,바보털 위치,False
+Ahoge Angle,Ahoge Angle,바보털 각도,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,동물 귀 & 안테나 위치 위치,False
+Fin & Gill Position,Fin & Gill Position,지느러미 & 아가미 위치,False
+Halo Position,Halo Position,헤일로 위치,False
 Hat Position,Hat Position,모자 위치,False
-Horn >> Length,Horn >> Length,혼 >> 길이,False
-Horn << Length,Horn << Length,혼 << 길이,False
-Horn >< Length,Horn >< Length,혼 >< 길이,False
-Horn Position,Horn Position,경적 위치,False
-Ear Wing Position,Ear Wing Position,귀 날개 위치,False
+Horn >> Length,Horn >> Length,뿔 >> 길이,False
+Horn << Length,Horn << Length,뿔 << 길이,False
+Horn >< Length,Horn >< Length,뿔 >< 길이,False
+Horn Position,Horn Position,뿔 위치,False
+Ear Wing Position,Ear Wing Position,날개 귀 위치,False
 Wing Size,Wing Size,날개 크기,False
 Wing Position,Wing Position,날개 위치,False
 Wing Angle,Wing Angle,날개 각도,False
 Tail Size,Tail Size,꼬리 크기,False
-Tail Flip,Tail Flip,테일 플립,False
+Tail Flip,Tail Flip,꼬리 좌우반전,False
 Tail Angle,Tail Angle,꼬리 각도,False
