@@ -1,35 +1,35 @@
 Key,en,ko,reviewed
-Eyelash Length,Eyelash Length,속눈썹 길이,False
-Brows Distance,Brows Distance,눈썹 간격,False
-Brows Height,Brows Height,눈썹 높이,False
-Ear Shape 1,Ear Shape 1,귀 모양 1,False
-Ear Shape 2,Ear Shape 2,귀 모양 2,False
-Hair Bang >< Length,Hair Bang >< Length,앞머리 >< 길이,False
-Hair Bang >< Shear,Hair Bang >< Shear,앞머리 >< 기울기,False
-Hair Bang >> Position,Hair Bang >> Position,앞머리 >> 위치,False
-Hair Bang >> Length,Hair Bang >> Length,앞머리 >> 길이,False
-Hair Bang >> Shear,Hair Bang >> Shear,앞머리 >> 기울기,False
-Hair Bang << Position,Hair Bang << Position,앞머리 << 위치,False
-Hair Bang << Length,Hair Bang << Length,앞머리 << 길이,False
-Hair Bang << Shear,Hair Bang << Shear,앞머리 << 기울기,False
-Hair Framing << Length,Hair Framing << Length,옆머리 << 길이,False
-Hair Framing >> Length,Hair Framing >> Length,옆머리 >> 길이,False
-Hair Side Length,Hair Side Length,옆머리(전체) 길이,False
-Hair Rear Length,Hair Rear Length,뒷머리 길이,False
-Ahoge Position,Ahoge Position,바보털 위치,False
-Ahoge Angle,Ahoge Angle,바보털 각도,False
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,동물 귀 & 안테나 위치 위치,False
-Fin & Gill Position,Fin & Gill Position,지느러미 & 아가미 위치,False
-Halo Position,Halo Position,헤일로 위치,False
-Hat Position,Hat Position,모자 위치,False
-Horn >> Length,Horn >> Length,뿔 >> 길이,False
-Horn << Length,Horn << Length,뿔 << 길이,False
-Horn >< Length,Horn >< Length,뿔 >< 길이,False
-Horn Position,Horn Position,뿔 위치,False
-Ear Wing Position,Ear Wing Position,날개 귀 위치,False
-Wing Size,Wing Size,날개 크기,False
-Wing Position,Wing Position,날개 위치,False
-Wing Angle,Wing Angle,날개 각도,False
-Tail Size,Tail Size,꼬리 크기,False
-Tail Flip,Tail Flip,꼬리 좌우반전,False
-Tail Angle,Tail Angle,꼬리 각도,False
+Eyelash Length,Eyelash Length,속눈썹 길이,True
+Brows Distance,Brows Distance,눈썹 간격,True
+Brows Height,Brows Height,눈썹 높이,True
+Ear Shape 1,Ear Shape 1,귀 모양 1,True
+Ear Shape 2,Ear Shape 2,귀 모양 2,True
+Hair Bang >< Length,Hair Bang >< Length,앞머리 >< 길이,True
+Hair Bang >< Shear,Hair Bang >< Shear,앞머리 >< 기울기,True
+Hair Bang >> Position,Hair Bang >> Position,앞머리 >> 위치,True
+Hair Bang >> Length,Hair Bang >> Length,앞머리 >> 길이,True
+Hair Bang >> Shear,Hair Bang >> Shear,앞머리 >> 기울기,True
+Hair Bang << Position,Hair Bang << Position,앞머리 << 위치,True
+Hair Bang << Length,Hair Bang << Length,앞머리 << 길이,True
+Hair Bang << Shear,Hair Bang << Shear,앞머리 << 기울기,True
+Hair Framing << Length,Hair Framing << Length,옆머리 << 길이,True
+Hair Framing >> Length,Hair Framing >> Length,옆머리 >> 길이,True
+Hair Side Length,Hair Side Length,옆머리(전체) 길이,True
+Hair Rear Length,Hair Rear Length,뒷머리 길이,True
+Ahoge Position,Ahoge Position,바보털 위치,True
+Ahoge Angle,Ahoge Angle,바보털 각도,True
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,동물 귀 & 안테나 위치 위치,True
+Fin & Gill Position,Fin & Gill Position,지느러미 & 아가미 위치,True
+Halo Position,Halo Position,헤일로 위치,True
+Hat Position,Hat Position,모자 위치,True
+Horn >> Length,Horn >> Length,뿔 >> 길이,True
+Horn << Length,Horn << Length,뿔 << 길이,True
+Horn >< Length,Horn >< Length,뿔 >< 길이,True
+Horn Position,Horn Position,뿔 위치,True
+Ear Wing Position,Ear Wing Position,날개 귀 위치,True
+Wing Size,Wing Size,날개 크기,True
+Wing Position,Wing Position,날개 위치,True
+Wing Angle,Wing Angle,날개 각도,True
+Tail Size,Tail Size,꼬리 크기,True
+Tail Flip,Tail Flip,꼬리 좌우반전,True
+Tail Angle,Tail Angle,꼬리 각도,True
