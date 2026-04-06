@@ -1,95 +1,95 @@
 Key,en,ko,reviewed
-MainMenu.TabHeaderLable.Editor,Editor,편집기,False
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","""{0}"" 캐릭터를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",False
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",">캐릭터 ""{0}""이(가) 이미 존재합니다. ""{0}"" 캐릭터를 덮어쓰시겠습니까? 이 작업은 되돌릴 수 없습니다.",False
-MainMenu.Confirm,Confirm,확인,False
-MainMenu.Cancel,Cancel,취소,False
-MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,캐릭터 이름을 입력해주세요:,False
-MainMenu.Editor.Model,Models,모델,False
-MainMenu.Editor.Character,Character,캐릭터,False
-MainMenu.Editor.Animation,Animation,애니메이션,False
-MainMenu.Editor.PartsSelection,Choose Parts,파츠 선택,False
-MainMenu.Editor.PartsAdjustment,Adjustment,세부 조정,False
-MainMenu.Search,Search...,>검색...,False
-MainMenu.Editor.SaveCharacter,Save Character,캐릭터 저장,False
-MainMenu.Editor.Unload,Clear Character,캐릭터 초기화,False
-MainMenu.Editor.DeleteCharacter,Delete Character,캐릭터 삭제,False
-MainMenu.Editor.UseCustomTextures,Use Custom Textures,사용자 정의 텍스처 사용,False
-MainMenu.Editor.ReloadTextures,Reload Textures,텍스처 다시 불러오기,False
-MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,사용자 정의 텍스처 폴더 열기,False
-MainMenu.Editor.Color,Color,색상,False
-MainMenu.Editor.TintColor,TintColor,바탕 색상,False
-MainMenu.Editor.TintBlackColor,TintBlackColor,선화 색상,False
-MainMenu.Editor.LICENSE,LICENSE,라이선스,False
-MainMenu.Editor.AssetTypeAA,Default Assets,기본 에셋,False
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,외부 에셋,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,이름은 비워둘 수 없습니다.,False
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,이름은 {0}자를 초과할 수 없습니다.,False
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","이름에는 ""{0}"" 문자를 포함할 수 없습니다.",False
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}""은(는) 사용 중인 이름이므로 사용할 수 없습니다.",False
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,이름은 마침표(.)로 끝날 수 없습니다.,False
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,이름을 공백으로만 설정할 수 없습니다.,False
-MainMenu.Editor.UnloadCurrentModel,Unload Current Model,현재 모델 닫기,False
-MainMenu.Settings.GeneralSettings,General Settings,일반 설정,False
-MainMenu.Settings.GeneralSettings.Language,Language,언어,False
-MainMenu.Settings.ViewportSettings,Viewport Settings,작업 화면 설정,False
-MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,확대/축소 속도,False
-MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,회전 속도,False
-MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,모델 크기,False
-MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,수평 오프셋,False
-MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,수직 오프셋,False
-MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,작업 화면 설정 초기화,False
-MainMenu.Settings.ExportSettings,Animation Export Settings,애니메이션 저장 설정,False
-MainMenu.Settings.ExportSettings.SaveLocation,Save Location,저장 경로,False
-MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,프리셋 내보내기,False
-MainMenu.Settings.ExportSettings.Encoder,Encoder,인코더,False
-MainMenu.Settings.ExportSettings.Width,Width,너비,False
-MainMenu.Settings.ExportSettings.Height,Height,높이,False
-MainMenu.Settings.ExportSettings.FPS,FPS,FPS,False
-MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,최대 프레임 수 제한,False
-MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,최대 프레임 수,False
-MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,투명도 임계값,False
-MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,디더링 활성화,False
-MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,저장 설정 초기화,False
-MainMenu.Editor.Export,Export Emote,이모트 내보내기,False
-LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,모델 제작자가 제공하는 라이선스입니다. 참고용으로만 표시되며 EmoteLab 개발자의 견해나 법적 입장을 나타내지 않습니다.,False
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,라이선스를 찾을 수 없습니다. 제작자에게 허용된 사용 범위를 확인하세요.,False
-LicensePopup.Close,Close,닫기,False
-MainMenu.Editor.OpenExportFolder,Open Export Folder,저장 폴더 열기,False
-MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,기본 제공 모델의 샘플 캐릭터 불러오기,False
-MainMenu.Settings.ModelSettings,Model Settings,모델 설정,False
-MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,캐릭터 데이터를 저장하는 중...,False
-MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,>캐릭터 불러오는 중...,False
-MainMenu.Info.ThirdPartyLicense,Third Party Licenses,제3자 라이선스,False
-MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),최종 사용자 라이선스 계약(EULA),False
-MainMenu.Info.Documentation,Documentation,사용 설명서,False
-MainMenu.Info.Discord,Join Our Discord,디스코드 참여하기,False
-MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",이 프리셋은 올바른 포맷과 크기를 자동으로 설정합니다. 단, 애니메이션이 너무 길면 플랫폼의 파일 용량 제한을 초과할 수 있으며, 일부 플랫폼에서는 특정 콘텐츠의 사용을 제한할 수 있습니다.,False
-MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,로컬 모델 폴더 열기,False
-MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,캐릭터 폴더 열기,False
-MainMenu.Info.Log,Open Log Folder,로그 폴더 열기,False
-MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,전역 색상표 사용,False
-MainMenu.Editor.ExportStatic,Export Static Image,이미지 내보내기,False
-MainMenu.Editor.Player.Speed,Speed,속도,False
-MainMenu.Settings.StaticImageSettings,Static Image Settings,이미지 설정,False
-MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,이미지 설정 초기화,False
-MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,샘플링 속도,False
-MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,이 토글로 내장 텍스처와 커스텀 텍스처를 전환할 수 있습니다.,False
-MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Custom Texture 폴더에서 PNG를 편집합니다. 저장 시 투명도를 유지하고 이미지 크기를 변경하지 마세요.,False
-MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",편집 내용을 저장한 후 이 버튼을 클릭하면 모델에 변경 사항이 적용됩니다.,False
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,캐릭터를 저장하세요. 저장 버튼은 인터페이스 왼쪽의 캐릭터 목록 아래에 있습니다.,False
-MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,이 기능을 사용하기 전에 사용자 정의 텍스처 사용 매뉴얼을 읽어주세요.,False
-MainMenu.Editor.Texture.CustomTexture,Custom Texture,사용자 정의 텍스처,False
-MainMenu.Editor.Texture.Step1,Step 1,1단계,False
-MainMenu.Editor.Texture.Step2,Step 2,2단계,False
-MainMenu.Editor.Texture.Step3,Step 3,3단계,False
-MainMenu.Editor.Texture.Step4,Step 4,4단계,False
-MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,선택한 외곽선 수정,False
-MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,선택한 이미지 시트 초기화,False
-MainMenu.Editor.Texture.TextureUtility,Texture Utility,텍스처 도구,False
-MainMenu.Editor.Texture.SelectAll,Select All,전체 선택,False
-MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,선택 전환,False
-MainMenu.Editor.Texture.AtlasList,Atlas List,이미지 시트 목록,False
-MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,선택한 이미지 시트 페이지를 기본(내장) 버전으로 초기화합니다. 저장하지 않은 편집 내용은 사라지며 복구할 수 없습니다. 계속하시겠습니까?,False
-MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,색상 추출,False
-MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,선택한 텍스처 파일을 덮어쓰며, 이 작업은 되돌릴 수 없습니다. 계속하시겠습니까?,False
+MainMenu.TabHeaderLable.Editor,Editor,편집기,True
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","""{0}"" 캐릭터를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",True
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",">캐릭터 ""{0}""이(가) 이미 존재합니다. ""{0}"" 캐릭터를 덮어쓰시겠습니까? 이 작업은 되돌릴 수 없습니다.",True
+MainMenu.Confirm,Confirm,확인,True
+MainMenu.Cancel,Cancel,취소,True
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,캐릭터 이름을 입력해주세요:,True
+MainMenu.Editor.Model,Models,모델,True
+MainMenu.Editor.Character,Character,캐릭터,True
+MainMenu.Editor.Animation,Animation,애니메이션,True
+MainMenu.Editor.PartsSelection,Choose Parts,파츠 선택,True
+MainMenu.Editor.PartsAdjustment,Adjustment,세부 조정,True
+MainMenu.Search,Search...,>검색...,True
+MainMenu.Editor.SaveCharacter,Save Character,캐릭터 저장,True
+MainMenu.Editor.Unload,Clear Character,캐릭터 초기화,True
+MainMenu.Editor.DeleteCharacter,Delete Character,캐릭터 삭제,True
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,사용자 정의 텍스처 사용,True
+MainMenu.Editor.ReloadTextures,Reload Textures,텍스처 다시 불러오기,True
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,사용자 정의 텍스처 폴더 열기,True
+MainMenu.Editor.Color,Color,색상,True
+MainMenu.Editor.TintColor,TintColor,바탕 색상,True
+MainMenu.Editor.TintBlackColor,TintBlackColor,선화 색상,True
+MainMenu.Editor.LICENSE,LICENSE,라이선스,True
+MainMenu.Editor.AssetTypeAA,Default Assets,기본 에셋,True
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,외부 에셋,True
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,이름은 비워둘 수 없습니다.,True
+MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,이름은 {0}자를 초과할 수 없습니다.,True
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","이름에는 ""{0}"" 문자를 포함할 수 없습니다.",True
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}""은(는) 사용 중인 이름이므로 사용할 수 없습니다.",True
+MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,이름은 마침표(.)로 끝날 수 없습니다.,True
+MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,이름을 공백으로만 설정할 수 없습니다.,True
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,현재 모델 닫기,True
+MainMenu.Settings.GeneralSettings,General Settings,일반 설정,True
+MainMenu.Settings.GeneralSettings.Language,Language,언어,True
+MainMenu.Settings.ViewportSettings,Viewport Settings,작업 화면 설정,True
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,확대/축소 속도,True
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,회전 속도,True
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,모델 크기,True
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,수평 오프셋,True
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,수직 오프셋,True
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,작업 화면 설정 초기화,True
+MainMenu.Settings.ExportSettings,Animation Export Settings,애니메이션 저장 설정,True
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,저장 경로,True
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,프리셋 내보내기,True
+MainMenu.Settings.ExportSettings.Encoder,Encoder,인코더,True
+MainMenu.Settings.ExportSettings.Width,Width,너비,True
+MainMenu.Settings.ExportSettings.Height,Height,높이,True
+MainMenu.Settings.ExportSettings.FPS,FPS,FPS,True
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,최대 프레임 수 제한,True
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,최대 프레임 수,True
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,투명도 임계값,True
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,디더링 활성화,True
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,저장 설정 초기화,True
+MainMenu.Editor.Export,Export Emote,이모트 내보내기,True
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,모델 제작자가 제공하는 라이선스입니다. 참고용으로만 표시되며 EmoteLab 개발자의 견해나 법적 입장을 나타내지 않습니다.,True
+LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,라이선스를 찾을 수 없습니다. 제작자에게 허용된 사용 범위를 확인하세요.,True
+LicensePopup.Close,Close,닫기,True
+MainMenu.Editor.OpenExportFolder,Open Export Folder,저장 폴더 열기,True
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,기본 제공 모델의 샘플 캐릭터 불러오기,True
+MainMenu.Settings.ModelSettings,Model Settings,모델 설정,True
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,캐릭터 데이터를 저장하는 중...,True
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,>캐릭터 불러오는 중...,True
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,제3자 라이선스,True
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),최종 사용자 라이선스 계약(EULA),True
+MainMenu.Info.Documentation,Documentation,사용 설명서,True
+MainMenu.Info.Discord,Join Our Discord,디스코드 참여하기,True
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.","이 프리셋은 올바른 포맷과 크기를 자동으로 설정합니다.단, 애니메이션이 너무 길면 플랫폼의 파일 용량 제한을 초과할 수 있으며, 일부 플랫폼에서는 특정 콘텐츠의 사용을 제한할 수 있습니다.",True
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,로컬 모델 폴더 열기,True
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,캐릭터 폴더 열기,True
+MainMenu.Info.Log,Open Log Folder,로그 폴더 열기,True
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,전역 색상표 사용,True
+MainMenu.Editor.ExportStatic,Export Static Image,이미지 내보내기,True
+MainMenu.Editor.Player.Speed,Speed,속도,True
+MainMenu.Settings.StaticImageSettings,Static Image Settings,이미지 설정,True
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,이미지 설정 초기화,True
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,샘플링 속도,True
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,이 토글로 내장 텍스처와 커스텀 텍스처를 전환할 수 있습니다.,True
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Custom Texture 폴더에서 PNG를 편집합니다. 저장 시 투명도를 유지하고 이미지 크기를 변경하지 마세요.,True
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",편집 내용을 저장한 후 이 버튼을 클릭하면 모델에 변경 사항이 적용됩니다.,True
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,캐릭터를 저장하세요. 저장 버튼은 인터페이스 왼쪽의 캐릭터 목록 아래에 있습니다.,True
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,이 기능을 사용하기 전에 사용자 정의 텍스처 사용 매뉴얼을 읽어주세요.,True
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,사용자 정의 텍스처,True
+MainMenu.Editor.Texture.Step1,Step 1,1단계,True
+MainMenu.Editor.Texture.Step2,Step 2,2단계,True
+MainMenu.Editor.Texture.Step3,Step 3,3단계,True
+MainMenu.Editor.Texture.Step4,Step 4,4단계,True
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,선택한 외곽선 수정,True
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,선택한 이미지 시트 초기화,True
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,텍스처 도구,True
+MainMenu.Editor.Texture.SelectAll,Select All,전체 선택,True
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,선택 전환,True
+MainMenu.Editor.Texture.AtlasList,Atlas List,이미지 시트 목록,True
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,선택한 이미지 시트 페이지를 기본(내장) 버전으로 초기화합니다. 저장하지 않은 편집 내용은 사라지며 복구할 수 없습니다. 계속하시겠습니까?,True
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,색상 추출,True
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,"선택한 텍스처 파일을 덮어쓰며, 이 작업은 되돌릴 수 없습니다. 계속하시겠습니까?",True
