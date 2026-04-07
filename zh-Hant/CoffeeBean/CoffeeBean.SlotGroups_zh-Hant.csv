@@ -116,7 +116,7 @@ Heart,Heart,愛心,False
 Horn >>,Horn >>,角 >>,False
 Horn >> Outline,Horn >> Outline,角 >> 輪廓,False
 Horn <<,Horn <<,角 <<,False
-Horn << Outline,Horn << Outline,角 <<輪廓,False
+Horn << Outline,Horn << Outline,角 << 輪廓,False
 Horn ><,Horn ><,角 ><,False
 Horn >< Outline,Horn >< Outline,角 >< 輪廓,False
 Jail Grill,Jail Grill,監獄柵欄,False

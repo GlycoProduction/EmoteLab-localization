@@ -20,8 +20,8 @@ Dead,Dead,死亡,False
 Dizzy,Dizzy,頭暈,False
 Drink (Beverage Cup),Drink (Beverage Cup),喝(飲料杯),False
 Drive,Drive,駕駛,False
-Drooling (Chopstick),Drooling (Chopstick),流口水(筷子),False
-Drooling (Fork&Knife),Drooling (Fork&Knife),流口水(刀叉),False
+Drooling (Chopstick),Drooling (Chopstick),嘴饞(筷子),False
+Drooling (Fork&Knife),Drooling (Fork&Knife),嘴饞(刀叉),False
 Dum 1,Dum 1,呆 1,False
 Dum 2,Dum 2,呆 2,False
 Dum 3,Dum 3,呆 3,False
@@ -37,8 +37,8 @@ Laugh,Laugh,笑,False
 Lick,Lick,舔舔,False
 Lightstick 1,Lightstick 1,螢光棒 1,False
 Lightstick 2,Lightstick 2,螢光棒 2,False
-Lurk 1,Lurk 1,潛水 1,False
-Lurk 2,Lurk 2,潛水 2,False
+Lurk 1,Lurk 1,冒泡 1,False
+Lurk 2,Lurk 2,冒泡 2,False
 Luv 1,Luv 1,愛心 1,False
 Luv 2,Luv 2,愛心 2,False
 Luv 3,Luv 3,愛心 3,False
@@ -52,8 +52,8 @@ Noted 2,Noted 2,記錄 2,False
 Pat,Pat,摸頭,False
 Point,Point,指,False
 Question,Question,問號,False
-Raid 1,Raid 1,揪團 1,False
-Raid 2,Raid 2,揪團 2,False
+Raid 1,Raid 1,Raid 1,False
+Raid 2,Raid 2,Raid 2,False
 RedPacket 1,RedPacket 1,紅包 1,False
 RedPacket 2,RedPacket 2,紅包 2,False
 Rose,Rose,玫瑰,False
@@ -92,9 +92,9 @@ PNGTuber Idle,PNGTuber Idle,PNGTuber 閒置,False
 PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber 閒置 2,False
 PNGTuber Talk,PNGTuber Talk,PNGTuber 說話,False
 PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber 說話 2,False
-PNGTuber Yap,PNGTuber Yap,PNGTuber 碎碎念,False
+PNGTuber Yap,PNGTuber Yap,PNGTuber 說教,False
 Popcat Frame,Popcat Frame,Popcat 幀,False
 Popcat Smooth,Popcat Smooth,Popcat 平滑,False
 Sing,Sing,唱歌,False
 Tablet,Tablet,繪圖板,False
-Tail Wag,Tail Wag,搖尾巴,False
+Tail Wag,Tail Wag,雨刷尾巴,False
