@@ -1,7 +1,7 @@
 Key,en,ko,reviewed
 MainMenu.TabHeaderLable.Editor,Editor,편집기,True
 MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","""{0}"" 캐릭터를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다.",True
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",">캐릭터 ""{0}""이(가) 이미 존재합니다. ""{0}"" 캐릭터를 덮어쓰시겠습니까? 이 작업은 되돌릴 수 없습니다.",True
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","캐릭터 ""{0}""이(가) 이미 존재합니다. ""{0}"" 캐릭터를 덮어쓰시겠습니까? 이 작업은 되돌릴 수 없습니다.",True
 MainMenu.Confirm,Confirm,확인,True
 MainMenu.Cancel,Cancel,취소,True
 MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,캐릭터 이름을 입력해주세요:,True
@@ -10,7 +10,7 @@ MainMenu.Editor.Character,Character,캐릭터,True
 MainMenu.Editor.Animation,Animation,애니메이션,True
 MainMenu.Editor.PartsSelection,Choose Parts,파츠 선택,True
 MainMenu.Editor.PartsAdjustment,Adjustment,세부 조정,True
-MainMenu.Search,Search...,>검색...,True
+MainMenu.Search,Search...,검색...,True
 MainMenu.Editor.SaveCharacter,Save Character,캐릭터 저장,True
 MainMenu.Editor.Unload,Clear Character,캐릭터 초기화,True
 MainMenu.Editor.DeleteCharacter,Delete Character,캐릭터 삭제,True
@@ -52,19 +52,19 @@ MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,투명도 임계
 MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,디더링 활성화,True
 MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,저장 설정 초기화,True
 MainMenu.Editor.Export,Export Emote,이모트 내보내기,True
-LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,모델 제작자가 제공하는 라이선스입니다. 참고용으로만 표시되며 EmoteLab 개발자의 견해나 법적 입장을 나타내지 않습니다.,True
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position.,모델 제작자가 제공하는 라이선스입니다. 참고용으로만 표시되며 EmoteLab 개발자의 견해나 법적 입장을 나타내지 않습니다.,True
 LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,라이선스를 찾을 수 없습니다. 제작자에게 허용된 사용 범위를 확인하세요.,True
 LicensePopup.Close,Close,닫기,True
 MainMenu.Editor.OpenExportFolder,Open Export Folder,저장 폴더 열기,True
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,기본 제공 모델의 샘플 캐릭터 불러오기,True
 MainMenu.Settings.ModelSettings,Model Settings,모델 설정,True
 MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,캐릭터 데이터를 저장하는 중...,True
-MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,>캐릭터 불러오는 중...,True
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,캐릭터 불러오는 중...,True
 MainMenu.Info.ThirdPartyLicense,Third Party Licenses,제3자 라이선스,True
 MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),최종 사용자 라이선스 계약(EULA),True
 MainMenu.Info.Documentation,Documentation,사용 설명서,True
 MainMenu.Info.Discord,Join Our Discord,디스코드 참여하기,True
-MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.","이 프리셋은 올바른 포맷과 크기를 자동으로 설정합니다.단, 애니메이션이 너무 길면 플랫폼의 파일 용량 제한을 초과할 수 있으며, 일부 플랫폼에서는 특정 콘텐츠의 사용을 제한할 수 있습니다.",True
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.","이 프리셋은 올바른 포맷과 크기를 자동으로 설정합니다. 단, 애니메이션이 너무 길면 플랫폼의 파일 용량 제한을 초과할 수 있으며, 일부 플랫폼에서는 특정 콘텐츠의 사용을 제한할 수 있습니다.",True
 MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,로컬 모델 폴더 열기,True
 MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,캐릭터 폴더 열기,True
 MainMenu.Info.Log,Open Log Folder,로그 폴더 열기,True
@@ -74,7 +74,7 @@ MainMenu.Editor.Player.Speed,Speed,속도,True
 MainMenu.Settings.StaticImageSettings,Static Image Settings,이미지 설정,True
 MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,이미지 설정 초기화,True
 MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,샘플링 속도,True
-MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,이 토글로 내장 텍스처와 커스텀 텍스처를 전환할 수 있습니다.,True
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,이 토글을 사용하여 기본 텍스처와 커스텀 텍스처 사이를 전환할 수 있습니다.,True
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Custom Texture 폴더에서 PNG를 편집합니다. 저장 시 투명도를 유지하고 이미지 크기를 변경하지 마세요.,True
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",편집 내용을 저장한 후 이 버튼을 클릭하면 모델에 변경 사항이 적용됩니다.,True
 MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,캐릭터를 저장하세요. 저장 버튼은 인터페이스 왼쪽의 캐릭터 목록 아래에 있습니다.,True
