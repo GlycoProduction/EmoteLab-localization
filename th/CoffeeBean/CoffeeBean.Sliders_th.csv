@@ -1,0 +1,35 @@
+Key,en,th,reviewed
+Eyelash Length,Eyelash Length,ความยาวขนตา,True
+Brows Distance,Brows Distance,ระยะห่างระหว่างคิ้ว,True
+Brows Height,Brows Height,ความสูงของคิ้ว,True
+Ear Shape 1,Ear Shape 1,รูปทรงหู 1,True
+Ear Shape 2,Ear Shape 2,รูปทรงหู 2,True
+Hair Bang >< Length,Hair Bang >< Length,ผมหน้าม้า >< ความยาว,True
+Hair Bang >< Shear,Hair Bang >< Shear,ผมหน้าม้า >< มุม,True
+Hair Bang >> Position,Hair Bang >> Position,ผมหน้าม้า >> ตำแหน่ง,True
+Hair Bang >> Length,Hair Bang >> Length,ผมหน้าม้า >> ความยาว,True
+Hair Bang >> Shear,Hair Bang >> Shear,ผมหน้าม้า >> มุม,True
+Hair Bang << Position,Hair Bang << Position,ผมหน้าม้า << ตำแหน่ง,True
+Hair Bang << Length,Hair Bang << Length,ผมหน้าม้า << ความยาว,True
+Hair Bang << Shear,Hair Bang << Shear,ผมหน้าม้า << มุม,True
+Hair Framing << Length,Hair Framing << Length,ผมด้านข้าง << ความยาว,True
+Hair Framing >> Length,Hair Framing >> Length,ผมด้านข้าง >> ความยาว,True
+Hair Side Length,Hair Side Length,ความยาวผมด้านหลัง 1,True
+Hair Rear Length,Hair Rear Length,ความยาวผมด้านหลัง 2,True
+Ahoge Position,Ahoge Position,ตำแหน่ง Ahoge,True
+Ahoge Angle,Ahoge Angle,มุม Ahoge,True
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,ตำแหน่งหูสัตว์และหนวดแมลง,True
+Fin & Gill Position,Fin & Gill Position,ตำแหน่งครีบและเหงือก,True
+Halo Position,Halo Position,ตำแหน่ง Halo,True
+Hat Position,Hat Position,ตำแหน่งหมวก,True
+Horn >> Length,Horn >> Length,เขา >> ความยาว,True
+Horn << Length,Horn << Length,เขา << ความยาว,True
+Horn >< Length,Horn >< Length,เขา >< ความยาว,True
+Horn Position,Horn Position,ตำแหน่งเขา,True
+Ear Wing Position,Ear Wing Position,ตำแหน่งหูปีก,True
+Wing Size,Wing Size,ขนาดปีก,True
+Wing Position,Wing Position,ตำแหน่งปีก,True
+Wing Angle,Wing Angle,มุมปีก,True
+Tail Size,Tail Size,ขนาดหาง,True
+Tail Flip,Tail Flip,พลิกหาง,True
+Tail Angle,Tail Angle,มุมหาง,True

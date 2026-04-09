@@ -1,0 +1,218 @@
+Key,en,th,reviewed
+Hair Ahoge,Hair Ahoge,ผม Ahoge,True
+Hair Ahoge Outline,Hair Ahoge Outline,เส้นร่างผม Ahoge,True
+Animal Ear >>,Animal Ear >>,หูสัตว์ >>,True
+Animal Ear >> Fur,Animal Ear >> Fur,หูสัตว์ >> ขน,True
+Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,เส้นร่างหูสัตว์ >> ขน,True
+Animal Ear >> Outline,Animal Ear >> Outline,เส้นร่างหูสัตว์ >>,True
+Animal Ear <<,Animal Ear <<,หูสัตว์ <<,True
+Animal Ear << Fur,Animal Ear << Fur,หูสัตว์ << ขน,True
+Animal Ear << Fur Outline,Animal Ear << Fur Outline,เส้นร่างหูสัตว์ << ขน,True
+Animal Ear << Outline,Animal Ear << Outline,เส้นร่างหูสัตว์ <<,True
+Antenna >>,Antenna >>,หนวดแมลง >>,True
+Antenna >> Outline,Antenna >> Outline,เส้นร่างหนวดแมลง >>,True
+Antenna <<,Antenna <<,หนวดแมลง <<,True
+Antenna << Outline,Antenna << Outline,เส้นร่างหนวดแมลง <<,True
+Hair Rear,Hair Rear,ผมด้านหลัง,True
+Hair Rear Outline,Hair Rear Outline,เส้นร่างผมด้านหลัง,True
+Beverage Cup,Beverage Cup,ถ้วยเครื่องดื่ม,True
+Beverage Liquid,Beverage Liquid,ของเหลวเครื่องดื่ม 1,True
+Beverage Liquid 2,Beverage Liquid 2,ของเหลวเครื่องดื่ม 2,True
+Bill,Bill,แบงก์เงิน,True
+Blanket Inner,Blanket Inner,ผ้าห่มด้านใน,True
+Blanket Outter,Blanket Outter,ผ้าห่มด้านนอก,True
+Face Blush,Face Blush,แก้มแดง,True
+Brow >>,Brow >>,คิ้ว >>,True
+Brow <<,Brow <<,คิ้ว <<,True
+Chopstick,Chopstick,ตะเกียบ,True
+Crowbar,Crowbar,ชะแลง,True
+Cup,Cup,ถ้วยน้ำ,True
+Cup Steam,Cup Steam,ไอน้ำจากถ้วยน้ำ,True
+Door/Wall,Door/Wall,ประตู/ผนัง,True
+Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,ตาหน้าโง่ >>,True
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,ตาหน้าโง่ <<,True
+Eyebag,Eyebag,ถุงใต้ตา,True
+Eye Iris Dark >>,Eye Iris Dark >>,ตา(สีเข้ม) >>,True
+Eye Iris Dark <<,Eye Iris Dark <<,ตา(สีเข้ม) <<,True
+Eye Dollar,Eye Dollar,ตา(ดอลลาร์),True
+Eye Heart,Eye Heart,ตา(หัวใจ),True
+Eye Highlight,Eye Highlight,ไฮไลท์ตา,True
+Eyelashes,Eyelashes,ขนตา,True
+Eye Iris Light >>,Eye Iris Light >>,ตา(สีอ่อน) >>,True
+Eye Iris Light <<,Eye Iris Light <<,ตา(สีอ่อน) <<,True
+Eye(Dum) Outline,Eye(Dum) Outline,เส้นร่างตาหน้าโง่,True
+Eye Sparkling,Eye Sparkling,ตา(ประกาย),True
+Eye Spiral,Eye Spiral,ตา(Spiral),True
+Eye White,Eye White,ตาขาว,True
+Face Shadow,Face Shadow,เงาบนหน้า,True
+Fin >>,Fin >>,ครีบ >>,True
+Fin >> Outline,Fin >> Outline,เส้นร่างครีบ >>,True
+Fin <<,Fin <<,ครีบ <<,True
+Fin << Outline,Fin << Outline,เส้นร่างครีบ <<,True
+Hair Framing >>,Hair Framing >>,ผมด้านข้าง >>,True
+Hair Framing >> Outline,Hair Framing >> Outline,เส้นร่างผมด้านข้าง >>,True
+Hair Framing <<,Hair Framing <<,ผมด้านข้าง <<,True
+Hair Framing << Outline,Hair Framing << Outline,เส้นร่างผมด้านข้าง <<,True
+Gill,Gill,เหงือก,True
+Gill Outline,Gill Outline,เส้นร่างเหงือก,True
+Glasses,Glasses,แว่นตา,True
+Hairband A,Hairband A,ที่คาดผม A,True
+Hairband A Outline,Hairband A Outline,เส้นร่างที่คาดผม A,True
+Hairband B,Hairband B,ที่คาดผม B,True
+Hairband B Outline,Hairband B Outline,เส้นร่างที่คาดผม B,True
+Hairband C,Hairband C,ที่คาดผม C,True
+Hairband C Outline,Hairband C Outline,เส้นร่างที่คาดผม C,True
+Hairband D,Hairband D,ที่คาดผม D,True
+Hairband D Outline,Hairband D Outline,เส้นร่างที่คาดผม D,True
+Hair Bang >>,Hair Bang >>,ผมหน้าม้า >>,True
+Hair Bang >> Outline,Hair Bang >> Outline,เส้นร่างผมหน้าม้า >>,True
+Hair Bang ><,Hair Bang ><,ผมหน้าม้า ><,True
+Hair Bang >< Outline,Hair Bang >< Outline,เส้นร่างผมหน้าม้า ><,True
+Hair Bang <<,Hair Bang <<,ผมหน้าม้า <<,True
+Hair Bang << Outline,Hair Bang << Outline,เส้นร่างผมหน้าม้า <<,True
+Hair Clip >>,Hair Clip >>,กิ๊บติดผม >>,True
+Hair Clip >> Outline,Hair Clip >> Outline,เส้นร่างกิ๊บติดผม >>,True
+Hair Clip <<,Hair Clip <<,กิ๊บติดผม <<,True
+Hair Clip << Outline,Hair Clip << Outline,เส้นร่างกิ๊บติดผม <<,True
+Hair Highlight 1 >>,Hair Highlight 1 >>,ชิ้นส่วนผม 1 >>,True
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,เส้นร่างชิ้นส่วนผม 1 >>,True
+Hair Highlight 2 >>,Hair Highlight 2 >>,ชิ้นส่วนผม 2 >>,True
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,เส้นร่างชิ้นส่วนผม 2 >>,True
+Hair Highlight 3 >>,Hair Highlight 3 >>,ชิ้นส่วนผม 3 >>,True
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,เส้นร่างชิ้นส่วนผม 3 >>,True
+Hair Highlight 1 ><,Hair Highlight 1 ><,ชิ้นส่วนผม 1 ><,True
+Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,เส้นร่างชิ้นส่วนผม 1 ><,True
+Hair Highlight 2 ><,Hair Highlight 2 ><,ชิ้นส่วนผม 2 ><,True
+Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,เส้นร่างชิ้นส่วนผม 2 ><,True
+Hair Highlight 3 ><,Hair Highlight 3 ><,ชิ้นส่วนผม 3 ><,True
+Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,เส้นร่างชิ้นส่วนผม 3 ><,True
+Hair Highlight 4 ><,Hair Highlight 4 ><,ชิ้นส่วนผม 4 ><,True
+Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,เส้นร่างชิ้นส่วนผม 4 ><,True
+Hair Highlight 5 ><,Hair Highlight 5 ><,ชิ้นส่วนผม 5 ><,True
+Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,เส้นร่างชิ้นส่วนผม 5 ><,True
+Hair Highlight 6 ><,Hair Highlight 6 ><,ชิ้นส่วนผม 6 ><,True
+Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,เส้นร่างชิ้นส่วนผม 6 ><,True
+Hair Highlight 1 <<,Hair Highlight 1 <<,ชิ้นส่วนผม 1 <<,True
+Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,เส้นร่างชิ้นส่วนผม 1 <<,True
+Hair Highlight 2 <<,Hair Highlight 2 <<,ชิ้นส่วนผม 2 <<,True
+Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,เส้นร่างชิ้นส่วนผม 2 <<,True
+Hair Highlight 3 <<,Hair Highlight 3 <<,ชิ้นส่วนผม 3 <<,True
+Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,เส้นร่างชิ้นส่วนผม 3 <<,True
+Hairline Outline,Hairline Outline,เส้นร่างไรผม,True
+Hair Shine,Hair Shine,ไฮไลต์ผม,True
+Hair Shine Outline,Hair Shine Outline,เส้นร่างไฮไลต์ผม,True
+Halo,Halo,Halo,True
+Halo Outline,Halo Outline,เส้นร่าง Halo,True
+Hat,Hat,หมวก,True
+Hat Outline,Hat Outline,เส้นร่าง,True
+Hat Secondary,Hat Secondary,หมวกรอง,True
+Hat Secondary Outline,Hat Secondary Outline,เส้นร่างหมวกรอง,True
+Hammer,Hammer,ค้อน,True
+Ear Wing >>,Ear Wing >>,หูปีก >>,True
+Ear Wing >> Outline,Ear Wing >> Outline,เส้นร่างหูปีก >>,True
+Ear Wing <<,Ear Wing <<,หูปีก <<,True
+Ear Wing << Outline,Ear Wing << Outline,เส้นร่างหูปีก <<,True
+Heart,Heart,หัวใจ,True
+Horn >>,Horn >>,เขา >>,True
+Horn >> Outline,Horn >> Outline,เส้นร่างเขา >>,True
+Horn <<,Horn <<,เขา <<,True
+Horn << Outline,Horn << Outline,เส้นร่างเขา <<,True
+Horn ><,Horn ><,เขา ><,True
+Horn >< Outline,Horn >< Outline,เส้นร่างเขา ><,True
+Jail Grill,Jail Grill,ลูกกรงคุก,True
+Keyboard,Keyboard,คีย์บอร์ด,True
+Kitchen Knife,Kitchen Knife,มีดทำครัว,True
+Laptop,Laptop,แล็ปท็อป,True
+Laptop Light,Laptop Light,แสงแล็ปท็อป,True
+Leg >>,Leg >>,ขา >>,True
+Leg <<,Leg <<,ขา <<,True
+Lightstick Handle,Lightstick Handle,ด้ามจับของแท่งไฟ,True
+Light Stick >>,Light Stick >>,แท่งไฟ >>,True
+Light Stick <<,Light Stick <<,แท่งไฟ <<,True
+Mecha,Mecha,ส่วนหุ่นยนต์,True
+Mecha >>,Mecha >>,ส่วนหุ่นยนต์ >>,True
+Mecha >> Outline,Mecha >> Outline,เส้นร่างส่วนหุ่นยนต์ >>,True
+Mecha Outline,Mecha Outline,เส้นร่างส่วนหุ่นยนต์,True
+Mecha <<,Mecha <<,ส่วนหุ่นยนต์ <<,True
+Mecha << Outline,Mecha << Outline,เส้นร่างส่วนหุ่นยนต์ <<,True
+Mouse,Mouse,เม้าส์,True
+Mouth/Tongue,Mouth/Tongue,ปาก/ลิ้น,True
+Mouth/Tongue Shadow,Mouth/Tongue Shadow,เงาปาก/ลิ้น,True
+Notepad,Notepad,สมุดบันทึก,True
+Outfit Collar,Outfit Collar,ปกเสื้อ,True
+Outfit Collar Outline,Outfit Collar Outline,เส้นร่าง,True
+Outfit Inner,Outfit Inner,ชุดด้านใน,True
+Outfit Inner Outline,Outfit Inner Outline,เส้นร่าง,True
+Outfit Neckwear A,Outfit Neckwear A,เครื่องประดับคอ A,True
+Outfit Neckwear A Outline,Outfit Neckwear A Outline,เส้นร่างเครื่องประดับคอ A,True
+Outfit Neckwear B,Outfit Neckwear B,เครื่องประดับคอ B,True
+Outfit Neckwear B Outline,Outfit Neckwear B Outline,เส้นร่างเครื่องประดับคอ B,True
+Outfit Neckwear C,Outfit Neckwear C,เครื่องประดับคอ C,True
+Outfit Neckwear C Outline,Outfit Neckwear C Outline,เส้นร่างเครื่องประดับคอ C,True
+Outfit Outer,Outfit Outer,ชุดด้านนอก,True
+Outfit Outer Outline,Outfit Outer Outline,เส้นร่างชุดด้านนอก,True
+Pencil,Pencil,ดินสอ,True
+Phone,Phone,โทรศัพท์มือถือ,True
+Phone Light,Phone Light,แสงโทรศัพท์มือถือ,True
+Hair Pigtail >>,Hair Pigtail >>,มัดผม >>,True
+Hair Pigtail >> Outline,Hair Pigtail >> Outline,เส้นร่างมัดผม >>,True
+Hair Pigtail <<,Hair Pigtail <<,มัดผม <<,True
+Hair Pigtail << Outline,Hair Pigtail << Outline,เส้นร่างมัดผม <<,True
+Rose,Rose,ดอกกุหลาบ,True
+Round Sign,Round Sign,ป้ายกลม,True
+Round Sign Text,Round Sign Text,ข้อความบนป้ายกลม,True
+Hair Side,Hair Side,ผมด้านข้าง,True
+Hair Side Outline,Hair Side Outline,เส้นร่างผมด้านข้าง,True
+Skin,Skin,ผิว,True
+Skin Outline,Skin Outline,เส้นร่างผิว,True
+Square Sign,Square Sign,ป้ายสี่เหลี่ยม,True
+Square Sign Text,Square Sign Text,ข้อความป้ายสี่เหลี่ยม,True
+Steering Wheel,Steering Wheel,พวงมาลัย,True
+Gas Bottle,Gas Bottle,ถังแก๊ส,True
+Pat Hand,Pat Hand,มือลูบหัว,True
+Sticker Alert,Sticker Alert,สติกเกอร์ Alert,True
+Sticker Alert Effect,Sticker Alert Effect,สติกเกอร์ Alert Effect,True
+Sticker Alert Outline,Sticker Alert Outline,สติกเกอร์ Alert Outline,True
+Sticker Angry,Sticker Angry,สติกเกอร์โกรธ,True
+Sticker Exclamation Mark,Sticker Exclamation Mark,สติกเกอร์เครื่องหมายอัศเจรีย์,True
+Sticker Ghost,Sticker Ghost,สติกเกอร์วิญญาณ,True
+Sticker Heart,Sticker Heart,สติกเกอร์หัวใจ,True
+Sticker Laugh,Sticker Laugh,สติกเกอร์หัวเราะ,True
+Sticker Question Mark,Sticker Question Mark,สติกเกอร์เครื่องหมายคำถาม,True
+Sticker Sleep,Sticker Sleep,สติกเกอร์นอน,True
+Sticker Star,Sticker Star,สติกเกอร์ดาว,True
+Sticker Steam,Sticker Steam,สติกเกอร์ไอน้ำ,True
+Sticker Surprise,Sticker Surprise,สติกเกอร์เซอร์ไพรส์,True
+Sticker Sweat,Sticker Sweat,สติกเกอร์เหงื่อตก,True
+Sticker Sweat (Large),Sticker Sweat (Large),สติกเกอร์เหงื่อตก (ใหญ่),True
+Sticker Volume,Sticker Volume,สติกเกอร์ ระดับเสียง,True
+Sticky Note,Sticky Note,Sticky Note,True
+Sticky Note Text,Sticky Note Text,ข้อความบน Sticky Note,True
+Eye Tear,Eye Tear,น้ำตา,True
+Utensil,Utensil,ช้อนส้อม,True
+Outfit Collar String,Outfit Collar String,เชือกเสื้อฮู้ด,True
+Bell,Bell,กระดิ่ง,True
+Confetti 1,Confetti 1,คอนเฟตตี้ 1,True
+Confetti 2,Confetti 2,คอนเฟตตี้ 2,True
+Confetti 3,Confetti 3,คอนเฟตตี้ 3,True
+Microphone,Microphone,ไมโครโฟน,True
+Gleam,Gleam,แวววาว,True
+Video Camera,Video Camera,กล้องวิดีโอ,True
+Point Hand,Point Hand,มือชี้,True
+Bowl,Bowl,ชาม,True
+Cake,Cake,เค้ก,True
+Candle Fire,Candle Fire,เปลวเทียน,True
+Drawing Tablet,Drawing Tablet,แท็บเล็ตวาดรูป,True
+Love Letter,Love Letter,จดหมายรัก,True
+Popper,Popper,ป็อปเปอร์,True
+Stylus,Stylus,ปากกาสไตลัส,True
+Tablet,Tablet,แท็บเล็ต,True
+Musical Note 1,Musical Note 1,โน้ตดนตรี 1,True
+Musical Note 2,Musical Note 2,โน้ตดนตรี 2,True
+Phone Screen,Phone Screen,หน้าจอโทรศัพท์ ,True
+Tail,Tail,หาง,True
+Tail Outline,Tail Outline,เส้นร่างหาง,True
+Wing >>,Wing >>,ปีก >>,True
+Wing >> Outline,Wing >> Outline,เส้นร่างปีก >>,True
+Wing <<,Wing <<,ปีก <<,True
+Wing << Outline,Wing << Outline,เส้นร่างปีก <<,True
