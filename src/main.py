@@ -28,6 +28,7 @@ dct_langs = {
     'ja': 'zh-Hans',
     'ko': 'zh-Hans',
     'ru': 'en',
+    'pt-br': 'en',
 }
 
 class CSVFile:
@@ -52,7 +53,9 @@ class LanguageCSVFile(CSVFile):
     def update(self, ref: CSVFile):
         # put all rows from reference into csv
         df = pd.merge(ref.df, self.df, how='left', left_on=ref.key, right_on=self.key, suffixes=('', '_y'))
+        msk_changed = df['en'] != df['en_y']
         df = df[self.df.columns]
+        df.loc[msk_changed, 'reviewed'] = False  # if the english string has changed, reset the reviewed flag
         df['reviewed'] = df['reviewed'].fillna(False)
         df[self.lang] = df[self.lang].fillna("")
         self.df = df
@@ -68,6 +71,8 @@ class LanguageCSVFile(CSVFile):
                 translation_target = 'zh-TW'
             elif self.lang == 'zh-Hans':
                 translation_target = 'zh-CN'
+            elif self.lang == 'pt-br':
+                translation_target = 'pt'
             else:
                 translation_target = self.lang
 
