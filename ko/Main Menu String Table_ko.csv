@@ -52,8 +52,8 @@ MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,투명도 임계
 MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,디더링 활성화,True
 MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,저장 설정 초기화,True
 MainMenu.Editor.Export,Export Emote,이모트 내보내기,True
-LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position.,모델 제작자가 제공하는 라이선스입니다. 참고용으로만 표시되며 EmoteLab 개발자의 견해나 법적 입장을 나타내지 않습니다.,True
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,라이선스를 찾을 수 없습니다. 제작자에게 허용된 사용 범위를 확인하세요.,True
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,모델 제작자가 제공하는 라이선스입니다. 참고용으로만 표시되며 EmoteLab 개발자의 견해나 법적 입장을 나타내지 않습니다.,False
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",라이선스를 찾을 수 없습니다. 제작자에게 허용된 사용 범위를 확인하세요.,False
 LicensePopup.Close,Close,닫기,True
 MainMenu.Editor.OpenExportFolder,Open Export Folder,저장 폴더 열기,True
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,기본 제공 모델의 샘플 캐릭터 불러오기,True

@@ -53,7 +53,7 @@ MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Dithering enge
 MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Állítsa vissza az exportálási beállításokat,False
 MainMenu.Editor.Export,Export Emote,Export Emote,False
 LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,"A modell készítője által biztosított licenc. Csak referenciaként jelenik meg, és nem képviseli az EmoteLab fejlesztő nézeteit vagy jogi álláspontját.",False
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Az engedély nem található. Az engedélyezett felhasználás megerősítése az alkotóval.,False
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",Az engedély nem található. Az engedélyezett felhasználás megerősítése az alkotóval.,False
 LicensePopup.Close,Close,Közeli,False
 MainMenu.Editor.OpenExportFolder,Open Export Folder,Nyissa meg az Exportálás mappát,False
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Töltsön be mintakaraktereket a beépített modellekhez,False
