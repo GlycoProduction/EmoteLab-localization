@@ -1,35 +1,35 @@
-﻿Key;en;ru;reviewed
-Eyelash Length;Eyelash Length;Ресницы - Длина;FALSE
-Brows Distance;Brows Distance;Брови - Расстояние;FALSE
-Brows Height;Brows Height;Брови - Высота;FALSE
-Ear Shape 1;Ear Shape 1;Форма ушей 1;FALSE
-Ear Shape 2;Ear Shape 2;Форма ушей 2;FALSE
-Hair Bang >< Length;Hair Bang >< Length;Челка >< Длина;FALSE
-Hair Bang >< Shear;Hair Bang >< Shear;Челка >< Наклон;FALSE
-Hair Bang >> Position;Hair Bang >> Position;Челка >> Позиция;FALSE
-Hair Bang >> Length;Hair Bang >> Length;Челка >> Длина;FALSE
-Hair Bang >> Shear;Hair Bang >> Shear;Челка >> Наклон;FALSE
-Hair Bang << Position;Hair Bang << Position;Челка << Позиция;FALSE
-Hair Bang << Length;Hair Bang << Length;Челка << Длина;FALSE
-Hair Bang << Shear;Hair Bang << Shear;Челка << Наклон;FALSE
-Hair Framing << Length;Hair Framing << Length;Пряди волос << Длина;FALSE
-Hair Framing >> Length;Hair Framing >> Length;Пряди волос >> Длина;FALSE
-Hair Side Length;Hair Side Length;Боковые волосы - Длина;FALSE
-Hair Rear Length;Hair Rear Length;Задние волосы - Длина;FALSE
-Ahoge Position;Ahoge Position;Ахоге - Положение;FALSE
-Ahoge Angle;Ahoge Angle;Ахоге - Угол;FALSE
-Animal Ear & Antenna Position;Animal Ear & Antenna Position;Звериные уши & Антенна - Положение;FALSE
-Fin & Gill Position;Fin & Gill Position;Плавники & Жабры - Положение;FALSE
-Halo Position;Halo Position;Нимб - Положение;FALSE
-Hat Position;Hat Position;Шляпа - Положение;FALSE
-Horn >> Length;Horn >> Length;Рог >> Длина;FALSE
-Horn << Length;Horn << Length;Рог << Длина;FALSE
-Horn >< Length;Horn >< Length;Рог >< Длина;FALSE
-Horn Position;Horn Position;Рог - Положение;FALSE
-Ear Wing Position;Ear Wing Position;Крыло-ухо - Положение;FALSE
-Wing Size;Wing Size;Крылья - Размер;FALSE
-Wing Position;Wing Position;Крылья - Положение;FALSE
-Wing Angle;Wing Angle;Крылья - Угол;FALSE
-Tail Size;Tail Size;Хвост - Размер;FALSE
-Tail Flip;Tail Flip;Хвост - Отразить;FALSE
-Tail Angle;Tail Angle;Хвост - Угол;FALSE
+Key,en,ru,reviewed
+Eyelash Length,Eyelash Length,Ресницы - Длина,False
+Brows Distance,Brows Distance,Брови - Расстояние,False
+Brows Height,Brows Height,Брови - Высота,False
+Ear Shape 1,Ear Shape 1,Форма ушей 1,False
+Ear Shape 2,Ear Shape 2,Форма ушей 2,False
+Hair Bang >< Length,Hair Bang >< Length,Челка >< Длина,False
+Hair Bang >< Shear,Hair Bang >< Shear,Челка >< Наклон,False
+Hair Bang >> Position,Hair Bang >> Position,Челка >> Позиция,False
+Hair Bang >> Length,Hair Bang >> Length,Челка >> Длина,False
+Hair Bang >> Shear,Hair Bang >> Shear,Челка >> Наклон,False
+Hair Bang << Position,Hair Bang << Position,Челка << Позиция,False
+Hair Bang << Length,Hair Bang << Length,Челка << Длина,False
+Hair Bang << Shear,Hair Bang << Shear,Челка << Наклон,False
+Hair Framing << Length,Hair Framing << Length,Пряди волос << Длина,False
+Hair Framing >> Length,Hair Framing >> Length,Пряди волос >> Длина,False
+Hair Side Length,Hair Side Length,Боковые волосы - Длина,False
+Hair Rear Length,Hair Rear Length,Задние волосы - Длина,False
+Ahoge Position,Ahoge Position,Ахоге - Положение,False
+Ahoge Angle,Ahoge Angle,Ахоге - Угол,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Звериные уши & Антенна - Положение,False
+Fin & Gill Position,Fin & Gill Position,Плавники & Жабры - Положение,False
+Halo Position,Halo Position,Нимб - Положение,False
+Hat Position,Hat Position,Шляпа - Положение,False
+Horn >> Length,Horn >> Length,Рог >> Длина,False
+Horn << Length,Horn << Length,Рог << Длина,False
+Horn >< Length,Horn >< Length,Рог >< Длина,False
+Horn Position,Horn Position,Рог - Положение,False
+Ear Wing Position,Ear Wing Position,Крыло-ухо - Положение,False
+Wing Size,Wing Size,Крылья - Размер,False
+Wing Position,Wing Position,Крылья - Положение,False
+Wing Angle,Wing Angle,Крылья - Угол,False
+Tail Size,Tail Size,Хвост - Размер,False
+Tail Flip,Tail Flip,Хвост - Отразить,False
+Tail Angle,Tail Angle,Хвост - Угол,False

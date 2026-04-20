@@ -1,100 +1,100 @@
-﻿Key;en;ru;reviewed
-Alert Bits;Alert Bits;"Уведомление ""Twitch Bits""";FALSE
-Alert Donation;Alert Donation;"Уведомление ""Донат""";FALSE
-Alert Heart;Alert Heart;"Уведомление ""Сердце""";FALSE
-Alert Like;Alert Like;"Уведомление ""Нравится""";FALSE
-Alert Star;Alert Star;"Уведомление ""Звезда""";FALSE
-Angry;Angry;Злой;FALSE
-Arrive;Arrive;Подбежать;FALSE
-Arrive (with Chopstick);Arrive (with Chopstick);Подбежать (с палочками для еды);FALSE
-Arrive (with Spoon);Arrive (with Spoon);Подбежать (с ложкой);FALSE
-Bonk;Bonk;Боньк;FALSE
-Copium;Copium;Копиум;FALSE
-Crowbar 1;Crowbar 1;Лом 1;FALSE
-Crowbar 2;Crowbar 2;Лом 2;FALSE
-Crowbar 3;Crowbar 3;Лом 3;FALSE
-Cry 1;Cry 1;Плач 1;FALSE
-Cry 2;Cry 2;Плач 2;FALSE
-Cry 3;Cry 3;Плач 3;FALSE
-Dead;Dead;Умер;FALSE
-Dizzy;Dizzy;Вскружило голову;FALSE
-Drink (Beverage Cup);Drink (Beverage Cup);Пить (Стаканчик с напитком);FALSE
-Drive;Drive;Водить машину;FALSE
-Drooling (Chopstick);Drooling (Chopstick);Слюни (Палочки для еды);FALSE
-Drooling (Fork&Knife);Drooling (Fork&Knife);Слюни (Вилка и нож);FALSE
-Dum 1;Dum 1;Глупик 1;FALSE
-Dum 2;Dum 2;Глупик 2;FALSE
-Dum 3;Dum 3;Глупик 3;FALSE
-Dum Sticker 1;Dum Sticker 1;Глупик со стикером 1;FALSE
-Dum Sticker 2;Dum Sticker 2;Глупик со стикером 2;FALSE
-Dum Sticker 3;Dum Sticker 3;Глупик со стикером 3;FALSE
-Exclamation;Exclamation;"Удивление ""!!""";FALSE
-Jail 1;Jail 1;Тюрьма 1;FALSE
-Jail 2;Jail 2;Тюрьма 2;FALSE
-Knife 1;Knife 1;Нож 1;FALSE
-Knife 2;Knife 2;Нож 2;FALSE
-Laugh;Laugh;Смех;FALSE
-Lick;Lick;Лизь языком;FALSE
-Lightstick 1;Lightstick 1;Лайтстик 1;FALSE
-Lightstick 2;Lightstick 2;Лайтстик 2;FALSE
-Lurk 1;Lurk 1;Подглядывать 1;FALSE
-Lurk 2;Lurk 2;Подглядывать 2;FALSE
-Luv 1;Luv 1;Любовь 1;FALSE
-Luv 2;Luv 2;Любовь 2;FALSE
-Luv 3;Luv 3;Любовь 3;FALSE
-Money;Money;Деньги;FALSE
-Mute 1;Mute 1;Беззвучный 1;FALSE
-Mute 2;Mute 2;Беззвучный 2;FALSE
-Nervous 1;Nervous 1;Нервный 1;FALSE
-Nervous 2;Nervous 2;Нервный 2;FALSE
-Noted 1;Noted 1;Записано 1;FALSE
-Noted 2;Noted 2;Записано 2;FALSE
-Pat;Pat;Гладь по голове;FALSE
-Point;Point;Обвинение;FALSE
-Question;Question;Возник вопрос;FALSE
-Raid 1;Raid 1;Рейд 1;FALSE
-Raid 2;Raid 2;Рейд 2;FALSE
-RedPacket 1;RedPacket 1;Конверт 1;FALSE
-RedPacket 2;RedPacket 2;Конверт 2;FALSE
-Rose;Rose;Роза;FALSE
-Score (0 Point);Score (0 Point);Оценка (0 очков);FALSE
-Score (10 Point);Score (10 Point);Оценка (10 баллов);FALSE
-Shy 1;Shy 1;Смущение 1;FALSE
-Shy 2;Shy 2;Смущение 2;FALSE
-Sleep (Normal);Sleep (Normal);Сон (нормальный);FALSE
-Sleep (Preparing Stage 1);Sleep (Preparing Stage 1);Сон (подготовка ко сну 1);FALSE
-Sleep (Preparing Stage 2);Sleep (Preparing Stage 2);Сон (подготовка ко сну 2);FALSE
-Sleep (UU);Sleep (UU);Сон (UwU);FALSE
-Sparkling;Sparkling;Восхищение;FALSE
-Surprise;Surprise;Сюрприз;FALSE
-Sweat;Sweat;Потливость;FALSE
-Thumb Down;Thumb Down;Большой палец вниз;FALSE
-Thumb Up;Thumb Up;Большой палец вверх;FALSE
-Type Angry;Type Angry;Злое печатание;FALSE
-Type Annoyed;Type Annoyed;Раздраженное печатание;FALSE
-Type Normal;Type Normal;Печатание нормальное;FALSE
-Work Angry;Work Angry;Злой на работе;FALSE
-Work Nap;Work Nap;Уснул на работе;FALSE
-Work Normal;Work Normal;Работает обычно;FALSE
-Work Tired;Work Tired;Усталость от работы;FALSE
-Bell;Bell;Колокольчик;FALSE
-Cake;Cake;Торт;FALSE
-Caught in 4K (Phone);Caught in 4K (Phone);Снимает в 4K (телефон);FALSE
-Caught in 4K (Video Camera);Caught in 4K (Video Camera);Снимает в 4K (видеокамера);FALSE
-Celebration;Celebration;Празднование;FALSE
-Head Nod;Head Nod;Кивок головой;FALSE
-Head Shake;Head Shake;Покачивание головой;FALSE
-Hypnosis;Hypnosis;Гипноз;FALSE
-Laugh (Point);Laugh (Point);Смех (Обвинение);FALSE
-Love Letter;Love Letter;Любовное письмо;FALSE
-Need Food;Need Food;Нуждаюсь в еде;FALSE
-PNGTuber Idle;PNGTuber Idle;PNG-tuber в покое;FALSE
-PNGTuber Idle 2;PNGTuber Idle 2;PNG-tuber в покое 2;FALSE
-PNGTuber Talk;PNGTuber Talk;PNG-tuber говорит;FALSE
-PNGTuber Talk 2;PNGTuber Talk 2;PNG-tuber говорит 2;FALSE
-PNGTuber Yap;PNGTuber Yap;PNG-tuber тявканье;FALSE
-Popcat Frame;Popcat Frame;Попкэт по кадрам;FALSE
-Popcat Smooth;Popcat Smooth;Попкэт плавный;FALSE
-Sing;Sing;Пение;FALSE
-Tablet;Tablet;Графический планшет;FALSE
-Tail Wag;Tail Wag;Виляние хвостом;FALSE
+Key,en,ru,reviewed
+Alert Bits,Alert Bits,"Уведомление ""Twitch Bits""",False
+Alert Donation,Alert Donation,"Уведомление ""Донат""",False
+Alert Heart,Alert Heart,"Уведомление ""Сердце""",False
+Alert Like,Alert Like,"Уведомление ""Нравится""",False
+Alert Star,Alert Star,"Уведомление ""Звезда""",False
+Angry,Angry,Злой,False
+Arrive,Arrive,Подбежать,False
+Arrive (with Chopstick),Arrive (with Chopstick),Подбежать (с палочками для еды),False
+Arrive (with Spoon),Arrive (with Spoon),Подбежать (с ложкой),False
+Bonk,Bonk,Боньк,False
+Copium,Copium,Копиум,False
+Crowbar 1,Crowbar 1,Лом 1,False
+Crowbar 2,Crowbar 2,Лом 2,False
+Crowbar 3,Crowbar 3,Лом 3,False
+Cry 1,Cry 1,Плач 1,False
+Cry 2,Cry 2,Плач 2,False
+Cry 3,Cry 3,Плач 3,False
+Dead,Dead,Умер,False
+Dizzy,Dizzy,Вскружило голову,False
+Drink (Beverage Cup),Drink (Beverage Cup),Пить (Стаканчик с напитком),False
+Drive,Drive,Водить машину,False
+Drooling (Chopstick),Drooling (Chopstick),Слюни (Палочки для еды),False
+Drooling (Fork&Knife),Drooling (Fork&Knife),Слюни (Вилка и нож),False
+Dum 1,Dum 1,Глупик 1,False
+Dum 2,Dum 2,Глупик 2,False
+Dum 3,Dum 3,Глупик 3,False
+Dum Sticker 1,Dum Sticker 1,Глупик со стикером 1,False
+Dum Sticker 2,Dum Sticker 2,Глупик со стикером 2,False
+Dum Sticker 3,Dum Sticker 3,Глупик со стикером 3,False
+Exclamation,Exclamation,"Удивление ""!!""",False
+Jail 1,Jail 1,Тюрьма 1,False
+Jail 2,Jail 2,Тюрьма 2,False
+Knife 1,Knife 1,Нож 1,False
+Knife 2,Knife 2,Нож 2,False
+Laugh,Laugh,Смех,False
+Lick,Lick,Лизь языком,False
+Lightstick 1,Lightstick 1,Лайтстик 1,False
+Lightstick 2,Lightstick 2,Лайтстик 2,False
+Lurk 1,Lurk 1,Подглядывать 1,False
+Lurk 2,Lurk 2,Подглядывать 2,False
+Luv 1,Luv 1,Любовь 1,False
+Luv 2,Luv 2,Любовь 2,False
+Luv 3,Luv 3,Любовь 3,False
+Money,Money,Деньги,False
+Mute 1,Mute 1,Беззвучный 1,False
+Mute 2,Mute 2,Беззвучный 2,False
+Nervous 1,Nervous 1,Нервный 1,False
+Nervous 2,Nervous 2,Нервный 2,False
+Noted 1,Noted 1,Записано 1,False
+Noted 2,Noted 2,Записано 2,False
+Pat,Pat,Гладь по голове,False
+Point,Point,Обвинение,False
+Question,Question,Возник вопрос,False
+Raid 1,Raid 1,Рейд 1,False
+Raid 2,Raid 2,Рейд 2,False
+RedPacket 1,RedPacket 1,Конверт 1,False
+RedPacket 2,RedPacket 2,Конверт 2,False
+Rose,Rose,Роза,False
+Score (0 Point),Score (0 Point),Оценка (0 очков),False
+Score (10 Point),Score (10 Point),Оценка (10 баллов),False
+Shy 1,Shy 1,Смущение 1,False
+Shy 2,Shy 2,Смущение 2,False
+Sleep (Normal),Sleep (Normal),Сон (нормальный),False
+Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Сон (подготовка ко сну 1),False
+Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Сон (подготовка ко сну 2),False
+Sleep (UU),Sleep (UU),Сон (UwU),False
+Sparkling,Sparkling,Восхищение,False
+Surprise,Surprise,Сюрприз,False
+Sweat,Sweat,Потливость,False
+Thumb Down,Thumb Down,Большой палец вниз,False
+Thumb Up,Thumb Up,Большой палец вверх,False
+Type Angry,Type Angry,Злое печатание,False
+Type Annoyed,Type Annoyed,Раздраженное печатание,False
+Type Normal,Type Normal,Печатание нормальное,False
+Work Angry,Work Angry,Злой на работе,False
+Work Nap,Work Nap,Уснул на работе,False
+Work Normal,Work Normal,Работает обычно,False
+Work Tired,Work Tired,Усталость от работы,False
+Bell,Bell,Колокольчик,False
+Cake,Cake,Торт,False
+Caught in 4K (Phone),Caught in 4K (Phone),Снимает в 4K (телефон),False
+Caught in 4K (Video Camera),Caught in 4K (Video Camera),Снимает в 4K (видеокамера),False
+Celebration,Celebration,Празднование,False
+Head Nod,Head Nod,Кивок головой,False
+Head Shake,Head Shake,Покачивание головой,False
+Hypnosis,Hypnosis,Гипноз,False
+Laugh (Point),Laugh (Point),Смех (Обвинение),False
+Love Letter,Love Letter,Любовное письмо,False
+Need Food,Need Food,Нуждаюсь в еде,False
+PNGTuber Idle,PNGTuber Idle,PNG-tuber в покое,False
+PNGTuber Idle 2,PNGTuber Idle 2,PNG-tuber в покое 2,False
+PNGTuber Talk,PNGTuber Talk,PNG-tuber говорит,False
+PNGTuber Talk 2,PNGTuber Talk 2,PNG-tuber говорит 2,False
+PNGTuber Yap,PNGTuber Yap,PNG-tuber тявканье,False
+Popcat Frame,Popcat Frame,Попкэт по кадрам,False
+Popcat Smooth,Popcat Smooth,Попкэт плавный,False
+Sing,Sing,Пение,False
+Tablet,Tablet,Графический планшет,False
+Tail Wag,Tail Wag,Виляние хвостом,False
