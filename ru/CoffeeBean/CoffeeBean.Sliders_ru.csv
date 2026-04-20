@@ -1,35 +1,35 @@
 Key,en,ru,reviewed
-Eyelash Length,Eyelash Length,Длина ресниц,False
-Brows Distance,Brows Distance,Расстояние между бровями,False
-Brows Height,Brows Height,Высота бровей,False
+Eyelash Length,Eyelash Length,Ресницы - Длина,False
+Brows Distance,Brows Distance,Брови - Расстояние,False
+Brows Height,Brows Height,Брови - Высота,False
 Ear Shape 1,Ear Shape 1,Форма ушей 1,False
 Ear Shape 2,Ear Shape 2,Форма ушей 2,False
 Hair Bang >< Length,Hair Bang >< Length,Челка >< Длина,False
-Hair Bang >< Shear,Hair Bang >< Shear,Челка >< Стрижка,False
+Hair Bang >< Shear,Hair Bang >< Shear,Челка >< Наклон,False
 Hair Bang >> Position,Hair Bang >> Position,Челка >> Позиция,False
 Hair Bang >> Length,Hair Bang >> Length,Челка >> Длина,False
-Hair Bang >> Shear,Hair Bang >> Shear,Челка >> Стрижка,False
+Hair Bang >> Shear,Hair Bang >> Shear,Челка >> Наклон,False
 Hair Bang << Position,Hair Bang << Position,Челка << Позиция,False
 Hair Bang << Length,Hair Bang << Length,Челка << Длина,False
-Hair Bang << Shear,Hair Bang << Shear,Челка << Стрижка,False
-Hair Framing << Length,Hair Framing << Length,Оформление волос << Длина,False
-Hair Framing >> Length,Hair Framing >> Length,Оформление волос >> Длина,False
-Hair Side Length,Hair Side Length,Длина волос по бокам,False
-Hair Rear Length,Hair Rear Length,Длина волос сзади,False
-Ahoge Position,Ahoge Position,Позиция Ахоге,False
-Ahoge Angle,Ahoge Angle,Угол Ахоге,False
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,Положение ушей и антенны животного,False
-Fin & Gill Position,Fin & Gill Position,Положение плавников и жабр,False
-Halo Position,Halo Position,Позиция ореола,False
-Hat Position,Hat Position,Позиция шляпы,False
+Hair Bang << Shear,Hair Bang << Shear,Челка << Наклон,False
+Hair Framing << Length,Hair Framing << Length,Пряди волос << Длина,False
+Hair Framing >> Length,Hair Framing >> Length,Пряди волос >> Длина,False
+Hair Side Length,Hair Side Length,Боковые волосы - Длина,False
+Hair Rear Length,Hair Rear Length,Задние волосы - Длина,False
+Ahoge Position,Ahoge Position,Ахоге - Положение,False
+Ahoge Angle,Ahoge Angle,Ахоге - Угол,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Звериные уши & Антенна - Положение,False
+Fin & Gill Position,Fin & Gill Position,Плавники & Жабры - Положение,False
+Halo Position,Halo Position,Нимб - Положение,False
+Hat Position,Hat Position,Шляпа - Положение,False
 Horn >> Length,Horn >> Length,Рог >> Длина,False
 Horn << Length,Horn << Length,Рог << Длина,False
 Horn >< Length,Horn >< Length,Рог >< Длина,False
-Horn Position,Horn Position,Положение рожка,False
-Ear Wing Position,Ear Wing Position,Положение крыльев уха,False
-Wing Size,Wing Size,Размер крыла,False
-Wing Position,Wing Position,Положение крыла,False
-Wing Angle,Wing Angle,Угол крыла,False
-Tail Size,Tail Size,Размер хвоста,False
-Tail Flip,Tail Flip,Переворот хвостом,False
-Tail Angle,Tail Angle,Угол хвоста,False
+Horn Position,Horn Position,Рог - Положение,False
+Ear Wing Position,Ear Wing Position,Крыло-ухо - Положение,False
+Wing Size,Wing Size,Крылья - Размер,False
+Wing Position,Wing Position,Крылья - Положение,False
+Wing Angle,Wing Angle,Крылья - Угол,False
+Tail Size,Tail Size,Хвост - Размер,False
+Tail Flip,Tail Flip,Хвост - Отразить,False
+Tail Angle,Tail Angle,Хвост - Угол,False

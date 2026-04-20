@@ -1,100 +1,100 @@
 Key,en,ru,reviewed
-Alert Bits,Alert Bits,Биты оповещений,False
-Alert Donation,Alert Donation,Оповещение о пожертвовании,False
-Alert Heart,Alert Heart,Бдительное сердце,False
-Alert Like,Alert Like,Оповещение лайком,False
-Alert Star,Alert Star,Тревога Звезда,False
+Alert Bits,Alert Bits,"Уведомление ""Twitch Bits""",False
+Alert Donation,Alert Donation,"Уведомление ""Донат""",False
+Alert Heart,Alert Heart,"Уведомление ""Сердце""",False
+Alert Like,Alert Like,"Уведомление ""Нравится""",False
+Alert Star,Alert Star,"Уведомление ""Звезда""",False
 Angry,Angry,Злой,False
-Arrive,Arrive,Приезжать,False
-Arrive (with Chopstick),Arrive (with Chopstick),Прибытие (с палочками для еды),False
-Arrive (with Spoon),Arrive (with Spoon),Прибытие (с ложкой),False
-Bonk,Bonk,Бонк,False
+Arrive,Arrive,Подбежать,False
+Arrive (with Chopstick),Arrive (with Chopstick),Подбежать (с палочками для еды),False
+Arrive (with Spoon),Arrive (with Spoon),Подбежать (с ложкой),False
+Bonk,Bonk,Боньк,False
 Copium,Copium,Копиум,False
 Crowbar 1,Crowbar 1,Лом 1,False
 Crowbar 2,Crowbar 2,Лом 2,False
 Crowbar 3,Crowbar 3,Лом 3,False
-Cry 1,Cry 1,Плачь 1,False
-Cry 2,Cry 2,Плачь 2,False
-Cry 3,Cry 3,Плачь 3,False
-Dead,Dead,Мертвый,False
-Dizzy,Dizzy,Испытывающий головокружение,False
-Drink (Beverage Cup),Drink (Beverage Cup),Напиток (Чашка для напитков),False
+Cry 1,Cry 1,Плач 1,False
+Cry 2,Cry 2,Плач 2,False
+Cry 3,Cry 3,Плач 3,False
+Dead,Dead,Умер,False
+Dizzy,Dizzy,Вскружило голову,False
+Drink (Beverage Cup),Drink (Beverage Cup),Пить (Стаканчик с напитком),False
 Drive,Drive,Водить машину,False
 Drooling (Chopstick),Drooling (Chopstick),Слюни (Палочки для еды),False
-Drooling (Fork&Knife),Drooling (Fork&Knife),Слюни (вилка и нож),False
-Dum 1,Dum 1,Дум 1,False
-Dum 2,Dum 2,Дум 2,False
-Dum 3,Dum 3,Дум 3,False
-Dum Sticker 1,Dum Sticker 1,Дум стикер 1,False
-Dum Sticker 2,Dum Sticker 2,Дум стикер 2,False
-Dum Sticker 3,Dum Sticker 3,Дум Стикер 3,False
-Exclamation,Exclamation,восклицательный знак,False
+Drooling (Fork&Knife),Drooling (Fork&Knife),Слюни (Вилка и нож),False
+Dum 1,Dum 1,Глупик 1,False
+Dum 2,Dum 2,Глупик 2,False
+Dum 3,Dum 3,Глупик 3,False
+Dum Sticker 1,Dum Sticker 1,Глупик со стикером 1,False
+Dum Sticker 2,Dum Sticker 2,Глупик со стикером 2,False
+Dum Sticker 3,Dum Sticker 3,Глупик со стикером 3,False
+Exclamation,Exclamation,"Удивление ""!!""",False
 Jail 1,Jail 1,Тюрьма 1,False
 Jail 2,Jail 2,Тюрьма 2,False
 Knife 1,Knife 1,Нож 1,False
 Knife 2,Knife 2,Нож 2,False
 Laugh,Laugh,Смех,False
-Lick,Lick,Лизать,False
+Lick,Lick,Лизь языком,False
 Lightstick 1,Lightstick 1,Лайтстик 1,False
 Lightstick 2,Lightstick 2,Лайтстик 2,False
-Lurk 1,Lurk 1,Скрываться 1,False
-Lurk 2,Lurk 2,Скрываться 2,False
-Luv 1,Luv 1,любовь 1,False
-Luv 2,Luv 2,любовь 2,False
-Luv 3,Luv 3,любовь 3,False
+Lurk 1,Lurk 1,Подглядывать 1,False
+Lurk 2,Lurk 2,Подглядывать 2,False
+Luv 1,Luv 1,Любовь 1,False
+Luv 2,Luv 2,Любовь 2,False
+Luv 3,Luv 3,Любовь 3,False
 Money,Money,Деньги,False
-Mute 1,Mute 1,Отключить звук 1,False
-Mute 2,Mute 2,Без звука 2,False
+Mute 1,Mute 1,Беззвучный 1,False
+Mute 2,Mute 2,Беззвучный 2,False
 Nervous 1,Nervous 1,Нервный 1,False
 Nervous 2,Nervous 2,Нервный 2,False
-Noted 1,Noted 1,Отмечено 1,False
-Noted 2,Noted 2,Отмечено 2,False
-Pat,Pat,Пэт,False
-Point,Point,Точка,False
-Question,Question,Вопрос,False
+Noted 1,Noted 1,Записано 1,False
+Noted 2,Noted 2,Записано 2,False
+Pat,Pat,Гладь по голове,False
+Point,Point,Обвинение,False
+Question,Question,Возник вопрос,False
 Raid 1,Raid 1,Рейд 1,False
 Raid 2,Raid 2,Рейд 2,False
-RedPacket 1,RedPacket 1,РедПакет 1,False
-RedPacket 2,RedPacket 2,РедПакет 2,False
+RedPacket 1,RedPacket 1,Конверт 1,False
+RedPacket 2,RedPacket 2,Конверт 2,False
 Rose,Rose,Роза,False
 Score (0 Point),Score (0 Point),Оценка (0 очков),False
 Score (10 Point),Score (10 Point),Оценка (10 баллов),False
-Shy 1,Shy 1,Застенчивый 1,False
-Shy 2,Shy 2,Застенчивый 2,False
+Shy 1,Shy 1,Смущение 1,False
+Shy 2,Shy 2,Смущение 2,False
 Sleep (Normal),Sleep (Normal),Сон (нормальный),False
-Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Сон (подготовительный этап 1),False
-Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Сон (подготовительный этап 2),False
-Sleep (UU),Sleep (UU),Сон (УУ),False
-Sparkling,Sparkling,Игристый,False
+Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Сон (подготовка ко сну 1),False
+Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Сон (подготовка ко сну 2),False
+Sleep (UU),Sleep (UU),Сон (UwU),False
+Sparkling,Sparkling,Восхищение,False
 Surprise,Surprise,Сюрприз,False
-Sweat,Sweat,Пот,False
+Sweat,Sweat,Потливость,False
 Thumb Down,Thumb Down,Большой палец вниз,False
 Thumb Up,Thumb Up,Большой палец вверх,False
-Type Angry,Type Angry,Тип Злой,False
-Type Annoyed,Type Annoyed,Тип Раздраженный,False
-Type Normal,Type Normal,Тип Нормальный,False
-Work Angry,Work Angry,Работа Злой,False
-Work Nap,Work Nap,Рабочий сон,False
-Work Normal,Work Normal,Работает нормально,False
+Type Angry,Type Angry,Злое печатание,False
+Type Annoyed,Type Annoyed,Раздраженное печатание,False
+Type Normal,Type Normal,Печатание нормальное,False
+Work Angry,Work Angry,Злой на работе,False
+Work Nap,Work Nap,Уснул на работе,False
+Work Normal,Work Normal,Работает обычно,False
 Work Tired,Work Tired,Усталость от работы,False
-Bell,Bell,Белл,False
+Bell,Bell,Колокольчик,False
 Cake,Cake,Торт,False
-Caught in 4K (Phone),Caught in 4K (Phone),Снято в 4K (телефон),False
-Caught in 4K (Video Camera),Caught in 4K (Video Camera),Снято в 4K (видеокамера),False
-Celebration,Celebration,Праздник,False
-Head Nod,Head Nod,кивок головой,False
-Head Shake,Head Shake,покачивание головой,False
+Caught in 4K (Phone),Caught in 4K (Phone),Снимает в 4K (телефон),False
+Caught in 4K (Video Camera),Caught in 4K (Video Camera),Снимает в 4K (видеокамера),False
+Celebration,Celebration,Празднование,False
+Head Nod,Head Nod,Кивок головой,False
+Head Shake,Head Shake,Покачивание головой,False
 Hypnosis,Hypnosis,Гипноз,False
-Laugh (Point),Laugh (Point),Смейся (Точка),False
+Laugh (Point),Laugh (Point),Смех (Обвинение),False
 Love Letter,Love Letter,Любовное письмо,False
-Need Food,Need Food,Нужна еда,False
-PNGTuber Idle,PNGTuber Idle,PNGТубер бездействующий,False
-PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Idle 2,False
-PNGTuber Talk,PNGTuber Talk,PNGTuber Talk,False
-PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber Talk 2,False
-PNGTuber Yap,PNGTuber Yap,PNGТубер Яп,False
-Popcat Frame,Popcat Frame,Попкэт Рамка,False
-Popcat Smooth,Popcat Smooth,Попкэт Гладкий,False
-Sing,Sing,Петь,False
-Tablet,Tablet,Таблетка,False
+Need Food,Need Food,Нуждаюсь в еде,False
+PNGTuber Idle,PNGTuber Idle,PNG-tuber в покое,False
+PNGTuber Idle 2,PNGTuber Idle 2,PNG-tuber в покое 2,False
+PNGTuber Talk,PNGTuber Talk,PNG-tuber говорит,False
+PNGTuber Talk 2,PNGTuber Talk 2,PNG-tuber говорит 2,False
+PNGTuber Yap,PNGTuber Yap,PNG-tuber тявканье,False
+Popcat Frame,Popcat Frame,Попкэт по кадрам,False
+Popcat Smooth,Popcat Smooth,Попкэт плавный,False
+Sing,Sing,Пение,False
+Tablet,Tablet,Графический планшет,False
 Tail Wag,Tail Wag,Виляние хвостом,False

@@ -1,218 +1,218 @@
 Key,en,ru,reviewed
 Hair Ahoge,Hair Ahoge,Волосы Ахоге,False
-Hair Ahoge Outline,Hair Ahoge Outline,Наброски волос Ахоге,False
-Animal Ear >>,Animal Ear >>,Ухо животного >>,False
-Animal Ear >> Fur,Animal Ear >> Fur,Уши животных >> Мех,False
-Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,Ухо животного >> Контур меха,False
-Animal Ear >> Outline,Animal Ear >> Outline,Ухо животного >> Схема,False
-Animal Ear <<,Animal Ear <<,Ухо животного <<,False
-Animal Ear << Fur,Animal Ear << Fur,Ухо животного << Мех,False
-Animal Ear << Fur Outline,Animal Ear << Fur Outline,Ухо животного << Контур меха,False
-Animal Ear << Outline,Animal Ear << Outline,Ухо животного << Схема,False
+Hair Ahoge Outline,Hair Ahoge Outline,Волосы Ахоге Контур,False
+Animal Ear >>,Animal Ear >>,Звериные уши >>,False
+Animal Ear >> Fur,Animal Ear >> Fur,Звериные уши (Мех) >>,False
+Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,Звериные уши (Мех) >> Контур,False
+Animal Ear >> Outline,Animal Ear >> Outline,Звериные уши >> Контур,False
+Animal Ear <<,Animal Ear <<,Звериные уши <<,False
+Animal Ear << Fur,Animal Ear << Fur,Звериные уши (Мех) <<,False
+Animal Ear << Fur Outline,Animal Ear << Fur Outline,Звериные уши (Мех) << Контур,False
+Animal Ear << Outline,Animal Ear << Outline,Звериные уши << Контур,False
 Antenna >>,Antenna >>,Антенна >>,False
-Antenna >> Outline,Antenna >> Outline,Антенна >> Схема,False
+Antenna >> Outline,Antenna >> Outline,Антенна >> Контур,False
 Antenna <<,Antenna <<,Антенна <<,False
-Antenna << Outline,Antenna << Outline,Антенна << Схема,False
-Hair Rear,Hair Rear,Волосы сзади,False
-Hair Rear Outline,Hair Rear Outline,Контур волос сзади,False
-Beverage Cup,Beverage Cup,Кубок для напитков,False
-Beverage Liquid,Beverage Liquid,жидкость для напитков,False
-Beverage Liquid 2,Beverage Liquid 2,Жидкость для напитков 2,False
-Bill,Bill,Счет,False
-Blanket Inner,Blanket Inner,Одеяло внутреннее,False
-Blanket Outter,Blanket Outter,Одеяло наружное,False
-Face Blush,Face Blush,Румяна для лица,False
-Brow >>,Brow >>,Брови >>,False
-Brow <<,Brow <<,Брови <<,False
+Antenna << Outline,Antenna << Outline,Антенна << Контур,False
+Hair Rear,Hair Rear,Задние волосы,False
+Hair Rear Outline,Hair Rear Outline,Задние волосы - Контур,False
+Beverage Cup,Beverage Cup,Стаканчик,False
+Beverage Liquid,Beverage Liquid,Жидкость в стаканчике,False
+Beverage Liquid 2,Beverage Liquid 2,Жидкость в стаканчике 2,False
+Bill,Bill,Деньги,False
+Blanket Inner,Blanket Inner,Одеяло ,False
+Blanket Outter,Blanket Outter,Плед поверх одеяла,False
+Face Blush,Face Blush,Румянец,False
+Brow >>,Brow >>,Бровь >>,False
+Brow <<,Brow <<,Бровь <<,False
 Chopstick,Chopstick,Палочки для еды,False
-Crowbar,Crowbar,лом,False
+Crowbar,Crowbar,Лом,False
 Cup,Cup,Чашка,False
-Cup Steam,Cup Steam,Кубок Паровой,False
+Cup Steam,Cup Steam,Пар из чашки,False
 Door/Wall,Door/Wall,Дверь/Стена,False
-Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,Глаз(Дум) Зрачок >>,False
-Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Глаз (Дум) Зрачок <<,False
-Eyebag,Eyebag,Мешок для глаз,False
-Eye Iris Dark >>,Eye Iris Dark >>,Глаза Ирис Темные >>,False
-Eye Iris Dark <<,Eye Iris Dark <<,Глаза Радужная оболочка Темные <<,False
-Eye Dollar,Eye Dollar,Глаз доллара,False
+Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,Глаз(Глупик) Зрачок >>,False
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Глаз (Глупик) Зрачок <<,False
+Eyebag,Eyebag,Мешки под глазами,False
+Eye Iris Dark >>,Eye Iris Dark >>,Глаза Радужка Темная >>,False
+Eye Iris Dark <<,Eye Iris Dark <<,Глаза Радужка Темная <<,False
+Eye Dollar,Eye Dollar,Глаз Доллар,False
 Eye Heart,Eye Heart,Глаз Сердце,False
-Eye Highlight,Eye Highlight,Выделение глаз,False
+Eye Highlight,Eye Highlight,Глаз Блик,False
 Eyelashes,Eyelashes,Ресницы,False
-Eye Iris Light >>,Eye Iris Light >>,Глаза Ирис Светлый >>,False
-Eye Iris Light <<,Eye Iris Light <<,Глаза Ирис Светлый <<,False
-Eye(Dum) Outline,Eye(Dum) Outline,Контур глаза (дум),False
+Eye Iris Light >>,Eye Iris Light >>,Глаза Радужка Светлая >>,False
+Eye Iris Light <<,Eye Iris Light <<,Глаза Радужка Светлая <<,False
+Eye(Dum) Outline,Eye(Dum) Outline,Контур глаза (Глупик),False
 Eye Sparkling,Eye Sparkling,Сверкающие глаза,False
-Eye Spiral,Eye Spiral,Глазная спираль,False
-Eye White,Eye White,Глаз Белый,False
-Face Shadow,Face Shadow,Тень для лица,False
-Fin >>,Fin >>,Фин >>,False
-Fin >> Outline,Fin >> Outline,Фин >> Схема,False
-Fin <<,Fin <<,Фин <<,False
-Fin << Outline,Fin << Outline,Плавник << Схема,False
-Hair Framing >>,Hair Framing >>,Оформление волос >>,False
-Hair Framing >> Outline,Hair Framing >> Outline,Оформление волос >> Схема,False
-Hair Framing <<,Hair Framing <<,Оформление волос <<,False
-Hair Framing << Outline,Hair Framing << Outline,Оформление волос << Схема,False
-Gill,Gill,Джилл,False
-Gill Outline,Gill Outline,Схема Джилла,False
+Eye Spiral,Eye Spiral,Глаз Спираль,False
+Eye White,Eye White,Глаз Белок,False
+Face Shadow,Face Shadow,Тень на лице,False
+Fin >>,Fin >>,Плавник >>,False
+Fin >> Outline,Fin >> Outline,Плавник >> Контур,False
+Fin <<,Fin <<,Плавник <<,False
+Fin << Outline,Fin << Outline,Плавник << Контур,False
+Hair Framing >>,Hair Framing >>,Прядь волос >>,False
+Hair Framing >> Outline,Hair Framing >> Outline,Прядь волос >> Контур,False
+Hair Framing <<,Hair Framing <<,Прядь волос <<,False
+Hair Framing << Outline,Hair Framing << Outline,Прядь волос << Контур,False
+Gill,Gill,Жабры,False
+Gill Outline,Gill Outline,Жабры Контур,False
 Glasses,Glasses,Очки,False
-Hairband A,Hairband A,Лента для волос А,False
-Hairband A Outline,Hairband A Outline,Лента для волос A Outline,False
-Hairband B,Hairband B,Лента для волос Б,False
-Hairband B Outline,Hairband B Outline,Лента для волос B. Контур,False
-Hairband C,Hairband C,Повязка для волос С,False
-Hairband C Outline,Hairband C Outline,Лента для волос C. Контур,False
-Hairband D,Hairband D,Ободок для волос D,False
-Hairband D Outline,Hairband D Outline,Повязка для волос D Outline,False
+Hairband A,Hairband A,Банты А,False
+Hairband A Outline,Hairband A Outline,Банты A Контур,False
+Hairband B,Hairband B,Повязки на голову Б,False
+Hairband B Outline,Hairband B Outline,Повязки на голову B Контур,False
+Hairband C,Hairband C,Ободок С,False
+Hairband C Outline,Hairband C Outline,Ободок C Контур,False
+Hairband D,Hairband D,Бант сзади D,False
+Hairband D Outline,Hairband D Outline,Бант сзади D Контур,False
 Hair Bang >>,Hair Bang >>,Челка >>,False
-Hair Bang >> Outline,Hair Bang >> Outline,Челка >> Схема,False
-Hair Bang ><,Hair Bang ><,Челка для волос ><,False
-Hair Bang >< Outline,Hair Bang >< Outline,Челка >< Схема,False
-Hair Bang <<,Hair Bang <<,Челка для волос <<,False
-Hair Bang << Outline,Hair Bang << Outline,Челка << Схема,False
-Hair Clip >>,Hair Clip >>,Заколка для волос >>,False
-Hair Clip >> Outline,Hair Clip >> Outline,Заколка для волос >> Схема,False
-Hair Clip <<,Hair Clip <<,Заколка для волос <<,False
-Hair Clip << Outline,Hair Clip << Outline,Заколка для волос << Схема,False
-Hair Highlight 1 >>,Hair Highlight 1 >>,Мелирование волос 1 >>,False
-Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Мелирование волос 1 >> Контур,False
-Hair Highlight 2 >>,Hair Highlight 2 >>,Мелирование волос 2 >>,False
-Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Мелирование волос 2 >> Контур,False
-Hair Highlight 3 >>,Hair Highlight 3 >>,Мелирование волос 3 >>,False
-Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Мелирование волос 3 >> Контур,False
-Hair Highlight 1 ><,Hair Highlight 1 ><,Мелирование волос 1 ><,False
-Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Мелирование волос 1 >< Схема,False
-Hair Highlight 2 ><,Hair Highlight 2 ><,Мелирование волос 2 ><,False
-Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Мелирование волос 2 >< Схема,False
-Hair Highlight 3 ><,Hair Highlight 3 ><,Мелирование волос 3 ><,False
-Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Мелирование волос 3 >< Схема,False
-Hair Highlight 4 ><,Hair Highlight 4 ><,Мелирование волос 4 ><,False
-Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Мелирование волос 4 >< Схема,False
-Hair Highlight 5 ><,Hair Highlight 5 ><,Мелирование волос 5 ><,False
-Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Мелирование волос 5 >< Схема,False
-Hair Highlight 6 ><,Hair Highlight 6 ><,Мелирование волос 6 ><,False
-Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Мелирование волос 6 >< Схема,False
-Hair Highlight 1 <<,Hair Highlight 1 <<,Мелирование волос 1 <<,False
-Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Мелирование волос 1 << Схема,False
-Hair Highlight 2 <<,Hair Highlight 2 <<,Мелирование волос 2 <<,False
-Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Мелирование волос 2 << Схема,False
-Hair Highlight 3 <<,Hair Highlight 3 <<,Мелирование волос 3 <<,False
-Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Мелирование волос 3 << Схема,False
-Hairline Outline,Hairline Outline,Контур линии роста волос,False
-Hair Shine,Hair Shine,Блеск Волос,False
-Hair Shine Outline,Hair Shine Outline,Контур блеска волос,False
-Halo,Halo,Гало,False
-Halo Outline,Halo Outline,Гало Контур,False
+Hair Bang >> Outline,Hair Bang >> Outline,Челка >> Контур,False
+Hair Bang ><,Hair Bang ><,Челка ><,False
+Hair Bang >< Outline,Hair Bang >< Outline,Челка >< Контур,False
+Hair Bang <<,Hair Bang <<,Челка <<,False
+Hair Bang << Outline,Hair Bang << Outline,Челка << Контур,False
+Hair Clip >>,Hair Clip >>,Заколка >>,False
+Hair Clip >> Outline,Hair Clip >> Outline,Заколка >> Контур,False
+Hair Clip <<,Hair Clip <<,Заколка  <<,False
+Hair Clip << Outline,Hair Clip << Outline,Заколка << Контур,False
+Hair Highlight 1 >>,Hair Highlight 1 >>,Торчащий волос 1 >>,False
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Торчащий волос 1 >> Контур,False
+Hair Highlight 2 >>,Hair Highlight 2 >>,Торчащий волос 2 >>,False
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Торчащий волос 2 >> Контур,False
+Hair Highlight 3 >>,Hair Highlight 3 >>,Торчащий волос 3 >>,False
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Торчащий волос 3 >> Контур,False
+Hair Highlight 1 ><,Hair Highlight 1 ><,Торчащий волос 1 ><,False
+Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Торчащий волос 1 >< Контур,False
+Hair Highlight 2 ><,Hair Highlight 2 ><,Торчащий волос 2 ><,False
+Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Торчащий волос 2 >< Контур,False
+Hair Highlight 3 ><,Hair Highlight 3 ><,Торчащий волос 3 ><,False
+Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Торчащий волос 3 >< Контур,False
+Hair Highlight 4 ><,Hair Highlight 4 ><,Торчащий волос 4 ><,False
+Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Торчащий волос 4 >< Контур,False
+Hair Highlight 5 ><,Hair Highlight 5 ><,Торчащий волос 5 ><,False
+Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Торчащий волос 5 >< Контур,False
+Hair Highlight 6 ><,Hair Highlight 6 ><,Торчащий волос 6 ><,False
+Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Торчащий волос 6 >< Контур,False
+Hair Highlight 1 <<,Hair Highlight 1 <<,Торчащий волос 1 <<,False
+Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Торчащий волос 1 << Контур,False
+Hair Highlight 2 <<,Hair Highlight 2 <<,Торчащий волос 2 <<,False
+Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Торчащий волос 2 << Контур,False
+Hair Highlight 3 <<,Hair Highlight 3 <<,Торчащий волос 3 <<,False
+Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Торчащий волос 3 << Контур,False
+Hairline Outline,Hairline Outline,Линия роста волос Контур,False
+Hair Shine,Hair Shine,Волосы Сияние,False
+Hair Shine Outline,Hair Shine Outline,Волосы Сияние Контур,False
+Halo,Halo,Нимб,False
+Halo Outline,Halo Outline,Нимб Контур,False
 Hat,Hat,Шляпа,False
-Hat Outline,Hat Outline,Контур шляпы,False
-Hat Secondary,Hat Secondary,Шляпа вторичная,False
-Hat Secondary Outline,Hat Secondary Outline,Вторичный контур шляпы,False
+Hat Outline,Hat Outline,Шляпа Контур,False
+Hat Secondary,Hat Secondary,Шляпа 2,False
+Hat Secondary Outline,Hat Secondary Outline,Шляпа 2 Контур,False
 Hammer,Hammer,Молоток,False
-Ear Wing >>,Ear Wing >>,Ухо Крыло >>,False
-Ear Wing >> Outline,Ear Wing >> Outline,Ухо Крыло >> Схема,False
-Ear Wing <<,Ear Wing <<,Ухо Крыло <<,False
-Ear Wing << Outline,Ear Wing << Outline,Ухо-крыло << Контур,False
+Ear Wing >>,Ear Wing >>,Крыло-ухо >>,False
+Ear Wing >> Outline,Ear Wing >> Outline,Крыло-ухо >> Контур,False
+Ear Wing <<,Ear Wing <<,Крыло-ухо <<,False
+Ear Wing << Outline,Ear Wing << Outline,Крыло-ухо << Контур,False
 Heart,Heart,Сердце,False
 Horn >>,Horn >>,Рог >>,False
-Horn >> Outline,Horn >> Outline,Рог >> Схема,False
+Horn >> Outline,Horn >> Outline,Рог >> Контур,False
 Horn <<,Horn <<,Рог <<,False
-Horn << Outline,Horn << Outline,Рог << Схема,False
+Horn << Outline,Horn << Outline,Рог << Контур,False
 Horn ><,Horn ><,Рог ><,False
-Horn >< Outline,Horn >< Outline,Рог >< Схема,False
-Jail Grill,Jail Grill,Тюремный гриль,False
+Horn >< Outline,Horn >< Outline,Рог >< Контур,False
+Jail Grill,Jail Grill,Тюремный решетка,False
 Keyboard,Keyboard,Клавиатура,False
 Kitchen Knife,Kitchen Knife,Кухонный нож,False
 Laptop,Laptop,Ноутбук,False
-Laptop Light,Laptop Light,Свет для ноутбука,False
+Laptop Light,Laptop Light,Ноутбук Свечение,False
 Leg >>,Leg >>,Нога >>,False
 Leg <<,Leg <<,Нога <<,False
-Lightstick Handle,Lightstick Handle,Ручка светового стика,False
-Light Stick >>,Light Stick >>,Световая палочка >>,False
-Light Stick <<,Light Stick <<,Световая палка <<,False
+Lightstick Handle,Lightstick Handle,Рукоять Лайтстик,False
+Light Stick >>,Light Stick >>,Лайтстик >>,False
+Light Stick <<,Light Stick <<,Лайтстик <<,False
 Mecha,Mecha,Меха,False
 Mecha >>,Mecha >>,Меха >>,False
-Mecha >> Outline,Mecha >> Outline,Меха >> Схема,False
-Mecha Outline,Mecha Outline,Механический контур,False
+Mecha >> Outline,Mecha >> Outline,Меха >> Контур,False
+Mecha Outline,Mecha Outline,Меха Контур,False
 Mecha <<,Mecha <<,Меха <<,False
-Mecha << Outline,Mecha << Outline,Меха << Схема,False
+Mecha << Outline,Mecha << Outline,Меха << Контур,False
 Mouse,Mouse,Мышь,False
 Mouth/Tongue,Mouth/Tongue,Рот/Язык,False
-Mouth/Tongue Shadow,Mouth/Tongue Shadow,Тень рта/языка,False
+Mouth/Tongue Shadow,Mouth/Tongue Shadow,Рот/Язык Тень,False
 Notepad,Notepad,Блокнот,False
-Outfit Collar,Outfit Collar,Воротник наряда,False
-Outfit Collar Outline,Outfit Collar Outline,Схема воротника наряда,False
-Outfit Inner,Outfit Inner,Внутренний наряд,False
-Outfit Inner Outline,Outfit Inner Outline,Внутренний контур наряда,False
-Outfit Neckwear A,Outfit Neckwear A,Наряд Галстук А,False
-Outfit Neckwear A Outline,Outfit Neckwear A Outline,"Наряд, галстук, контур",False
-Outfit Neckwear B,Outfit Neckwear B,Наряд Галстук Б,False
-Outfit Neckwear B Outline,Outfit Neckwear B Outline,"Наряд, галстук, B, контур",False
-Outfit Neckwear C,Outfit Neckwear C,Наряд Галстук C,False
-Outfit Neckwear C Outline,Outfit Neckwear C Outline,Наряд Галстук C Контур,False
-Outfit Outer,Outfit Outer,Наряд Внешний,False
-Outfit Outer Outline,Outfit Outer Outline,Внешний контур наряда,False
+Outfit Collar,Outfit Collar,Воротник,False
+Outfit Collar Outline,Outfit Collar Outline,Воротник Контур,False
+Outfit Inner,Outfit Inner,Плечевая одежда,False
+Outfit Inner Outline,Outfit Inner Outline,Плечевая одежда Контур,False
+Outfit Neckwear A,Outfit Neckwear A, Галстук А,False
+Outfit Neckwear A Outline,Outfit Neckwear A Outline,Галстук A Контур,False
+Outfit Neckwear B,Outfit Neckwear B,Галстук B,False
+Outfit Neckwear B Outline,Outfit Neckwear B Outline,Галстук B Контур,False
+Outfit Neckwear C,Outfit Neckwear C,Галстук С,False
+Outfit Neckwear C Outline,Outfit Neckwear C Outline,Галстук С Контур,False
+Outfit Outer,Outfit Outer,Верхняя одежда,False
+Outfit Outer Outline,Outfit Outer Outline,Верхняя одежда Контур,False
 Pencil,Pencil,Карандаш,False
 Phone,Phone,Телефон,False
 Phone Light,Phone Light,Телефон Свет,False
-Hair Pigtail >>,Hair Pigtail >>,Косичка для волос >>,False
-Hair Pigtail >> Outline,Hair Pigtail >> Outline,Косичка для волос >> Схема,False
-Hair Pigtail <<,Hair Pigtail <<,Косичка для волос <<,False
-Hair Pigtail << Outline,Hair Pigtail << Outline,Косичка для волос << Схема,False
+Hair Pigtail >>,Hair Pigtail >>,Волосы Хвостик >>,False
+Hair Pigtail >> Outline,Hair Pigtail >> Outline,Волосы Хвостик>> Контур,False
+Hair Pigtail <<,Hair Pigtail <<,Волосы Хвостик <<,False
+Hair Pigtail << Outline,Hair Pigtail << Outline,Волосы Хвостик<< Контур,False
 Rose,Rose,Роза,False
 Round Sign,Round Sign,Круглый знак,False
-Round Sign Text,Round Sign Text,Текст круглого знака,False
-Hair Side,Hair Side,Сторона волос,False
-Hair Side Outline,Hair Side Outline,Контур волос сбоку,False
+Round Sign Text,Round Sign Text,Круглый знак Текст,False
+Hair Side,Hair Side,Боковые волосы,False
+Hair Side Outline,Hair Side Outline,Боковые волосы Контур,False
 Skin,Skin,Кожа,False
-Skin Outline,Skin Outline,Контур кожи,False
+Skin Outline,Skin Outline,Кожа Контур,False
 Square Sign,Square Sign,Квадратный знак,False
-Square Sign Text,Square Sign Text,Текст квадратного знака,False
+Square Sign Text,Square Sign Text,Квадратный знак Текст,False
 Steering Wheel,Steering Wheel,Руль,False
 Gas Bottle,Gas Bottle,Газовый баллон,False
-Pat Hand,Pat Hand,Пэт Хэнд,False
-Sticker Alert,Sticker Alert,Наклейка Оповещение,False
-Sticker Alert Effect,Sticker Alert Effect,Эффект оповещения стикера,False
-Sticker Alert Outline,Sticker Alert Outline,Схема оповещения о наклейках,False
-Sticker Angry,Sticker Angry,Наклейка Злой,False
-Sticker Exclamation Mark,Sticker Exclamation Mark,Наклейка с восклицательным знаком,False
-Sticker Ghost,Sticker Ghost,Наклейка Призрак,False
-Sticker Heart,Sticker Heart,Наклейка Сердце,False
-Sticker Laugh,Sticker Laugh,Наклейка «Смех»,False
-Sticker Question Mark,Sticker Question Mark,Наклейка с вопросительным знаком,False
-Sticker Sleep,Sticker Sleep,Наклейка Сон,False
-Sticker Star,Sticker Star,Наклейка Звезда,False
-Sticker Steam,Sticker Steam,Наклейка Steam,False
-Sticker Surprise,Sticker Surprise,Наклейка-сюрприз,False
-Sticker Sweat,Sticker Sweat,Наклейка Пот,False
-Sticker Sweat (Large),Sticker Sweat (Large),Наклейка Пот (большая),False
-Sticker Volume,Sticker Volume,Объем наклейки,False
-Sticky Note,Sticky Note,Заметка,False
-Sticky Note Text,Sticky Note Text,Текст заметки,False
-Eye Tear,Eye Tear,Глазная слеза,False
-Utensil,Utensil,Посуда,False
-Outfit Collar String,Outfit Collar String,Строка для воротника наряда,False
-Bell,Bell,Белл,False
+Pat Hand,Pat Hand,Гладящая рука,False
+Sticker Alert,Sticker Alert,Стикер Оповещение,False
+Sticker Alert Effect,Sticker Alert Effect,Стикер Уведомление Эффект,False
+Sticker Alert Outline,Sticker Alert Outline,Стикер Уведомление Контур,False
+Sticker Angry,Sticker Angry,Стикер Злой,False
+Sticker Exclamation Mark,Sticker Exclamation Mark,Стикер Восклицательный знак,False
+Sticker Ghost,Sticker Ghost,Стикер Призрак,False
+Sticker Heart,Sticker Heart,Стикер Сердце,False
+Sticker Laugh,Sticker Laugh,Стикер Смех,False
+Sticker Question Mark,Sticker Question Mark,Стикер Вопросительный знак,False
+Sticker Sleep,Sticker Sleep,Стикер Сон,False
+Sticker Star,Sticker Star,Стикер Звезда,False
+Sticker Steam,Sticker Steam,Стикер Пар,False
+Sticker Surprise,Sticker Surprise,Стикер Сюрприз,False
+Sticker Sweat,Sticker Sweat,Стикер Пот,False
+Sticker Sweat (Large),Sticker Sweat (Large),Стикер Пот (Большой),False
+Sticker Volume,Sticker Volume,Стикер Громкость,False
+Sticky Note,Sticky Note,Стикер для заметок,False
+Sticky Note Text,Sticky Note Text,Стикер заметок Текст,False
+Eye Tear,Eye Tear,Глаз слеза,False
+Utensil,Utensil,Столовые приборы,False
+Outfit Collar String,Outfit Collar String,Воротник Шнурок,False
+Bell,Bell,Колокольчик,False
 Confetti 1,Confetti 1,Конфетти 1,False
 Confetti 2,Confetti 2,Конфетти 2,False
 Confetti 3,Confetti 3,Конфетти 3,False
 Microphone,Microphone,Микрофон,False
-Gleam,Gleam,Блеск,False
+Gleam,Gleam,Отблеск,False
 Video Camera,Video Camera,Видеокамера,False
-Point Hand,Point Hand,Точка руки,False
+Point Hand,Point Hand,Указывающая рука,False
 Bowl,Bowl,Чаша,False
 Cake,Cake,Торт,False
-Candle Fire,Candle Fire,Свеча Огонь,False
+Candle Fire,Candle Fire,Горящая свеча,False
 Drawing Tablet,Drawing Tablet,Планшет для рисования,False
 Love Letter,Love Letter,Любовное письмо,False
 Popper,Popper,Поппер,False
 Stylus,Stylus,Стилус,False
-Tablet,Tablet,Таблетка,False
+Tablet,Tablet,Графический планшет,False
 Musical Note 1,Musical Note 1,Музыкальная нота 1,False
 Musical Note 2,Musical Note 2,Музыкальная нота 2,False
 Phone Screen,Phone Screen,Экран телефона,False
 Tail,Tail,Хвост,False
-Tail Outline,Tail Outline,Контур хвоста,False
-Wing >>,Wing >>,Крыло >>,False
-Wing >> Outline,Wing >> Outline,Крыло >> Схема,False
-Wing <<,Wing <<,Крыло <<,False
-Wing << Outline,Wing << Outline,Крыло << Схема,False
+Tail Outline,Tail Outline,Хвост Контур,False
+Wing >>,Wing >>,Крылья >>,False
+Wing >> Outline,Wing >> Outline,Крылья >> Контур,False
+Wing <<,Wing <<,Крылья <<,False
+Wing << Outline,Wing << Outline,Крылья << Контур,False
