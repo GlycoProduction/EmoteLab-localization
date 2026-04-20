@@ -14,8 +14,8 @@ Hair Bang << Length,Hair Bang << Length,Pony << Länge,True
 Hair Bang << Shear,Hair Bang << Shear,Pony << Neigung,True
 Hair Framing << Length,Hair Framing << Length,Seitensträhnen << Länge,True
 Hair Framing >> Length,Hair Framing >> Length,Seitensträhnen >> Länge,True
-Hair Side Length,Hair Side Length,Haarseiten Länge,True
-Hair Rear Length,Hair Rear Length,Haar Länge hinten,True
+Hair Side Length,Hair Side Length,Haar Seiten Länge,True
+Hair Rear Length,Hair Rear Length,Haar Länge Hinten,True
 Ahoge Position,Ahoge Position,Ahoge Position,True
 Ahoge Angle,Ahoge Angle,Ahoge Winkel,True
 Animal Ear & Antenna Position,Animal Ear & Antenna Position,Tierohr- & Antennenposition,True
@@ -27,9 +27,9 @@ Horn << Length,Horn << Length,Horn << Länge,True
 Horn >< Length,Horn >< Length,Horn >< Länge,True
 Horn Position,Horn Position,Horn Position,True
 Ear Wing Position,Ear Wing Position,Ohrflügel Position,True
-Wing Size,Wing Size,Flügelgröße,False
-Wing Position,Wing Position,Flügelposition,False
-Wing Angle,Wing Angle,Flügelwinkel,False
-Tail Size,Tail Size,Schwanzgröße,False
-Tail Flip,Tail Flip,Tail Flip,False
-Tail Angle,Tail Angle,Heckwinkel,False
+Wing Size,Wing Size,Flügel Größe,True
+Wing Position,Wing Position,Flügel Position,True
+Wing Angle,Wing Angle,Flügel Winkel,True
+Tail Size,Tail Size,Schwanz Größe,True
+Tail Flip,Tail Flip,Schwanz Spiegeln,True
+Tail Angle,Tail Angle,Schwanz Winkel,True

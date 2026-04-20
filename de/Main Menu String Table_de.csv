@@ -33,15 +33,15 @@ MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Aktuelles Modell entlade
 MainMenu.Settings.GeneralSettings,General Settings,Allgemeine Einstellungen,True
 MainMenu.Settings.GeneralSettings.Language,Language,Sprache,True
 MainMenu.Settings.ViewportSettings,Viewport Settings,Vorschau-Einstellungen,True
-MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Zoomgeschwindigkeit,True
-MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Rotationsgeschwindigkeit,True
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Zoomgeschw.,True
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Rotationsgeschw.,True
 MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Modellmaßstab,True
 MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Horizontaler Versatz,True
 MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Vertikaler Versatz,True
 MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Vorschau-Einstellungen zurücksetzen,True
 MainMenu.Settings.ExportSettings,Animation Export Settings,Animationsexport-Einstellungen,True
 MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Speicherort,True
-MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Export-Voreinstellungen,True
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Voreinstellungen,True
 MainMenu.Settings.ExportSettings.Encoder,Encoder,Encoder,True
 MainMenu.Settings.ExportSettings.Width,Width,Breite,True
 MainMenu.Settings.ExportSettings.Height,Height,Höhe,True
@@ -53,7 +53,7 @@ MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Dithering akti
 MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Exporteinstellungen zurücksetzen,True
 MainMenu.Editor.Export,Export Emote,Emote exportieren,True
 LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,Lizenz vom Modellersteller bereitgestellt. Wird nur als Referenz angezeigt und gibt nicht die Ansichten oder Rechtsposition des EmoteLab-Entwicklers wieder.,True
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Lizenz nicht gefunden. Bestätige die erlaubte Nutzung mit dem Ersteller.,True
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",Lizenz nicht gefunden. Bestätige die erlaubte Nutzung mit dem Ersteller.,False
 LicensePopup.Close,Close,Schließen,True
 MainMenu.Editor.OpenExportFolder,Open Export Folder,Exportordner öffnen,True
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Beispiel-Charaktere für integrierte Modelle laden,True
@@ -92,4 +92,4 @@ MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Auswahl umschalten,True
 MainMenu.Editor.Texture.AtlasList,Atlas List,Atlas-Liste,True
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Dadurch werden die ausgewählten Atlasseiten auf die integrierten Versionen zurückgesetzt. Alle nicht gespeicherten Änderungen gehen verloren und können nicht wiederhergestellt werden. Weitermachen?,True
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Palettenalgorithmus,True
-MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Dadurch werden die ausgewählten Texturdateien überschrieben und können nicht rückgängig gemacht werden. Weitermachen?,False
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Dadurch werden die ausgewählten Texturdateien überschrieben und können nicht rückgängig gemacht werden. Fortfahren?,True

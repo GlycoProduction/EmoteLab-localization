@@ -1,100 +1,100 @@
 Key,en,zh-Hant,reviewed
-Alert Bits,Alert Bits,通知/提示 Bits,False
-Alert Donation,Alert Donation,通知/提示 硬幣,False
-Alert Heart,Alert Heart,通知/提示 愛心/喜歡,False
-Alert Like,Alert Like,通知/提示 點贊,False
-Alert Star,Alert Star,通知/提示 星星/收藏,False
-Angry,Angry,生氣,False
-Arrive,Arrive,到達,False
-Arrive (with Chopstick),Arrive (with Chopstick),到達(拿筷子),False
-Arrive (with Spoon),Arrive (with Spoon),到達(拿勺子),False
-Bonk,Bonk,敲頭,False
-Copium,Copium,自我安慰,False
-Crowbar 1,Crowbar 1,撬棍 1,False
-Crowbar 2,Crowbar 2,撬棍 2,False
-Crowbar 3,Crowbar 3,撬棍 3,False
-Cry 1,Cry 1,哭 1,False
-Cry 2,Cry 2,哭 2,False
-Cry 3,Cry 3,哭 3,False
-Dead,Dead,死亡,False
-Dizzy,Dizzy,頭暈,False
-Drink (Beverage Cup),Drink (Beverage Cup),喝(飲料杯),False
-Drive,Drive,駕駛,False
-Drooling (Chopstick),Drooling (Chopstick),饞(筷子),False
-Drooling (Fork&Knife),Drooling (Fork&Knife),饞(刀叉),False
-Dum 1,Dum 1,呆 1,False
-Dum 2,Dum 2,呆 2,False
-Dum 3,Dum 3,呆 3,False
-Dum Sticker 1,Dum Sticker 1,呆(貼紙) 1,False
-Dum Sticker 2,Dum Sticker 2,呆(貼紙) 2,False
-Dum Sticker 3,Dum Sticker 3,呆(貼紙) 3,False
-Exclamation,Exclamation,歎號,False
-Jail 1,Jail 1,坐牢 1,False
-Jail 2,Jail 2,坐牢 2,False
-Knife 1,Knife 1,刀 1,False
-Knife 2,Knife 2,刀 2,False
-Laugh,Laugh,笑,False
-Lick,Lick,舔舔,False
-Lightstick 1,Lightstick 1,熒光棒 1,False
-Lightstick 2,Lightstick 2,熒光棒 2,False
-Lurk 1,Lurk 1,冒泡 1,False
-Lurk 2,Lurk 2,冒泡 2,False
-Luv 1,Luv 1,愛心 1,False
-Luv 2,Luv 2,愛心 2,False
-Luv 3,Luv 3,愛心 3,False
-Money,Money,錢,False
-Mute 1,Mute 1,靜音 1,False
-Mute 2,Mute 2,靜音 2,False
-Nervous 1,Nervous 1,緊張 1,False
-Nervous 2,Nervous 2,緊張 2,False
-Noted 1,Noted 1,記錄 1,False
-Noted 2,Noted 2,記錄 2,False
-Pat,Pat,摸頭,False
-Point,Point,指,False
-Question,Question,問號,False
-Raid 1,Raid 1,Raid 1,False
-Raid 2,Raid 2,Raid 2,False
-RedPacket 1,RedPacket 1,紅包 1,False
-RedPacket 2,RedPacket 2,紅包 2,False
-Rose,Rose,玫瑰,False
-Score (0 Point),Score (0 Point),得分(0分),False
-Score (10 Point),Score (10 Point),得分(10分),False
-Shy 1,Shy 1,害羞 1,False
-Shy 2,Shy 2,害羞 2,False
-Sleep (Normal),Sleep (Normal),睡覺(普通),False
-Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),睡覺(準備階段1),False
-Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),睡覺(準備階段2),False
-Sleep (UU),Sleep (UU),睡覺 (UU),False
-Sparkling,Sparkling,期待,False
-Surprise,Surprise,驚嚇,False
-Sweat,Sweat,汗,False
-Thumb Down,Thumb Down,反向點贊,False
-Thumb Up,Thumb Up,點贊,False
-Type Angry,Type Angry,打字(生氣),False
-Type Annoyed,Type Annoyed,打字(惱怒),False
-Type Normal,Type Normal,打字(普通),False
-Work Angry,Work Angry,工作(生氣),False
-Work Nap,Work Nap,工作(小睡),False
-Work Normal,Work Normal,工作(普通),False
-Work Tired,Work Tired,工作(疲倦),False
-Bell,Bell,搖鈴,False
-Cake,Cake,蛋糕,False
-Caught in 4K (Phone),Caught in 4K (Phone),抓拍(手機),False
-Caught in 4K (Video Camera),Caught in 4K (Video Camera),抓拍(攝像機),False
-Celebration,Celebration,慶祝,False
-Head Nod,Head Nod,點頭,False
-Head Shake,Head Shake,搖頭,False
-Hypnosis,Hypnosis,催眠,False
-Laugh (Point),Laugh (Point),笑(指),False
-Love Letter,Love Letter,情書,False
-Need Food,Need Food,要米,False
-PNGTuber Idle,PNGTuber Idle,PNGTuber 閒置,False
-PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber 閒置 2,False
-PNGTuber Talk,PNGTuber Talk,PNGTuber 說話,False
-PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber 說話 2,False
-PNGTuber Yap,PNGTuber Yap,PNGTuber 說教,False
-Popcat Frame,Popcat Frame,Popcat 幀,False
-Popcat Smooth,Popcat Smooth,Popcat 平滑,False
-Sing,Sing,唱歌,False
-Tablet,Tablet,畫板,False
-Tail Wag,Tail Wag,雨刮器尾巴,False
+Alert Bits,Alert Bits,通知/提示 Bits,True
+Alert Donation,Alert Donation,通知/提示 硬幣,True
+Alert Heart,Alert Heart,通知/提示 愛心/喜歡,True
+Alert Like,Alert Like,通知/提示 點讚,True
+Alert Star,Alert Star,通知/提示 星星/收藏,True
+Angry,Angry,生氣,True
+Arrive,Arrive,到達,True
+Arrive (with Chopstick),Arrive (with Chopstick),到達(拿筷子),True
+Arrive (with Spoon),Arrive (with Spoon),到達(拿湯匙),True
+Bonk,Bonk,敲頭,True
+Copium,Copium,自我催眠,True
+Crowbar 1,Crowbar 1,撬棍 1,True
+Crowbar 2,Crowbar 2,撬棍 2,True
+Crowbar 3,Crowbar 3,撬棍 3,True
+Cry 1,Cry 1,哭 1,True
+Cry 2,Cry 2,哭 2,True
+Cry 3,Cry 3,哭 3,True
+Dead,Dead,死亡,True
+Dizzy,Dizzy,頭暈,True
+Drink (Beverage Cup),Drink (Beverage Cup),喝(飲料杯),True
+Drive,Drive,駕駛,True
+Drooling (Chopstick),Drooling (Chopstick),嘴饞(筷子),True
+Drooling (Fork&Knife),Drooling (Fork&Knife),嘴饞(刀叉),True
+Dum 1,Dum 1,呆 1,True
+Dum 2,Dum 2,呆 2,True
+Dum 3,Dum 3,呆 3,True
+Dum Sticker 1,Dum Sticker 1,呆(貼紙) 1,True
+Dum Sticker 2,Dum Sticker 2,呆(貼紙) 2,True
+Dum Sticker 3,Dum Sticker 3,呆(貼紙) 3,True
+Exclamation,Exclamation,驚嘆號,True
+Jail 1,Jail 1,坐牢 1,True
+Jail 2,Jail 2,坐牢 2,True
+Knife 1,Knife 1,刀 1,True
+Knife 2,Knife 2,刀 2,True
+Laugh,Laugh,笑,True
+Lick,Lick,舔舔,True
+Lightstick 1,Lightstick 1,螢光棒 1,True
+Lightstick 2,Lightstick 2,螢光棒 2,True
+Lurk 1,Lurk 1,冒泡 1,True
+Lurk 2,Lurk 2,冒泡 2,True
+Luv 1,Luv 1,愛心 1,True
+Luv 2,Luv 2,愛心 2,True
+Luv 3,Luv 3,愛心 3,True
+Money,Money,錢,True
+Mute 1,Mute 1,靜音 1,True
+Mute 2,Mute 2,靜音 2,True
+Nervous 1,Nervous 1,緊張 1,True
+Nervous 2,Nervous 2,緊張 2,True
+Noted 1,Noted 1,記錄 1,True
+Noted 2,Noted 2,記錄 2,True
+Pat,Pat,摸頭,True
+Point,Point,指,True
+Question,Question,問號,True
+Raid 1,Raid 1,Raid 1,True
+Raid 2,Raid 2,Raid 2,True
+RedPacket 1,RedPacket 1,紅包 1,True
+RedPacket 2,RedPacket 2,紅包 2,True
+Rose,Rose,玫瑰,True
+Score (0 Point),Score (0 Point),得分(0分),True
+Score (10 Point),Score (10 Point),得分(10分),True
+Shy 1,Shy 1,害羞 1,True
+Shy 2,Shy 2,害羞 2,True
+Sleep (Normal),Sleep (Normal),睡覺(普通),True
+Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),睡覺(準備階段1),True
+Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),睡覺(準備階段2),True
+Sleep (UU),Sleep (UU),睡覺 (UU),True
+Sparkling,Sparkling,期待,True
+Surprise,Surprise,驚嚇,True
+Sweat,Sweat,汗,True
+Thumb Down,Thumb Down,倒讚,True
+Thumb Up,Thumb Up,點讚,True
+Type Angry,Type Angry,打字(生氣),True
+Type Annoyed,Type Annoyed,打字(惱怒),True
+Type Normal,Type Normal,打字(普通),True
+Work Angry,Work Angry,工作(生氣),True
+Work Nap,Work Nap,工作(小睡),True
+Work Normal,Work Normal,工作(普通),True
+Work Tired,Work Tired,工作(疲倦),True
+Bell,Bell,搖鈴,True
+Cake,Cake,蛋糕,True
+Caught in 4K (Phone),Caught in 4K (Phone),拍照(手機),True
+Caught in 4K (Video Camera),Caught in 4K (Video Camera),拍照(攝影機),True
+Celebration,Celebration,慶祝,True
+Head Nod,Head Nod,點頭,True
+Head Shake,Head Shake,搖頭,True
+Hypnosis,Hypnosis,催眠,True
+Laugh (Point),Laugh (Point),笑(指),True
+Love Letter,Love Letter,情書,True
+Need Food,Need Food,求餵食,True
+PNGTuber Idle,PNGTuber Idle,PNGTuber 閒置,True
+PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber 閒置 2,True
+PNGTuber Talk,PNGTuber Talk,PNGTuber 說話,True
+PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber 說話 2,True
+PNGTuber Yap,PNGTuber Yap,PNGTuber 說教,True
+Popcat Frame,Popcat Frame,Popcat 幀,True
+Popcat Smooth,Popcat Smooth,Popcat 平滑,True
+Sing,Sing,唱歌,True
+Tablet,Tablet,繪圖板,True
+Tail Wag,Tail Wag,雨刷尾巴,True

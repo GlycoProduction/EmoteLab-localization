@@ -1,0 +1,35 @@
+Key,en,pt-br,reviewed
+Eyelash Length,Eyelash Length,Comprimento dos Cílios,True
+Brows Distance,Brows Distance,Distância das Sobrancelhas,True
+Brows Height,Brows Height,Altura das Sobrancelhas,True
+Ear Shape 1,Ear Shape 1,Formato da Orelha 1,True
+Ear Shape 2,Ear Shape 2,Formato da Orelha 2,True
+Hair Bang >< Length,Hair Bang >< Length,Franja >< Comprimento,True
+Hair Bang >< Shear,Hair Bang >< Shear,Franja >< Deslocamento,True
+Hair Bang >> Position,Hair Bang >> Position,Franja >> Posição,True
+Hair Bang >> Length,Hair Bang >> Length,Franja >> Comprimento,True
+Hair Bang >> Shear,Hair Bang >> Shear,Franja >> Deslocamento,True
+Hair Bang << Position,Hair Bang << Position,Franja << Posição,True
+Hair Bang << Length,Hair Bang << Length,Franja << Comprimento,True
+Hair Bang << Shear,Hair Bang << Shear,Franja << Deslocamento,True
+Hair Framing << Length,Hair Framing << Length,Mecha do Rosto << Comprimento,True
+Hair Framing >> Length,Hair Framing >> Length,Mecha do Rosto >> Comprimento,True
+Hair Side Length,Hair Side Length,Comprimento do Cabelo Lateral,True
+Hair Rear Length,Hair Rear Length,Comprimento do Cabelo de Trás,True
+Ahoge Position,Ahoge Position,Posição do Ahoge,True
+Ahoge Angle,Ahoge Angle,Ângulo do Ahoge,True
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Orelhas de Animal & Posição da Antena,True
+Fin & Gill Position,Fin & Gill Position,Posição da Barbatana & Brânquia,True
+Halo Position,Halo Position,Posição da Auréola,True
+Hat Position,Hat Position,Posição do Chapéu,True
+Horn >> Length,Horn >> Length,Chifre >> Tamanho,True
+Horn << Length,Horn << Length,Chifre << Tamanho,True
+Horn >< Length,Horn >< Length,Chifre >< Tamanho,True
+Horn Position,Horn Position,Posição do Chifre,True
+Ear Wing Position,Ear Wing Position,Posição das Asas de Orelha,True
+Wing Size,Wing Size,Tamanho das Asas,True
+Wing Position,Wing Position,Posição das Asas,True
+Wing Angle,Wing Angle,Ângulo das Asas,True
+Tail Size,Tail Size,Tamanho da Cauda,True
+Tail Flip,Tail Flip,Lado da Cauda,True
+Tail Angle,Tail Angle,Ângulo da Cauda,True

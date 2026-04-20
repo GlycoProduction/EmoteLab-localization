@@ -1,100 +1,100 @@
 Key,en,ko,reviewed
-Alert Bits,Alert Bits,경고 비트,False
-Alert Donation,Alert Donation,알림 기부,False
-Alert Heart,Alert Heart,경고 심장,False
-Alert Like,Alert Like,좋아요 알림,False
-Alert Star,Alert Star,경고 스타,False
-Angry,Angry,화난,False
-Arrive,Arrive,도착하다,False
-Arrive (with Chopstick),Arrive (with Chopstick),도착(젓가락 사용),False
-Arrive (with Spoon),Arrive (with Spoon),도착 (스푼 포함),False
-Bonk,Bonk,봉크,False
-Copium,Copium,코피움,False
-Crowbar 1,Crowbar 1,크로우바 1,False
-Crowbar 2,Crowbar 2,크로우바 2,False
-Crowbar 3,Crowbar 3,크로우바 3,False
-Cry 1,Cry 1,울다 1,False
-Cry 2,Cry 2,울다 2,False
-Cry 3,Cry 3,울다 3,False
-Dead,Dead,죽은,False
-Dizzy,Dizzy,어지러운,False
-Drink (Beverage Cup),Drink (Beverage Cup),음료(음료컵),False
-Drive,Drive,운전하다,False
-Drooling (Chopstick),Drooling (Chopstick),침흘림(젓가락),False
-Drooling (Fork&Knife),Drooling (Fork&Knife),침흘림(포크&나이프),False
-Dum 1,Dum 1,덤 1,False
-Dum 2,Dum 2,덤 2,False
-Dum 3,Dum 3,덤 3,False
-Dum Sticker 1,Dum Sticker 1,덤 스티커 1,False
-Dum Sticker 2,Dum Sticker 2,덤 스티커 2,False
-Dum Sticker 3,Dum Sticker 3,덤 스티커 3,False
-Exclamation,Exclamation,감탄,False
-Jail 1,Jail 1,감옥 1,False
-Jail 2,Jail 2,감옥 2,False
-Knife 1,Knife 1,칼 1,False
-Knife 2,Knife 2,칼 2,False
-Laugh,Laugh,웃다,False
-Lick,Lick,핥다,False
-Lightstick 1,Lightstick 1,응원봉 1,False
-Lightstick 2,Lightstick 2,응원봉 2,False
-Lurk 1,Lurk 1,러크 1,False
-Lurk 2,Lurk 2,러크 2,False
-Luv 1,Luv 1,러브 1,False
-Luv 2,Luv 2,러브 2,False
-Luv 3,Luv 3,러브 3,False
-Money,Money,돈,False
-Mute 1,Mute 1,음소거 1,False
-Mute 2,Mute 2,음소거 2,False
-Nervous 1,Nervous 1,긴장 1,False
-Nervous 2,Nervous 2,긴장 2,False
-Noted 1,Noted 1,주목 1,False
-Noted 2,Noted 2,주목2,False
-Pat,Pat,가볍게 두드리기,False
-Point,Point,가리키다,False
-Question,Question,질문,False
-Raid 1,Raid 1,레이드 1,False
-Raid 2,Raid 2,레이드 2,False
-RedPacket 1,RedPacket 1,레드패킷 1,False
-RedPacket 2,RedPacket 2,레드패킷 2,False
-Rose,Rose,장미,False
-Score (0 Point),Score (0 Point),점수(0점),False
-Score (10 Point),Score (10 Point),점수(10점),False
-Shy 1,Shy 1,수줍음 1,False
-Shy 2,Shy 2,수줍음 2,False
-Sleep (Normal),Sleep (Normal),수면(일반),False
-Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),수면(1단계 준비),False
-Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),수면(2단계 준비),False
-Sleep (UU),Sleep (UU),수면(UU),False
-Sparkling,Sparkling,스파클링,False
-Surprise,Surprise,놀라다,False
-Sweat,Sweat,땀,False
-Thumb Down,Thumb Down,아래로 엄지손가락,False
-Thumb Up,Thumb Up,엄지손가락을 위로,False
-Type Angry,Type Angry,화난 유형,False
-Type Annoyed,Type Annoyed,짜증나는 유형,False
-Type Normal,Type Normal,유형 일반,False
-Work Angry,Work Angry,화가 나서 일하다,False
-Work Nap,Work Nap,일하다 낮잠,False
-Work Normal,Work Normal,정상근무,False
-Work Tired,Work Tired,일하다 피곤하다,False
-Bell,Bell,벨,False
-Cake,Cake,케이크,False
-Caught in 4K (Phone),Caught in 4K (Phone),4K에 포착됨(전화),False
-Caught in 4K (Video Camera),Caught in 4K (Video Camera),4K로 포착(비디오 카메라),False
-Celebration,Celebration,축하,False
-Head Nod,Head Nod,고개 끄덕임,False
-Head Shake,Head Shake,머리 흔들기,False
-Hypnosis,Hypnosis,최면,False
-Laugh (Point),Laugh (Point),웃음(포인트),False
-Love Letter,Love Letter,연애 편지,False
-Need Food,Need Food,음식이 필요해,False
-PNGTuber Idle,PNGTuber Idle,PNGTuber 유휴 상태,False
-PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber 유휴 2,False
-PNGTuber Talk,PNGTuber Talk,PNGTuber 토크,False
-PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber 토크 2,False
-PNGTuber Yap,PNGTuber Yap,PNGTuber 얍,False
-Popcat Frame,Popcat Frame,팝캣 프레임,False
-Popcat Smooth,Popcat Smooth,팝캣 스무스,False
-Sing,Sing,노래하다,False
-Tablet,Tablet,태블릿,False
-Tail Wag,Tail Wag,꼬리 흔들기,False
+Alert Bits,Alert Bits,비트 알림,True
+Alert Donation,Alert Donation,후원 알림,True
+Alert Heart,Alert Heart,하트 알림,True
+Alert Like,Alert Like,좋아요 알림,True
+Alert Star,Alert Star,별 알림,True
+Angry,Angry,화남,True
+Arrive,Arrive,등장,True
+Arrive (with Chopstick),Arrive (with Chopstick),등장(젓가락),True
+Arrive (with Spoon),Arrive (with Spoon),등장(숟가락),True
+Bonk,Bonk,망치 콩,True
+Copium,Copium,행복회로,True
+Crowbar 1,Crowbar 1,쇠지렛대 1,True
+Crowbar 2,Crowbar 2,쇠지렛대 2,True
+Crowbar 3,Crowbar 3,쇠지렛대 3,True
+Cry 1,Cry 1,울음 1,True
+Cry 2,Cry 2,울음 2,True
+Cry 3,Cry 3,울음 3,True
+Dead,Dead,기절,True
+Dizzy,Dizzy,어지러움,True
+Drink (Beverage Cup),Drink (Beverage Cup),음료 마시기(음료컵),True
+Drive,Drive,운전하기,True
+Drooling (Chopstick),Drooling (Chopstick),침흘림(젓가락),True
+Drooling (Fork&Knife),Drooling (Fork&Knife),침흘림(포크&나이프),True
+Dum 1,Dum 1,바보 1,True
+Dum 2,Dum 2,바보 2,True
+Dum 3,Dum 3,바보 3,True
+Dum Sticker 1,Dum Sticker 1,바보 스티커 1,True
+Dum Sticker 2,Dum Sticker 2,바보 스티커 2,True
+Dum Sticker 3,Dum Sticker 3,바보 스티커 3,True
+Exclamation,Exclamation,깜짝,True
+Jail 1,Jail 1,감옥 1,True
+Jail 2,Jail 2,감옥 2,True
+Knife 1,Knife 1,칼 1,True
+Knife 2,Knife 2,칼 2,True
+Laugh,Laugh,웃음,True
+Lick,Lick,핥기,True
+Lightstick 1,Lightstick 1,응원봉 1,True
+Lightstick 2,Lightstick 2,응원봉 2,True
+Lurk 1,Lurk 1,빼꼼 1,True
+Lurk 2,Lurk 2,빼꼼 2,True
+Luv 1,Luv 1,하트 1,True
+Luv 2,Luv 2,하트 2,True
+Luv 3,Luv 3,하트 3,True
+Money,Money,돈,True
+Mute 1,Mute 1,음소거 1,True
+Mute 2,Mute 2,음소거 2,True
+Nervous 1,Nervous 1,식은땀 1,True
+Nervous 2,Nervous 2,식은땀 2,True
+Noted 1,Noted 1,메모 1,True
+Noted 2,Noted 2,메모 2,True
+Pat,Pat,쓰다듬기,True
+Point,Point,가리키기,True
+Question,Question,갸우뚱,True
+Raid 1,Raid 1,레이드 1,True
+Raid 2,Raid 2,레이드 2,True
+RedPacket 1,RedPacket 1,용돈 봉투 1,True
+RedPacket 2,RedPacket 2,용돈 봉투 2,True
+Rose,Rose,장미,True
+Score (0 Point),Score (0 Point),점수(0점),True
+Score (10 Point),Score (10 Point),점수(10점),True
+Shy 1,Shy 1,부끄러움 1,True
+Shy 2,Shy 2,부끄러움 2,True
+Sleep (Normal),Sleep (Normal),수면(일반),True
+Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),수면(준비 1단계),True
+Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),수면(준비 2단계,True
+Sleep (UU),Sleep (UU),수면(UU),True
+Sparkling,Sparkling,반짝반짝,True
+Surprise,Surprise,놀람,True
+Sweat,Sweat,땀,True
+Thumb Down,Thumb Down,싫어요,True
+Thumb Up,Thumb Up,좋아요,True
+Type Angry,Type Angry,타이핑(화남),True
+Type Annoyed,Type Annoyed,타이핑(짜증),True
+Type Normal,Type Normal,타이핑(일반),True
+Work Angry,Work Angry,업무(화남),True
+Work Nap,Work Nap,업무(졸음),True
+Work Normal,Work Normal,업무(일반),True
+Work Tired,Work Tired,업무(피곤),True
+Bell,Bell,종 울리기,True
+Cake,Cake,케이크,True
+Caught in 4K (Phone),Caught in 4K (Phone),증거 포착(핸드폰),True
+Caught in 4K (Video Camera),Caught in 4K (Video Camera),증거 포착(비디오 카메라),True
+Celebration,Celebration,축하,True
+Head Nod,Head Nod,고개 끄덕임,True
+Head Shake,Head Shake,고개 젓기,True
+Hypnosis,Hypnosis,최면,True
+Laugh (Point),Laugh (Point),비웃음(포인트),True
+Love Letter,Love Letter,러브레터,True
+Need Food,Need Food,배고픔,True
+PNGTuber Idle,PNGTuber Idle,2D 버튜버 (대기),True
+PNGTuber Idle 2,PNGTuber Idle 2,2D 버튜버 (대기) 2,True
+PNGTuber Talk,PNGTuber Talk,2D 버튜버 (말하기),True
+PNGTuber Talk 2,PNGTuber Talk 2,2D 버튜버 (말하기) 2,True
+PNGTuber Yap,PNGTuber Yap,2D 버튜버 (수다),True
+Popcat Frame,Popcat Frame,팝캣 (프레임),True
+Popcat Smooth,Popcat Smooth,팝캣 (부드러움),True
+Sing,Sing,노래하기,True
+Tablet,Tablet,타블렛,True
+Tail Wag,Tail Wag,꼬리 흔들기,True

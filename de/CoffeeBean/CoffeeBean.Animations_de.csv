@@ -28,7 +28,7 @@ Dum 3,Dum 3,Dum 3,True
 Dum Sticker 1,Dum Sticker 1,Dum-Aufkleber 1,True
 Dum Sticker 2,Dum Sticker 2,Dum-Aufkleber 2,True
 Dum Sticker 3,Dum Sticker 3,Dum-Aufkleber 3,True
-Exclamation,Exclamation,Ausrufezeichen,False
+Exclamation,Exclamation,Ausrufezeichen,True
 Jail 1,Jail 1,Gefängnis 1,True
 Jail 2,Jail 2,Gefängnis 2,True
 Knife 1,Knife 1,Messer 1,True
@@ -37,8 +37,8 @@ Laugh,Laugh,Lachen,True
 Lick,Lick,Lecken,True
 Lightstick 1,Lightstick 1,Leuchtstab 1,True
 Lightstick 2,Lightstick 2,Leuchtstab 2,True
-Lurk 1,Lurk 1,Lurken 1,False
-Lurk 2,Lurk 2,Lurken 2,False
+Lurk 1,Lurk 1,Lurken 1,True
+Lurk 2,Lurk 2,Lurken 2,True
 Luv 1,Luv 1,Liebe 1,True
 Luv 2,Luv 2,Liebe 2,True
 Luv 3,Luv 3,Liebe 3,True
@@ -54,8 +54,8 @@ Point,Point,Zeigen,True
 Question,Question,Frage,True
 Raid 1,Raid 1,Raid 1,True
 Raid 2,Raid 2,Raid 2,True
-RedPacket 1,RedPacket 1,Glücksumschlag 1,False
-RedPacket 2,RedPacket 2,Glücksumschlag 2,False
+RedPacket 1,RedPacket 1,Glücksumschlag 1,True
+RedPacket 2,RedPacket 2,Glücksumschlag 2,True
 Rose,Rose,Rose,True
 Score (0 Point),Score (0 Point),Punkte (0),True
 Score (10 Point),Score (10 Point),Punkte (10),True
@@ -77,24 +77,24 @@ Work Angry,Work Angry,Arbeit Wütend,True
 Work Nap,Work Nap,Arbeit Nickerchen,True
 Work Normal,Work Normal,Arbeit Normal,True
 Work Tired,Work Tired,Arbeit Müde,True
-Bell,Bell,Glocke,False
-Cake,Cake,Kuchen,False
-Caught in 4K (Phone),Caught in 4K (Phone),Gefangen in 4K (Telefon),False
-Caught in 4K (Video Camera),Caught in 4K (Video Camera),Aufgenommen in 4K (Videokamera),False
-Celebration,Celebration,Feier,False
-Head Nod,Head Nod,Kopfnicken,False
-Head Shake,Head Shake,Kopfschütteln,False
-Hypnosis,Hypnosis,Hypnose,False
-Laugh (Point),Laugh (Point),Lachen (Punkt),False
-Love Letter,Love Letter,Liebesbrief,False
-Need Food,Need Food,Brauchen Sie Essen,False
-PNGTuber Idle,PNGTuber Idle,PNGTuber im Leerlauf,False
-PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Idle 2,False
-PNGTuber Talk,PNGTuber Talk,PNGTuber-Talk,False
-PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber Talk 2,False
-PNGTuber Yap,PNGTuber Yap,PNGTuber Yap,False
-Popcat Frame,Popcat Frame,Popcat-Rahmen,False
-Popcat Smooth,Popcat Smooth,Popcat glatt,False
-Sing,Sing,Singen,False
-Tablet,Tablet,Tablette,False
-Tail Wag,Tail Wag,Schwanzwedeln,False
+Bell,Bell,Glocke,True
+Cake,Cake,Kuchen,True
+Caught in 4K (Phone),Caught in 4K (Phone),Foto schießen (Telefon),True
+Caught in 4K (Video Camera),Caught in 4K (Video Camera),Video drehen (Videokamera),True
+Celebration,Celebration,Feier,True
+Head Nod,Head Nod,Kopfnicken,True
+Head Shake,Head Shake,Kopfschütteln,True
+Hypnosis,Hypnosis,Hypnose,True
+Laugh (Point),Laugh (Point),Lachen (Zeigen),True
+Love Letter,Love Letter,Liebesbrief,True
+Need Food,Need Food,Brauche Essen,True
+PNGTuber Idle,PNGTuber Idle,PNGTuber Idle,True
+PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Idle 2,True
+PNGTuber Talk,PNGTuber Talk,PNGTuber Reden,True
+PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber Reden 2,True
+PNGTuber Yap,PNGTuber Yap,PNGTuber Yappen,True
+Popcat Frame,Popcat Frame,Popcat Standbild,True
+Popcat Smooth,Popcat Smooth,Popcat Animiert,True
+Sing,Sing,Singen,True
+Tablet,Tablet,Tablet,True
+Tail Wag,Tail Wag,Schwanzwedeln,True

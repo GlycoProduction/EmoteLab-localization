@@ -1,35 +1,35 @@
-Key,en,tr,reviewed
-Eyelash Length,Eyelash Length,Kirpik Uzunluğu,False
-Brows Distance,Brows Distance,Kaş Mesafesi,False
-Brows Height,Brows Height,Kaş Yüksekliği,False
-Ear Shape 1,Ear Shape 1,Kulak Şekli 1,False
-Ear Shape 2,Ear Shape 2,Kulak Şekli 2,False
-Hair Bang >< Length,Hair Bang >< Length,Saç Patlaması >< Uzunluk,False
-Hair Bang >< Shear,Hair Bang >< Shear,Saç Patlaması >< Kesme,False
-Hair Bang >> Position,Hair Bang >> Position,Saç Patlaması >> Konum,False
-Hair Bang >> Length,Hair Bang >> Length,Saç Patlaması >> Uzunluk,False
-Hair Bang >> Shear,Hair Bang >> Shear,Saç Patlaması >> Kesme,False
-Hair Bang << Position,Hair Bang << Position,Saç Patlaması << Konumu,False
-Hair Bang << Length,Hair Bang << Length,Saç Patlaması << Uzunluk,False
-Hair Bang << Shear,Hair Bang << Shear,Saç Patlaması << Kesme,False
-Hair Framing << Length,Hair Framing << Length,Saç Çerçeveleme << Uzunluk,False
-Hair Framing >> Length,Hair Framing >> Length,Saç Çerçeveleme >> Uzunluk,False
-Hair Side Length,Hair Side Length,Saç Yan Uzunluğu,False
-Hair Rear Length,Hair Rear Length,Saç Arka Uzunluğu,False
-Ahoge Position,Ahoge Position,Ahoge Konumu,False
-Ahoge Angle,Ahoge Angle,Ahoge Açısı,False
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,Hayvan Kulağı ve Anten Konumu,False
-Fin & Gill Position,Fin & Gill Position,Yüzgeç ve Solungaç Konumu,False
-Halo Position,Halo Position,Halo Konumu,False
-Hat Position,Hat Position,Şapka Konumu,False
-Horn >> Length,Horn >> Length,Boynuz >> Uzunluk,False
-Horn << Length,Horn << Length,Boynuz << Uzunluk,False
-Horn >< Length,Horn >< Length,Boynuz >< Uzunluk,False
-Horn Position,Horn Position,Korna Konumu,False
-Ear Wing Position,Ear Wing Position,Kulak Kanadı Konumu,False
-Wing Size,Wing Size,Kanat Boyutu,False
-Wing Position,Wing Position,Kanat Konumu,False
-Wing Angle,Wing Angle,Kanat Açısı,False
-Tail Size,Tail Size,Kuyruk Boyutu,False
-Tail Flip,Tail Flip,Kuyruk Çevirme,False
-Tail Angle,Tail Angle,Kuyruk Açısı,False
+Key,en,tr,Reviewed
+Eyelash Length,Eyelash Length,Kirpik Uzunluğu,True
+Brows Distance,Brows Distance,Kaş Mesafesi,True
+Brows Height,Brows Height,Kaş Yüksekliği,True
+Ear Shape 1,Ear Shape 1,Kulak Şekli 1,True
+Ear Shape 2,Ear Shape 2,Kulak Şekli 2,True
+Hair Bang >< Length,Hair Bang >< Length,Kahkül >< Uzunluk,True
+Hair Bang >< Shear,Hair Bang >< Shear,Kahkül >< Kayma,True
+Hair Bang >> Position,Hair Bang >> Position,Kahkül >> Konum,True
+Hair Bang >> Length,Hair Bang >> Length,Kahkül >> Uzunluk,True
+Hair Bang >> Shear,Hair Bang >> Shear,Kahkül >> Kayma,True
+Hair Bang << Position,Hair Bang << Position,Kahkül << Konumu,True
+Hair Bang << Length,Hair Bang << Length,Kahkül << Uzunluk,True
+Hair Bang << Shear,Hair Bang << Shear,Kahkül << Kayma,True
+Hair Framing << Length,Hair Framing << Length,Saçın Yanı << Uzunluk,True
+Hair Framing >> Length,Hair Framing >> Length,Saçın Yanı >> Uzunluk,True
+Hair Side Length,Hair Side Length,Saç Yanı'nın Uzunluğu,True
+Hair Rear Length,Hair Rear Length,Saç Arkası'nın Uzunluğu,True
+Ahoge Position,Ahoge Position,Ahoge Konumu,True
+Ahoge Angle,Ahoge Angle,Ahoge Açısı,True
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Hayvan Kulağı ve Anten Konumu,True
+Fin & Gill Position,Fin & Gill Position,Yüzgeç ve Solungaç Konumu,True
+Halo Position,Halo Position,Hale Konumu,True
+Hat Position,Hat Position,Şapka Konumu,True
+Horn >> Length,Horn >> Length,Boynuz >> Uzunluk,True
+Horn << Length,Horn << Length,Boynuz << Uzunluk,True
+Horn >< Length,Horn >< Length,Boynuz >< Uzunluk,True
+Horn Position,Horn Position,Korna Konumu,True
+Ear Wing Position,Ear Wing Position,Kulak Kanadı Konumu,True
+Wing Size,Wing Size,Kanatların Boyutu,True
+Wing Position,Wing Position,Kanatların Konumu,True
+Wing Angle,Wing Angle,Kanatların Açısı,True
+Tail Size,Tail Size,Kuyruk Boyutu,True
+Tail Flip,Tail Flip,Kuyruk Dönüşü,True
+Tail Angle,Tail Angle,Kuyruk Açısı,True

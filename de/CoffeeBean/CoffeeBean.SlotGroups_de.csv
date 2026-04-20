@@ -29,8 +29,8 @@ Crowbar,Crowbar,Brecheisen,True
 Cup,Cup,Tasse,True
 Cup Steam,Cup Steam,Tasse Dampf,True
 Door/Wall,Door/Wall,Tür/Wand,True
-Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,Auge(Dum) Pupille >>,False
-Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Auge(Dum) Pupille <<,False
+Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,Auge (Dum) Pupille >>,True
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Auge (Dum) Pupille <<,True
 Eyebag,Eyebag,Tränensack,True
 Eye Iris Dark >>,Eye Iris Dark >>,Augeniris dunkel >>,True
 Eye Iris Dark <<,Eye Iris Dark <<,Augeniris dunkel <<,True
@@ -40,7 +40,7 @@ Eye Highlight,Eye Highlight,Augen Highlight,True
 Eyelashes,Eyelashes,Wimpern,True
 Eye Iris Light >>,Eye Iris Light >>,Augeniris hell >>,True
 Eye Iris Light <<,Eye Iris Light <<,Augeniris hell <<,True
-Eye(Dum) Outline,Eye(Dum) Outline,Augen(Dum) Umriss,False
+Eye(Dum) Outline,Eye(Dum) Outline,Augen (Dum) Umriss,True
 Eye Sparkling,Eye Sparkling,Augenfunkeln,True
 Eye Spiral,Eye Spiral,Augenspirale,True
 Eye White,Eye White,Augenweiß,True
@@ -123,7 +123,7 @@ Jail Grill,Jail Grill,Gefängnis,True
 Keyboard,Keyboard,Tastatur,True
 Kitchen Knife,Kitchen Knife,Küchenmesser,True
 Laptop,Laptop,Laptop,True
-Laptop Light,Laptop Light,Laptop Licht,False
+Laptop Light,Laptop Light,Laptop Licht,True
 Leg >>,Leg >>,Bein >>,True
 Leg <<,Leg <<,Bein <<,True
 Lightstick Handle,Lightstick Handle,Leuchtstabgriff,True
@@ -153,7 +153,7 @@ Outfit Outer,Outfit Outer,Outfit außen,True
 Outfit Outer Outline,Outfit Outer Outline,Outfit außen Umriss,True
 Pencil,Pencil,Bleistift,True
 Phone,Phone,Telefon,True
-Phone Light,Phone Light,Telefon Licht,False
+Phone Light,Phone Light,Telefon Licht,True
 Hair Pigtail >>,Hair Pigtail >>,Haarzopf >>,True
 Hair Pigtail >> Outline,Hair Pigtail >> Outline,Haarzopf >> Umriss,True
 Hair Pigtail <<,Hair Pigtail <<,Haarzopf <<,True
@@ -191,28 +191,28 @@ Sticky Note Text,Sticky Note Text,Haftnotiz Text,True
 Eye Tear,Eye Tear,Augentränen,True
 Utensil,Utensil,Besteck,True
 Outfit Collar String,Outfit Collar String,Outfit Kragenschnur,True
-Bell,Bell,Glocke,False
-Confetti 1,Confetti 1,Konfetti 1,False
-Confetti 2,Confetti 2,Konfetti 2,False
-Confetti 3,Confetti 3,Konfetti 3,False
-Microphone,Microphone,Mikrofon,False
-Gleam,Gleam,Glänzen,False
-Video Camera,Video Camera,Videokamera,False
-Point Hand,Point Hand,Zeigen Sie mit der Hand,False
-Bowl,Bowl,Schüssel,False
-Cake,Cake,Kuchen,False
-Candle Fire,Candle Fire,Kerzenfeuer,False
-Drawing Tablet,Drawing Tablet,Zeichentablett,False
-Love Letter,Love Letter,Liebesbrief,False
-Popper,Popper,Popper,False
-Stylus,Stylus,Stift,False
-Tablet,Tablet,Tablette,False
-Musical Note 1,Musical Note 1,Musiknote 1,False
-Musical Note 2,Musical Note 2,Musiknote 2,False
-Phone Screen,Phone Screen,Telefonbildschirm,False
-Tail,Tail,Schwanz,False
-Tail Outline,Tail Outline,Schwanzumriss,False
-Wing >>,Wing >>,Flügel >>,False
-Wing >> Outline,Wing >> Outline,Flügel >> Umriss,False
-Wing <<,Wing <<,Flügel <<,False
-Wing << Outline,Wing << Outline,Flügel << Umriss,False
+Bell,Bell,Glocke,True
+Confetti 1,Confetti 1,Konfetti 1,True
+Confetti 2,Confetti 2,Konfetti 2,True
+Confetti 3,Confetti 3,Konfetti 3,True
+Microphone,Microphone,Mikrofon,True
+Gleam,Gleam,Glänzen,True
+Video Camera,Video Camera,Videokamera,True
+Point Hand,Point Hand,Mit Hand Zeigen,True
+Bowl,Bowl,Schüssel,True
+Cake,Cake,Kuchen,True
+Candle Fire,Candle Fire,Kerzenfeuer,True
+Drawing Tablet,Drawing Tablet,Zeichentablett,True
+Love Letter,Love Letter,Liebesbrief,True
+Popper,Popper,Konfettikanone,True
+Stylus,Stylus,Stift,True
+Tablet,Tablet,Tablet,True
+Musical Note 1,Musical Note 1,Musiknote 1,True
+Musical Note 2,Musical Note 2,Musiknote 2,True
+Phone Screen,Phone Screen,Telefonbildschirm,True
+Tail,Tail,Schwanz,True
+Tail Outline,Tail Outline,Schwanz Umriss,True
+Wing >>,Wing >>,Flügel >>,True
+Wing >> Outline,Wing >> Outline,Flügel >> Umriss,True
+Wing <<,Wing <<,Flügel <<,True
+Wing << Outline,Wing << Outline,Flügel << Umriss,True

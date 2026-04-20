@@ -1,0 +1,95 @@
+Key,en,th,reviewed
+MainMenu.TabHeaderLable.Editor,Editor,Editor,True
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","คุณแน่ใจหรือไม่ว่าต้องการลบตัวละคร ""{0}""? การกระทำนี้จะไม่สามารถย้อนกลับมาแก้ไขได้",True
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","คุณมีตัวละคร ""{0}"" อยู่แล้ว คุณแน่ใจหรือไม่ว่า ต้องการบันทึกทับตัวละคร ""{0}""? การกระทำนี้ไม่สามารถย้อนกลับมาแก้ไขได้",True
+MainMenu.Confirm,Confirm,ยืนยัน,True
+MainMenu.Cancel,Cancel,ยกเลิก,True
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,โปรดป้อนชื่อตัวละคร:,True
+MainMenu.Editor.Model,Models,โมเดล,True
+MainMenu.Editor.Character,Character,ตัวละคร,True
+MainMenu.Editor.Animation,Animation,แอนิเมชัน,True
+MainMenu.Editor.PartsSelection,Choose Parts,เลือกชิ้นส่วน,True
+MainMenu.Editor.PartsAdjustment,Adjustment,การแก้ไข,True
+MainMenu.Search,Search...,ค้นหา...,True
+MainMenu.Editor.SaveCharacter,Save Character,บันทึกตัวละคร,True
+MainMenu.Editor.Unload,Clear Character,ล้างตัวละคร,True
+MainMenu.Editor.DeleteCharacter,Delete Character,ลบตัวละคร,True
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,ใช้ Custom Texture,True
+MainMenu.Editor.ReloadTextures,Reload Textures,โหลด Texture ใหม่,True
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,เปิดโฟลเดอร์ Custom Texture,True
+MainMenu.Editor.Color,Color,สี,True
+MainMenu.Editor.TintColor,TintColor,สีย้อม,True
+MainMenu.Editor.TintBlackColor,TintBlackColor,สีย้อมดำ,True
+MainMenu.Editor.LICENSE,LICENSE,ใบอนุญาตซอฟต์แวร์ (LICENSE),True
+MainMenu.Editor.AssetTypeAA,Default Assets,Default Assets,True
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,Asset ของบุคคลที่สาม,True
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,ชื่อต้องไม่ว่างเปล่า,True
+MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,ชื่อต้องไม่เกิน {0} ตัวอักษร,True
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","ชื่อต้องไม่มีอักขระ ""{0}""",True
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" เป็นชื่อที่สงวนไว้และไม่สามารถใช้งานได้",True
+MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,ชื่อต้องไม่ลงท้ายด้วยจุด,True
+MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,ชื่อต้องไม่ประกอบด้วยช่องว่างเพียงอย่างเดียว,True
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Unload โมเดลปัจจุบัน,True
+MainMenu.Settings.GeneralSettings,General Settings,การตั้งค่าทั่วไป,True
+MainMenu.Settings.GeneralSettings.Language,Language,ภาษา,True
+MainMenu.Settings.ViewportSettings,Viewport Settings,การตั้งค่า Viewport,True
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,ความเร็วในการ Zoom,True
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,ความเร็ว Rotation,True
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Model Scale,True
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Offset แนวนอน,True
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Offset แนวตั้ง,True
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,รีเซ็ตการตั้งค่า Viewport,True
+MainMenu.Settings.ExportSettings,Animation Export Settings,การตั้งค่า Animation Export,True
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,ตำแหน่งการบันทึก,True
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Export Presets,True
+MainMenu.Settings.ExportSettings.Encoder,Encoder,Encoder,True
+MainMenu.Settings.ExportSettings.Width,Width,ความกว้าง,True
+MainMenu.Settings.ExportSettings.Height,Height,ความสูง,True
+MainMenu.Settings.ExportSettings.FPS,FPS,FPS,True
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,จำกัดจำนวนเฟรมสูงสุด,True
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,จำนวนเฟรมสูงสุด,True
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Alpha Threshold,True
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,เปิดใช้งาน Dithering,True
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,รีเซ็ตการตั้งค่า Export,True
+MainMenu.Editor.Export,Export Emote,Export Emote,True
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,ลิขสิทธิ์ได้รับจากผู้สร้างโมเดล แสดงไว้เพื่อเป็นข้อมูลอ้างอิงเท่านั้น และไม่ได้แสดงถึงความคิดเห็นหรือจุดยืนทางกฎหมายของผู้พัฒนา EmoteLab,True
+LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,ไม่พบใบอนุญาตการใช่งาน โปรดยืนยันการใช้งานที่ได้รับอนุญาตกับผู้สร้าง,True
+LicensePopup.Close,Close,ปิด,True
+MainMenu.Editor.OpenExportFolder,Open Export Folder,เปิดโฟลเดอร์ Export,True
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,โหลดตัวละครตัวอย่าง,True
+MainMenu.Settings.ModelSettings,Model Settings,การตั้งค่าโมเดล,True
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,กำลังบันทึกข้อมูลตัวละคร...,True
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,กำลังโหลดตัวละคร...,True
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,ใบอนุญาติของบุคคลที่สาม,True
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),ข้อตกลงใบอนุญาตผู้ใช้ปลายทาง (EULA),True
+MainMenu.Info.Documentation,Documentation,เอกสารประกอบ (Documentation),True
+MainMenu.Info.Discord,Join Our Discord,เข้าร่วม Discord ของเรา,True
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",การตั้งค่าของ Preset จะกำหนดรูปแบบและขนาดที่ถูกต้อง แอนิเมชันที่มีความยาวมากอาจเกินขีดจำกัดขนาดไฟล์ของแพลตฟอร์ม และบางแพลตฟอร์มอาจจำกัดเนื้อหาบางประเภท,True
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,เปิดโฟลเดอร์โมเดลในเครื่อง,True
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,เปิดโฟลเดอร์ตัวละคร,True
+MainMenu.Info.Log,Open Log Folder,เปิดโฟลเดอร์ Log,True
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,การใช้ตารางสีสากล,True
+MainMenu.Editor.ExportStatic,Export Static Image,Export ภาพนิ่ง,True
+MainMenu.Editor.Player.Speed,Speed,ความเร็ว,True
+MainMenu.Settings.StaticImageSettings,Static Image Settings,การตั้งค่าภาพนิ่ง,True
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,รีเซ็ตการตั้งค่าภาพนิ่ง,True
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Sampling Rate,True
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Toggle นี้ช่วยให้คุณสลับระหว่าง Internal Texture และ Custom Texture ได้,True
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,แก้ไขไฟล์ PNG ในโฟลเดอร์ Custom Texture และบันทึกโดยตั้งค่าความโปร่งใสไว้ โดยไม่แก้ไขขนาดของ PNG,True
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",หลังจากบันทึกการแก้ไขแล้ว ให้คลิกปุ่มนี้เพื่อปรับเปลี่ยนโมเดลของคุณตามความเปลี่ยนแปลง,True
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,บันทึกตัวละครของคุณ โดยปุ่มบันทึกจะอยู่ด้านล่างรายชื่อตัวละครทางด้านซ้ายของหน้าจอ,True
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,โปรดอ่านคู่มือการใช้งาน Custom Texture ก่อนใช้งาน feature นี้,True
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,Custom Texture,True
+MainMenu.Editor.Texture.Step1,Step 1,ขั้นตอนที่ 1,True
+MainMenu.Editor.Texture.Step2,Step 2,ขั้นตอนที่ 2,True
+MainMenu.Editor.Texture.Step3,Step 3,ขั้นตอนที่ 3,True
+MainMenu.Editor.Texture.Step4,Step 4,ขั้นตอนที่ 4,True
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,แก้ไขเส้นร่างที่เลือก,True
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,รีเซ็ต Atlas ที่เลือก,True
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,Texture Utility,True
+MainMenu.Editor.Texture.SelectAll,Select All,เลือกทั้งหมด,True
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,การเลือก Toggle,True
+MainMenu.Editor.Texture.AtlasList,Atlas List,รายการ Atlas,True
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,การดำเนินการนี้จะรีเซ็ตหน้า Atlas ที่เลือกกลับไปเป็นเวอร์ชันเริ่มต้น การแก้ไขที่ยังไม่ได้บันทึกจะสูญหายและไม่สามารถกู้คืนได้ ต้องการดำเนินการต่อหรือไม่?,True
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Palette Algorithm,True
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,การดำเนินการนี้จะเขียนทับไฟล์ Texture ที่เลือกไว้ โดยไม่สามารถย้อนกลับมาแก้ไขได้ ต้องการดำเนินการต่อหรือไม่?,True

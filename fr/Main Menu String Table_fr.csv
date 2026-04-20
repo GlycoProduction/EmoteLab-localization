@@ -53,7 +53,7 @@ MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Activer le tra
 MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Réinitialiser les paramètres d'exportation,False
 MainMenu.Editor.Export,Export Emote,Exporter une émoticône,False
 LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,Licence fournie par le créateur du modèle. Affiché à titre de référence uniquement et ne représente pas les opinions ou la position juridique du développeur EmoteLab.,False
-LicensePopup.ThirdPartyLicense.NotFound,License not found. Confirm permitted use with the creator.,Licence introuvable. Confirmez l'utilisation autorisée auprès du créateur.,False
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",Licence introuvable. Confirmez l'utilisation autorisée auprès du créateur.,False
 LicensePopup.Close,Close,Fermer,False
 MainMenu.Editor.OpenExportFolder,Open Export Folder,Ouvrir le dossier d'exportation,False
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Charger des exemples de caractères pour les modèles intégrés,False

@@ -1,35 +1,35 @@
 Key,en,zh-Hant,reviewed
-Eyelash Length,Eyelash Length,睫毛 長度,False
-Brows Distance,Brows Distance,眉毛 距離,False
-Brows Height,Brows Height,眉毛 高度,False
-Ear Shape 1,Ear Shape 1,耳朵 形狀 1,False
-Ear Shape 2,Ear Shape 2,耳朵 形狀 2,False
-Hair Bang >< Length,Hair Bang >< Length,頭髮 劉海 >< 長度,False
-Hair Bang >< Shear,Hair Bang >< Shear,頭髮 劉海 >< 剪下,False
-Hair Bang >> Position,Hair Bang >> Position,頭髮 劉海 >> 位置,False
-Hair Bang >> Length,Hair Bang >> Length,頭髮 劉海 >> 長度,False
-Hair Bang >> Shear,Hair Bang >> Shear,頭髮 劉海 >> 剪下,False
-Hair Bang << Position,Hair Bang << Position,頭髮 劉海 << 位置,False
-Hair Bang << Length,Hair Bang << Length,頭髮 劉海 << 長度,False
-Hair Bang << Shear,Hair Bang << Shear,頭髮 劉海 << 剪下,False
-Hair Framing << Length,Hair Framing << Length,頭髮 臉頰 << 長度,False
-Hair Framing >> Length,Hair Framing >> Length,頭髮 臉頰 >> 長度,False
-Hair Side Length,Hair Side Length,頭髮 側面 長度,False
-Hair Rear Length,Hair Rear Length,頭髮 後側 長度,False
-Ahoge Position,Ahoge Position,呆毛 位置,False
-Ahoge Angle,Ahoge Angle,呆毛 角度,False
-Animal Ear & Antenna Position,Animal Ear & Antenna Position,動物耳朵 & 觸角 位置,False
-Fin & Gill Position,Fin & Gill Position,鰭 & 鰓 位置,False
-Halo Position,Halo Position,光環 位置,False
-Hat Position,Hat Position,帽子 位置,False
-Horn >> Length,Horn >> Length,角 >> 長度,False
-Horn << Length,Horn << Length,角 << 長度,False
-Horn >< Length,Horn >< Length,角 >< 長度,False
-Horn Position,Horn Position,角 位置,False
-Ear Wing Position,Ear Wing Position,翅膀耳朵 位置,False
-Wing Size,Wing Size,翅膀 大小,False
-Wing Position,Wing Position,翅膀 位置,False
-Wing Angle,Wing Angle,翅膀 角度,False
-Tail Size,Tail Size,尾巴 大小,False
-Tail Flip,Tail Flip,尾巴 翻轉,False
-Tail Angle,Tail Angle,尾巴 角度,False
+Eyelash Length,Eyelash Length,睫毛 長度,True
+Brows Distance,Brows Distance,眉毛 距離,True
+Brows Height,Brows Height,眉毛 高度,True
+Ear Shape 1,Ear Shape 1,耳朵 形狀 1,True
+Ear Shape 2,Ear Shape 2,耳朵 形狀 2,True
+Hair Bang >< Length,Hair Bang >< Length,頭髮 瀏海 >< 長度,True
+Hair Bang >< Shear,Hair Bang >< Shear,頭髮 瀏海 >< 傾斜,True
+Hair Bang >> Position,Hair Bang >> Position,頭髮 瀏海 >> 位置,True
+Hair Bang >> Length,Hair Bang >> Length,頭髮 瀏海 >> 長度,True
+Hair Bang >> Shear,Hair Bang >> Shear,頭髮 瀏海 >> 傾斜,True
+Hair Bang << Position,Hair Bang << Position,頭髮 瀏海 << 位置,True
+Hair Bang << Length,Hair Bang << Length,頭髮 瀏海 << 長度,True
+Hair Bang << Shear,Hair Bang << Shear,頭髮 瀏海 << 傾斜,True
+Hair Framing << Length,Hair Framing << Length,頭髮 臉頰 << 長度,True
+Hair Framing >> Length,Hair Framing >> Length,頭髮 臉頰 >> 長度,True
+Hair Side Length,Hair Side Length,頭髮 側面 長度,True
+Hair Rear Length,Hair Rear Length,頭髮 後側 長度,True
+Ahoge Position,Ahoge Position,呆毛 位置,True
+Ahoge Angle,Ahoge Angle,呆毛 角度,True
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,動物耳朵 & 觸角 位置,True
+Fin & Gill Position,Fin & Gill Position,鰭 & 鰓 位置,True
+Halo Position,Halo Position,光環 位置,True
+Hat Position,Hat Position,帽子 位置,True
+Horn >> Length,Horn >> Length,角 >> 長度,True
+Horn << Length,Horn << Length,角 << 長度,True
+Horn >< Length,Horn >< Length,角 >< 長度,True
+Horn Position,Horn Position,角 位置,True
+Ear Wing Position,Ear Wing Position,翅膀耳朵 位置,True
+Wing Size,Wing Size,翅膀 大小,True
+Wing Position,Wing Position,翅膀 位置,True
+Wing Angle,Wing Angle,翅膀 角度,True
+Tail Size,Tail Size,尾巴 大小,True
+Tail Flip,Tail Flip,尾巴 翻轉,True
+Tail Angle,Tail Angle,尾巴 角度,True
