@@ -1,0 +1,100 @@
+Key,en,uk,reviewed
+Alert Bits,Alert Bits,Біти попередження,False
+Alert Donation,Alert Donation,Сповіщення про пожертвування,False
+Alert Heart,Alert Heart,Тривожне серце,False
+Alert Like,Alert Like,Сповіщення Подобається,False
+Alert Star,Alert Star,Alert Star,False
+Angry,Angry,Злий,False
+Arrive,Arrive,Прибуття,False
+Arrive (with Chopstick),Arrive (with Chopstick),Прибуття (з паличкою для їжі),False
+Arrive (with Spoon),Arrive (with Spoon),Прибуття (з ложкою),False
+Bonk,Bonk,Бонк,False
+Copium,Copium,Copium,False
+Crowbar 1,Crowbar 1,Лом 1,False
+Crowbar 2,Crowbar 2,Лом 2,False
+Crowbar 3,Crowbar 3,Лом 3,False
+Cry 1,Cry 1,Плакати 1,False
+Cry 2,Cry 2,Плакати 2,False
+Cry 3,Cry 3,Плакати 3,False
+Dead,Dead,Мертвий,False
+Dizzy,Dizzy,запаморочення,False
+Drink (Beverage Cup),Drink (Beverage Cup),Напій (чашка для напоїв),False
+Drive,Drive,Драйв,False
+Drooling (Chopstick),Drooling (Chopstick),Слинотеча (Chopstick),False
+Drooling (Fork&Knife),Drooling (Fork&Knife),Слини (виделка та ніж),False
+Dum 1,Dum 1,Думка 1,False
+Dum 2,Dum 2,Думка 2,False
+Dum 3,Dum 3,Думка 3,False
+Dum Sticker 1,Dum Sticker 1,Наклейка Dum 1,False
+Dum Sticker 2,Dum Sticker 2,Dum Sticker 2,False
+Dum Sticker 3,Dum Sticker 3,Наклейка Dum 3,False
+Exclamation,Exclamation,Вигук,False
+Jail 1,Jail 1,В'язниця 1,False
+Jail 2,Jail 2,В'язниця 2,False
+Knife 1,Knife 1,Ніж 1,False
+Knife 2,Knife 2,Ніж 2,False
+Laugh,Laugh,сміятися,False
+Lick,Lick,лизати,False
+Lightstick 1,Lightstick 1,Світлова паличка 1,False
+Lightstick 2,Lightstick 2,Lightstick 2,False
+Lurk 1,Lurk 1,ховатися 1,False
+Lurk 2,Lurk 2,ховатися 2,False
+Luv 1,Luv 1,Любов 1,False
+Luv 2,Luv 2,Любов 2,False
+Luv 3,Luv 3,Любов 3,False
+Money,Money,гроші,False
+Mute 1,Mute 1,Вимкнути звук 1,False
+Mute 2,Mute 2,Вимкнути звук 2,False
+Nervous 1,Nervous 1,Нервовий 1,False
+Nervous 2,Nervous 2,Нервовий 2,False
+Noted 1,Noted 1,Відзначено 1,False
+Noted 2,Noted 2,Примічено 2,False
+Pat,Pat,Пат,False
+Point,Point,точка,False
+Question,Question,Питання,False
+Raid 1,Raid 1,Рейд 1,False
+Raid 2,Raid 2,Рейд 2,False
+RedPacket 1,RedPacket 1,RedPacket 1,False
+RedPacket 2,RedPacket 2,RedPacket 2,False
+Rose,Rose,Роза,False
+Score (0 Point),Score (0 Point),Оцінка (0 балів),False
+Score (10 Point),Score (10 Point),Оцінка (10 балів),False
+Shy 1,Shy 1,Сором'язливий 1,False
+Shy 2,Shy 2,Сором'язливий 2,False
+Sleep (Normal),Sleep (Normal),сон (нормальний),False
+Sleep (Preparing Stage 1),Sleep (Preparing Stage 1),Сон (підготовчий етап 1),False
+Sleep (Preparing Stage 2),Sleep (Preparing Stage 2),Сон (підготовчий етап 2),False
+Sleep (UU),Sleep (UU),Сон (UU),False
+Sparkling,Sparkling,Ігристе,False
+Surprise,Surprise,Сюрприз,False
+Sweat,Sweat,піт,False
+Thumb Down,Thumb Down,Великий палець вниз,False
+Thumb Up,Thumb Up,Великий палець вгору,False
+Type Angry,Type Angry,Тип Злий,False
+Type Annoyed,Type Annoyed,Тип Роздратований,False
+Type Normal,Type Normal,Тип Нормальний,False
+Work Angry,Work Angry,Робота Злий,False
+Work Nap,Work Nap,Робочий сон,False
+Work Normal,Work Normal,Нормальна робота,False
+Work Tired,Work Tired,Робота втомлена,False
+Bell,Bell,дзвоник,False
+Cake,Cake,Торт,False
+Caught in 4K (Phone),Caught in 4K (Phone),Знято в 4K (телефон),False
+Caught in 4K (Video Camera),Caught in 4K (Video Camera),Знято в 4K (відеокамера),False
+Celebration,Celebration,святкування,False
+Head Nod,Head Nod,Кивок головою,False
+Head Shake,Head Shake,Похитування головою,False
+Hypnosis,Hypnosis,Гіпноз,False
+Laugh (Point),Laugh (Point),Сміятися (точка),False
+Love Letter,Love Letter,Любовний лист,False
+Need Food,Need Food,Потрібна їжа,False
+PNGTuber Idle,PNGTuber Idle,PNGTuber не працює,False
+PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber Idle 2,False
+PNGTuber Talk,PNGTuber Talk,PNG Tuber Talk,False
+PNGTuber Talk 2,PNGTuber Talk 2,PNG Tuber Talk 2,False
+PNGTuber Yap,PNGTuber Yap,PNGTuber Yap,False
+Popcat Frame,Popcat Frame,Рамка Popcat,False
+Popcat Smooth,Popcat Smooth,Popcat Smooth,False
+Sing,Sing,Співай,False
+Tablet,Tablet,планшет,False
+Tail Wag,Tail Wag,Виляння хвостом,False

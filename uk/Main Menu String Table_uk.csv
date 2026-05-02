@@ -1,0 +1,95 @@
+Key,en,uk,reviewed
+MainMenu.TabHeaderLable.Editor,Editor,редактор,False
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Ви впевнені, що бажаєте видалити символ ""{0}""? Цю дію не можна скасувати.",False
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","Символ ""{0}"" уже існує. Ви впевнені, що бажаєте перезаписати символ ""{0}""? Цю дію не можна скасувати.",False
+MainMenu.Confirm,Confirm,Підтвердити,False
+MainMenu.Cancel,Cancel,Скасувати,False
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,"Будь ласка, введіть ім'я персонажа:",False
+MainMenu.Editor.Model,Models,Моделі,False
+MainMenu.Editor.Character,Character,персонаж,False
+MainMenu.Editor.Animation,Animation,Анімація,False
+MainMenu.Editor.PartsSelection,Choose Parts,Виберіть частини,False
+MainMenu.Editor.PartsAdjustment,Adjustment,коригування,False
+MainMenu.Search,Search...,пошук...,False
+MainMenu.Editor.SaveCharacter,Save Character,Зберегти символ,False
+MainMenu.Editor.Unload,Clear Character,Чіткий характер,False
+MainMenu.Editor.DeleteCharacter,Delete Character,Видалити символ,False
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,Використовуйте спеціальні текстури,False
+MainMenu.Editor.ReloadTextures,Reload Textures,Перезавантажити текстури,False
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Відкрийте папку Custom Texture,False
+MainMenu.Editor.Color,Color,Колір,False
+MainMenu.Editor.TintColor,TintColor,TintColor,False
+MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor,False
+MainMenu.Editor.LICENSE,LICENSE,ЛІЦЕНЗІЯ,False
+MainMenu.Editor.AssetTypeAA,Default Assets,Активи за замовчуванням,False
+MainMenu.Editor.AssetTypeSA,Third-Party Assets,Активи третіх сторін,False
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Назва не може бути пустою.,False
+MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Назва не може перевищувати {0} символів.,False
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","Назва не може містити символ ""{0}"".",False
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" є зарезервованою назвою, і її не можна використовувати.",False
+MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,Назва не може закінчуватися крапкою.,False
+MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,Назва не може містити лише пробіли.,False
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Вивантажити поточну модель,False
+MainMenu.Settings.GeneralSettings,General Settings,Загальні налаштування,False
+MainMenu.Settings.GeneralSettings.Language,Language,Мова,False
+MainMenu.Settings.ViewportSettings,Viewport Settings,Налаштування вікна перегляду,False
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Швидкість масштабування,False
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Швидкість обертання,False
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Масштаб моделі,False
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Зміщення по горизонталі,False
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Зміщення по вертикалі,False
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Скинути налаштування вікна перегляду,False
+MainMenu.Settings.ExportSettings,Animation Export Settings,Параметри експорту анімації,False
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Зберегти місцезнаходження,False
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Експорт пресетів,False
+MainMenu.Settings.ExportSettings.Encoder,Encoder,Кодувальник,False
+MainMenu.Settings.ExportSettings.Width,Width,Ширина,False
+MainMenu.Settings.ExportSettings.Height,Height,Висота,False
+MainMenu.Settings.ExportSettings.FPS,FPS,FPS,False
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Обмеження Макс. Кількість кадрів,False
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,Макс. Кількість кадрів,False
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Альфа-поріг,False
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Увімкнути дизерінг,False
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Скинути налаштування експорту,False
+MainMenu.Editor.Export,Export Emote,Експорт Emote,False
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,Ліцензія надана розробником моделі. Відображається лише для довідки та не відображає поглядів або правової позиції розробника EmoteLab.,False
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.","Творець цієї сторонньої моделі не надав ліцензію чи умови використання разом із моделлю. Перш ніж використовувати цю модель у публічному, комерційному чи професійному контексті, ви повинні підтвердити дозволену сферу використання безпосередньо у творця моделі.",False
+LicensePopup.Close,Close,Закрити,False
+MainMenu.Editor.OpenExportFolder,Open Export Folder,Відкрийте папку експорту,False
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Завантажте зразки символів для вбудованих моделей,False
+MainMenu.Settings.ModelSettings,Model Settings,Параметри моделі,False
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Збереження даних символів...,False
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Завантаження символу...,False
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Ліцензії третіх осіб,False
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Ліцензійна угода кінцевого користувача (EULA),False
+MainMenu.Info.Documentation,Documentation,Документація,False
+MainMenu.Info.Discord,Join Our Discord,Приєднуйтесь до нашого Discord,False
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.","Цей стиль встановлює правильний формат і розміри. Дуже довгі анімації можуть перевищувати обмеження розміру файлу платформи, а деякі платформи обмежують певний вміст.",False
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Відкрийте локальну папку моделі,False
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Відкрийте папку Character,False
+MainMenu.Info.Log,Open Log Folder,Відкрити папку журналу,False
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Використання глобальної таблиці кольорів,False
+MainMenu.Editor.ExportStatic,Export Static Image,Експорт статичного зображення,False
+MainMenu.Editor.Player.Speed,Speed,швидкість,False
+MainMenu.Settings.StaticImageSettings,Static Image Settings,Параметри статичного зображення,False
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Скинути параметри статичного зображення,False
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Частота дискретизації,False
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Цей перемикач дозволяє перемикатися між внутрішньою та спеціальною текстурою,False
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Відредагуйте файли PNG у папці Custom Texture. Зберігайте з прозорістю та не змінюйте розмір зображення,False
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","Після збереження змін натисніть цю кнопку, щоб застосувати зміни до моделі.",False
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Збережіть свого персонажа. Кнопка збереження розташована під списком символів у лівій частині інтерфейсу.,False
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,"Перш ніж використовувати цю функцію, прочитайте посібник «Використання власних текстур».",False
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,Спеціальна текстура,False
+MainMenu.Editor.Texture.Step1,Step 1,Крок 1,False
+MainMenu.Editor.Texture.Step2,Step 2,Крок 2,False
+MainMenu.Editor.Texture.Step3,Step 3,Крок 3,False
+MainMenu.Editor.Texture.Step4,Step 4,Крок 4,False
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Виправити вибраний контур,False
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Скинути вибраний атлас,False
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,Утиліта текстур,False
+MainMenu.Editor.Texture.SelectAll,Select All,Виберіть усі,False
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Перемкнути вибір,False
+MainMenu.Editor.Texture.AtlasList,Atlas List,Список атласу,False
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Це скине вибрані сторінки атласу до вбудованих версій. Будь-які незбережені зміни буде втрачено та не можна буде відновити. Продовжити?,False
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Алгоритм палітри,False
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,"Це перезапише вибрані файли текстури, і цю дію неможливо скасувати. Продовжити?",False

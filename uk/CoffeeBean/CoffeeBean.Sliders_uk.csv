@@ -1,0 +1,35 @@
+Key,en,uk,reviewed
+Eyelash Length,Eyelash Length,Довжина вій,False
+Brows Distance,Brows Distance,Відстань між бровами,False
+Brows Height,Brows Height,Висота брів,False
+Ear Shape 1,Ear Shape 1,Форма вуха 1,False
+Ear Shape 2,Ear Shape 2,Форма вуха 2,False
+Hair Bang >< Length,Hair Bang >< Length,Чубчик >< довжина,False
+Hair Bang >< Shear,Hair Bang >< Shear,Чубчик >< Стрижка,False
+Hair Bang >> Position,Hair Bang >> Position,Чубчик для волосся >> Положення,False
+Hair Bang >> Length,Hair Bang >> Length,Чубчик >> Довжина,False
+Hair Bang >> Shear,Hair Bang >> Shear,Стрижка >> Стрижка,False
+Hair Bang << Position,Hair Bang << Position,Чубчик для волосся << Положення,False
+Hair Bang << Length,Hair Bang << Length,Чубчик для волосся << Довжина,False
+Hair Bang << Shear,Hair Bang << Shear,Чубчик << Стрижка,False
+Hair Framing << Length,Hair Framing << Length,Обрамлення волосся << Довжина,False
+Hair Framing >> Length,Hair Framing >> Length,Оформлення волосся >> Довжина,False
+Hair Side Length,Hair Side Length,Довжина волосся збоку,False
+Hair Rear Length,Hair Rear Length,Довжина волосся ззаду,False
+Ahoge Position,Ahoge Position,Висока позиція,False
+Ahoge Angle,Ahoge Angle,Ahoge Angle,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Положення вуха та антени тварини,False
+Fin & Gill Position,Fin & Gill Position,Положення плавників і зябер,False
+Halo Position,Halo Position,Положення Halo,False
+Hat Position,Hat Position,Положення капелюха,False
+Horn >> Length,Horn >> Length,Ріг >> Довж,False
+Horn << Length,Horn << Length,Ріг << Довж,False
+Horn >< Length,Horn >< Length,Ріг >< Довж,False
+Horn Position,Horn Position,Положення рога,False
+Ear Wing Position,Ear Wing Position,Положення крила вуха,False
+Wing Size,Wing Size,Розмір крила,False
+Wing Position,Wing Position,Позиція крила,False
+Wing Angle,Wing Angle,Кут крила,False
+Tail Size,Tail Size,Розмір хвоста,False
+Tail Flip,Tail Flip,Перевертання хвоста,False
+Tail Angle,Tail Angle,Кут хвоста,False
