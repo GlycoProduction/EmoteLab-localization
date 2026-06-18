@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,Szárnyszög,False
 Tail Size,Tail Size,Farok mérete,False
 Tail Flip,Tail Flip,Tail Flip,False
 Tail Angle,Tail Angle,Farokszög,False
+Hair Pigtail >> Position,Hair Pigtail >> Position,Haj Pigtail >> Pozíció,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,Haj Pigtail >> Hossz,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,Haj Pigtail >> Szög,False
+Hair Pigtail << Position,Hair Pigtail << Position,Haj Pigtail << Pozíció,False
+Hair Pigtail << Length,Hair Pigtail << Length,Haj Pigtail << Hossz,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,Haj Pigtail << Szög,False
+Hair Ponytail Width,Hair Ponytail Width,Haj lófarok szélessége,False
+Hair Ponytail Length,Hair Ponytail Length,Haj lófarok hossza,False
+Hair Ponytail Angle,Hair Ponytail Angle,Haj lófarok szög,False
+Alert Size,Alert Size,Figyelmeztetés mérete,False

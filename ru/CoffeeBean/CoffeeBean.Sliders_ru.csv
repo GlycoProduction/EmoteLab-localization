@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,Крылья - Угол,False
 Tail Size,Tail Size,Хвост - Размер,False
 Tail Flip,Tail Flip,Хвост - Отразить,False
 Tail Angle,Tail Angle,Хвост - Угол,False
+Hair Pigtail >> Position,Hair Pigtail >> Position,Косичка >> Позиция,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,Косичка >> Длина,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,Косичка >> Угол,False
+Hair Pigtail << Position,Hair Pigtail << Position,Косичка для волос << Позиция,False
+Hair Pigtail << Length,Hair Pigtail << Length,Косичка для волос << Длина,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,Косичка для волос << Угол,False
+Hair Ponytail Width,Hair Ponytail Width,Ширина хвоста волос,False
+Hair Ponytail Length,Hair Ponytail Length,Длина хвоста волос,False
+Hair Ponytail Angle,Hair Ponytail Angle,Угол хвоста волос,False
+Alert Size,Alert Size,Размер оповещения,False

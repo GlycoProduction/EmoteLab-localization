@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,Färg,False
 MainMenu.Editor.TintColor,TintColor,TintColor,False
 MainMenu.Editor.TintBlackColor,TintBlackColor,NyansSvartFärg,False
 MainMenu.Editor.LICENSE,LICENSE,LICENS,False
-MainMenu.Editor.AssetTypeAA,Default Assets,Standardtillgångar,False
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Tredjepartstillgångar,False
+MainMenu.Editor.AssetTypeAA,Built-in,Standardtillgångar,False
+MainMenu.Editor.AssetTypeSA,Third-Party,Tredjepartstillgångar,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Namnet får inte vara tomt.,False
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Namnet får inte överstiga {0} tecken.,False
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","Namnet får inte innehålla tecknet ""{0}"".",False
@@ -97,13 +97,57 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Vissa språk översätts av vår community eller assisteras av maskinöversättning, så kvaliteten kan variera.
+Want to contribute? Join us on {1}.","Vissa språk översätts av vår community eller assisteras av maskinöversättning, så kvaliteten kan variera.
 
 Du kan ändra språket i Inställningar.
 
-Se våra <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">bidragsgivare på GitHub</link>.
+Se våra {0}.
 
-Vill du bidra? Gå med oss ​​på <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
+Vill du bidra? Gå med oss ​​på {1}.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,community-bidragsgivare på GitHub,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Visa inte detta igen,False
+MainMenu.Editor.AssetTypeWS,Workshop,Verkstad,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Publicera Model to Workshop,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,Publicera karaktär till verkstad,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,Uppladdningsläge,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,Skapa nytt objekt,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,Uppdatera befintligt objekt,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,Objekt att uppdatera,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,Titel,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,Beskrivning,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,Synlighet,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,Offentlig,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,Endast vänner,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,Privat,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,Onoterat,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,Ändra anteckning,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),Obligatoriska objekt (PublishedFileIds),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),Förhandsgranska bild (PNG/JPG sökväg),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,Publicera,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,Avboka,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(belastning...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(inga publicerade föremål),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(Steam inte redo),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,Väntar på Steam-metadata...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,Välj ett publicerat verkstadsobjekt att uppdatera.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,Titel krävs.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,Fixa förhandsgranskningsbilden innan publicering.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,Skapar verkstadsobjekt...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,Laddar upp verkstadsobjekt...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,Förhandsgranskningsbildfilen hittades inte.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","Förhandsgranskningsbilden måste vara en PNG, JPG eller GIF.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,Förhandsgranskningsbilden måste vara 1 MB eller mindre (för närvarande {0} KB).,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},Det gick inte att läsa förhandsgranskningsbilden: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,Förhandsgranskningsbilden kunde inte avkodas.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},Obligatoriskt PublishedFileId är ogiltigt: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam initieras inte.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Verkstadsobjekt laddat upp: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,Publicera mellanlagringsfiler har ändrats. Stäng den här dialogrutan och publicera igen.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,Verifierar obligatoriska verkstadsobjekt...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,Det gick inte att verifiera obligatoriska verkstadsartiklar.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,Verkstadsobjektet {0} hittades inte eller är inte tillgängligt.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Verkstadsobjektet {0} tillhör inte den här appen.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Viewport-fångst misslyckades: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Förhandsvisning fångad från viewport.,False

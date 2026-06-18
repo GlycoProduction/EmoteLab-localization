@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,Kanatların Açısı,True
 Tail Size,Tail Size,Kuyruk Boyutu,True
 Tail Flip,Tail Flip,Kuyruk Dönüşü,True
 Tail Angle,Tail Angle,Kuyruk Açısı,True
+Hair Pigtail >> Position,Hair Pigtail >> Position,Saç Örgüsü >> Konum,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,Saç Örgüsü >> Uzunluk,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,Saç Örgüsü >> Açı,False
+Hair Pigtail << Position,Hair Pigtail << Position,Saç Örgüsü << Konumu,False
+Hair Pigtail << Length,Hair Pigtail << Length,Saç Örgüsü << Uzunluk,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,Saç Örgüsü << Açı,False
+Hair Ponytail Width,Hair Ponytail Width,Saç At Kuyruğu Genişliği,False
+Hair Ponytail Length,Hair Ponytail Length,Saç At Kuyruğu Uzunluğu,False
+Hair Ponytail Angle,Hair Ponytail Angle,Saç At Kuyruğu Açısı,False
+Alert Size,Alert Size,Uyarı Boyutu,False

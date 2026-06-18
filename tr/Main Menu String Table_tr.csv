@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,Renk,True
 MainMenu.Editor.TintColor,TintColor,Ana Renk,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,Alt Renk,True
 MainMenu.Editor.LICENSE,LICENSE,LİSANS,True
-MainMenu.Editor.AssetTypeAA,Default Assets,Standart İçerikler,True
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Üçüncü Parti İçerikler,True
+MainMenu.Editor.AssetTypeAA,Built-in,Standart İçerikler,False
+MainMenu.Editor.AssetTypeSA,Third-Party,Üçüncü Parti İçerikler,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,İsim boş bırakılamaz.,True
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,"İsim, {0} harfi geçemez.",True
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","İsimde ""{0}“ sembolü olamaz.",True
@@ -97,13 +97,57 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Bazı diller topluluğumuz tarafından çevrilmekte veya makine çevirisiyle desteklenmektedir, dolayısıyla kalite farklılık gösterebilir.
+Want to contribute? Join us on {1}.","Bazı diller topluluğumuz tarafından çevrilmekte veya makine çevirisiyle desteklenmektedir, dolayısıyla kalite farklılık gösterebilir.
 
 Dili Ayarlar'dan değiştirebilirsiniz.
 
-<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub'daki topluluğa katkıda bulunanlarımıza</link> bakın.
+{0} bakın.
 
-Katkıda bulunmak ister misiniz? <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>'ta bize katılın.",True
+Katkıda bulunmak ister misiniz? {1}.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,GitHub'a katkıda bulunan topluluk üyeleri,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Bunu bir daha gösterme,True
+MainMenu.Editor.AssetTypeWS,Workshop,Atölye,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Modeli Atölyede Yayınla,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,Karakteri Atölyeye Yayınla,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,Yükleme modu,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,Yeni öğe oluştur,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,Mevcut öğeyi güncelle,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,Güncellenecek öğe,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,Başlık,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,Tanım,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,Görünürlük,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,Halk,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,Yalnızca Arkadaşlar,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,Özel,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,Liste dışı,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,Notu değiştir,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),Gerekli Öğeler (Yayınlanan Dosya Kimlikleri),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),Önizleme resmi (PNG/JPG yolu),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,Yayınla,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,İptal etmek,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(yükleniyor...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(yayınlanmış öğe yok),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(Buhar hazır değil),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,Steam meta verileri bekleniyor...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,Güncellemek için yayınlanmış bir Atölye öğesini seçin.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,Başlık gerekli.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,Yayınlamadan önce önizleme görüntüsünü düzeltin.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,Atölye öğesi oluşturuluyor...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,Atölye öğesi yükleniyor...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,Önizleme resim dosyası bulunamadı.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","Önizleme resmi PNG, JPG veya GIF olmalıdır.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,Önizleme resmi 1 MB veya daha küçük olmalıdır (şu anda {0} KB).,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},Önizleme resmi okunamadı: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,Önizleme görüntüsünün kodu çözülemedi.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},Gerekli PublishedFileId geçersiz: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam başlatılmadı.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Atölye öğesi yüklendi: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,Yayınlama hazırlama dosyaları değiştirildi. Bu iletişim kutusunu kapatın ve yeniden yayınlayın.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,Gerekli Atölye öğeleri doğrulanıyor...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,Gerekli Atölye öğeleri doğrulanamadı.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,Atölye öğesi {0} bulunamadı veya erişilemiyor.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Atölye öğesi {0} bu uygulamaya ait değil.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Görünüm yakalama başarısız oldu: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Görünüm alanından çekilen önizleme.,False

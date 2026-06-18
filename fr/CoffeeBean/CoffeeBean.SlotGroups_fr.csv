@@ -170,9 +170,9 @@ Square Sign Text,Square Sign Text,Texte Panneau Carré,True
 Steering Wheel,Steering Wheel,Volant,True
 Gas Bottle,Gas Bottle,Bouteille de Gaz,True
 Pat Hand,Pat Hand,Main Pat,True
-Sticker Alert,Sticker Alert,Alerte (Coeur, Pouce etc...),True
-Sticker Alert Effect,Sticker Alert Effect,Effet Alerte (Coeur, Pouce etc...),True
-Sticker Alert Outline,Sticker Alert Outline,Contour Alerte (Coeur, Pouce etc...),True
+Sticker Alert,Sticker Alert,"Alerte (Coeur, Pouce etc...)",True
+Sticker Alert Effect,Sticker Alert Effect,"Effet Alerte (Coeur, Pouce etc...)",True
+Sticker Alert Outline,Sticker Alert Outline,"Contour Alerte (Coeur, Pouce etc...)",True
 Sticker Angry,Sticker Angry,Colère,True
 Sticker Exclamation Mark,Sticker Exclamation Mark,Point d'Exclamation,True
 Sticker Ghost,Sticker Ghost,Fantôme,True
@@ -269,3 +269,9 @@ Toilet,Toilet,Toilettes,True
 Trash Bin,Trash Bin,Poubelle,True
 Wave Hand,Wave Hand,Main Coucou,True
 Swatter,Swatter,Tapette à Mouche,True
+Hair Ponytail,Hair Ponytail,Queue de cheval,False
+Hair Ponytail Outline,Hair Ponytail Outline,Aperçu de la queue de cheval,False
+Eyepatch,Eyepatch,Cache-œil,False
+Eyepatch Outline,Eyepatch Outline,Contour du cache-œil,False
+Number Six,Number Six,Numéro six,False
+Number Seven,Number Seven,Numéro Sept,False

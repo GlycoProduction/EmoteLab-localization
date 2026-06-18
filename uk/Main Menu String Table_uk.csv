@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,Колір,False
 MainMenu.Editor.TintColor,TintColor,TintColor,False
 MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor,False
 MainMenu.Editor.LICENSE,LICENSE,ЛІЦЕНЗІЯ,False
-MainMenu.Editor.AssetTypeAA,Default Assets,Активи за замовчуванням,False
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Активи третіх сторін,False
+MainMenu.Editor.AssetTypeAA,Built-in,Активи за замовчуванням,False
+MainMenu.Editor.AssetTypeSA,Third-Party,Активи третіх сторін,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Назва не може бути пустою.,False
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Назва не може перевищувати {0} символів.,False
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","Назва не може містити символ ""{0}"".",False
@@ -97,13 +97,57 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Деякі мови перекладаються нашою спільнотою або за допомогою машинного перекладу, тому якість може відрізнятися.
+Want to contribute? Join us on {1}.","Деякі мови перекладаються нашою спільнотою або за допомогою машинного перекладу, тому якість може відрізнятися.
 
 Ви можете змінити мову в налаштуваннях.
 
-Дивіться <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">учасників спільноти на GitHub</link>.
+Дивіться {0}.
 
-Хочете зробити внесок? Приєднуйтесь до нас на <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
+Хочете зробити внесок? Приєднуйтесь до нас на {1}.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,учасників спільноти на GitHub,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Не показувати це знову,False
+MainMenu.Editor.AssetTypeWS,Workshop,Майстерня,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Опублікувати модель у Workshop,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,Опублікувати персонажа в майстерні,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,Режим завантаження,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,Створити новий елемент,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,Оновити наявний елемент,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,Елемент для оновлення,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,Назва,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,опис,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,Видимість,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,Громадський,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,Тільки друзі,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,Приватний,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,Не в списку,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,Змінити примітку,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),Необхідні елементи (PublishedFileIds),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),Попередній перегляд зображення (шлях PNG/JPG),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,Опублікувати,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,Скасувати,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(завантаження...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(немає опублікованих елементів),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(Steam не готовий),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,Очікування метаданих Steam...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,Виберіть опублікований елемент Workshop для оновлення.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,Необхідно вказати назву.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,Виправте зображення попереднього перегляду перед публікацією.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,Створення елемента майстерні...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,Завантаження предмета майстерні...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,Файл попереднього перегляду зображення не знайдено.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","Зображення попереднього перегляду має бути у форматі PNG, JPG або GIF.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,Розмір попереднього зображення має бути 1 МБ або менше (наразі {0} КБ).,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},Не вдалося прочитати зображення попереднього перегляду: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,Не вдалося декодувати зображення попереднього перегляду.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},Необхідний PublishedFileId недійсний: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam не ініціалізовано.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Завантажено предмет майстерні: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,Постановчі файли публікації змінено. Закрийте це діалогове вікно та опублікуйте знову.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,Перевірка необхідних предметів майстерні...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,Не вдалося перевірити необхідні елементи майстерні.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,Елемент майстерні {0} не знайдено або недоступний.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Елемент майстерні {0} не належить до цієї програми.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Помилка захоплення області перегляду: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Попередній перегляд зроблено з вікна перегляду.,False

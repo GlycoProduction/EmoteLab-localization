@@ -119,7 +119,7 @@ TrashTuber Talk,TrashTuber Talk,TrashTuber 说话,True
 TrashTuber Yap,TrashTuber Yap,TrashTuber 说教,True
 Cheers,Cheers,干杯,True
 Dance 1,Dance 1,跳舞 1,True
-Dance (Caramelldansen),Dance (Caramelldansen),跳舞 (Caramelldansen),True
+Dance (Caramelldansen),Dance (Caramelldansen),跳舞(Caramelldansen),True
 Dance (Helltaker),Dance (Helltaker),跳舞(Helltaker),True
 Dance (Low Cortisol),Dance (Low Cortisol),跳舞(低皮质醇),True
 Eat (Donut),Eat (Donut),吃(甜甜圈),True
@@ -130,5 +130,19 @@ Greeting 1,Greeting 1,打招呼 1,True
 Greeting 2,Greeting 2,打招呼 2,True
 Sparkling 1,Sparkling 1,期待 1,True
 Sparkling 2,Sparkling 2,期待 2,True
-Think (Confident),Think (Confident),思考（自信地）,True
+Think (Confident),Think (Confident),思考(自信地),True
 Think (Serious),Think (Serious),思考（认真地）,True
+Alert Custom,Alert Custom,通知/自定义,True
+Button,Button,按钮,True
+Card Swipe,Card Swipe,刷卡,True
+Coke Shake,Coke Shake,摇可乐,True
+Dance (Scuba),Dance (Scuba),舞蹈(散味),True
+Gift 1,Gift 1,礼物 1,True
+Gift 2,Gift 2,礼物 2,True
+Magic,Magic,魔法,True
+Reverse,Reverse,反转,True
+Scared 1,Scared 1,害怕 1,True
+Scared 2,Scared 2,害怕 2,True
+Six Seven,Six Seven,六七,True
+Six Seven (Dum),Six Seven (Dum),六七(呆),True
+Take My Money,Take My Money,拿走我的钱,True

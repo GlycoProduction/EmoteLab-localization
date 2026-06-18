@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,Flügel Winkel,True
 Tail Size,Tail Size,Schwanz Größe,True
 Tail Flip,Tail Flip,Schwanz Spiegeln,True
 Tail Angle,Tail Angle,Schwanz Winkel,True
+Hair Pigtail >> Position,Hair Pigtail >> Position,Haarzopf >> Position,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,Haarzopf >> Länge,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,Haarzopf >> Winkel,False
+Hair Pigtail << Position,Hair Pigtail << Position,Haarzopf << Position,False
+Hair Pigtail << Length,Hair Pigtail << Length,Haarzopf << Länge,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,Haarzopf << Winkel,False
+Hair Ponytail Width,Hair Ponytail Width,Haar-Pferdeschwanz-Breite,False
+Hair Ponytail Length,Hair Ponytail Length,Haarlänge: Pferdeschwanz,False
+Hair Ponytail Angle,Hair Ponytail Angle,Haar-Pferdeschwanz-Winkel,False
+Alert Size,Alert Size,Alarmgröße,False

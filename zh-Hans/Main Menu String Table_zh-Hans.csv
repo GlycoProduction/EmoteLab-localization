@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,颜色,True
 MainMenu.Editor.TintColor,TintColor,浅色,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,深色,True
 MainMenu.Editor.LICENSE,LICENSE,使用条款,True
-MainMenu.Editor.AssetTypeAA,Default Assets,内置模型,True
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,第三方模型,True
+MainMenu.Editor.AssetTypeAA,Built-in,内置,True
+MainMenu.Editor.AssetTypeSA,Third-Party,第三方,True
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,角色名不得为空。,True
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,角色名不得超过{0}个字符。,True
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",角色名不得包含特殊字符“{0}”。,True
@@ -97,13 +97,57 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","部分语言由我们的社区翻译或由机器翻译协助完成，因此质量可能有所不同。
+Want to contribute? Join us on {1}.","部分语言由我们的社区翻译或由机器翻译协助完成，因此质量可能有所不同。
 
 您可在设置中更改语言。
 
-请在<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub</link>上查看我们的社区贡献者。
+请在{0}上查看我们的社区贡献者。
 
-想要参与？欢迎通过<link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>加入我们。",True
+想要参与？欢迎通过{1}加入我们。",True
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,GitHub 上的社区贡献者,True
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,不再显示,True
+MainMenu.Editor.AssetTypeWS,Workshop,创意工坊,True
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,将模型发布至创意工坊,True
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,将角色发布至创意工坊,True
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,上传方式,True
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,创建新物品,True
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,更新现有物品,True
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,需要更新的物品,True
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,标题,True
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,描述,True
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,可见性,True
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,公开,True
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,仅限好友,True
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,隐藏,True
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,非公开,True
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,改动说明,True
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),必需物品（PublishedFileIds）,True
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),预览图像（PNG/JPG 路径）,True
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,发布,True
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,取消,True
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),（加载中...）,True
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),（没有发布过的物品）,True
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),（Steam未准备好）,True
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,正在等待 Steam 元数据...,True
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,请选择要更新的已发布创意工坊物品。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,标题为必填项。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,发布前请修复预览图像。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,正在创建创意工坊物品...,True
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,正在上传创意工坊物品...,True
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,未找到预览图像文件。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.",预览图像必须是 PNG、JPG 或 GIF。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,预览图像必须为 1 MB 或更小（当前为 {0} KB）。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},无法读取预览图像：{0},True
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,无法解码预览图像。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},所需的 PublishedFileId 无效：{0},True
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam 未初始化。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},上传的创意工坊物品：{0},True
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,发布暂存文件被修改。关闭此对话框并再次发布。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,正在验证所需的创意工坊物品...,True
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,无法验证所需的创意工坊物品。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,找不到或无法访问创意工坊项目 {0}。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,创意工坊项目 {0} 不属于此应用程序。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},视口捕获失败：{0},True
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,从视口捕获预览图像。,True

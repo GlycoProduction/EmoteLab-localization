@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,翼 角度,True
 Tail Size,Tail Size,しっぽ サイズ,True
 Tail Flip,Tail Flip,しっぽ 反転,True
 Tail Angle,Tail Angle,しっぽ 角度,True
+Hair Pigtail >> Position,Hair Pigtail >> Position,ヘアピグテール >> ポジション,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,おさげ髪 >> 長さ,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,ヘアピグテール >> アングル,False
+Hair Pigtail << Position,Hair Pigtail << Position,ヘアピグテール << 位置,False
+Hair Pigtail << Length,Hair Pigtail << Length,おさげ髪 << 長さ,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,ヘアピグテール << アングル,False
+Hair Ponytail Width,Hair Ponytail Width,ポニーテールの髪の幅,False
+Hair Ponytail Length,Hair Ponytail Length,ポニーテールの髪の長さ,False
+Hair Ponytail Angle,Hair Ponytail Angle,ヘアポニーテールの角度,False
+Alert Size,Alert Size,アラートのサイズ,False

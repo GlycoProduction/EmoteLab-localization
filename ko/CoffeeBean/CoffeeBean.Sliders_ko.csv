@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,날개 각도,True
 Tail Size,Tail Size,꼬리 크기,True
 Tail Flip,Tail Flip,꼬리 좌우반전,True
 Tail Angle,Tail Angle,꼬리 각도,True
+Hair Pigtail >> Position,Hair Pigtail >> Position,머리 피그테일 >> 위치,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,머리 피그테일 >> 길이,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,헤어 피그테일 >> 각도,False
+Hair Pigtail << Position,Hair Pigtail << Position,머리 피그테일 << 위치,False
+Hair Pigtail << Length,Hair Pigtail << Length,머리 피그테일 << 길이,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,머리 피그테일 << 각도,False
+Hair Ponytail Width,Hair Ponytail Width,머리 포니테일 너비,False
+Hair Ponytail Length,Hair Ponytail Length,머리 포니테일 길이,False
+Hair Ponytail Angle,Hair Ponytail Angle,헤어 포니테일 각도,False
+Alert Size,Alert Size,경고 크기,False

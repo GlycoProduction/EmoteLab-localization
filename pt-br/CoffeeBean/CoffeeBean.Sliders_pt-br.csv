@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,Ângulo das Asas,True
 Tail Size,Tail Size,Tamanho da Cauda,True
 Tail Flip,Tail Flip,Lado da Cauda,True
 Tail Angle,Tail Angle,Ângulo da Cauda,True
+Hair Pigtail >> Position,Hair Pigtail >> Position,Trança de cabelo >> Posição,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,Trança de cabelo >> Comprimento,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,Trança de cabelo >> Ângulo,False
+Hair Pigtail << Position,Hair Pigtail << Position,Trança de cabelo << Posição,False
+Hair Pigtail << Length,Hair Pigtail << Length,Trança de cabelo << comprimento,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,Trança de cabelo << Ângulo,False
+Hair Ponytail Width,Hair Ponytail Width,Largura do rabo de cavalo do cabelo,False
+Hair Ponytail Length,Hair Ponytail Length,Comprimento do rabo de cavalo,False
+Hair Ponytail Angle,Hair Ponytail Angle,Ângulo de rabo de cavalo de cabelo,False
+Alert Size,Alert Size,Tamanho do alerta,False

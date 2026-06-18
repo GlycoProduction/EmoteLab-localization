@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,翅膀 角度,True
 Tail Size,Tail Size,尾巴 大小,True
 Tail Flip,Tail Flip,尾巴 翻转,True
 Tail Angle,Tail Angle,尾巴 角度,True
+Hair Pigtail >> Position,Hair Pigtail >> Position,头发 马尾 >> 位置,True
+Hair Pigtail >> Length,Hair Pigtail >> Length,头发 马尾 >> 长度,True
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,头发 马尾 >> 角度,True
+Hair Pigtail << Position,Hair Pigtail << Position,头发 马尾 << 位置,True
+Hair Pigtail << Length,Hair Pigtail << Length,头发 马尾 << 长度,True
+Hair Pigtail << Angle,Hair Pigtail << Angle,头发 马尾 << 角度,True
+Hair Ponytail Width,Hair Ponytail Width,头发 单马尾 宽度,True
+Hair Ponytail Length,Hair Ponytail Length,头发 单马尾 长度,True
+Hair Ponytail Angle,Hair Ponytail Angle,头发 单马尾 角度,True
+Alert Size,Alert Size,通知图标大小,True

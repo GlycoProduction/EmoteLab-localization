@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,Color,True
 MainMenu.Editor.TintColor,TintColor,TintedeColor,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,TinteColorNegro,True
 MainMenu.Editor.LICENSE,LICENSE,LICENCIA,True
-MainMenu.Editor.AssetTypeAA,Default Assets,Texturas Predeterminadas,True
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Texturas de Terceros,True
+MainMenu.Editor.AssetTypeAA,Built-in,Texturas Predeterminadas,False
+MainMenu.Editor.AssetTypeSA,Third-Party,Texturas de Terceros,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,El nombre no puede estar vacío.,True
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,El nombre no puede exceder los {0} caracteres.,True
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","El nombre no puede contener el carácter ""{0}"".",True
@@ -97,13 +97,57 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Algunos idiomas son traducidos por nuestra comunidad o asistidos por traducción automática, por lo que la calidad puede variar.
+Want to contribute? Join us on {1}.","Algunos idiomas son traducidos por nuestra comunidad o asistidos por traducción automática, por lo que la calidad puede variar.
 
 Puedes cambiar el idioma en Configuración.
 
-Vea nuestros <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">colaboradores de la comunidad en GitHub</link>.
+Vea nuestros {0}.
 
-¿Quieres contribuir? Únase a nosotros en <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
+¿Quieres contribuir? Únase a nosotros en {1}.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,contribuyentes de la comunidad en GitHub,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,No vuelvas a mostrar esto,False
+MainMenu.Editor.AssetTypeWS,Workshop,Taller,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Publicar modelo en taller,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,Publicar personaje en el taller,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,Modo de carga,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,Crear nuevo artículo,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,Actualizar elemento existente,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,Artículo para actualizar,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,Título,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,Descripción,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,Visibilidad,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,Público,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,Sólo amigos,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,Privado,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,No estante en la lista,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,Cambiar nota,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),Elementos necesarios (PublishedFileIds),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),Imagen de vista previa (ruta PNG/JPG),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,Publicar,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,Cancelar,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(cargando...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(no hay artículos publicados),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(El vapor no está listo),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,Esperando metadatos de Steam...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,Seleccione un elemento de Workshop publicado para actualizar.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,Se requiere título.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,Corrige la imagen de vista previa antes de publicarla.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,Creando elemento de taller...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,Subiendo elemento del taller...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,Archivo de imagen de vista previa no encontrado.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","La imagen de vista previa debe ser PNG, JPG o GIF.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,La imagen de vista previa debe tener 1 MB o menos (actualmente {0} KB).,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},No se pudo leer la imagen de vista previa: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,La imagen de vista previa no se pudo decodificar.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},El PublishedFileId requerido no es válido: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam no está inicializado.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Artículo del taller subido: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,Se modificaron los archivos provisionales de publicación. Cierre este cuadro de diálogo y publíquelo nuevamente.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,Verificando los elementos de taller requeridos...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,No se pudieron verificar los artículos requeridos del taller.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,El elemento del taller {0} no se encontró o no se puede acceder a él.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,El artículo del taller {0} no pertenece a esta aplicación.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Error en la captura de la ventana gráfica: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Vista previa capturada desde la ventana gráfica.,False

@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,Ángulo del ala,False
 Tail Size,Tail Size,Tamaño de la cola,False
 Tail Flip,Tail Flip,Voltear la cola,False
 Tail Angle,Tail Angle,Ángulo de cola,False
+Hair Pigtail >> Position,Hair Pigtail >> Position,Coleta de pelo >> Posición,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,Coleta de pelo >> Longitud,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,Coleta de pelo >> Ángulo,False
+Hair Pigtail << Position,Hair Pigtail << Position,Coleta de pelo << Posición,False
+Hair Pigtail << Length,Hair Pigtail << Length,Coleta de pelo << Longitud,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,Coleta de pelo << Ángulo,False
+Hair Ponytail Width,Hair Ponytail Width,Ancho de la cola de caballo del cabello,False
+Hair Ponytail Length,Hair Ponytail Length,Longitud de la cola de caballo del pelo,False
+Hair Ponytail Angle,Hair Ponytail Angle,Ángulo de cola de caballo de pelo,False
+Alert Size,Alert Size,Tamaño de alerta,False

@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,Vingevinkel,False
 Tail Size,Tail Size,Svansstorlek,False
 Tail Flip,Tail Flip,Tail Flip,False
 Tail Angle,Tail Angle,Svansvinkel,False
+Hair Pigtail >> Position,Hair Pigtail >> Position,Hår Pigtail >> Position,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,Hår Pigtail >> Längd,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,Hår Pigtail >> Vinkel,False
+Hair Pigtail << Position,Hair Pigtail << Position,Hår Pigtail << Position,False
+Hair Pigtail << Length,Hair Pigtail << Length,Hår Pigtail << Längd,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,Hår Pigtail << Vinkel,False
+Hair Ponytail Width,Hair Ponytail Width,Hår hästsvans bredd,False
+Hair Ponytail Length,Hair Ponytail Length,Hår hästsvans längd,False
+Hair Ponytail Angle,Hair Ponytail Angle,Hår hästsvansvinkel,False
+Alert Size,Alert Size,Varningsstorlek,False

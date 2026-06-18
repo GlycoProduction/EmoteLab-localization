@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,Aile Angle,True
 Tail Size,Tail Size,Queue Taille,True
 Tail Flip,Tail Flip,Queue Retournée,True
 Tail Angle,Tail Angle,Queue Angle,True
+Hair Pigtail >> Position,Hair Pigtail >> Position,Queue de cochon >> Position,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,Queue de cochon >> Longueur,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,Queue de cochon >> Angle,False
+Hair Pigtail << Position,Hair Pigtail << Position,Queue de cochon << Position,False
+Hair Pigtail << Length,Hair Pigtail << Length,Queue de cochon << Longueur,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,Queue de cochon << Angle,False
+Hair Ponytail Width,Hair Ponytail Width,Largeur de la queue de cheval,False
+Hair Ponytail Length,Hair Ponytail Length,Longueur de la queue de cheval,False
+Hair Ponytail Angle,Hair Ponytail Angle,Angle de queue de cheval,False
+Alert Size,Alert Size,Taille de l'alerte,False

@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,Szín,False
 MainMenu.Editor.TintColor,TintColor,TintColor,False
 MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor,False
 MainMenu.Editor.LICENSE,LICENSE,ENGEDÉLY,False
-MainMenu.Editor.AssetTypeAA,Default Assets,Alapértelmezett eszközök,False
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Harmadik féltől származó eszközök,False
+MainMenu.Editor.AssetTypeAA,Built-in,Alapértelmezett eszközök,False
+MainMenu.Editor.AssetTypeSA,Third-Party,Harmadik féltől származó eszközök,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,A név nem lehet üres.,False
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,A név nem haladhatja meg a {0} karaktert.,False
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","A név nem tartalmazhatja a ""{0}"" karaktert.",False
@@ -97,13 +97,57 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Egyes nyelveket közösségünk fordít, vagy gépi fordítás segíti elő, így a minőség változhat.
+Want to contribute? Join us on {1}.","Egyes nyelveket közösségünk fordít, vagy gépi fordítás segíti elő, így a minőség változhat.
 
 A nyelvet a Beállításokban módosíthatja.
 
-Tekintse meg <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">közösségi közreműködőinket a GitHubon</link>.
+Tekintse meg {0}.
 
-Szeretnél hozzájárulni? Csatlakozz hozzánk a <link=""https://discord.gg/Xt8dAV8YF7"">Discordon</link>.",False
+Szeretnél hozzájárulni? Csatlakozz hozzánk a {1}.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,közösségi közreműködők a GitHubon,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Ne mutasd ezt újra,False
+MainMenu.Editor.AssetTypeWS,Workshop,Műhely,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Modell közzététele a műhelyben,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,Karakter közzététele a műhelyben,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,Feltöltés mód,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,Új elem létrehozása,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,Meglévő elem frissítése,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,Frissítendő elem,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,Cím,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,Leírás,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,Láthatóság,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,Nyilvános,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,Csak barátok,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,Magán,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,Nem listázott,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,Jegyzet módosítása,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),Kötelező elemek (PublishedFileIds),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),Előnézeti kép (PNG/JPG elérési út),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,Közzététel,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,Mégse,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(terhelés...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(nincs közzétett cikk),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(A Steam nincs kész),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,Várakozás a Steam metaadatokra...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,Válasszon ki egy frissíteni kívánt műhelyelemet.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,A cím kötelező.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,Közzététel előtt javítsa ki az előnézeti képet.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,Workshop elem létrehozása...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,Workshop elem feltöltése...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,Az előnézeti képfájl nem található.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","Az előnézeti képnek PNG, JPG vagy GIF formátumúnak kell lennie.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,Az előnézeti kép 1 MB vagy kisebb lehet (jelenleg {0} KB).,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},Nem sikerült beolvasni az előnézeti képet: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,Az előnézeti kép nem dekódolható.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},A kötelező PublishedFileId érvénytelen: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,A Steam nincs inicializálva.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Műhelyelem feltöltve: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,"A közzétételi staging fájlok módosultak. Zárja be ezt a párbeszédpanelt, és tegye közzé újra.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,Szükséges műhelyelemek ellenőrzése...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,Nem sikerült ellenőrizni a szükséges műhelyelemeket.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,A(z) {0} műhelyelem nem található vagy nem érhető el.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,A(z) {0} műhelyelem nem ehhez az alkalmazáshoz tartozik.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},A nézetablak rögzítése nem sikerült: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,A nézetablakból rögzített előnézet.,False

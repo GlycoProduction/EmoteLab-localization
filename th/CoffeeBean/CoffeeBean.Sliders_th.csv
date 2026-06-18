@@ -33,3 +33,13 @@ Wing Angle,Wing Angle,มุมปีก,True
 Tail Size,Tail Size,ขนาดหาง,True
 Tail Flip,Tail Flip,พลิกหาง,True
 Tail Angle,Tail Angle,มุมหาง,True
+Hair Pigtail >> Position,Hair Pigtail >> Position,ผมเปีย >> ตำแหน่ง,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,ผมเปีย >> ความยาว,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,ผมเปีย >> มุม,False
+Hair Pigtail << Position,Hair Pigtail << Position,ผมเปีย << ตำแหน่ง,False
+Hair Pigtail << Length,Hair Pigtail << Length,ผมเปีย << ความยาว,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,ผมเปีย << มุม,False
+Hair Ponytail Width,Hair Ponytail Width,ผมหางม้ากว้าง,False
+Hair Ponytail Length,Hair Ponytail Length,ผมหางม้ายาว,False
+Hair Ponytail Angle,Hair Ponytail Angle,มุมผมหางม้า,False
+Alert Size,Alert Size,ขนาดการแจ้งเตือน,False

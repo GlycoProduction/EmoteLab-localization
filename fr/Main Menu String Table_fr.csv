@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,Couleur,True
 MainMenu.Editor.TintColor,TintColor,TeinteCouleur,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,TeinteNoireCouleur,True
 MainMenu.Editor.LICENSE,LICENSE,LICENCE,True
-MainMenu.Editor.AssetTypeAA,Default Assets,Actifs par Défaut,True
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Assets Applications Tierces,True
+MainMenu.Editor.AssetTypeAA,Built-in,Actifs par Défaut,False
+MainMenu.Editor.AssetTypeSA,Third-Party,Assets Applications Tierces,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Le nom ne peut pas être vide.,True
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Le nom ne peut pas dépasser {0} caractères.,True
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","Le nom ne peut pas contenir le caractère ""{0}"".",True
@@ -92,18 +92,62 @@ MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Basculer la sélection,
 MainMenu.Editor.Texture.AtlasList,Atlas List,Liste de l'Atlas,True
 MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Cela réinitialisera les pages d'atlas sélectionnées vers les versions d'origine. Toute modification non enregistrée sera perdue et irrécupérable. Continuer ?,True
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Algorithme de palette,True
-MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue ?,Cela écrasera les fichiers des textures sélectionnés et ne pourra pas être annulé. Continuer ?,True
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Cela écrasera les fichiers des textures sélectionnés et ne pourra pas être annulé. Continuer ?,False
 MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Certaines langues sont traduites par notre communauté ou assistées par la traduction automatique, la qualité peut donc varier.
+Want to contribute? Join us on {1}.","Certaines langues sont traduites par notre communauté ou assistées par la traduction automatique, la qualité peut donc varier.
 
 Vous pouvez changer la langue dans les Paramètres.
 
-Consultez nos <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">contributeurs de la communauté sur GitHub</link>.
+Consultez nos {0}.
 
-Vous voulez contribuer ? Rejoignez-nous sur <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",True
+Vous voulez contribuer ? Rejoignez-nous sur {1}.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,contributeurs de la communauté sur GitHub,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Ne plus montrer ça,True
+MainMenu.Editor.AssetTypeWS,Workshop,Atelier,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Publier le modèle dans l'atelier,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,Publier un personnage dans l'atelier,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,Mode de téléchargement,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,Créer un nouvel élément,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,Mettre à jour l'élément existant,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,Élément à mettre à jour,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,Titre,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,Description,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,Visibilité,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,Publique,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,Amis seulement,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,Privé,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,Non répertorié,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,Modifier la note,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),Éléments requis (PublishedFileIds),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),Image d'aperçu (chemin PNG/JPG),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,Publier,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,Annuler,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(chargement...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(aucun élément publié),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(La vapeur n'est pas prête),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,En attente des métadonnées Steam...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,Sélectionnez un élément d'atelier publié à mettre à jour.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,Le titre est requis.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,Corrigez l'image d'aperçu avant de publier.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,Création d'un élément d'atelier...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,Téléchargement de l'élément d'atelier...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,Fichier image d'aperçu introuvable.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","L’image d’aperçu doit être au format PNG, JPG ou GIF.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,L'image d'aperçu doit faire 1 Mo ou moins (actuellement {0} Ko).,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},Échec de la lecture de l'image d'aperçu : {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,L'image d'aperçu n'a pas pu être décodée.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},L'ID de fichier publié requis n'est pas valide : {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam n'est pas initialisé.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Élément d'atelier téléchargé : {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,Les fichiers de préparation de publication ont été modifiés. Fermez cette boîte de dialogue et publiez à nouveau.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,Vérification des éléments requis de l'atelier...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,Échec de la vérification des éléments requis de l'atelier.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,L'élément d'atelier {0} n'a pas été trouvé ou n'est pas accessible.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,L'élément d'atelier {0} n'appartient pas à cette application.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Échec de la capture de la fenêtre : {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Aperçu capturé depuis la fenêtre.,False

@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,色,True
 MainMenu.Editor.TintColor,TintColor,色合い,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,黒の色合い,True
 MainMenu.Editor.LICENSE,LICENSE,ライセンス,True
-MainMenu.Editor.AssetTypeAA,Default Assets,標準アセット,True
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,外部アセット,True
+MainMenu.Editor.AssetTypeAA,Built-in,標準アセット,False
+MainMenu.Editor.AssetTypeSA,Third-Party,外部アセット,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,名前は空にできません,True
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,名前は{0}文字以内で入力してください,True
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",名前に「{0}」は使用できません,True
@@ -97,13 +97,57 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","一部の言語はコミュニティによる翻訳、または機械翻訳の支援を受けた翻訳のため、品質にばらつきがある場合があります。
+Want to contribute? Join us on {1}.","一部の言語はコミュニティによる翻訳、または機械翻訳の支援を受けた翻訳のため、品質にばらつきがある場合があります。
 
 言語は設定で変更できます。
 
-<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub のコミュニティ貢献者</link>をご覧ください。
+{0} をご覧ください。
 
-翻訳に参加したい場合は、<link=""https://discord.gg/Xt8dAV8YF7"">Discord</link> にご参加ください。",True
+翻訳に参加したい場合は、{1} にご参加ください。",True
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,GitHub のコミュニティ貢献者,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,今後表示しない,True
+MainMenu.Editor.AssetTypeWS,Workshop,ワークショップ,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,モデルをワークショップに公開する,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,キャラクターをワークショップに公開する,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,アップロードモード,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,新しいアイテムを作成する,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,既存のアイテムを更新する,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,更新する項目,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,タイトル,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,説明,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,可視性,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,公共,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,友達限定,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,プライベート,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,非上場,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,変更メモ,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),必須項目 (PublishedFileIds),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),プレビュー画像 (PNG/JPG パス),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,公開,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,キャンセル,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(読み込み中...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(掲載アイテムはありません),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(スチームの準備ができていません),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,Steam メタデータを待っています...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,更新する公開済みのワークショップ アイテムを選択します。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,タイトルは必須です。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,公開する前にプレビュー画像を修正してください。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,ワークショップアイテムを作成中...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,ワークショップアイテムをアップロードしています...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,プレビュー画像ファイルが見つかりません。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.",プレビュー画像は PNG、JPG、または GIF である必要があります。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,プレビュー画像は 1 MB 以下である必要があります (現在は {0} KB)。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},プレビュー画像の読み取りに失敗しました: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,プレビュー画像をデコードできませんでした。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},必須の PublishedFileId が無効です: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steamが初期化されていません。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},ワークショップ アイテムがアップロードされました: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,パブリッシュステージングファイルが変更されました。このダイアログを閉じて、再度公開します。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,ワークショップに必要なアイテムを確認しています...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,ワークショップに必要なアイテムを確認できませんでした。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,ワークショップ アイテム {0} が見つからないか、アクセスできません。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,ワークショップ アイテム {0} はこのアプリに属していません。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},ビューポートのキャプチャに失敗しました: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,ビューポートからキャプチャされたプレビュー。,False

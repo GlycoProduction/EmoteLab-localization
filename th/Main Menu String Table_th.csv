@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,สี,True
 MainMenu.Editor.TintColor,TintColor,สีย้อม,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,สีย้อมดำ,True
 MainMenu.Editor.LICENSE,LICENSE,ใบอนุญาตซอฟต์แวร์ (LICENSE),True
-MainMenu.Editor.AssetTypeAA,Default Assets,Default Assets,True
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Asset ของบุคคลที่สาม,True
+MainMenu.Editor.AssetTypeAA,Built-in,Default Assets,False
+MainMenu.Editor.AssetTypeSA,Third-Party,Asset ของบุคคลที่สาม,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,ชื่อต้องไม่ว่างเปล่า,True
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,ชื่อต้องไม่เกิน {0} ตัวอักษร,True
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","ชื่อต้องไม่มีอักขระ ""{0}""",True
@@ -97,13 +97,57 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","บางภาษาได้รับการแปลโดยชุมชนของเราหรือได้รับความช่วยเหลือจากการแปลด้วยคอมพิวเตอร์ ดังนั้นคุณภาพอาจแตกต่างกันไป
+Want to contribute? Join us on {1}.","บางภาษาได้รับการแปลโดยชุมชนของเราหรือได้รับความช่วยเหลือจากการแปลด้วยคอมพิวเตอร์ ดังนั้นคุณภาพอาจแตกต่างกันไป
 
 คุณสามารถเปลี่ยนภาษาได้ในการตั้งค่า
 
-ดู <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">ผู้ร่วมให้ข้อมูลในชุมชนของเราบน GitHub</link>
+ดู {0}
 
-ต้องการที่จะมีส่วนร่วม? เข้าร่วมกับเราบน <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>",False
+ต้องการที่จะมีส่วนร่วม? เข้าร่วมกับเราบน {1}.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,ผู้ร่วมให้ข้อมูลในชุมชนบน GitHub,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,อย่าแสดงสิ่งนี้อีก,False
+MainMenu.Editor.AssetTypeWS,Workshop,การประชุมเชิงปฏิบัติการ,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,เผยแพร่โมเดลไปยังเวิร์กช็อป,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,เผยแพร่ตัวละครไปยังเวิร์กชอป,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,โหมดอัพโหลด,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,สร้างรายการใหม่,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,อัพเดตรายการที่มีอยู่,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,รายการที่จะอัปเดต,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,ชื่อ,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,คำอธิบาย,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,ทัศนวิสัย,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,สาธารณะ,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,เพื่อนเท่านั้น,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,ส่วนตัว,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,ไม่อยู่ในรายการ,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,เปลี่ยนบันทึก,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),รายการที่จำเป็น (PublishedFileIds),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),ภาพตัวอย่าง (เส้นทาง PNG/JPG),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,เผยแพร่,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,ยกเลิก,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(กำลังโหลด...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(ไม่มีรายการเผยแพร่),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(ไอน้ำไม่พร้อม),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,กำลังรอข้อมูลเมตาของ Steam...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,เลือกรายการเวิร์กชอปที่เผยแพร่เพื่ออัปเดต,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,ต้องระบุชื่อเรื่อง,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,แก้ไขภาพตัวอย่างก่อนที่จะเผยแพร่,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,กำลังสร้างรายการเวิร์กชอป...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,กำลังอัปโหลดรายการเวิร์กชอป...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,ไม่พบไฟล์ภาพตัวอย่าง,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","รูปภาพตัวอย่างต้องเป็น PNG, JPG หรือ GIF",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,รูปภาพตัวอย่างต้องมีขนาด 1 MB หรือเล็กกว่า (ปัจจุบันคือ {0} KB),False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},ไม่สามารถอ่านภาพตัวอย่าง: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,ไม่สามารถถอดรหัสภาพตัวอย่างได้,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},PublishedFileId ที่จำเป็นไม่ถูกต้อง: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam ไม่ได้ถูกเตรียมใช้งาน,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},อัปโหลดรายการเวิร์กชอป: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,ไฟล์การจัดเตรียมการเผยแพร่ได้รับการแก้ไขแล้ว ปิดกล่องโต้ตอบนี้แล้วเผยแพร่อีกครั้ง,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,กำลังตรวจสอบรายการเวิร์กชอปที่จำเป็น...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,ไม่สามารถตรวจสอบรายการเวิร์กชอปที่จำเป็นได้,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,ไม่พบรายการเวิร์กชอป {0} หรือไม่สามารถเข้าถึงได้,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,รายการเวิร์กชอป {0} ไม่ได้เป็นของแอปนี้,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},การบันทึกวิวพอร์ตล้มเหลว: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,ดูตัวอย่างที่ถ่ายจากวิวพอร์ต,False

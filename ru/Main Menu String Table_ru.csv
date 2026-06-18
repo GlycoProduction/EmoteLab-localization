@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,Цвет,False
 MainMenu.Editor.TintColor,TintColor,ОттенокЦвет,False
 MainMenu.Editor.TintBlackColor,TintBlackColor,ОттенокЧерныйЦвет,False
 MainMenu.Editor.LICENSE,LICENSE,ЛИЦЕНЗИЯ,False
-MainMenu.Editor.AssetTypeAA,Default Assets,Активы по умолчанию,False
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,Сторонние активы,False
+MainMenu.Editor.AssetTypeAA,Built-in,Активы по умолчанию,False
+MainMenu.Editor.AssetTypeSA,Third-Party,Сторонние активы,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Имя не может быть пустым.,False
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Имя не может превышать {0} символов.,False
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",Имя не может содержать символ «{0}».,False
@@ -97,13 +97,57 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","Некоторые языки переводятся нашим сообществом или с помощью машинного перевода, поэтому качество может отличаться.
+Want to contribute? Join us on {1}.","Некоторые языки переводятся нашим сообществом или с помощью машинного перевода, поэтому качество может отличаться.
 
 Вы можете изменить язык в настройках.
 
-См. наших <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">участников сообщества на GitHub</link>.
+См. наших {0}.
 
-Хотите внести свой вклад? Присоединяйтесь к нам в <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.",False
+Хотите внести свой вклад? Присоединяйтесь к нам в {1}.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,участники сообщества на GitHub,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Больше не показывать это,False
+MainMenu.Editor.AssetTypeWS,Workshop,Мастерская,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Публикация модели в мастерской,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,Публикация персонажа в Мастерской,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,Режим загрузки,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,Создать новый элемент,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,Обновить существующий элемент,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,Элемент для обновления,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,Заголовок,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,Описание,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,Видимость,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,Общественный,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,Только друзья,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,Частный,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,Нет в списке,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,Изменить примечание,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),Обязательные элементы (PublishedFileIds),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),Изображение для предварительного просмотра (путь PNG/JPG),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,Публиковать,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,Отмена,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(загрузка...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(нет опубликованных материалов),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(Пар не готов),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,Ожидание метаданных Steam...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,Выберите опубликованный элемент Мастерской для обновления.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,Необходимо указать название.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,Исправьте изображение предварительного просмотра перед публикацией.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,Создание предмета Мастерской...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,Загрузка предмета Мастерской...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,Файл изображения предварительного просмотра не найден.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","Изображение для предварительного просмотра должно быть в формате PNG, JPG или GIF.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,Размер изображения для предварительного просмотра должен составлять 1 МБ или меньше (сейчас {0} КБ).,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},Не удалось прочитать изображение предварительного просмотра: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,Изображение предварительного просмотра не удалось декодировать.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},Требуемый PublishedFileId недействителен: {0}.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam не инициализируется.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Загружен предмет мастерской: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,Промежуточные файлы публикации были изменены. Закройте это диалоговое окно и опубликуйте снова.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,Проверка необходимых предметов Мастерской...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,Не удалось проверить необходимые предметы Мастерской.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,Объект мастерской {0} не найден или недоступен.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Объект мастерской {0} не принадлежит этому приложению.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Не удалось захватить область просмотра: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Предварительный просмотр сделан из видового экрана.,False

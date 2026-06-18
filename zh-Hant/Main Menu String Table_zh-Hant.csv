@@ -21,8 +21,8 @@ MainMenu.Editor.Color,Color,顏色,True
 MainMenu.Editor.TintColor,TintColor,淺色,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,深色,True
 MainMenu.Editor.LICENSE,LICENSE,使用條款,True
-MainMenu.Editor.AssetTypeAA,Default Assets,內建模型,True
-MainMenu.Editor.AssetTypeSA,Third-Party Assets,第三方模型,True
+MainMenu.Editor.AssetTypeAA,Built-in,內建模型,False
+MainMenu.Editor.AssetTypeSA,Third-Party,第三方模型,False
 MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,角色名不得為空。,True
 MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,角色名不得超過{0}個字元。,True
 MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",角色名不得包含特殊字元“{0}”。,True
@@ -97,13 +97,57 @@ MainMenu.TranslationInfo.Message,"Some languages are translated by our community
 
 You can change the language in Settings.
 
-See our <link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">community contributors on GitHub</link>.
+See our {0}.
 
-Want to contribute? Join us on <link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>.","部分語言由社群翻譯或由機器翻譯協助完成，因此品質可能有所不同。
+Want to contribute? Join us on {1}.","部分語言由社群翻譯或由機器翻譯協助完成，因此品質可能有所不同。
 
 您可在設定中變更語言。
 
-請在<link=""https://github.com/GlycoProduction/EmoteLab-localization/graphs/contributors"">GitHub</link>上查看我們的社群貢獻者。
+請在{0}上查看我們的社群貢獻者。
 
-想要參與？歡迎透過<link=""https://discord.gg/Xt8dAV8YF7"">Discord</link>加入我們。",False
+想要參與？歡迎透過{1}加入我們。",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,GitHub 上的社群貢獻者,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,不再顯示,False
+MainMenu.Editor.AssetTypeWS,Workshop,工作坊,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,將模型發佈到Workshop,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,將角色發佈到創意工坊,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,上傳方式,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,建立新專案,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,更新現有項目,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,要更新的項目,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,標題,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,描述,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,能見度,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,民眾,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,僅限朋友,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,私人的,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,未上市,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,更改備註,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),必需項目（PublishedFileIds）,False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),預覽影像（PNG/JPG 路徑）,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,發布,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,取消,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(載入中...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),（沒有發表過的文章）,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),（蒸氣未準備好）,False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,正在等待 Steam 元數據...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,選擇要更新的已發布創意工坊專案。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,標題為必填項。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,發布前修復預覽影像。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,正在創建創意工坊專案...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,正在上傳創意工坊專案...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,未找到預覽圖像檔案。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.",預覽影像必須是 PNG、JPG 或 GIF。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,預覽影像必須為 1 MB 或更小（目前為 {0} KB）。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},無法讀取預覽影像：{0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,無法解碼預覽影像。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},所需的 PublishedFileId 無效：{0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam 未初始化。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},上傳的創意工坊專案：{0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,發布暫存文件已修改。關閉此對話框並再次發布。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,正在驗證所需的創意工坊物品...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,無法驗證所需的創意工坊物品。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,找不到或無法存取創意工坊項目 {0}。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,創意工坊專案 {0} 不屬於此應用程式。,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},視窗捕獲失敗：{0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,從視窗捕獲的預覽。,False
