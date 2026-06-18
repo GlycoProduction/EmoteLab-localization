@@ -1,0 +1,277 @@
+Key,en,sk,reviewed
+Hair Ahoge,Hair Ahoge,Vlasy Ahoge,False
+Hair Ahoge Outline,Hair Ahoge Outline,Obrys vlasov Ahoge,False
+Animal Ear >>,Animal Ear >>,Zvieracie ucho >>,False
+Animal Ear >> Fur,Animal Ear >> Fur,Zvieracie ucho >> Kožušina,False
+Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,Ucho zvieraťa >> Obrys kožušiny,False
+Animal Ear >> Outline,Animal Ear >> Outline,Ucho zvieraťa >> Obrys,False
+Animal Ear <<,Animal Ear <<,Zvieracie ucho <<,False
+Animal Ear << Fur,Animal Ear << Fur,Zvieracie ucho << Kožušina,False
+Animal Ear << Fur Outline,Animal Ear << Fur Outline,Animal Ear << Fur Outline,False
+Animal Ear << Outline,Animal Ear << Outline,Zvieracie ucho << Obrys,False
+Antenna >>,Antenna >>,Anténa >>,False
+Antenna >> Outline,Antenna >> Outline,Anténa >> Obrys,False
+Antenna <<,Antenna <<,Anténa <<,False
+Antenna << Outline,Antenna << Outline,Anténa << Obrys,False
+Hair Rear,Hair Rear,Vlasy vzadu,False
+Hair Rear Outline,Hair Rear Outline,Zadný obrys vlasov,False
+Beverage Cup,Beverage Cup,Nápojový pohár,False
+Beverage Liquid,Beverage Liquid,Tekutý nápoj,False
+Beverage Liquid 2,Beverage Liquid 2,Tekutý nápoj 2,False
+Bill,Bill,Bill,False
+Blanket Inner,Blanket Inner,Vnútorná prikrývka,False
+Blanket Outter,Blanket Outter,Vonkajšia prikrývka,False
+Face Blush,Face Blush,Face Blush,False
+Brow >>,Brow >>,Obočie >>,False
+Brow <<,Brow <<,Obočie <<,False
+Chopstick,Chopstick,Palička,False
+Crowbar,Crowbar,Páčidlo,False
+Cup,Cup,pohár,False
+Cup Steam,Cup Steam,Pohár Steam,False
+Door/Wall,Door/Wall,Dvere/stena,False
+Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,Oko(Dum) Zrenica >>,False
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Oko(Dum) Žiak <<,False
+Eyebag,Eyebag,Vak na oči,False
+Eye Iris Dark >>,Eye Iris Dark >>,Očná dúhovka tmavá >>,False
+Eye Iris Dark <<,Eye Iris Dark <<,Očná dúhovka tmavá <<,False
+Eye Dollar,Eye Dollar,Očný dolár,False
+Eye Heart,Eye Heart,Oko Srdce,False
+Eye Highlight,Eye Highlight,Zvýraznenie očí,False
+Eyelashes,Eyelashes,Mihalnice,False
+Eye Iris Light >>,Eye Iris Light >>,Svetlo očnej dúhovky >>,False
+Eye Iris Light <<,Eye Iris Light <<,Svetlo očnej dúhovky <<,False
+Eye(Dum) Outline,Eye(Dum) Outline,Obrys oka (Dum).,False
+Eye Sparkling,Eye Sparkling,Šumivé oči,False
+Eye Spiral,Eye Spiral,Očná špirála,False
+Eye White,Eye White,Eye White,False
+Face Shadow,Face Shadow,Tieň tváre,False
+Fin >>,Fin >>,Fin >>,False
+Fin >> Outline,Fin >> Outline,Fin >> Obrys,False
+Fin <<,Fin <<,Fin <<,False
+Fin << Outline,Fin << Outline,Fin << Obrys,False
+Hair Framing >>,Hair Framing >>,Rámovanie vlasov >>,False
+Hair Framing >> Outline,Hair Framing >> Outline,Rámovanie vlasov >> Obrys,False
+Hair Framing <<,Hair Framing <<,Rámovanie vlasov <<,False
+Hair Framing << Outline,Hair Framing << Outline,Rámovanie vlasov << Obrys,False
+Gill,Gill,Gill,False
+Gill Outline,Gill Outline,Obrys Gill,False
+Glasses,Glasses,Okuliare,False
+Hairband A,Hairband A,Čelenka do vlasov A,False
+Hairband A Outline,Hairband A Outline,Čelenka A Obrys,False
+Hairband B,Hairband B,Čelenka do vlasov B,False
+Hairband B Outline,Hairband B Outline,Čelenka do vlasov B Obrys,False
+Hairband C,Hairband C,Čelenka do vlasov C,False
+Hairband C Outline,Hairband C Outline,Čelenka do vlasov C obrys,False
+Hairband D,Hairband D,Čelenka do vlasov D,False
+Hairband D Outline,Hairband D Outline,Čelenka do vlasov D Outline,False
+Hair Bang >>,Hair Bang >>,Vlasy Bang >>,False
+Hair Bang >> Outline,Hair Bang >> Outline,Hair Bang >> Obrys,False
+Hair Bang ><,Hair Bang ><,Vlasy Bang <,False
+Hair Bang >< Outline,Hair Bang >< Outline,Hair Bang >< Obrys,False
+Hair Bang <<,Hair Bang <<,Hair Bang <<,False
+Hair Bang << Outline,Hair Bang << Outline,Hair Bang << Obrys,False
+Hair Clip >>,Hair Clip >>,Spona do vlasov >>,False
+Hair Clip >> Outline,Hair Clip >> Outline,Spona do vlasov >> Obrys,False
+Hair Clip <<,Hair Clip <<,Sponka do vlasov <<,False
+Hair Clip << Outline,Hair Clip << Outline,Sponka do vlasov << Obrys,False
+Hair Highlight 1 >>,Hair Highlight 1 >>,Zvýraznenie vlasov 1 >>,False
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Zvýraznenie vlasov 1 >> Obrys,False
+Hair Highlight 2 >>,Hair Highlight 2 >>,Zvýraznenie vlasov 2 >>,False
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Zvýraznenie vlasov 2 >> Obrys,False
+Hair Highlight 3 >>,Hair Highlight 3 >>,Zvýraznenie vlasov 3 >>,False
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Zvýraznenie vlasov 3 >> Obrys,False
+Hair Highlight 1 ><,Hair Highlight 1 ><,Zvýraznenie vlasov 1 ><,False
+Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Zvýraznenie vlasov 1 >< Obrys,False
+Hair Highlight 2 ><,Hair Highlight 2 ><,Zvýraznenie vlasov 2 ><,False
+Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Zvýraznenie vlasov 2 >< Obrys,False
+Hair Highlight 3 ><,Hair Highlight 3 ><,Zvýraznenie vlasov 3 ><,False
+Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Zvýraznenie vlasov 3 >< Obrys,False
+Hair Highlight 4 ><,Hair Highlight 4 ><,Zvýraznenie vlasov 4 ><,False
+Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Zvýraznenie vlasov 4 >< Obrys,False
+Hair Highlight 5 ><,Hair Highlight 5 ><,Zvýraznenie vlasov 5 ><,False
+Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Zvýraznenie vlasov 5 >< Obrys,False
+Hair Highlight 6 ><,Hair Highlight 6 ><,Zvýraznenie vlasov 6 ><,False
+Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Zvýraznenie vlasov 6 >< Obrys,False
+Hair Highlight 1 <<,Hair Highlight 1 <<,Zvýraznenie vlasov 1 <<,False
+Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Zvýraznenie vlasov 1 << Obrys,False
+Hair Highlight 2 <<,Hair Highlight 2 <<,Zvýraznenie vlasov 2 <<,False
+Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Zvýraznenie vlasov 2 << Obrys,False
+Hair Highlight 3 <<,Hair Highlight 3 <<,Zvýraznenie vlasov 3 <<,False
+Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Zvýraznenie vlasov 3 << Obrys,False
+Hairline Outline,Hairline Outline,Obrys vlasovej línie,False
+Hair Shine,Hair Shine,Lesk vlasov,False
+Hair Shine Outline,Hair Shine Outline,Obrys lesku vlasov,False
+Halo,Halo,Halo,False
+Halo Outline,Halo Outline,Halo obrys,False
+Hat,Hat,Klobúk,False
+Hat Outline,Hat Outline,Obrys klobúka,False
+Hat Secondary,Hat Secondary,Klobúk Sekundárny,False
+Hat Secondary Outline,Hat Secondary Outline,Sekundárny obrys klobúka,False
+Hammer,Hammer,Kladivo,False
+Ear Wing >>,Ear Wing >>,Krídlo do uší >>,False
+Ear Wing >> Outline,Ear Wing >> Outline,Krídlo do ucha >> Obrys,False
+Ear Wing <<,Ear Wing <<,Krídlo do uší <<,False
+Ear Wing << Outline,Ear Wing << Outline,Krídlo ucha << Obrys,False
+Heart,Heart,Srdce,False
+Horn >>,Horn >>,Klaksón >>,False
+Horn >> Outline,Horn >> Outline,Klaksón >> Obrys,False
+Horn <<,Horn <<,Horn <<,False
+Horn << Outline,Horn << Outline,Horn << Obrys,False
+Horn ><,Horn ><,Klaksón ><,False
+Horn >< Outline,Horn >< Outline,Horn >< Obrys,False
+Jail Grill,Jail Grill,Väzenský gril,False
+Keyboard,Keyboard,Klávesnica,False
+Kitchen Knife,Kitchen Knife,Kuchynský nôž,False
+Laptop,Laptop,laptop,False
+Laptop Light,Laptop Light,Laptop Light,False
+Leg >>,Leg >>,Noha >>,False
+Leg <<,Leg <<,Noha <<,False
+Lightstick Handle,Lightstick Handle,Rukoväť Lightstick,False
+Light Stick >>,Light Stick >>,Light Stick >>,False
+Light Stick <<,Light Stick <<,Light Stick <<,False
+Mecha,Mecha,Mecha,False
+Mecha >>,Mecha >>,Mecha >>,False
+Mecha >> Outline,Mecha >> Outline,Mecha >> Obrys,False
+Mecha Outline,Mecha Outline,Mecha Obrys,False
+Mecha <<,Mecha <<,Mecha <<,False
+Mecha << Outline,Mecha << Outline,Mecha << Obrys,False
+Mouse,Mouse,Myška,False
+Mouth/Tongue,Mouth/Tongue,Ústa/Jazyk,False
+Mouth/Tongue Shadow,Mouth/Tongue Shadow,Tieň v ústach/jazyku,False
+Notepad,Notepad,Poznámkový blok,False
+Outfit Collar,Outfit Collar,Golier oblečenia,False
+Outfit Collar Outline,Outfit Collar Outline,Obrys goliera oblečenia,False
+Outfit Inner,Outfit Inner,Vnútorný outfit,False
+Outfit Inner Outline,Outfit Inner Outline,Vnútorný obrys oblečenia,False
+Outfit Neckwear A,Outfit Neckwear A,Oblečenie na krk A,False
+Outfit Neckwear A Outline,Outfit Neckwear A Outline,Oblečenie Neckwear Obrys,False
+Outfit Neckwear B,Outfit Neckwear B,Oblečenie na krk B,False
+Outfit Neckwear B Outline,Outfit Neckwear B Outline,Oblečenie Neckwear B Outline,False
+Outfit Neckwear C,Outfit Neckwear C,Oblečenie na krk C,False
+Outfit Neckwear C Outline,Outfit Neckwear C Outline,Oblečenie Neckwear C Outline,False
+Outfit Outer,Outfit Outer,Outfit Outer,False
+Outfit Outer Outline,Outfit Outer Outline,Outfit Outline Outline,False
+Pencil,Pencil,Ceruzka,False
+Phone,Phone,Telefón,False
+Phone Light,Phone Light,Svetlo telefónu,False
+Hair Pigtail >>,Hair Pigtail >>,Vlasový vrkoč >>,False
+Hair Pigtail >> Outline,Hair Pigtail >> Outline,Vlasový vrkoč >> Obrys,False
+Hair Pigtail <<,Hair Pigtail <<,Vlasový vrkoč <<,False
+Hair Pigtail << Outline,Hair Pigtail << Outline,Vlasový vrkoč << Obrys,False
+Rose,Rose,Rose,False
+Round Sign,Round Sign,Okrúhly znak,False
+Round Sign Text,Round Sign Text,Text okrúhleho znaku,False
+Hair Side,Hair Side,Vlasová strana,False
+Hair Side Outline,Hair Side Outline,Bočný obrys vlasov,False
+Skin,Skin,Koža,False
+Skin Outline,Skin Outline,Obrys pokožky,False
+Square Sign,Square Sign,Štvorcový znak,False
+Square Sign Text,Square Sign Text,Text štvorcového znaku,False
+Steering Wheel,Steering Wheel,Volant,False
+Gas Bottle,Gas Bottle,Plynová fľaša,False
+Pat Hand,Pat Hand,Pat Hand,False
+Sticker Alert,Sticker Alert,Upozornenie na nálepky,False
+Sticker Alert Effect,Sticker Alert Effect,Efekt upozornenia na nálepku,False
+Sticker Alert Outline,Sticker Alert Outline,Obrys upozornenia na nálepku,False
+Sticker Angry,Sticker Angry,Nálepka Nahnevaný,False
+Sticker Exclamation Mark,Sticker Exclamation Mark,Nálepka s výkričníkom,False
+Sticker Ghost,Sticker Ghost,Nálepka Duch,False
+Sticker Heart,Sticker Heart,Nálepka Srdce,False
+Sticker Laugh,Sticker Laugh,Nálepka Smej sa,False
+Sticker Question Mark,Sticker Question Mark,Nálepka s otáznikom,False
+Sticker Sleep,Sticker Sleep,Nálepka Spánok,False
+Sticker Star,Sticker Star,Nálepka Hviezda,False
+Sticker Steam,Sticker Steam,Nálepka Steam,False
+Sticker Surprise,Sticker Surprise,Nálepka Prekvapenie,False
+Sticker Sweat,Sticker Sweat,Nálepka Pot,False
+Sticker Sweat (Large),Sticker Sweat (Large),Nálepka Pot (veľká),False
+Sticker Volume,Sticker Volume,Hlasitosť nálepky,False
+Sticky Note,Sticky Note,Sticky Note,False
+Sticky Note Text,Sticky Note Text,Text lepiacej poznámky,False
+Eye Tear,Eye Tear,Slza oka,False
+Utensil,Utensil,Nádoba,False
+Outfit Collar String,Outfit Collar String,Šnúrka na golier oblečenia,False
+Bell,Bell,Bell,False
+Confetti 1,Confetti 1,Konfety 1,False
+Confetti 2,Confetti 2,Konfety 2,False
+Confetti 3,Confetti 3,Konfety 3,False
+Microphone,Microphone,Mikrofón,False
+Gleam,Gleam,Lesk,False
+Video Camera,Video Camera,Videokamera,False
+Point Hand,Point Hand,Ukázať ruku,False
+Bowl,Bowl,Misa,False
+Cake,Cake,Koláč,False
+Candle Fire,Candle Fire,Oheň sviečky,False
+Drawing Tablet,Drawing Tablet,Tablet na kreslenie,False
+Love Letter,Love Letter,Milostný list,False
+Popper,Popper,Popper,False
+Stylus,Stylus,Stylus,False
+Tablet,Tablet,Tablet,False
+Musical Note 1,Musical Note 1,Hudobná nota 1,False
+Musical Note 2,Musical Note 2,Hudobná nota 2,False
+Phone Screen,Phone Screen,Obrazovka telefónu,False
+Tail,Tail,Chvost,False
+Tail Outline,Tail Outline,Obrys chvosta,False
+Wing >>,Wing >>,Krídlo >>,False
+Wing >> Outline,Wing >> Outline,Krídlo >> Obrys,False
+Wing <<,Wing <<,Krídlo <<,False
+Wing << Outline,Wing << Outline,Krídlo << Obrys,False
+Cape,Cape,Cape,False
+Cape Outline,Cape Outline,Obrys mysu,False
+Cheek,Cheek,Líca,False
+Cockroach,Cockroach,Šváb,False
+Controller,Controller,Ovládač,False
+Donut,Donut,Donut,False
+Earring >>,Earring >>,Náušnica >>,False
+Earring <<,Earring <<,Náušnica <<,False
+Earring >> Outline,Earring >> Outline,Náušnica >> Obrys,False
+Earring << Outline,Earring << Outline,Náušnica << Obrys,False
+Face Feature A >>,Face Feature A >>,Funkcia tváre A >>,False
+Face Feature A <<,Face Feature A <<,Funkcia tváre A <<,False
+Face Feature B >>,Face Feature B >>,Funkcia tváre B >>,False
+Face Feature B <<,Face Feature B <<,Funkcia tváre B <<,False
+Face Feature C,Face Feature C,Funkcia tváre C,False
+Facial Hair A,Facial Hair A,Vlasy na tvári A,False
+Facial Hair A Outline,Facial Hair A Outline,Vlasy na tvári Obrys,False
+Facial Hair B,Facial Hair B,Vlasy na tvári B,False
+Facial Hair B Outline,Facial Hair B Outline,Vlasy na tvári B Obrys,False
+Glove >>,Glove >>,Rukavice >>,False
+Glove >> Outline,Glove >> Outline,Rukavice >> Obrys,False
+Glove <<,Glove <<,Rukavice <<,False
+Glove << Outline,Glove << Outline,Rukavice << Obrys,False
+Hand >>,Hand >>,Ruka >>,False
+Hand >> Outline,Hand >> Outline,Ruka >> Obrys,False
+Hand <<,Hand <<,Ruka <<,False
+Hand << Outline,Hand << Outline,Obrys ručičky <<,False
+Gun,Gun,Pištoľ,False
+Gun Flash,Gun Flash,Blesk z pištole,False
+Lubricant,Lubricant,Mazivo,False
+Megaphone,Megaphone,Megafón,False
+Nose,Nose,Nos,False
+Piercing A >>,Piercing A >>,Piercing A >>,False
+Piercing A >> Outline,Piercing A >> Outline,Piercing A >> Obrys,False
+Piercing A <<,Piercing A <<,Piercing A <<,False
+Piercing A << Outline,Piercing A << Outline,Piercing A << Obrys,False
+Piercing B >>,Piercing B >>,Piercing B >>,False
+Piercing B >> Outline,Piercing B >> Outline,Piercing B >> Obrys,False
+Piercing B <<,Piercing B <<,Piercing B <<,False
+Piercing B << Outline,Piercing B << Outline,Piercing B << Obrys,False
+Pixel Sun Glasses,Pixel Sun Glasses,Slnečné okuliare Pixel,False
+Pompom >>,Pompom >>,Bambuľka >>,False
+Pompom <<,Pompom <<,Pompom <<,False
+Spray,Spray,Striekajte,False
+Sticker Light Bulb,Sticker Light Bulb,Nálepka Žiarovka,False
+Sticker Loading,Sticker Loading,Načítava sa nálepka,False
+Sunglasses,Sunglasses,Slnečné okuliare,False
+Sunglasses Reflection,Sunglasses Reflection,Reflexné slnečné okuliare,False
+Tape,Tape,páska,False
+Toilet,Toilet,WC,False
+Trash Bin,Trash Bin,Odpadkový kôš,False
+Wave Hand,Wave Hand,Vlnová ruka,False
+Swatter,Swatter,Splácačka,False
+Hair Ponytail,Hair Ponytail,Vlasový chvost,False
+Hair Ponytail Outline,Hair Ponytail Outline,Obrys chvosta vlasov,False
+Eyepatch,Eyepatch,Páska na oči,False
+Eyepatch Outline,Eyepatch Outline,Obrys pásky na oči,False
+Number Six,Number Six,Číslo šesť,False
+Number Seven,Number Seven,Číslo sedem,False

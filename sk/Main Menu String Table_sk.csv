@@ -1,0 +1,153 @@
+Key,en,sk,reviewed
+MainMenu.TabHeaderLable.Editor,Editor,redaktor,False
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.",Naozaj chcete odstrániť znak „{0}“? Túto akciu nie je možné vrátiť späť.,False
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",Znak „{0}“ už existuje. Naozaj chcete prepísať znak „{0}“? Túto akciu nie je možné vrátiť späť.,False
+MainMenu.Confirm,Confirm,Potvrďte,False
+MainMenu.Cancel,Cancel,Zrušiť,False
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,Zadajte názov postavy:,False
+MainMenu.Editor.Model,Models,Modelky,False
+MainMenu.Editor.Character,Character,Charakter,False
+MainMenu.Editor.Animation,Animation,Animácia,False
+MainMenu.Editor.PartsSelection,Choose Parts,Vyberte Časti,False
+MainMenu.Editor.PartsAdjustment,Adjustment,Úprava,False
+MainMenu.Search,Search...,Hľadať...,False
+MainMenu.Editor.SaveCharacter,Save Character,Uložiť znak,False
+MainMenu.Editor.Unload,Clear Character,Jasný charakter,False
+MainMenu.Editor.DeleteCharacter,Delete Character,Odstrániť znak,False
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,Použite vlastné textúry,False
+MainMenu.Editor.ReloadTextures,Reload Textures,Znovu načítať textúry,False
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Otvorte priečinok Vlastná textúra,False
+MainMenu.Editor.Color,Color,Farba,False
+MainMenu.Editor.TintColor,TintColor,TintColor,False
+MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor,False
+MainMenu.Editor.LICENSE,LICENSE,LICENCIA,False
+MainMenu.Editor.AssetTypeAA,Built-in,Vstavaný,False
+MainMenu.Editor.AssetTypeSA,Third-Party,Tretia strana,False
+MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Názov nemôže byť prázdny.,False
+MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Názov nemôže presiahnuť {0} znakov.,False
+MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",Názov nemôže obsahovať znak „{0}“.,False
+MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",„{0}“ je vyhradený názov a nemožno ho použiť.,False
+MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,Meno nemôže končiť bodkou.,False
+MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,Názov nemôže obsahovať iba medzery.,False
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Uvoľniť aktuálny model,False
+MainMenu.Settings.GeneralSettings,General Settings,Všeobecné nastavenia,False
+MainMenu.Settings.GeneralSettings.Language,Language,Jazyk,False
+MainMenu.Settings.ViewportSettings,Viewport Settings,Nastavenia výrezu,False
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Rýchlosť priblíženia,False
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Rýchlosť otáčania,False
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Modelová mierka,False
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Horizontálne posunutie,False
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Vertikálny posun,False
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Obnoviť nastavenia výrezu,False
+MainMenu.Settings.ExportSettings,Animation Export Settings,Nastavenia exportu animácií,False
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Uložiť polohu,False
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Exportovať predvoľby,False
+MainMenu.Settings.ExportSettings.Encoder,Encoder,kódovač,False
+MainMenu.Settings.ExportSettings.Width,Width,šírka,False
+MainMenu.Settings.ExportSettings.Height,Height,Výška,False
+MainMenu.Settings.ExportSettings.FPS,FPS,FPS,False
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Limit Max. Počet snímok,False
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,Max. Počet snímok,False
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Alfa prah,False
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Povoliť rozklad,False
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Obnoviť nastavenia exportu,False
+MainMenu.Editor.Export,Export Emote,Exportovať emócie,False
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,Licencia poskytnutá tvorcom modelu. Zobrazuje sa len ako referencia a nereprezentuje názory alebo právne postavenie vývojára EmoteLab.,False
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.","Tvorca tohto modelu tretej strany neposkytol s modelom licenciu ani podmienky používania. Pred použitím tohto modelu vo verejnom, komerčnom alebo profesionálnom kontexte by ste si mali potvrdiť povolený rozsah použitia priamo s tvorcom modelu.",False
+LicensePopup.Close,Close,Zavrieť,False
+MainMenu.Editor.OpenExportFolder,Open Export Folder,Otvorte priečinok Export,False
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Načítanie vzorových znakov pre vstavané modely,False
+MainMenu.Settings.ModelSettings,Model Settings,Nastavenia modelu,False
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Ukladajú sa údaje o postave...,False
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Načítava sa znak...,False
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Licencie tretích strán,False
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Licenčná zmluva koncového používateľa (EULA),False
+MainMenu.Info.Documentation,Documentation,Dokumentácia,False
+MainMenu.Info.Discord,Join Our Discord,Pripojte sa k nášmu Discordu,False
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",Táto predvoľba nastaví správny formát a rozmery. Veľmi dlhé animácie môžu prekročiť limity veľkosti súboru platformy a niektoré platformy obmedzujú určitý obsah.,False
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Otvorte priečinok lokálneho modelu,False
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Otvorte priečinok znakov,False
+MainMenu.Info.Log,Open Log Folder,Otvorte priečinok denníka,False
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Použitie globálnej tabuľky farieb,False
+MainMenu.Editor.ExportStatic,Export Static Image,Exportovať statický obrázok,False
+MainMenu.Editor.Player.Speed,Speed,Rýchlosť,False
+MainMenu.Settings.StaticImageSettings,Static Image Settings,Nastavenia statického obrazu,False
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Obnoviť nastavenia statického obrazu,False
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Vzorkovacia frekvencia,False
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Tento prepínač umožňuje prepínať medzi vnútornou a vlastnou textúrou,False
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Upravte súbory PNG v priečinku Custom Texture. Uložte s priehľadnosťou a nemeňte veľkosť obrázka,False
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",Po uložení úprav kliknutím na toto tlačidlo aplikujte zmeny na svoj model.,False
+MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Zachráňte svoju postavu. Tlačidlo uloženia sa nachádza pod zoznamom znakov na ľavej strane rozhrania.,False
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Pred použitím tejto funkcie si prečítajte príručku Používanie vlastných textúr.,False
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,Vlastná textúra,False
+MainMenu.Editor.Texture.Step1,Step 1,Krok 1,False
+MainMenu.Editor.Texture.Step2,Step 2,Krok 2,False
+MainMenu.Editor.Texture.Step3,Step 3,Krok 3,False
+MainMenu.Editor.Texture.Step4,Step 4,Krok 4,False
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Opravte vybranú osnovu,False
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Obnoviť vybratý atlas,False
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,Textúra Utility,False
+MainMenu.Editor.Texture.SelectAll,Select All,Vyberte možnosť Všetky,False
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Prepnúť výber,False
+MainMenu.Editor.Texture.AtlasList,Atlas List,Zoznam Atlasu,False
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Toto obnoví vybrané stránky atlasu na vstavané verzie. Všetky neuložené úpravy sa stratia a nebudú sa dať obnoviť. Pokračovať?,False
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Algoritmus palety,False
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Týmto sa prepíšu vybrané súbory textúr a nemožno to vrátiť späť. Pokračovať?,False
+MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
+
+You can change the language in Settings.
+
+See our {0}.
+
+Want to contribute? Join us on {1}.","Niektoré jazyky sú preložené našou komunitou alebo pomocou strojového prekladu, takže kvalita sa môže líšiť.
+
+Jazyk môžete zmeniť v Nastaveniach.
+
+Pozrite si naše {0}.
+
+Chcete prispieť? Pridajte sa k nám na {1}.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,komunitných prispievateľov na GitHub,False
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Toto už nezobrazovať,False
+MainMenu.Editor.AssetTypeWS,Workshop,Workshop,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Publikovať model do workshopu,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,Publikovať postavu do dielne,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,Režim nahrávania,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,Vytvorte novú položku,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,Aktualizovať existujúcu položku,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,Položka na aktualizáciu,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,Názov,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,Popis,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,Viditeľnosť,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,Verejné,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,Iba priatelia,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,Súkromné,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,Neuvedené,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,Zmeniť poznámku,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),Požadované položky (PublishedFileIds),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),Náhľad obrázka (cesta PNG/JPG),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,Publikovať,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,Zrušiť,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(načítava sa...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(žiadne zverejnené položky),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(Steam nie je pripravený),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,Čaká sa na metadáta Steam...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,"Vyberte publikovanú položku Workshopu, ktorú chcete aktualizovať.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,Vyžaduje sa názov.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,Pred zverejnením opravte obrázok ukážky.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,Vytvára sa dielenská položka...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,Nahráva sa položka workshopu...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,Súbor s ukážkou obrázka sa nenašiel.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","Obrázok ukážky musí byť vo formáte PNG, JPG alebo GIF.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,Obrázok ukážky musí mať veľkosť 1 MB alebo menej (momentálne {0} KB).,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},Nepodarilo sa prečítať obrázok ukážky: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,Obrázok ukážky sa nepodarilo dekódovať.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},Povinné PublishedFileId je neplatné: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam nie je inicializovaný.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Odovzdaná položka workshopu: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,Publikovať prípravné súbory boli upravené. Zatvorte toto dialógové okno a zverejnite ho znova.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,Overujú sa požadované položky workshopu...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,Nepodarilo sa overiť požadované položky workshopu.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,Položka workshopu {0} sa nenašla alebo nie je prístupná.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Položka workshopu {0} nepatrí do tejto aplikácie.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Snímanie výrezu zlyhalo: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Náhľad zachytený z výrezu.,False

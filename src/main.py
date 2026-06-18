@@ -35,6 +35,7 @@ dct_langs = {
     'th': 'en',
     'tr': 'en',
     'sv': 'en',
+    'sk': 'en',
 }
 
 class CSVFile:

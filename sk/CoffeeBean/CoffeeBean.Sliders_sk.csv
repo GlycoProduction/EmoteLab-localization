@@ -1,0 +1,45 @@
+Key,en,sk,reviewed
+Eyelash Length,Eyelash Length,Dĺžka rias,False
+Brows Distance,Brows Distance,Vzdialenosť obočia,False
+Brows Height,Brows Height,Výška obočia,False
+Ear Shape 1,Ear Shape 1,Tvar uší 1,False
+Ear Shape 2,Ear Shape 2,Tvar uší 2,False
+Hair Bang >< Length,Hair Bang >< Length,Vlasy Bang >< Dĺžka,False
+Hair Bang >< Shear,Hair Bang >< Shear,Vlasy Bang >< Strih,False
+Hair Bang >> Position,Hair Bang >> Position,Hair Bang >> Poloha,False
+Hair Bang >> Length,Hair Bang >> Length,Vlasy Bang >> Dĺžka,False
+Hair Bang >> Shear,Hair Bang >> Shear,Vlasy Bang >> Strihanie,False
+Hair Bang << Position,Hair Bang << Position,Hair Bang << Pozícia,False
+Hair Bang << Length,Hair Bang << Length,Hair Bang << Dĺžka,False
+Hair Bang << Shear,Hair Bang << Shear,Hair Bang << Strihanie,False
+Hair Framing << Length,Hair Framing << Length,Orámovanie vlasov << Dĺžka,False
+Hair Framing >> Length,Hair Framing >> Length,Orámovanie vlasov >> Dĺžka,False
+Hair Side Length,Hair Side Length,Dĺžka vlasov po stranách,False
+Hair Rear Length,Hair Rear Length,Zadná dĺžka vlasov,False
+Ahoge Position,Ahoge Position,Pozícia Ahoge,False
+Ahoge Angle,Ahoge Angle,Ahoge Angle,False
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Pozícia zvieracieho ucha a antény,False
+Fin & Gill Position,Fin & Gill Position,Poloha plutiev a žiabrov,False
+Halo Position,Halo Position,Halo pozícia,False
+Hat Position,Hat Position,Poloha klobúka,False
+Horn >> Length,Horn >> Length,Klaksón >> Dĺžka,False
+Horn << Length,Horn << Length,Horn << Dĺžka,False
+Horn >< Length,Horn >< Length,Klaksón >< Dĺžka,False
+Horn Position,Horn Position,Poloha rohu,False
+Ear Wing Position,Ear Wing Position,Poloha krídel uší,False
+Wing Size,Wing Size,Veľkosť krídla,False
+Wing Position,Wing Position,Poloha krídla,False
+Wing Angle,Wing Angle,Uhol krídla,False
+Tail Size,Tail Size,Veľkosť chvosta,False
+Tail Flip,Tail Flip,Prevrátenie chvosta,False
+Tail Angle,Tail Angle,Uhol chvosta,False
+Hair Pigtail >> Position,Hair Pigtail >> Position,Vlasový vrkoč >> Pozícia,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,Vlasový vrkoč >> Dĺžka,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,Vlasový vrkoč >> Uhol,False
+Hair Pigtail << Position,Hair Pigtail << Position,Vlasový chvost << Pozícia,False
+Hair Pigtail << Length,Hair Pigtail << Length,Vlasový vrkoč << Dĺžka,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,Vlasový vrkoč << Uhol,False
+Hair Ponytail Width,Hair Ponytail Width,Šírka chvosta vlasov,False
+Hair Ponytail Length,Hair Ponytail Length,Dĺžka vlasového chvosta,False
+Hair Ponytail Angle,Hair Ponytail Angle,Uhol chvosta vlasov,False
+Alert Size,Alert Size,Veľkosť upozornenia,False

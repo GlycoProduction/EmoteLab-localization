@@ -105,7 +105,7 @@ Want to contribute? Join us on {1}.","一部の言語はコミュニティによ
 
 {0} をご覧ください。
 
-翻訳に参加したい場合は、{1} にご参加ください。",True
+翻訳に参加したい場合は、{1} にご参加ください。",False
 MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,GitHub のコミュニティ貢献者,False
 MainMenu.TranslationInfo.DontShowAgain,Don't show this again,今後表示しない,True
 MainMenu.Editor.AssetTypeWS,Workshop,ワークショップ,False
