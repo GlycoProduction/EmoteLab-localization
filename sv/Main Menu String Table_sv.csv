@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' är reserverad och kan inte användas som {0}.,False
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} kan inte sluta med en punkt.,False
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,En {0} med detta namn finns redan i listan.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Karaktär,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Scen,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Scenlista,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Är du säker på att du vill ta bort {0} ""{1}""? Denna åtgärd kan inte ångras.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" finns redan. Är du säker på att du vill skriva över {0} ""{1}""? Denna åtgärd kan inte ångras.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","Ett {0} ""{1}"" har valts. Skriv över den eller skapa en ny post?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Skriva över,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Skapa nytt,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" har osparade ändringar. Ansök innan du fortsätter?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Tillämpas,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Kassera,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Denna {0} har inte sparats. Spara innan du fortsätter?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Spara,False

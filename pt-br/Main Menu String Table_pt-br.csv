@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' é reservado e não pode ser usado como {0}.,False
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} não pode terminar com ponto.,False
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Já existe um {0} com este nome na lista.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Personagem,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Cena,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Lista de cenas,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Tem certeza de que deseja excluir {0} ""{1}""? Esta ação não pode ser desfeita.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" já existe. Tem certeza de que deseja substituir {0} ""{1}""? Esta ação não pode ser desfeita.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","Um {0} ""{1}"" está selecionado. Substituir ou criar uma nova entrada?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Substituir,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Criar novo,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" tem alterações não salvas. Aplicar antes de continuar?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Aplicar,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Descartar,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Este {0} não foi salvo. Salvar antes de continuar?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Salvar,False

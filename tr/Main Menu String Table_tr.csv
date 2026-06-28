@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' ayrılmıştır ve {0} olarak kullanılamaz.,False
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} noktayla bitemez.,False
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Bu adda bir {0} zaten listede mevcut.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Karakter,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Sahne,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Sahne listesi,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" dosyasını silmek istediğinizden emin misiniz? Bu eylem geri alınamaz.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" zaten mevcut. {0} ""{1}"" öğesinin üzerine yazmak istediğinizden emin misiniz? Bu eylem geri alınamaz.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","Bir {0} ""{1}"" seçildi. Üzerine yazmak mı yoksa yeni bir giriş mi oluşturmak istiyorsunuz?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Üzerine yaz,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Yeni Oluştur,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" kaydedilmemiş değişiklikler içeriyor. Devam etmeden önce başvurulsun mu?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Uygula,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,At,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Bu {0} kaydedilmedi. Devam etmeden önce kaydedilsin mi?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Kaydetmek,False

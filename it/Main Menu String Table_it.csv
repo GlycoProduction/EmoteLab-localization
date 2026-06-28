@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' è riservato e non può essere utilizzato come {0}.,False
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} non può terminare con un punto.,False
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Nell'elenco esiste già un {0} con questo nome.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Carattere,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Scena,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Elenco delle scene,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Sei sicuro di voler eliminare {0} ""{1}""? Questa azione non può essere annullata.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" esiste già. Sei sicuro di voler sovrascrivere {0} ""{1}""? Questa azione non può essere annullata.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","È selezionato un {0} ""{1}"". Sovrascriverlo o creare una nuova voce?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Sovrascrivi,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Crea nuovo,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" presenta modifiche non salvate. Applicare prima di continuare?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Fare domanda a,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Scartare,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Questo {0} non è stato salvato. Salvare prima di continuare?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Salva,False

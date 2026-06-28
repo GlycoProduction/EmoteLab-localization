@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,“{1}”是保留关键词，不能用作 {0}。,True
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} 不能以点结尾。,True
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,列表中已存在同名的 {0}。,True
+MainMenu.Editor.Confirmation.Label.Character,Character,角色,True
+MainMenu.Editor.Confirmation.Label.Scene,Scene,场景,True
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,场景列表,True
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.",您确定要删除 {0}“{1}”吗？此操作无法撤消。,True
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.",{0}“{1}”已存在。您确定要覆盖 {0}“{1}”吗？此操作无法撤消。,True
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?",选择了 {0}“{1}”。覆盖它还是创建一个新条目？,True
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,覆盖,True
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,新建,True
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?",{0}“{1}”有未保存的更改。在继续之前应用更改？,True
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,应用,True
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,丢弃,True
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,此{0}尚未保存。在继续之前保存吗？,True
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,保存,True

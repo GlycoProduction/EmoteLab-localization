@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' ถูกสงวนไว้และไม่สามารถใช้เป็น {0},False
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} ไม่สามารถลงท้ายด้วยจุดได้,False
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,มี {0} ที่มีชื่อนี้อยู่แล้วในรายการ,False
+MainMenu.Editor.Confirmation.Label.Character,Character,อักขระ,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,ฉาก,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,รายการฉาก,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","คุณแน่ใจหรือไม่ว่าต้องการลบ {0} ""{1}"" การดำเนินการนี้ไม่สามารถยกเลิกได้",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" มีอยู่แล้ว คุณแน่ใจหรือไม่ว่าต้องการเขียนทับ {0} ""{1}"" การดำเนินการนี้ไม่สามารถยกเลิกได้",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","เลือก {0} ""{1}"" แล้ว เขียนทับหรือสร้างรายการใหม่?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,เขียนทับ,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,สร้างใหม่,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" มีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก สมัครก่อนดำเนินการต่อ?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,นำมาใช้,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,ทิ้ง,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,{0} นี้ไม่ได้รับการบันทึก บันทึกก่อนดำเนินการต่อไหม,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,บันทึก,False

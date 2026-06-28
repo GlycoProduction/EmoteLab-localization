@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' est réservé et ne peut pas être utilisé comme {0}.,False
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} ne peut pas se terminer par un point.,False
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Un {0} portant ce nom existe déjà dans la liste.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Personnage,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Scène,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Liste des scènes,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Êtes-vous sûr de vouloir supprimer {0} ""{1}"" ? Cette action ne peut pas être annulée.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" existe déjà. Êtes-vous sûr de vouloir remplacer {0} ""{1}"" ? Cette action ne peut pas être annulée.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","Un {0} ""{1}"" est sélectionné. L'écraser ou créer une nouvelle entrée ?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Écraser,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Créer nouveau,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" comporte des modifications non enregistrées. Postuler avant de continuer ?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Appliquer,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Jeter,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Ce {0} n'a pas été enregistré. Enregistrer avant de continuer ?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Sauvegarder,False

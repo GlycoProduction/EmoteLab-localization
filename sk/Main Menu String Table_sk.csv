@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' je rezervovaný a nemôže byť použitý ako {0}.,False
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} nemôže končiť bodkou.,False
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,{0} s týmto názvom už v zozname existuje.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Charakter,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Scéna,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Zoznam scén,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.",Naozaj chcete odstrániť {0} „{1}“? Túto akciu nie je možné vrátiť späť.,False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.",{0} „{1}“ už existuje. Naozaj chcete prepísať {0} „{1}“? Túto akciu nie je možné vrátiť späť.,False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?",Je vybratá položka {0} „{1}“. Prepísať ho alebo vytvoriť nový záznam?,False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Prepísať,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Vytvoriť nový,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?",{0} „{1}“ obsahuje neuložené zmeny. Požiadať pred pokračovaním?,False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Použiť,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Zahodiť,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Toto {0} nebolo uložené. Uložiť pred pokračovaním?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Uložiť,False

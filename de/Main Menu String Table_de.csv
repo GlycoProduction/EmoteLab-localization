@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,„{1}“ ist reserviert und kann nicht als {0} verwendet werden.,False
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} darf nicht mit einem Punkt enden.,False
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Ein {0} mit diesem Namen ist bereits in der Liste vorhanden.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Charakter,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Szene,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Szenenliste,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Sind Sie sicher, dass Sie {0} „{1}“ löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} „{1}“ existiert bereits. Sind Sie sicher, dass Sie {0} „{1}“ überschreiben möchten? Diese Aktion kann nicht rückgängig gemacht werden.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?",Ein {0} „{1}“ ist ausgewählt. Überschreiben oder einen neuen Eintrag erstellen?,False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Überschreiben,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Neu erstellen,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} „{1}“ hat nicht gespeicherte Änderungen. Bewerben Sie sich, bevor Sie fortfahren?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Anwenden,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Verwerfen,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Dieses {0} wurde nicht gespeichert. Vor dem Fortfahren speichern?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Speichern,False

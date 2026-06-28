@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' зарезервовано і не може використовуватися як {0}.,False
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} не може закінчуватися крапкою.,False
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,{0} із такою назвою вже існує в списку.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,персонаж,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Сцена,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Список сцен,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Ви впевнені, що бажаєте видалити {0} ""{1}""? Цю дію не можна скасувати.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" уже існує. Ви впевнені, що бажаєте перезаписати {0} ""{1}""? Цю дію не можна скасувати.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","Вибрано {0} ""{1}"". Перезаписати чи створити новий запис?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Перезаписати,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Створити новий,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" має незбережені зміни. Застосувати, перш ніж продовжити?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Застосувати,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Відкинути,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Цей {0} не збережено. Зберегти перед продовженням?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,зберегти,False

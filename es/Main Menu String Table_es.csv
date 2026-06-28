@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' está reservado y no se puede utilizar como {0}.,False
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} no puede terminar con un punto.,False
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Ya existe un {0} con este nombre en la lista.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Personaje,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Escena,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Lista de escenas,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","¿Está seguro de que desea eliminar {0} ""{1}""? Esta acción no se puede deshacer.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" ya existe. ¿Está seguro de que desea sobrescribir {0} ""{1}""? Esta acción no se puede deshacer.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","Se selecciona un {0} ""{1}"". ¿Sobrescribirlo o crear una nueva entrada?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Exagerar,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Crear nuevo,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" tiene cambios sin guardar. ¿Aplicar antes de continuar?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Aplicar,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Desechar,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Este {0} no se ha guardado. ¿Guardar antes de continuar?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Ahorrar,False

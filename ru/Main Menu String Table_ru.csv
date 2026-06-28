@@ -155,3 +155,16 @@ MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and 
 MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' зарезервирован и не может использоваться как {0}.,False
 MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} не может заканчиваться точкой.,False
 MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,{0} с таким именем уже существует в списке.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Характер,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Сцена,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Список сцен,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Вы уверены, что хотите удалить {0} ""{1}""? Это действие невозможно отменить.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" уже существует. Вы уверены, что хотите перезаписать {0} ""{1}""? Это действие невозможно отменить.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","Выбран {0} ""{1}"". Перезаписать или создать новую запись?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Перезаписать,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Создать новый,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" содержит несохраненные изменения. Подать заявку, прежде чем продолжить?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Применять,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Отказаться,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,"Этот {0} не был сохранен. Сохранить, прежде чем продолжить?",False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Сохранять,False
