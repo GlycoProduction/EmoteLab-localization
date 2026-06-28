@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,Alt Renk,True
 MainMenu.Editor.LICENSE,LICENSE,LİSANS,True
 MainMenu.Editor.AssetTypeAA,Built-in,Standart İçerikler,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Üçüncü Parti İçerikler,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,İsim boş bırakılamaz.,True
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,"İsim, {0} harfi geçemez.",True
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","İsimde ""{0}“ sembolü olamaz.",True
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}“ ismi rezerve bir isimdir ve kullanılamaz.",True
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,İsim nokta ile bitemez.,True
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,İsim sadece boşluktan oluşamaz.,True
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Ekrandaki modeli kaldır,True
 MainMenu.Settings.GeneralSettings,General Settings,Genel Ayarlar,True
 MainMenu.Settings.GeneralSettings.Language,Language,Dil,True
@@ -151,3 +145,13 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Atölye öğesi {0} bu uygulamaya ait değil.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Görünüm yakalama başarısız oldu: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Görünüm alanından çekilen önizleme.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Karakter adı,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,Sahne adı,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Sahne listesi adı,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} boş olamaz.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,"{0}, {1} karakteri aşamaz.",False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,"{0}, '{1}' içeremez.",False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,'{1}' ayrılmış bir addır ve kullanılamaz.,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' ayrılmıştır ve {0} olarak kullanılamaz.,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} noktayla bitemez.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Bu adda bir {0} zaten listede mevcut.,False

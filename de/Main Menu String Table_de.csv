@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,Dunkle Tönungsfarbe,True
 MainMenu.Editor.LICENSE,LICENSE,LIZENZ,True
 MainMenu.Editor.AssetTypeAA,Built-in,Standard-Assets,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Drittanbieter-Assets,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Der Name darf nicht leer sein.,True
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Der Name darf nicht länger als {0} Zeichen sein.,True
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",Der Name darf das Zeichen „{0}“ nicht enthalten.,True
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",„{0}“ ist ein reservierter Name und kann nicht verwendet werden.,True
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,Der Name darf nicht mit einem Punkt enden.,True
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,Der Name darf nicht nur Leerzeichen enthalten.,True
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Aktuelles Modell entladen,True
 MainMenu.Settings.GeneralSettings,General Settings,Allgemeine Einstellungen,True
 MainMenu.Settings.GeneralSettings.Language,Language,Sprache,True
@@ -151,3 +145,13 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Workshop-Artikel {0} gehört nicht zu dieser App.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Ansichtsfenstererfassung fehlgeschlagen: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Vorschau aus dem Ansichtsfenster aufgenommen.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Charaktername,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,Szenenname,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Name der Szenenliste,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} darf nicht leer sein.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} darf nicht länger als {1} Zeichen sein.,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} darf „{1}“ nicht enthalten.,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,„{1}“ ist ein reservierter Name und kann nicht verwendet werden.,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,„{1}“ ist reserviert und kann nicht als {0} verwendet werden.,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} darf nicht mit einem Punkt enden.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Ein {0} mit diesem Namen ist bereits in der Liste vorhanden.,False

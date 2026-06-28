@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,黒の色合い,True
 MainMenu.Editor.LICENSE,LICENSE,ライセンス,True
 MainMenu.Editor.AssetTypeAA,Built-in,標準アセット,False
 MainMenu.Editor.AssetTypeSA,Third-Party,外部アセット,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,名前は空にできません,True
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,名前は{0}文字以内で入力してください,True
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",名前に「{0}」は使用できません,True
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",「{0}」は予約済みキーワードのため使用できません,True
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,名前をドットで終えることはできません,True
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,名前を空白のみにはできません,True
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,モデルの読み込みを解除,True
 MainMenu.Settings.GeneralSettings,General Settings,一般設定,True
 MainMenu.Settings.GeneralSettings.Language,Language,言語,True
@@ -151,3 +145,13 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,ワークショップ アイテム {0} はこのアプリに属していません。,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},ビューポートのキャプチャに失敗しました: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,ビューポートからキャプチャされたプレビュー。,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,キャラクター名,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,シーン名,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,シーンリスト名,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} を空にすることはできません。,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} は {1} 文字を超えることはできません。,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} に「{1}」を含めることはできません。,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,'{1}' は予約された名前なので使用できません。,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,「{1}」は予約されているため、{0} として使用できません。,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} をドットで終わらせることはできません。,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,この名前の {0} はリスト内にすでに存在します。,False

@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor,False
 MainMenu.Editor.LICENSE,LICENSE,ENGEDÉLY,False
 MainMenu.Editor.AssetTypeAA,Built-in,Alapértelmezett eszközök,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Harmadik féltől származó eszközök,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,A név nem lehet üres.,False
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,A név nem haladhatja meg a {0} karaktert.,False
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","A név nem tartalmazhatja a ""{0}"" karaktert.",False
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" egy lefoglalt név, és nem használható.",False
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,A név nem végződhet ponttal.,False
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,A név nem tartalmazhat csak szóközt.,False
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Töltse ki az aktuális modellt,False
 MainMenu.Settings.GeneralSettings,General Settings,Általános beállítások,False
 MainMenu.Settings.GeneralSettings.Language,Language,Nyelv,False
@@ -151,3 +145,13 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,A(z) {0} műhelyelem nem ehhez az alkalmazáshoz tartozik.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},A nézetablak rögzítése nem sikerült: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,A nézetablakból rögzített előnézet.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Karakter neve,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,A jelenet neve,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Jelenetlista neve,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,A(z) {0} nem lehet üres.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,A {0} nem haladhatja meg a {1} karaktert.,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,A(z) {0} nem tartalmazhatja a következőt: „{1}”.,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,"A „{1}” egy lefoglalt név, és nem használható.",False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,"""{1}"" le van foglalva, és nem használható {0} néven.",False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,A(z) {0} nem végződhet ponttal.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Az ilyen nevű {0} már létezik a listában.,False

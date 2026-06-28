@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor,False
 MainMenu.Editor.LICENSE,LICENSE,ЛІЦЕНЗІЯ,False
 MainMenu.Editor.AssetTypeAA,Built-in,Активи за замовчуванням,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Активи третіх сторін,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Назва не може бути пустою.,False
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Назва не може перевищувати {0} символів.,False
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","Назва не може містити символ ""{0}"".",False
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" є зарезервованою назвою, і її не можна використовувати.",False
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,Назва не може закінчуватися крапкою.,False
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,Назва не може містити лише пробіли.,False
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Вивантажити поточну модель,False
 MainMenu.Settings.GeneralSettings,General Settings,Загальні налаштування,False
 MainMenu.Settings.GeneralSettings.Language,Language,Мова,False
@@ -151,3 +145,13 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Елемент майстерні {0} не належить до цієї програми.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Помилка захоплення області перегляду: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Попередній перегляд зроблено з вікна перегляду.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Ім'я персонажа,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,Назва сцени,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Назва списку сцен,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} не може бути порожнім.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} не може перевищувати {1} символів.,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,"{0} не може містити ""{1}"".",False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,"""{1}"" є зарезервованою назвою, і її не можна використовувати.",False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' зарезервовано і не може використовуватися як {0}.,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} не може закінчуватися крапкою.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,{0} із такою назвою вже існує в списку.,False

@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,深色,True
 MainMenu.Editor.LICENSE,LICENSE,使用条款,True
 MainMenu.Editor.AssetTypeAA,Built-in,内置,True
 MainMenu.Editor.AssetTypeSA,Third-Party,第三方,True
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,角色名不得为空。,True
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,角色名不得超过{0}个字符。,True
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",角色名不得包含特殊字符“{0}”。,True
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",“{0}”是系统保留关键词，不能作为角色名。,True
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,角色名不能以点结尾。,True
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,角色名不能只包含空格。,True
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,关闭当前模型,True
 MainMenu.Settings.GeneralSettings,General Settings,一般设置,True
 MainMenu.Settings.GeneralSettings.Language,Language,语言,True
@@ -151,3 +145,13 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,创意工坊项目 {0} 不属于此应用程序。,True
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},视口捕获失败：{0},True
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,从视口捕获预览图像。,True
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,角色名称,True
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,场景名称,True
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,场景列表名称,True
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} 不能为空。,True
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} 不能超过 {1} 个字符。,True
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} 不能包含“{1}”。,True
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,“{1}”是系统保留关键词，不能使用。,True
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,“{1}”是保留关键词，不能用作 {0}。,True
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} 不能以点结尾。,True
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,列表中已存在同名的 {0}。,True

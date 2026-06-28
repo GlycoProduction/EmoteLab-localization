@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,สีย้อมดำ,True
 MainMenu.Editor.LICENSE,LICENSE,ใบอนุญาตซอฟต์แวร์ (LICENSE),True
 MainMenu.Editor.AssetTypeAA,Built-in,Default Assets,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Asset ของบุคคลที่สาม,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,ชื่อต้องไม่ว่างเปล่า,True
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,ชื่อต้องไม่เกิน {0} ตัวอักษร,True
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","ชื่อต้องไม่มีอักขระ ""{0}""",True
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" เป็นชื่อที่สงวนไว้และไม่สามารถใช้งานได้",True
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,ชื่อต้องไม่ลงท้ายด้วยจุด,True
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,ชื่อต้องไม่ประกอบด้วยช่องว่างเพียงอย่างเดียว,True
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Unload โมเดลปัจจุบัน,True
 MainMenu.Settings.GeneralSettings,General Settings,การตั้งค่าทั่วไป,True
 MainMenu.Settings.GeneralSettings.Language,Language,ภาษา,True
@@ -151,3 +145,13 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,รายการเวิร์กชอป {0} ไม่ได้เป็นของแอปนี้,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},การบันทึกวิวพอร์ตล้มเหลว: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,ดูตัวอย่างที่ถ่ายจากวิวพอร์ต,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,ชื่อตัวละคร,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,ชื่อฉาก,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,ชื่อรายการฉาก,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} ไม่สามารถเว้นว่างได้,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} ต้องไม่เกิน {1} อักขระ,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} ไม่สามารถมี '{1}',False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,'{1}' เป็นชื่อที่สงวนไว้และไม่สามารถใช้ได้,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' ถูกสงวนไว้และไม่สามารถใช้เป็น {0},False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} ไม่สามารถลงท้ายด้วยจุดได้,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,มี {0} ที่มีชื่อนี้อยู่แล้วในรายการ,False

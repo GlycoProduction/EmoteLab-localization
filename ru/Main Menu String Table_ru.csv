@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,ОттенокЧерныйЦвет
 MainMenu.Editor.LICENSE,LICENSE,ЛИЦЕНЗИЯ,False
 MainMenu.Editor.AssetTypeAA,Built-in,Активы по умолчанию,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Сторонние активы,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Имя не может быть пустым.,False
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Имя не может превышать {0} символов.,False
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",Имя не может содержать символ «{0}».,False
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","«{0}» — зарезервированное имя, и его нельзя использовать.",False
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,Имя не может заканчиваться точкой.,False
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,Имя не может содержать только пробелы.,False
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Выгрузить текущую модель,False
 MainMenu.Settings.GeneralSettings,General Settings,Общие настройки,False
 MainMenu.Settings.GeneralSettings.Language,Language,Язык,False
@@ -151,3 +145,13 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Объект мастерской {0} не принадлежит этому приложению.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Не удалось захватить область просмотра: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Предварительный просмотр сделан из видового экрана.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Имя персонажа,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,Название сцены,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Название списка сцен,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} не может быть пустым.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} не может превышать {1} символов.,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} не может содержать '{1}'.,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,"'{1}' — зарезервированное имя, и его нельзя использовать.",False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' зарезервирован и не может использоваться как {0}.,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} не может заканчиваться точкой.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,{0} с таким именем уже существует в списке.,False
