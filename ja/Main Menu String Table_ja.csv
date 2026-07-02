@@ -168,3 +168,40 @@ MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,適用する,False
 MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,破棄,False
 MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,この {0} は保存されていません。続行する前に保存しますか?,False
 MainMenu.Editor.UnsavedNewConfirmation.Save,Save,保存,False
+MainMenu.Editor.Layers,Layers,レイヤー,False
+MainMenu.Editor.LayerProperties,Properties,プロパティ,False
+MainMenu.Editor.ModelProperties,Model Properties,モデルのプロパティ,False
+MainMenu.Editor.TextProperty.Text,Text,文章,False
+MainMenu.Editor.TextProperty.Font,Font,フォント,False
+MainMenu.Editor.TextProperty.Size,Size,サイズ,False
+MainMenu.Editor.TextProperty.PositionX,Position X,位置X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,位置Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,回転,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,文字間隔,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,行間,False
+MainMenu.Editor.TextProperty.Outline,Outline,概要,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,厚さ,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,下敷き,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,拡張する,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,オフセット X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,オフセットY,False
+MainMenu.Editor.LayerType.Model,Model,モデル,False
+MainMenu.Editor.LayerType.Image,Image,画像,False
+MainMenu.Editor.LayerType.Text,Text,文章,False
+MainMenu.Editor.Playback,Playback,再生,False
+MainMenu.Editor.SceneList,Scene List,シーンリスト,False
+MainMenu.Editor.Scenes,Scenes,シーン,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,すべてのシーンをエクスポート,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,シーンリストをエクスポートする,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,エクスポートを準備しています...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},{0}/{1} をエクスポートしています: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,エクスポートに失敗しました,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,エクスポートが完了しました,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,エクスポートがキャンセルされました,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,エクスポートが完了しました,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,エクスポートが完了しました！,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).",エクスポートがキャンセルされました ({0}/{1} がエクスポートされました、{2} が失敗しました)。,False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).",エクスポートが完了しました ({0}/{1} がエクスポートされました、{2} が失敗しました)。,False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).",エクスポートが完了しました ({0}/{1} がエクスポートされました、{2} が失敗しました)。,False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},エラー: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,エクスポート場所を開く,False

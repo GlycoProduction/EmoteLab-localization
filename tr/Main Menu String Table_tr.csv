@@ -168,3 +168,40 @@ MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Uygula,False
 MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,At,False
 MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Bu {0} kaydedilmedi. Devam etmeden önce kaydedilsin mi?,False
 MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Kaydetmek,False
+MainMenu.Editor.Layers,Layers,Katmanlar,False
+MainMenu.Editor.LayerProperties,Properties,Özellikler,False
+MainMenu.Editor.ModelProperties,Model Properties,Model Özellikleri,False
+MainMenu.Editor.TextProperty.Text,Text,Metin,False
+MainMenu.Editor.TextProperty.Font,Font,Yazı tipi,False
+MainMenu.Editor.TextProperty.Size,Size,Boyut,False
+MainMenu.Editor.TextProperty.PositionX,Position X,Konum X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Y Konumu,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Döndürme,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Karakter Aralığı,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Satır Aralığı,False
+MainMenu.Editor.TextProperty.Outline,Outline,Taslak,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Kalınlık,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Altlık,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Genişlet,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,Ofset X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Ofset Y,False
+MainMenu.Editor.LayerType.Model,Model,Modeli,False
+MainMenu.Editor.LayerType.Image,Image,Resim,False
+MainMenu.Editor.LayerType.Text,Text,Metin,False
+MainMenu.Editor.Playback,Playback,Playback,False
+MainMenu.Editor.SceneList,Scene List,Sahne Listesi,False
+MainMenu.Editor.Scenes,Scenes,Sahneler,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Tüm Sahneleri Dışa Aktar,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Sahne listesini dışa aktarma,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Dışa aktarım hazırlanıyor...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},{0}/{1} dışa aktarılıyor: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Dışa aktarma başarısız oldu,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Dışa aktarma tamamlandı,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Dışa aktarma iptal edildi,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Dışa aktarma tamamlandı,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Dışa aktarma tamamlandı!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Dışa aktarma iptal edildi ({0}/{1} dışa aktarıldı, {2} başarısız oldu).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Dışa aktarma tamamlandı ({0}/{1} dışa aktarıldı, {2} başarısız oldu).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Dışa aktarma tamamlandı ({0}/{1} dışa aktarıldı, {2} başarısız oldu).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Hata: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Dışa Aktarma Konumunu Aç,False

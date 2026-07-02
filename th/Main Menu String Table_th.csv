@@ -168,3 +168,40 @@ MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,นำมาใช้,Fals
 MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,ทิ้ง,False
 MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,{0} นี้ไม่ได้รับการบันทึก บันทึกก่อนดำเนินการต่อไหม,False
 MainMenu.Editor.UnsavedNewConfirmation.Save,Save,บันทึก,False
+MainMenu.Editor.Layers,Layers,เลเยอร์,False
+MainMenu.Editor.LayerProperties,Properties,คุณสมบัติ,False
+MainMenu.Editor.ModelProperties,Model Properties,คุณสมบัติของโมเดล,False
+MainMenu.Editor.TextProperty.Text,Text,ข้อความ,False
+MainMenu.Editor.TextProperty.Font,Font,แบบอักษร,False
+MainMenu.Editor.TextProperty.Size,Size,ขนาด,False
+MainMenu.Editor.TextProperty.PositionX,Position X,ตำแหน่ง X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,ตำแหน่ง Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,การหมุน,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,การเว้นวรรคอักขระ,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,ระยะห่างระหว่างบรรทัด,False
+MainMenu.Editor.TextProperty.Outline,Outline,โครงร่าง,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,ความหนา,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,รองพื้น,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,ขยาย,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,ออฟเซ็ต X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,ออฟเซ็ต Y,False
+MainMenu.Editor.LayerType.Model,Model,แบบอย่าง,False
+MainMenu.Editor.LayerType.Image,Image,ภาพ,False
+MainMenu.Editor.LayerType.Text,Text,ข้อความ,False
+MainMenu.Editor.Playback,Playback,การเล่น,False
+MainMenu.Editor.SceneList,Scene List,รายการฉาก,False
+MainMenu.Editor.Scenes,Scenes,ฉาก,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,ส่งออกฉากทั้งหมด,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,กำลังส่งออกรายการฉาก,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,กำลังเตรียมการส่งออก...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},กำลังส่งออก {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,การส่งออกล้มเหลว,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,ส่งออกเสร็จแล้ว,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,ยกเลิกการส่งออกแล้ว,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,ส่งออกเสร็จสมบูรณ์,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,ส่งออกเสร็จแล้ว!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","การส่งออกถูกยกเลิก (ส่งออกแล้ว {0}/{1}, {2} ล้มเหลว)",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","การส่งออกเสร็จสมบูรณ์ (ส่งออกแล้ว {0}/{1}, {2} ล้มเหลว)",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","การส่งออกเสร็จสมบูรณ์ (ส่งออกแล้ว {0}/{1}, {2} ล้มเหลว)",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},ข้อผิดพลาด: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,เปิดสถานที่ส่งออก,False

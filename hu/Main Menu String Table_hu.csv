@@ -168,3 +168,40 @@ MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Alkalmazni,False
 MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Eldobni,False
 MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Ez a(z) {0} nincs elmentve. Menti a folytatás előtt?,False
 MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Megtakarítás,False
+MainMenu.Editor.Layers,Layers,Rétegek,False
+MainMenu.Editor.LayerProperties,Properties,Tulajdonságok,False
+MainMenu.Editor.ModelProperties,Model Properties,Modell tulajdonságai,False
+MainMenu.Editor.TextProperty.Text,Text,Szöveg,False
+MainMenu.Editor.TextProperty.Font,Font,Betűtípus,False
+MainMenu.Editor.TextProperty.Size,Size,Méret,False
+MainMenu.Editor.TextProperty.PositionX,Position X,X pozíció,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Y pozíció,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Forgás,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Karaktertávolság,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Sorköz,False
+MainMenu.Editor.TextProperty.Outline,Outline,Vázlat,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Vastagság,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Alátét,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Tágul,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,X eltolás,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Eltolás Y,False
+MainMenu.Editor.LayerType.Model,Model,Modell,False
+MainMenu.Editor.LayerType.Image,Image,Kép,False
+MainMenu.Editor.LayerType.Text,Text,Szöveg,False
+MainMenu.Editor.Playback,Playback,Lejátszás,False
+MainMenu.Editor.SceneList,Scene List,Jelenetek listája,False
+MainMenu.Editor.Scenes,Scenes,Jelenetek,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Minden jelenet exportálása,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Jelenetlista exportálása,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Exportálás előkészítése...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},Exportálás: {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Nem sikerült exportálni,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Az exportálás befejeződött,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Exportálás megszakítva,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Az exportálás befejeződött,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Az exportálás befejeződött!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Exportálás megszakítva ({0}/{1} exportálva, {2} sikertelen).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Az exportálás befejeződött ({0}/{1} exportálva, {2} sikertelen).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Az exportálás befejeződött ({0}/{1} exportálva, {2} sikertelen).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Hiba: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Nyissa meg az Exportálási hely lehetőséget,False

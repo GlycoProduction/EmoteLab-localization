@@ -168,3 +168,40 @@ MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Застосувати,Fal
 MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Відкинути,False
 MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Цей {0} не збережено. Зберегти перед продовженням?,False
 MainMenu.Editor.UnsavedNewConfirmation.Save,Save,зберегти,False
+MainMenu.Editor.Layers,Layers,Шари,False
+MainMenu.Editor.LayerProperties,Properties,Властивості,False
+MainMenu.Editor.ModelProperties,Model Properties,Властивості моделі,False
+MainMenu.Editor.TextProperty.Text,Text,текст,False
+MainMenu.Editor.TextProperty.Font,Font,Шрифт,False
+MainMenu.Editor.TextProperty.Size,Size,Розмір,False
+MainMenu.Editor.TextProperty.PositionX,Position X,Позиція X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Позиція Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Обертання,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Інтервал між символами,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Міжрядковий інтервал,False
+MainMenu.Editor.TextProperty.Outline,Outline,Контур,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Товщина,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Підкладка,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Розширити,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,Зсув X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Зсув Y,False
+MainMenu.Editor.LayerType.Model,Model,Модель,False
+MainMenu.Editor.LayerType.Image,Image,Зображення,False
+MainMenu.Editor.LayerType.Text,Text,текст,False
+MainMenu.Editor.Playback,Playback,Відтворення,False
+MainMenu.Editor.SceneList,Scene List,Список сцен,False
+MainMenu.Editor.Scenes,Scenes,Сцени,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Експортувати всі сцени,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Експорт списку сцен,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Підготовка експорту...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},Експорт {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Помилка експорту,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Експорт завершено,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Експорт скасовано,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Експорт завершено,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Експорт завершено!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Експорт скасовано ({0}/{1} експортовано, {2} не вдалося).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Експорт завершено ({0}/{1} експортовано, {2} не вдалося).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Експорт завершено ({0}/{1} експортовано, {2} не вдалося).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Помилка: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Відкрийте розташування експорту,False

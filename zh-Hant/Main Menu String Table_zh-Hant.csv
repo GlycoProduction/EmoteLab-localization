@@ -168,3 +168,40 @@ MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,應用,False
 MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,丟棄,False
 MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,此 {0} 尚未儲存。繼續之前儲存嗎？,False
 MainMenu.Editor.UnsavedNewConfirmation.Save,Save,儲存,False
+MainMenu.Editor.Layers,Layers,層數,False
+MainMenu.Editor.LayerProperties,Properties,特性,False
+MainMenu.Editor.ModelProperties,Model Properties,模型屬性,False
+MainMenu.Editor.TextProperty.Text,Text,文字,False
+MainMenu.Editor.TextProperty.Font,Font,字體,False
+MainMenu.Editor.TextProperty.Size,Size,尺寸,False
+MainMenu.Editor.TextProperty.PositionX,Position X,位置 X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,位置 Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,旋轉,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,字元間距,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,行距,False
+MainMenu.Editor.TextProperty.Outline,Outline,大綱,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,厚度,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,底層,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,擴張,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,偏移 X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,偏移 Y,False
+MainMenu.Editor.LayerType.Model,Model,模型,False
+MainMenu.Editor.LayerType.Image,Image,影像,False
+MainMenu.Editor.LayerType.Text,Text,文字,False
+MainMenu.Editor.Playback,Playback,回放,False
+MainMenu.Editor.SceneList,Scene List,場景列表,False
+MainMenu.Editor.Scenes,Scenes,場景,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,匯出所有場景,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,匯出場景列表,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,正在準備匯出...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},導出 {0}/{1}：{2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,匯出失敗,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,匯出完成,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,出口取消,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,匯出完成,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,匯出完成！,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).",匯出已取消（已匯出 {0}/{1}，{2} 失敗）。,False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).",匯出完成（已匯出 {0}/{1}，{2} 失敗）。,False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).",匯出完成（已匯出 {0}/{1}，{2} 失敗）。,False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},錯誤：{0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,打開匯出位置,False

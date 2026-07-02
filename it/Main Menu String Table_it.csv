@@ -168,3 +168,40 @@ MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Fare domanda a,False
 MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Scartare,False
 MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Questo {0} non è stato salvato. Salvare prima di continuare?,False
 MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Salva,False
+MainMenu.Editor.Layers,Layers,Strati,False
+MainMenu.Editor.LayerProperties,Properties,Proprietà,False
+MainMenu.Editor.ModelProperties,Model Properties,Proprietà del modello,False
+MainMenu.Editor.TextProperty.Text,Text,Testo,False
+MainMenu.Editor.TextProperty.Font,Font,Font,False
+MainMenu.Editor.TextProperty.Size,Size,Misurare,False
+MainMenu.Editor.TextProperty.PositionX,Position X,Posizione X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Posizione Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Rotazione,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Spaziatura caratteri,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Interlinea,False
+MainMenu.Editor.TextProperty.Outline,Outline,Contorno,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Spessore,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Sottofondo,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Dilatare,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,Scostamento X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Scostamento Y,False
+MainMenu.Editor.LayerType.Model,Model,Modello,False
+MainMenu.Editor.LayerType.Image,Image,Immagine,False
+MainMenu.Editor.LayerType.Text,Text,Testo,False
+MainMenu.Editor.Playback,Playback,Riproduzione,False
+MainMenu.Editor.SceneList,Scene List,Elenco delle scene,False
+MainMenu.Editor.Scenes,Scenes,Scene,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Esporta tutte le scene,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Esportazione dell'elenco delle scene,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Preparazione dell'esportazione...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},Esportazione {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Esportazione non riuscita,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Esportazione terminata,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Esportazione annullata,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Esportazione completata,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Esportazione completata!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Esportazione annullata ({0}/{1} esportata, {2} non riuscita).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Esportazione completata ({0}/{1} esportata, {2} non riuscita).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Esportazione completata ({0}/{1} esportata, {2} non riuscita).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Errore: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Apri posizione di esportazione,False

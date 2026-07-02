@@ -168,3 +168,40 @@ MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Použiť,False
 MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Zahodiť,False
 MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Toto {0} nebolo uložené. Uložiť pred pokračovaním?,False
 MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Uložiť,False
+MainMenu.Editor.Layers,Layers,Vrstvy,False
+MainMenu.Editor.LayerProperties,Properties,Vlastnosti,False
+MainMenu.Editor.ModelProperties,Model Properties,Vlastnosti modelu,False
+MainMenu.Editor.TextProperty.Text,Text,Text,False
+MainMenu.Editor.TextProperty.Font,Font,Písmo,False
+MainMenu.Editor.TextProperty.Size,Size,Veľkosť,False
+MainMenu.Editor.TextProperty.PositionX,Position X,Pozícia X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Pozícia Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Rotácia,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Rozstup znakov,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Riadkovanie,False
+MainMenu.Editor.TextProperty.Outline,Outline,Obrys,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Hrúbka,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Podklad,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Dilatovať,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,Posun X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Odsadenie Y,False
+MainMenu.Editor.LayerType.Model,Model,Model,False
+MainMenu.Editor.LayerType.Image,Image,Obrázok,False
+MainMenu.Editor.LayerType.Text,Text,Text,False
+MainMenu.Editor.Playback,Playback,Prehrávanie,False
+MainMenu.Editor.SceneList,Scene List,Zoznam scén,False
+MainMenu.Editor.Scenes,Scenes,Scény,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Exportovať všetky scény,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Export zoznamu scén,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Pripravuje sa export...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},Exportuje sa {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Export zlyhal,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Export dokončený,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Export bol zrušený,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Export dokončený,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Export dokončený!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Export bol zrušený (exportované: {0}/{1}, zlyhalo: {2}).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Export je dokončený (exportované: {0}/{1}, zlyhalo: {2}).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Export je dokončený (exportované: {0}/{1}, zlyhalo: {2}).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Chyba: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Otvorte miesto exportu,False
