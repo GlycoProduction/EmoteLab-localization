@@ -205,3 +205,8 @@ MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} 
 MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Az exportálás befejeződött ({0}/{1} exportálva, {2} sikertelen).",False
 MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Hiba: {0},False
 MainMenu.Editor.OpenExportLocation,Open Export Location,Nyissa meg az Exportálási hely lehetőséget,False
+MainMenu.Editor.CameraProperties,Camera Properties,Kamera tulajdonságai,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,X pozíció,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Y pozíció,False
+MainMenu.Editor.CameraProperty.Size,Size,Méret,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Forgás,False

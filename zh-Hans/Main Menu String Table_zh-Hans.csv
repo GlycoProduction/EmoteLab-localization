@@ -205,3 +205,8 @@ MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} 
 MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).",导出完成（已导出 {0}/{1}，{2} 失败）。,True
 MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},错误：{0},True
 MainMenu.Editor.OpenExportLocation,Open Export Location,打开导出位置,True
+MainMenu.Editor.CameraProperties,Camera Properties,相机属性,True
+MainMenu.Editor.CameraProperty.PositionX,Position X,位置 X,True
+MainMenu.Editor.CameraProperty.PositionY,Position Y,位置 Y,True
+MainMenu.Editor.CameraProperty.Size,Size,尺寸,True
+MainMenu.Editor.CameraProperty.Rotation,Rotation,旋转,True

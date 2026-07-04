@@ -205,3 +205,8 @@ MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} 
 MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).",匯出完成（已匯出 {0}/{1}，{2} 失敗）。,False
 MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},錯誤：{0},False
 MainMenu.Editor.OpenExportLocation,Open Export Location,打開匯出位置,False
+MainMenu.Editor.CameraProperties,Camera Properties,相機屬性,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,位置 X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,位置 Y,False
+MainMenu.Editor.CameraProperty.Size,Size,尺寸,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,旋轉,False

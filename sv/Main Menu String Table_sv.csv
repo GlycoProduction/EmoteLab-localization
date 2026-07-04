@@ -205,3 +205,8 @@ MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} 
 MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Exporten slutförd ({0}/{1} exporterad, {2} misslyckades).",False
 MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Fel: {0},False
 MainMenu.Editor.OpenExportLocation,Open Export Location,Öppna Exportplats,False
+MainMenu.Editor.CameraProperties,Camera Properties,Kameraegenskaper,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,Position X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Position Y,False
+MainMenu.Editor.CameraProperty.Size,Size,Storlek,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Rotation,False

@@ -205,3 +205,8 @@ MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} 
 MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Exportación completa ({0}/{1} exportada, {2} falló).",False
 MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Error: {0},False
 MainMenu.Editor.OpenExportLocation,Open Export Location,Abrir ubicación de exportación,False
+MainMenu.Editor.CameraProperties,Camera Properties,Propiedades de la cámara,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,Posición X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Posición Y,False
+MainMenu.Editor.CameraProperty.Size,Size,Tamaño,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Rotación,False

@@ -205,3 +205,8 @@ MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} 
 MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Експорт завершено ({0}/{1} експортовано, {2} не вдалося).",False
 MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Помилка: {0},False
 MainMenu.Editor.OpenExportLocation,Open Export Location,Відкрийте розташування експорту,False
+MainMenu.Editor.CameraProperties,Camera Properties,Властивості камери,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,Позиція X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Позиція Y,False
+MainMenu.Editor.CameraProperty.Size,Size,Розмір,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Обертання,False

@@ -205,3 +205,8 @@ MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} 
 MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","내보내기가 완료되었습니다({0}/{1} 내보내기, {2} 실패).",False
 MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},오류: {0},False
 MainMenu.Editor.OpenExportLocation,Open Export Location,내보내기 위치 열기,False
+MainMenu.Editor.CameraProperties,Camera Properties,카메라 속성,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,위치 X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,위치 Y,False
+MainMenu.Editor.CameraProperty.Size,Size,크기,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,회전,False

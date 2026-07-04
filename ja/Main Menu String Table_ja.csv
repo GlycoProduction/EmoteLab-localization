@@ -205,3 +205,8 @@ MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} 
 MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).",エクスポートが完了しました ({0}/{1} がエクスポートされました、{2} が失敗しました)。,False
 MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},エラー: {0},False
 MainMenu.Editor.OpenExportLocation,Open Export Location,エクスポート場所を開く,False
+MainMenu.Editor.CameraProperties,Camera Properties,カメラのプロパティ,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,位置X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,位置Y,False
+MainMenu.Editor.CameraProperty.Size,Size,サイズ,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,回転,False

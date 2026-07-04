@@ -205,3 +205,8 @@ MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} 
 MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Dışa aktarma tamamlandı ({0}/{1} dışa aktarıldı, {2} başarısız oldu).",False
 MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Hata: {0},False
 MainMenu.Editor.OpenExportLocation,Open Export Location,Dışa Aktarma Konumunu Aç,False
+MainMenu.Editor.CameraProperties,Camera Properties,Kamera Özellikleri,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,Konum X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Y Konumu,False
+MainMenu.Editor.CameraProperty.Size,Size,Boyut,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Döndürme,False
