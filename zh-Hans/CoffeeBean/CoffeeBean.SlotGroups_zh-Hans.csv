@@ -216,8 +216,8 @@ Wing >>,Wing >>,翅膀 >>,True
 Wing >> Outline,Wing >> Outline,翅膀 >> 轮廓,True
 Wing <<,Wing <<,翅膀 <<,True
 Wing << Outline,Wing << Outline,翅膀 << 轮廓,True
-Cape,Cape,斗篷,True
-Cape Outline,Cape Outline,斗篷 轮廓,True
+Cape,Cape,披风,True
+Cape Outline,Cape Outline,披风 轮廓,True
 Cheek,Cheek,脸颊,True
 Cockroach,Cockroach,蟑螂,True
 Controller,Controller,手柄,True
@@ -275,3 +275,17 @@ Eyepatch,Eyepatch,眼罩,True
 Eyepatch Outline,Eyepatch Outline,眼罩轮廓,True
 Number Six,Number Six,数字 6,True
 Number Seven,Number Seven,数字 7,True
+Cheese,Cheese,奶酪,True
+Electric Fan,Electric Fan,电风扇,True
+Electric Fan Blades,Electric Fan Blades,电风扇叶片,True
+Flame Inner Layer,Flame Inner Layer,火焰内层,True
+Flame Outer Layer,Flame Outer Layer,火焰外层,True
+FoldingFan1,Folding Fan 1,折扇1,True
+FoldingFan2,Folding Fan 2,折扇2,True
+Guitar Color 1,Guitar Color 1,吉他颜色1,True
+Guitar Color 2,Guitar Color 2,吉他颜色2,True
+Guitar Color 3,Guitar Color 3,吉他颜色3,True
+Guitar Outline, Guitar Outline,吉他轮廓,True
+Slipper,Slipper,拖鞋,True
+Stool,Stool,凳子,True
+Wink Star,Wink Star,眨眼星星,True

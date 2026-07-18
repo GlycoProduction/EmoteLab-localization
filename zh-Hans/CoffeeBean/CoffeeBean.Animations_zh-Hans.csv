@@ -131,7 +131,7 @@ Greeting 2,Greeting 2,打招呼 2,True
 Sparkling 1,Sparkling 1,期待 1,True
 Sparkling 2,Sparkling 2,期待 2,True
 Think (Confident),Think (Confident),思考(自信地),True
-Think (Serious),Think (Serious),思考（认真地）,True
+Think (Serious),Think (Serious),思考(认真地),True
 Alert Custom,Alert Custom,通知/自定义,True
 Button,Button,按钮,True
 Card Swipe,Card Swipe,刷卡,True
@@ -146,3 +146,24 @@ Scared 2,Scared 2,害怕 2,True
 Six Seven,Six Seven,六七,True
 Six Seven (Dum),Six Seven (Dum),六七(呆),True
 Take My Money,Take My Money,拿走我的钱,True
+Cheese Slap,Cheese Slap,奶酪糊脸,True
+Clown 1,Clown 1,小丑 1,True
+Clown 2,Clown 2,小丑 2,True
+Electric Fan 1,Electric Fan 1,电风扇1,True
+Electric Fan 2,Electric Fan 2,电风扇2,True
+Fire 1,Fire 1,烧 1,True
+Fire 2,Fire 2,烧 2,True
+Folding Fans,Folding Fans,折扇,True
+Get Hit (Bits),Get Hit (Bits),被击中(Bits),True
+Get Hit (Coin),Get Hit (Coin),被击中(硬币),True
+Get Hit (Custom),Get Hit (Custom),被击中(自定义),True
+Get Hit (Heart),Get Hit (Heart),被击中(爱心),True
+Get Hit (Slipper),Get Hit (Slipper),被击中(拖鞋),True
+Guitar,Guitar,吉他,True
+Slipper 1,Slipper 1,拖鞋 1,True
+Slipper 2,Slipper 2,拖鞋 2,True
+Sunglasses Loop,Sunglasses Loop,墨镜循环,True
+This Is Fine 1,This Is Fine 1,一切都好 1,True
+This Is Fine 2,This Is Fine 2,一切都好 2,True
+This Is Fine 3,This Is Fine 3,一切都好 3,True
+Wink,Wink,眨眼,True
