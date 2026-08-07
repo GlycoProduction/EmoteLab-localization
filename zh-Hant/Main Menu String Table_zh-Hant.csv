@@ -213,3 +213,8 @@ MainMenu.Editor.CameraProperty.Rotation,Rotation,旋轉,False
 MainMenu.Editor.ModelProperty.Mirror,Mirror,鏡子,False
 MainMenu.Editor.ModelProperty.Outline,Outline,大綱,False
 MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,厚度,False
+MainMenu.Settings.ExportSettings.Quality,Quality,品質,False
+MainMenu.Settings.ExportSettings.LoopCount,Loop Count,循環計數,False
+MainMenu.Settings.ExportSettings.Lossless,Lossless,無損,False
+MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",啟用無損後，更高的品質意味著更小的檔案和更慢的編碼。看起來還是一樣。關閉無損後，更高的品質意味著更好的外觀和更大的文件。,False
+MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,動畫重複多少次。 0 = 永遠循環。,False

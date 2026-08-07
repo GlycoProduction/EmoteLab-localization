@@ -213,3 +213,8 @@ MainMenu.Editor.CameraProperty.Rotation,Rotation,回転,False
 MainMenu.Editor.ModelProperty.Mirror,Mirror,鏡,False
 MainMenu.Editor.ModelProperty.Outline,Outline,概要,False
 MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,厚さ,False
+MainMenu.Settings.ExportSettings.Quality,Quality,品質,False
+MainMenu.Settings.ExportSettings.LoopCount,Loop Count,ループ数,False
+MainMenu.Settings.ExportSettings.Lossless,Lossless,ロスレス,False
+MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",ロスレスをオンにすると、品質が高くなるとファイルが小さくなり、エンコードが遅くなります。見た目は変わりません。ロスレスをオフにすると、品質が高くなると見た目も良くなり、ファイルが大きくなります。,False
+MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,アニメーションが繰り返される回数。 0 = 永久ループ。,False

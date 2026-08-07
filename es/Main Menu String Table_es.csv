@@ -213,3 +213,8 @@ MainMenu.Editor.CameraProperty.Rotation,Rotation,Rotación,False
 MainMenu.Editor.ModelProperty.Mirror,Mirror,Espejo,False
 MainMenu.Editor.ModelProperty.Outline,Outline,Describir,False
 MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,Espesor,False
+MainMenu.Settings.ExportSettings.Quality,Quality,Calidad,False
+MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Conteo de bucles,False
+MainMenu.Settings.ExportSettings.Lossless,Lossless,Sin pérdidas,False
+MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","Con Lossless activado, una mayor calidad significa un archivo más pequeño y una codificación más lenta. Parece seguir igual. Con Lossless desactivado, una mayor calidad significa una mejor apariencia y un archivo más grande.",False
+MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Cuantas veces se repite la animación. 0 = bucle para siempre.,False

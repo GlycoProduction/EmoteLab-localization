@@ -213,3 +213,8 @@ MainMenu.Editor.CameraProperty.Rotation,Rotation,การหมุน,False
 MainMenu.Editor.ModelProperty.Mirror,Mirror,กระจกเงา,False
 MainMenu.Editor.ModelProperty.Outline,Outline,โครงร่าง,False
 MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,ความหนา,False
+MainMenu.Settings.ExportSettings.Quality,Quality,Quality,False
+MainMenu.Settings.ExportSettings.LoopCount,Loop Count,จำนวนลูป,False
+MainMenu.Settings.ExportSettings.Lossless,Lossless,ไม่มีการสูญเสีย,False
+MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",เมื่อเปิด Lossless คุณภาพสูงขึ้นหมายถึงไฟล์เล็กลงและเข้ารหัสช้าลง หน้าตาก็เหมือนเดิม เมื่อปิด Lossless คุณภาพที่สูงขึ้นหมายถึงรูปลักษณ์ที่ดีขึ้นและไฟล์ที่ใหญ่ขึ้น,False
+MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,ภาพเคลื่อนไหวจะเล่นซ้ำกี่ครั้ง 0 = วนซ้ำตลอดไป,False

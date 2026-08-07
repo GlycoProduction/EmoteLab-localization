@@ -213,3 +213,8 @@ MainMenu.Editor.CameraProperty.Rotation,Rotation,회전,False
 MainMenu.Editor.ModelProperty.Mirror,Mirror,거울,False
 MainMenu.Editor.ModelProperty.Outline,Outline,개요,False
 MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,두께,False
+MainMenu.Settings.ExportSettings.Quality,Quality,품질,False
+MainMenu.Settings.ExportSettings.LoopCount,Loop Count,루프 수,False
+MainMenu.Settings.ExportSettings.Lossless,Lossless,무손실,False
+MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",무손실을 켜면 품질이 높아질수록 파일 크기가 작아지고 인코딩 속도가 느려집니다. 그대로 유지되는 것 같습니다. 무손실을 끄면 품질이 높아질수록 모양이 좋아지고 파일 크기가 커집니다.,False
+MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,애니메이션이 반복되는 횟수입니다. 0 = 영원히 반복됩니다.,False
