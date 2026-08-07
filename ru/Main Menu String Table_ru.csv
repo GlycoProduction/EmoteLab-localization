@@ -210,3 +210,6 @@ MainMenu.Editor.CameraProperty.PositionX,Position X,Позиция X,False
 MainMenu.Editor.CameraProperty.PositionY,Position Y,Позиция Y,False
 MainMenu.Editor.CameraProperty.Size,Size,Размер,False
 MainMenu.Editor.CameraProperty.Rotation,Rotation,Вращение,False
+MainMenu.Editor.ModelProperty.Mirror,Mirror,Зеркало,False
+MainMenu.Editor.ModelProperty.Outline,Outline,Контур,False
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,Толщина,False

@@ -210,3 +210,6 @@ MainMenu.Editor.CameraProperty.PositionX,Position X,位置 X,True
 MainMenu.Editor.CameraProperty.PositionY,Position Y,位置 Y,True
 MainMenu.Editor.CameraProperty.Size,Size,尺寸,True
 MainMenu.Editor.CameraProperty.Rotation,Rotation,旋转,True
+MainMenu.Editor.ModelProperty.Mirror,Mirror,镜像,True
+MainMenu.Editor.ModelProperty.Outline,Outline,边缘线,True
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,粗细,True

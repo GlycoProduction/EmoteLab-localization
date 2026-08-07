@@ -210,3 +210,6 @@ MainMenu.Editor.CameraProperty.PositionX,Position X,ตำแหน่ง X,Fals
 MainMenu.Editor.CameraProperty.PositionY,Position Y,ตำแหน่ง Y,False
 MainMenu.Editor.CameraProperty.Size,Size,ขนาด,False
 MainMenu.Editor.CameraProperty.Rotation,Rotation,การหมุน,False
+MainMenu.Editor.ModelProperty.Mirror,Mirror,กระจกเงา,False
+MainMenu.Editor.ModelProperty.Outline,Outline,โครงร่าง,False
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,ความหนา,False

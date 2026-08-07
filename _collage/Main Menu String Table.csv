@@ -300,3 +300,6 @@ MainMenu.Editor.CameraProperty.PositionX,Position X,位置 X,位置 X,Position X
 MainMenu.Editor.CameraProperty.PositionY,Position Y,位置 Y,位置 Y,Position Y,Posición Y,Poste Y,Y pozíció,位置Y,위치 Y,Позиция Y,Posição Y,Позиція Y,Posizione Y,ตำแหน่ง Y,Y Konumu,Position Y,Pozícia Y
 MainMenu.Editor.CameraProperty.Size,Size,尺寸,尺寸,Größe,Tamaño,Taille,Méret,サイズ,크기,Размер,Tamanho,Розмір,Misurare,ขนาด,Boyut,Storlek,Veľkosť
 MainMenu.Editor.CameraProperty.Rotation,Rotation,旋转,旋轉,Drehung,Rotación,Rotation,Forgás,回転,회전,Вращение,Rotação,Обертання,Rotazione,การหมุน,Döndürme,Rotation,Rotácia
+MainMenu.Editor.ModelProperty.Mirror,Mirror,镜像,鏡子,Spiegel,Espejo,Miroir,Tükör,鏡,거울,Зеркало,Espelho,Дзеркало,Specchio,กระจกเงา,Ayna,Spegel,Zrkadlo
+MainMenu.Editor.ModelProperty.Outline,Outline,边缘线,大綱,Gliederung,Describir,Contour,Vázlat,概要,개요,Контур,Contorno,Контур,Contorno,โครงร่าง,Taslak,Skissera,Obrys
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,粗细,厚度,Dicke,Espesor,Épaisseur,Vastagság,厚さ,두께,Толщина,Grossura,Товщина,Spessore,ความหนา,Kalınlık,Tjocklek,Hrúbka

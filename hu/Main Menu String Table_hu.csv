@@ -210,3 +210,6 @@ MainMenu.Editor.CameraProperty.PositionX,Position X,X pozíció,False
 MainMenu.Editor.CameraProperty.PositionY,Position Y,Y pozíció,False
 MainMenu.Editor.CameraProperty.Size,Size,Méret,False
 MainMenu.Editor.CameraProperty.Rotation,Rotation,Forgás,False
+MainMenu.Editor.ModelProperty.Mirror,Mirror,Tükör,False
+MainMenu.Editor.ModelProperty.Outline,Outline,Vázlat,False
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,Vastagság,False

@@ -149,8 +149,8 @@ ANIM/TakeMyMoney,Take My Money,Take My Money,拿走我的钱,拿走我的錢,Nim
 ANIM/CheeseSlap,Cheese Slap,Cheese Slap,奶酪糊脸,起司拍打,Käseklatsch,Bofetada de queso,Gifle au fromage,Sajtos pofon,チーズスラップ,치즈슬랩,Сырная пощечина,Tapa De Queijo,Сирний ляпас,Schiaffo al formaggio,ตบชีส,Peynir Tokadı,Ost Slap,Syrová facka
 ANIM/Clown-1,Clown 1,Clown 1,小丑 1,小丑1,Clown 1,payaso 1,Clown 1,Bohóc 1,ピエロ 1,광대 1,Клоун 1,Palhaço 1,Клоун 1,Pagliaccio 1,ตัวตลก 1,Palyaço 1,Clown 1,Klaun 1
 ANIM/Clown-2,Clown 2,Clown 2,小丑 2,小丑2,Clown 2,payaso 2,Clown 2,Bohóc 2,ピエロ2,광대 2,Клоун 2,Palhaço 2,Клоун 2,Pagliaccio 2,ตัวตลก 2,Palyaço 2,Clown 2,Klaun 2
-ANIM/ElectricFan-1,Electric Fan 1,Electric Fan 1,电风扇1,電風扇1,Elektrischer Ventilator 1,Ventilador eléctrico 1,Ventilateur électrique 1,Elektromos ventilátor 1,扇風機1,선풍기 1,Электрический вентилятор 1,Ventilador Elétrico 1,Електричний вентилятор 1,Ventilatore elettrico 1,พัดลมไฟฟ้า 1,Elektrikli Vantilatör 1,Elektrisk fläkt 1,Elektrický ventilátor 1
-ANIM/ElectricFan-2,Electric Fan 2,Electric Fan 2,电风扇2,電風扇2,Elektrischer Ventilator 2,Ventilador eléctrico 2,Ventilateur électrique 2,Elektromos ventilátor 2,扇風機2,선풍기 2,Электрический вентилятор 2,Ventilador Elétrico 2,Електричний вентилятор 2,Ventilatore elettrico 2,พัดลมไฟฟ้า 2,Elektrikli Vantilatör 2,Elektrisk fläkt 2,Elektrický ventilátor 2
+ANIM/ElectricFan-1,Electric Fan 1,Electric Fan 1,电风扇 1,電風扇1,Elektrischer Ventilator 1,Ventilador eléctrico 1,Ventilateur électrique 1,Elektromos ventilátor 1,扇風機1,선풍기 1,Электрический вентилятор 1,Ventilador Elétrico 1,Електричний вентилятор 1,Ventilatore elettrico 1,พัดลมไฟฟ้า 1,Elektrikli Vantilatör 1,Elektrisk fläkt 1,Elektrický ventilátor 1
+ANIM/ElectricFan-2,Electric Fan 2,Electric Fan 2,电风扇 2,電風扇2,Elektrischer Ventilator 2,Ventilador eléctrico 2,Ventilateur électrique 2,Elektromos ventilátor 2,扇風機2,선풍기 2,Электрический вентилятор 2,Ventilador Elétrico 2,Електричний вентилятор 2,Ventilatore elettrico 2,พัดลมไฟฟ้า 2,Elektrikli Vantilatör 2,Elektrisk fläkt 2,Elektrický ventilátor 2
 ANIM/Fire-1,Fire 1,Fire 1,烧 1,火1,Feuer 1,Fuego 1,Feu 1,Tűz 1,ファイア1,화재 1,Огонь 1,Fogo 1,Пожежа 1,Fuoco 1,ไฟ 1,Ateş 1,Brand 1,Oheň 1
 ANIM/Fire-2,Fire 2,Fire 2,烧 2,火2,Feuer 2,Fuego 2,Feu 2,Tűz 2,ファイア2,화재 2,Огонь 2,Fogo 2,Пожежа 2,Fuoco 2,ไฟ 2,Ateş 2,Eld 2,Oheň 2
 ANIM/FoldingFans,Folding Fans,Folding Fans,折扇,折扇,Faltfächer,Abanicos plegables,Ventilateurs pliants,Összecsukható ventilátorok,扇子,접는 부채,Складные веера,Ventiladores dobráveis,Складні віяла,Ventagli pieghevoli,พัดลมพับ,Katlanır Vantilatörler,Fällbara fläktar,Skladacie ventilátory
@@ -167,3 +167,26 @@ ANIM/ThisIsFine-1,This Is Fine 1,This Is Fine 1,一切都好 1,這很好 1,Das i
 ANIM/ThisIsFine-2,This Is Fine 2,This Is Fine 2,一切都好 2,這很好2,Das ist in Ordnung 2,Esto está bien 2,C'est bien 2,Ez jó 2,This Is Fine 2,괜찮아요 2,Это нормально 2,Isso está bem 2,Це добре 2,Va bene 2,นี่ก็โอเค 2,Bu Güzel 2,Det här är bra 2,Toto je v pohode 2
 ANIM/ThisIsFine-3,This Is Fine 3,This Is Fine 3,一切都好 3,這很好 3,Das ist in Ordnung 3,Esto está bien 3,C'est bien 3,Ez jó 3,これでいい 3,괜찮아요 3,Это нормально 3,Isso está bem 3,Це добре 3,Questo va bene 3,นี่ก็ดีแล้ว 3,Bu Güzel 3,Det här är bra 3,Toto je v pohode 3
 ANIM/Wink,Wink,Wink,眨眼,眨眼,Zwinkern,Guiño,Clin d'œil,Kacsints,ウィンク,눈짓,Подмигивание,Piscar,Підморгнути,Ammiccamento,ขยิบตา,Göz kırp,Blinkning,Žmurkanie
+ANIM/Blep-1,Blep 1,Blep 1,吐舌 1,貝爾普 1,Blep 1,Blep 1,Bip 1,Blep 1,ブリープ 1,벨렙 1,Блеп 1,Blep 1,Блеп 1,Bip 1,เบลพ 1,Bip 1,Blep 1,Blep 1
+ANIM/Blep-2,Blep 2,Blep 2,吐舌 2,貝爾普2,Blep 2,Blep 2,Blep 2,Blep 2,ブリープ 2,벨렙 2,Блеп 2,Blep 2,Блеп 2,Bip 2,เบลพ 2,Bip 2,Blep 2,Blep 2
+ANIM/Blep-3,Blep 3,Blep 3,吐舌 3,貝爾普 3,Piepton 3,Blep 3,Blep 3,Blep 3,ブリープ 3,벨렙 3,Блэп 3,Blep 3,Блеп 3,Bip 3,เบลพ 3,Bip 3,Blep 3,Blep 3
+ANIM/Blep-4,Blep 4,Blep 4,吐舌 4,貝爾普 4,Piepton 4,Blep 4,Blep 4,Blep 4,ブリープ 4,벨렙 4,Блеп 4,Blep 4,Блеп 4,Bip 4,เบลพ 4,Bip 4,Blep 4,Blep 4
+ANIM/Boop,Boop,Boop,碰鼻子,布普,Boop,boop,Bouh,Boop,ブープ,부프,Буп,Boop,Буп,Boop,บู๊,Bop,Boop,Boop
+ANIM/Button-Punch,Button (Punch),Button (Punch),按钮 (拍击),按鈕（沖頭）,Knopf (Punch),Botón (golpe),Bouton (poinçon),Gomb (ütés),ボタン（パンチ）,버튼(펀치),Кнопка (Удар),Botão (soco),Кнопка (пунш),Pulsante (Punzone),ปุ่ม (หมัด),Düğme (Zımba),Knapp (Punch),Tlačidlo (dierovač)
+ANIM/CheekSqueeze,Cheek Squeeze,Cheek Squeeze,挤脸颊,捏臉頰,Wange drücken,Apretar las mejillas,Pincement des joues,Cheek Squeeze,頬の絞り,뺨 스퀴즈,Сжатие щек,Aperto de bochecha,Стиснення щоки,Spremitura delle guance,บีบแก้ม,Yanak Sıkma,Cheek Squeeze,Stlačenie líca
+ANIM/Gift-3,Gift 3,Gift 3,礼物 3,禮物3,Geschenk 3,Regalo 3,Cadeau 3,Ajándék 3,ギフト3,선물 3,Подарок 3,Presente 3,Подарунок 3,Regalo 3,ของขวัญ 3,Hediye 3,Gåva 3,Darček 3
+ANIM/Loading-Cup,Loading (Cup),Loading (Cup),加载（茶/咖啡杯）,裝載（杯）,Laden (Becher),Cargando (Copa),Chargement (tasse),Betöltés (csésze),ローディング（カップ）,로딩(컵),Загрузка (Кубок),Carregando (Copo),Завантаження (чашка),Caricamento (tazza),กำลังโหลด (ถ้วย),Yükleniyor (Kupa),Laddar (kopp),Načítava sa (pohár)
+ANIM/Loading-Mug,Loading (Mug),Loading (Mug),加载（马克杯）,裝載（杯子）,Laden (Becher),Cargando (taza),Chargement (tasse),Betöltés (bögre),ローディング（マグカップ）,로딩(머그),Загрузка (Кружка),Carregando (Caneca),Завантаження (кухоль),Caricamento (Tazza),กำลังโหลด (แก้ว),Yükleniyor (Kupa),Laddar (mugg),Načítava sa (hrnček)
+ANIM/Loading-Sleep,Loading (Sleep),Loading (Sleep),加载（睡觉）,載入（睡眠）,Laden (Schlaf),Cargando (dormir),Chargement (Veille),Betöltés (alvó állapot),読み込み中（スリープ）,로드 중(수면),Загрузка (Сон),Carregando (suspensão),Завантаження (Сон),Caricamento (sonno),กำลังโหลด (สลีป),Yükleniyor (Uyku),Laddar (sömn),Načítava sa (spánok)
+ANIM/Pat-2,Pat 2,Pat 2,摸头 2,拍2,Pat 2,palmadita 2,Pat 2,Pat 2,パット2,팻 2,Пэт 2,Pat 2,Пат 2,Pat 2,แพท 2,Pat 2,Pat 2,Pat 2
+ANIM/Press,Press,Press,按,按,Drücken,Prensa,Presse,Sajtó,プレス,누르다,Нажимать,Imprensa,Прес,Premere,กด,Basmak,Trycka,Stlačte tlačidlo
+ANIM/Rub-1,Rub 1,Rub 1,揉头 1,擦1,Reiben Sie 1,Frotar 1,Frotter 1,Dörzsölje 1,こする1,문지름 1,1 руб.,Esfregue 1,Руб 1,Strofinare 1,ถู 1,1 ovmak,Gnid 1,Potierať 1
+ANIM/Cut-Scissors,Cut (Scissors),Cut (Scissors),切（剪刀）,剪（剪刀）,Schneiden (Schere),Cortar (tijeras),Couper (ciseaux),Vágás (olló),カット（ハサミ）,컷(가위),Вырезать (ножницами),Corte (Tesoura),Вирізати (Ножиці),Taglio (Forbici),ตัด (กรรไกร),Kesim (Makas),Klipp (sax),Strihať (nožnice)
+ANIM/Tea-1,Tea 1,Tea 1,茶 1,茶1,Tee 1,Té 1,Thé 1,Tea 1,お茶1,차 1,Чай 1,Chá 1,Чай 1,Tè 1,ชา 1,Çay 1,Te 1,Čaj 1
+ANIM/Tea-2,Tea 2,Tea 2,茶 2,茶2,Tee 2,Té 2,Thé 2,Tea 2,お茶2,차 2,Чай 2,Chá 2,Чай 2,Tè 2,ชา 2,Çay 2,Te 2,Čaj 2
+ANIM/Tea-3,Tea 3,Tea 3,茶 3,茶3,Tee 3,Té 3,Thé 3,Tea 3,お茶3,차 3,Чай 3,Chá 3,Чай 3,Tè 3,ชา 3,Çay 3,Te 3,Čaj 3
+ANIM/ThisIsFine-4,This Is Fine 4,This Is Fine 4,一切都好 4,這很好 4,Das ist in Ordnung 4,Esto está bien 4,C'est bien 4,Ez jó 4,これでいい 4,이건 괜찮아 4,Это нормально 4,Isso está bem 4,Це добре 4,Va bene 4,นี่ก็ดีแล้ว 4,Bu Güzel 4,Det här är bra 4,Toto je v pohode 4
+ANIM/ThisIsFine-5,This Is Fine 5,This Is Fine 5,一切都好 5,這很好 5,Das ist in Ordnung 5,Esto está bien 5,C'est bien 5,Ez jó 5,これでいい 5,괜찮아요 5,Это нормально 5,Isso está bem 5,Це добре 5,Va bene 5,นี่ก็ดีแล้ว 5,Bu Güzel 5,Det här är bra 5,Toto je v pohode 5
+ANIM/ThisIsFine-6,This Is Fine 6,This Is Fine 6,一切都好 6,這很好 6,Das ist in Ordnung 6,Esto está bien 6,C'est bien 6,Ez jó 6,これでいい 6,괜찮아요 6,Это нормально 6,Isso está bem 6,Це добре 6,Va bene 6,อย่างนี้ก็ดีแล้ว 6,Bu Güzel 6,Det här är bra 6,Toto je v pohode 6
+ANIM/Trophy-1,Trophy 1,Trophy 1,胜利 1,獎杯1,Trophäe 1,Trofeo 1,Trophée 1,1. trófea,トロフィー 1,트로피 1,Трофей 1,Troféu 1,Трофей 1,Trofeo 1,ถ้วยรางวัล 1,Kupa 1,Trofé 1,Trofej 1
+ANIM/Yay,Yay,Yay,耶,耶,Ja,Hurra,Ouais,Jaj,わーい,이야,ура,yay,Ура,Sìì,เย้,yay,Jaja,Hurá

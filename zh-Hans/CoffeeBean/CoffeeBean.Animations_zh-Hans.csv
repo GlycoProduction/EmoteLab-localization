@@ -149,8 +149,8 @@ Take My Money,Take My Money,拿走我的钱,True
 Cheese Slap,Cheese Slap,奶酪糊脸,True
 Clown 1,Clown 1,小丑 1,True
 Clown 2,Clown 2,小丑 2,True
-Electric Fan 1,Electric Fan 1,电风扇1,True
-Electric Fan 2,Electric Fan 2,电风扇2,True
+Electric Fan 1,Electric Fan 1,电风扇 1,True
+Electric Fan 2,Electric Fan 2,电风扇 2,True
 Fire 1,Fire 1,烧 1,True
 Fire 2,Fire 2,烧 2,True
 Folding Fans,Folding Fans,折扇,True
@@ -167,3 +167,26 @@ This Is Fine 1,This Is Fine 1,一切都好 1,True
 This Is Fine 2,This Is Fine 2,一切都好 2,True
 This Is Fine 3,This Is Fine 3,一切都好 3,True
 Wink,Wink,眨眼,True
+Blep 1,Blep 1,吐舌 1,True
+Blep 2,Blep 2,吐舌 2,True
+Blep 3,Blep 3,吐舌 3,True
+Blep 4,Blep 4,吐舌 4,True
+Boop,Boop,碰鼻子,True
+Button (Punch),Button (Punch),按钮 (拍击),True
+Cheek Squeeze,Cheek Squeeze,挤脸颊,True
+Gift 3,Gift 3,礼物 3,True
+Loading (Cup),Loading (Cup),加载（茶/咖啡杯）,True
+Loading (Mug),Loading (Mug),加载（马克杯）,True
+Loading (Sleep),Loading (Sleep),加载（睡觉）,True
+Pat 2,Pat 2,摸头 2,True
+Press,Press,按,True
+Rub 1,Rub 1,揉头 1,True
+Cut (Scissors),Cut (Scissors),切（剪刀）,True
+Tea 1,Tea 1,茶 1,True
+Tea 2,Tea 2,茶 2,True
+Tea 3,Tea 3,茶 3,True
+This Is Fine 4,This Is Fine 4,一切都好 4,True
+This Is Fine 5,This Is Fine 5,一切都好 5,True
+This Is Fine 6,This Is Fine 6,一切都好 6,True
+Trophy 1,Trophy 1,胜利 1,True
+Yay,Yay,耶,True

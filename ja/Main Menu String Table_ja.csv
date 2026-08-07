@@ -210,3 +210,6 @@ MainMenu.Editor.CameraProperty.PositionX,Position X,位置X,False
 MainMenu.Editor.CameraProperty.PositionY,Position Y,位置Y,False
 MainMenu.Editor.CameraProperty.Size,Size,サイズ,False
 MainMenu.Editor.CameraProperty.Rotation,Rotation,回転,False
+MainMenu.Editor.ModelProperty.Mirror,Mirror,鏡,False
+MainMenu.Editor.ModelProperty.Outline,Outline,概要,False
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,厚さ,False

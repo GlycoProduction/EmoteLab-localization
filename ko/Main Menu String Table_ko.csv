@@ -210,3 +210,6 @@ MainMenu.Editor.CameraProperty.PositionX,Position X,위치 X,False
 MainMenu.Editor.CameraProperty.PositionY,Position Y,위치 Y,False
 MainMenu.Editor.CameraProperty.Size,Size,크기,False
 MainMenu.Editor.CameraProperty.Rotation,Rotation,회전,False
+MainMenu.Editor.ModelProperty.Mirror,Mirror,거울,False
+MainMenu.Editor.ModelProperty.Outline,Outline,개요,False
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,두께,False
