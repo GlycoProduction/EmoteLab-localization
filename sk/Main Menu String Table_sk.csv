@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor,False
 MainMenu.Editor.LICENSE,LICENSE,LICENCIA,False
 MainMenu.Editor.AssetTypeAA,Built-in,Vstavaný,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Tretia strana,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Názov nemôže byť prázdny.,False
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Názov nemôže presiahnuť {0} znakov.,False
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",Názov nemôže obsahovať znak „{0}“.,False
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",„{0}“ je vyhradený názov a nemožno ho použiť.,False
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,Meno nemôže končiť bodkou.,False
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,Názov nemôže obsahovať iba medzery.,False
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Uvoľniť aktuálny model,False
 MainMenu.Settings.GeneralSettings,General Settings,Všeobecné nastavenia,False
 MainMenu.Settings.GeneralSettings.Language,Language,Jazyk,False
@@ -151,3 +145,68 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Položka workshopu {0} nepatrí do tejto aplikácie.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Snímanie výrezu zlyhalo: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Náhľad zachytený z výrezu.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Meno postavy,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,Názov scény,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Názov zoznamu scén,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} nemôže byť prázdne.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} nemôže presiahnuť {1} znakov.,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} nemôže obsahovať '{1}'.,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,'{1}' je vyhradený názov a nemožno ho použiť.,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' je rezervovaný a nemôže byť použitý ako {0}.,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} nemôže končiť bodkou.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,{0} s týmto názvom už v zozname existuje.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Charakter,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Scéna,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Zoznam scén,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.",Naozaj chcete odstrániť {0} „{1}“? Túto akciu nie je možné vrátiť späť.,False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.",{0} „{1}“ už existuje. Naozaj chcete prepísať {0} „{1}“? Túto akciu nie je možné vrátiť späť.,False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?",Je vybratá položka {0} „{1}“. Prepísať ho alebo vytvoriť nový záznam?,False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Prepísať,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Vytvoriť nový,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?",{0} „{1}“ obsahuje neuložené zmeny. Požiadať pred pokračovaním?,False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Použiť,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Zahodiť,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Toto {0} nebolo uložené. Uložiť pred pokračovaním?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Uložiť,False
+MainMenu.Editor.Layers,Layers,Vrstvy,False
+MainMenu.Editor.LayerProperties,Properties,Vlastnosti,False
+MainMenu.Editor.ModelProperties,Model Properties,Vlastnosti modelu,False
+MainMenu.Editor.TextProperty.Text,Text,Text,False
+MainMenu.Editor.TextProperty.Font,Font,Písmo,False
+MainMenu.Editor.TextProperty.Size,Size,Veľkosť,False
+MainMenu.Editor.TextProperty.PositionX,Position X,Pozícia X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Pozícia Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Rotácia,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Rozstup znakov,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Riadkovanie,False
+MainMenu.Editor.TextProperty.Outline,Outline,Obrys,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Hrúbka,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Podklad,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Dilatovať,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,Posun X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Odsadenie Y,False
+MainMenu.Editor.LayerType.Model,Model,Model,False
+MainMenu.Editor.LayerType.Image,Image,Obrázok,False
+MainMenu.Editor.LayerType.Text,Text,Text,False
+MainMenu.Editor.Playback,Playback,Prehrávanie,False
+MainMenu.Editor.SceneList,Scene List,Zoznam scén,False
+MainMenu.Editor.Scenes,Scenes,Scény,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Exportovať všetky scény,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Export zoznamu scén,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Pripravuje sa export...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},Exportuje sa {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Export zlyhal,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Export dokončený,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Export bol zrušený,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Export dokončený,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Export dokončený!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Export bol zrušený (exportované: {0}/{1}, zlyhalo: {2}).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Export je dokončený (exportované: {0}/{1}, zlyhalo: {2}).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Export je dokončený (exportované: {0}/{1}, zlyhalo: {2}).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Chyba: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Otvorte miesto exportu,False
+MainMenu.Editor.CameraProperties,Camera Properties,Vlastnosti fotoaparátu,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,Pozícia X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Pozícia Y,False
+MainMenu.Editor.CameraProperty.Size,Size,Veľkosť,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Rotácia,False

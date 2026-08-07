@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,深色,True
 MainMenu.Editor.LICENSE,LICENSE,使用條款,True
 MainMenu.Editor.AssetTypeAA,Built-in,內建模型,False
 MainMenu.Editor.AssetTypeSA,Third-Party,第三方模型,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,角色名不得為空。,True
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,角色名不得超過{0}個字元。,True
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",角色名不得包含特殊字元“{0}”。,True
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",“{0}”是系統保留關鍵詞，不能作爲角色名。,True
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,角色名不能以點結尾。,True
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,角色名不能只包含空格。,True
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,關閉當前模型,True
 MainMenu.Settings.GeneralSettings,General Settings,一般設定,True
 MainMenu.Settings.GeneralSettings.Language,Language,語言,True
@@ -151,3 +145,68 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,創意工坊專案 {0} 不屬於此應用程式。,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},視窗捕獲失敗：{0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,從視窗捕獲的預覽。,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,角色名稱,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,場景名稱,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,場景清單名稱,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} 不能為空。,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} 不能超過 {1} 個字元。,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} 不能包含「{1}」。,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,“{1}”是保留名稱，不能使用。,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,「{1}」已保留，不能用作 {0}。,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} 不能以點結尾。,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,清單中已存在具有此名稱的 {0}。,False
+MainMenu.Editor.Confirmation.Label.Character,Character,角色,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,場景,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,場景列表,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.",您確定要刪除 {0}“{1}”嗎？此操作無法撤銷。,False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.",{0}“{1}”已存在。您確定要覆蓋 {0}“{1}”嗎？此操作無法撤銷。,False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?",選擇了 {0}“{1}”。覆蓋它還是建立一個新條目？,False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,覆蓋,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,新建,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?",{0}「{1}」有未儲存的變更。在繼續之前應用變更？,False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,應用,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,丟棄,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,此 {0} 尚未儲存。繼續之前儲存嗎？,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,儲存,False
+MainMenu.Editor.Layers,Layers,層數,False
+MainMenu.Editor.LayerProperties,Properties,特性,False
+MainMenu.Editor.ModelProperties,Model Properties,模型屬性,False
+MainMenu.Editor.TextProperty.Text,Text,文字,False
+MainMenu.Editor.TextProperty.Font,Font,字體,False
+MainMenu.Editor.TextProperty.Size,Size,尺寸,False
+MainMenu.Editor.TextProperty.PositionX,Position X,位置 X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,位置 Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,旋轉,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,字元間距,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,行距,False
+MainMenu.Editor.TextProperty.Outline,Outline,大綱,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,厚度,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,底層,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,擴張,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,偏移 X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,偏移 Y,False
+MainMenu.Editor.LayerType.Model,Model,模型,False
+MainMenu.Editor.LayerType.Image,Image,影像,False
+MainMenu.Editor.LayerType.Text,Text,文字,False
+MainMenu.Editor.Playback,Playback,回放,False
+MainMenu.Editor.SceneList,Scene List,場景列表,False
+MainMenu.Editor.Scenes,Scenes,場景,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,匯出所有場景,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,匯出場景列表,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,正在準備匯出...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},導出 {0}/{1}：{2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,匯出失敗,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,匯出完成,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,出口取消,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,匯出完成,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,匯出完成！,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).",匯出已取消（已匯出 {0}/{1}，{2} 失敗）。,False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).",匯出完成（已匯出 {0}/{1}，{2} 失敗）。,False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).",匯出完成（已匯出 {0}/{1}，{2} 失敗）。,False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},錯誤：{0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,打開匯出位置,False
+MainMenu.Editor.CameraProperties,Camera Properties,相機屬性,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,位置 X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,位置 Y,False
+MainMenu.Editor.CameraProperty.Size,Size,尺寸,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,旋轉,False

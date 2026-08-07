@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,Dunkle Tönungsfarbe,True
 MainMenu.Editor.LICENSE,LICENSE,LIZENZ,True
 MainMenu.Editor.AssetTypeAA,Built-in,Standard-Assets,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Drittanbieter-Assets,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Der Name darf nicht leer sein.,True
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Der Name darf nicht länger als {0} Zeichen sein.,True
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",Der Name darf das Zeichen „{0}“ nicht enthalten.,True
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",„{0}“ ist ein reservierter Name und kann nicht verwendet werden.,True
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,Der Name darf nicht mit einem Punkt enden.,True
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,Der Name darf nicht nur Leerzeichen enthalten.,True
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Aktuelles Modell entladen,True
 MainMenu.Settings.GeneralSettings,General Settings,Allgemeine Einstellungen,True
 MainMenu.Settings.GeneralSettings.Language,Language,Sprache,True
@@ -151,3 +145,68 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Workshop-Artikel {0} gehört nicht zu dieser App.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Ansichtsfenstererfassung fehlgeschlagen: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Vorschau aus dem Ansichtsfenster aufgenommen.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Charaktername,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,Szenenname,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Name der Szenenliste,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} darf nicht leer sein.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} darf nicht länger als {1} Zeichen sein.,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} darf „{1}“ nicht enthalten.,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,„{1}“ ist ein reservierter Name und kann nicht verwendet werden.,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,„{1}“ ist reserviert und kann nicht als {0} verwendet werden.,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} darf nicht mit einem Punkt enden.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Ein {0} mit diesem Namen ist bereits in der Liste vorhanden.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Charakter,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Szene,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Szenenliste,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Sind Sie sicher, dass Sie {0} „{1}“ löschen möchten? Diese Aktion kann nicht rückgängig gemacht werden.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} „{1}“ existiert bereits. Sind Sie sicher, dass Sie {0} „{1}“ überschreiben möchten? Diese Aktion kann nicht rückgängig gemacht werden.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?",Ein {0} „{1}“ ist ausgewählt. Überschreiben oder einen neuen Eintrag erstellen?,False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Überschreiben,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Neu erstellen,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} „{1}“ hat nicht gespeicherte Änderungen. Bewerben Sie sich, bevor Sie fortfahren?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Anwenden,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Verwerfen,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Dieses {0} wurde nicht gespeichert. Vor dem Fortfahren speichern?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Speichern,False
+MainMenu.Editor.Layers,Layers,Schichten,False
+MainMenu.Editor.LayerProperties,Properties,Eigenschaften,False
+MainMenu.Editor.ModelProperties,Model Properties,Modelleigenschaften,False
+MainMenu.Editor.TextProperty.Text,Text,Text,False
+MainMenu.Editor.TextProperty.Font,Font,Schriftart,False
+MainMenu.Editor.TextProperty.Size,Size,Größe,False
+MainMenu.Editor.TextProperty.PositionX,Position X,Position X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Position Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Drehung,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Zeichenabstand,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Zeilenabstand,False
+MainMenu.Editor.TextProperty.Outline,Outline,Gliederung,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Dicke,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Unterlage,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Erweitern,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,Versatz X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Y-Versatz,False
+MainMenu.Editor.LayerType.Model,Model,Modell,False
+MainMenu.Editor.LayerType.Image,Image,Bild,False
+MainMenu.Editor.LayerType.Text,Text,Text,False
+MainMenu.Editor.Playback,Playback,Wiedergabe,False
+MainMenu.Editor.SceneList,Scene List,Szenenliste,False
+MainMenu.Editor.Scenes,Scenes,Szenen,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Alle Szenen exportieren,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Szenenliste exportieren,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Export wird vorbereitet...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},Exportieren von {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Der Export ist fehlgeschlagen,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Export abgeschlossen,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Export abgebrochen,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Export abgeschlossen,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Export abgeschlossen!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Export abgebrochen ({0}/{1} exportiert, {2} fehlgeschlagen).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Export abgeschlossen ({0}/{1} exportiert, {2} fehlgeschlagen).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Export abgeschlossen ({0}/{1} exportiert, {2} fehlgeschlagen).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Fehler: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Öffnen Sie den Exportspeicherort,False
+MainMenu.Editor.CameraProperties,Camera Properties,Kameraeigenschaften,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,Position X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Position Y,False
+MainMenu.Editor.CameraProperty.Size,Size,Größe,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Drehung,False

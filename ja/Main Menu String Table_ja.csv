@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,黒の色合い,True
 MainMenu.Editor.LICENSE,LICENSE,ライセンス,True
 MainMenu.Editor.AssetTypeAA,Built-in,標準アセット,False
 MainMenu.Editor.AssetTypeSA,Third-Party,外部アセット,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,名前は空にできません,True
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,名前は{0}文字以内で入力してください,True
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",名前に「{0}」は使用できません,True
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.",「{0}」は予約済みキーワードのため使用できません,True
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,名前をドットで終えることはできません,True
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,名前を空白のみにはできません,True
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,モデルの読み込みを解除,True
 MainMenu.Settings.GeneralSettings,General Settings,一般設定,True
 MainMenu.Settings.GeneralSettings.Language,Language,言語,True
@@ -151,3 +145,68 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,ワークショップ アイテム {0} はこのアプリに属していません。,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},ビューポートのキャプチャに失敗しました: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,ビューポートからキャプチャされたプレビュー。,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,キャラクター名,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,シーン名,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,シーンリスト名,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} を空にすることはできません。,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} は {1} 文字を超えることはできません。,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} に「{1}」を含めることはできません。,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,'{1}' は予約された名前なので使用できません。,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,「{1}」は予約されているため、{0} として使用できません。,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} をドットで終わらせることはできません。,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,この名前の {0} はリスト内にすでに存在します。,False
+MainMenu.Editor.Confirmation.Label.Character,Character,キャラクター,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,シーン,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,シーンリスト,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.",{0}「{1}」を削除してもよろしいですか?この操作は元に戻すことができません。,False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.",{0}「{1}」はすでに存在します。 {0}「{1}」を上書きしてもよろしいですか?この操作は元に戻すことができません。,False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?",{0}「{1}」が選択されています。上書きしますか、それとも新しいエントリを作成しますか?,False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,上書き,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,新規作成,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?",{0}「{1}」には未保存の変更があります。続行する前に申請しますか?,False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,適用する,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,破棄,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,この {0} は保存されていません。続行する前に保存しますか?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,保存,False
+MainMenu.Editor.Layers,Layers,レイヤー,False
+MainMenu.Editor.LayerProperties,Properties,プロパティ,False
+MainMenu.Editor.ModelProperties,Model Properties,モデルのプロパティ,False
+MainMenu.Editor.TextProperty.Text,Text,文章,False
+MainMenu.Editor.TextProperty.Font,Font,フォント,False
+MainMenu.Editor.TextProperty.Size,Size,サイズ,False
+MainMenu.Editor.TextProperty.PositionX,Position X,位置X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,位置Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,回転,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,文字間隔,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,行間,False
+MainMenu.Editor.TextProperty.Outline,Outline,概要,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,厚さ,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,下敷き,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,拡張する,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,オフセット X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,オフセットY,False
+MainMenu.Editor.LayerType.Model,Model,モデル,False
+MainMenu.Editor.LayerType.Image,Image,画像,False
+MainMenu.Editor.LayerType.Text,Text,文章,False
+MainMenu.Editor.Playback,Playback,再生,False
+MainMenu.Editor.SceneList,Scene List,シーンリスト,False
+MainMenu.Editor.Scenes,Scenes,シーン,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,すべてのシーンをエクスポート,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,シーンリストをエクスポートする,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,エクスポートを準備しています...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},{0}/{1} をエクスポートしています: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,エクスポートに失敗しました,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,エクスポートが完了しました,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,エクスポートがキャンセルされました,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,エクスポートが完了しました,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,エクスポートが完了しました！,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).",エクスポートがキャンセルされました ({0}/{1} がエクスポートされました、{2} が失敗しました)。,False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).",エクスポートが完了しました ({0}/{1} がエクスポートされました、{2} が失敗しました)。,False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).",エクスポートが完了しました ({0}/{1} がエクスポートされました、{2} が失敗しました)。,False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},エラー: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,エクスポート場所を開く,False
+MainMenu.Editor.CameraProperties,Camera Properties,カメラのプロパティ,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,位置X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,位置Y,False
+MainMenu.Editor.CameraProperty.Size,Size,サイズ,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,回転,False

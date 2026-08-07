@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,NyansSvartFärg,False
 MainMenu.Editor.LICENSE,LICENSE,LICENS,False
 MainMenu.Editor.AssetTypeAA,Built-in,Standardtillgångar,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Tredjepartstillgångar,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Namnet får inte vara tomt.,False
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Namnet får inte överstiga {0} tecken.,False
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","Namnet får inte innehålla tecknet ""{0}"".",False
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" är ett reserverat namn och kan inte användas.",False
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,Namnet kan inte sluta med en punkt.,False
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,Namn får inte bara innehålla mellanslag.,False
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Lossa aktuell modell,False
 MainMenu.Settings.GeneralSettings,General Settings,Allmänna inställningar,False
 MainMenu.Settings.GeneralSettings.Language,Language,Språk,False
@@ -151,3 +145,68 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Verkstadsobjektet {0} tillhör inte den här appen.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Viewport-fångst misslyckades: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Förhandsvisning fångad från viewport.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Karaktärens namn,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,Scennamn,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Scenlistans namn,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} får inte vara tom.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} får inte överstiga {1} tecken.,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} kan inte innehålla '{1}'.,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,'{1}' är ett reserverat namn och kan inte användas.,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' är reserverad och kan inte användas som {0}.,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} kan inte sluta med en punkt.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,En {0} med detta namn finns redan i listan.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Karaktär,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Scen,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Scenlista,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Är du säker på att du vill ta bort {0} ""{1}""? Denna åtgärd kan inte ångras.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" finns redan. Är du säker på att du vill skriva över {0} ""{1}""? Denna åtgärd kan inte ångras.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","Ett {0} ""{1}"" har valts. Skriv över den eller skapa en ny post?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Skriva över,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Skapa nytt,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" har osparade ändringar. Ansök innan du fortsätter?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Tillämpas,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Kassera,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Denna {0} har inte sparats. Spara innan du fortsätter?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Spara,False
+MainMenu.Editor.Layers,Layers,Lager,False
+MainMenu.Editor.LayerProperties,Properties,Egenskaper,False
+MainMenu.Editor.ModelProperties,Model Properties,Modellegenskaper,False
+MainMenu.Editor.TextProperty.Text,Text,Text,False
+MainMenu.Editor.TextProperty.Font,Font,Font,False
+MainMenu.Editor.TextProperty.Size,Size,Storlek,False
+MainMenu.Editor.TextProperty.PositionX,Position X,Position X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Position Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Rotation,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Teckenavstånd,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Linjeavstånd,False
+MainMenu.Editor.TextProperty.Outline,Outline,Skissera,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Tjocklek,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Underlag,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Utvidga,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,Offset X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Offset Y,False
+MainMenu.Editor.LayerType.Model,Model,Modell,False
+MainMenu.Editor.LayerType.Image,Image,Bild,False
+MainMenu.Editor.LayerType.Text,Text,Text,False
+MainMenu.Editor.Playback,Playback,Uppspelning,False
+MainMenu.Editor.SceneList,Scene List,Scenlista,False
+MainMenu.Editor.Scenes,Scenes,Scener,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Exportera alla scener,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Exporterar scenlista,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Förbereder export...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},Exporterar {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Exporten misslyckades,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Exporten avslutad,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Exporten avbröts,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Exporten klar,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Exporten klar!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Exporten avbröts ({0}/{1} exporterade, {2} misslyckades).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Exporten slutförd ({0}/{1} exporterad, {2} misslyckades).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Exporten slutförd ({0}/{1} exporterad, {2} misslyckades).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Fel: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Öppna Exportplats,False
+MainMenu.Editor.CameraProperties,Camera Properties,Kameraegenskaper,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,Position X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Position Y,False
+MainMenu.Editor.CameraProperty.Size,Size,Storlek,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Rotation,False

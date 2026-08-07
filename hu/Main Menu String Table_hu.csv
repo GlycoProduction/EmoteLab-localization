@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,TintBlackColor,False
 MainMenu.Editor.LICENSE,LICENSE,ENGEDÉLY,False
 MainMenu.Editor.AssetTypeAA,Built-in,Alapértelmezett eszközök,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Harmadik féltől származó eszközök,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,A név nem lehet üres.,False
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,A név nem haladhatja meg a {0} karaktert.,False
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","A név nem tartalmazhatja a ""{0}"" karaktert.",False
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" egy lefoglalt név, és nem használható.",False
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,A név nem végződhet ponttal.,False
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,A név nem tartalmazhat csak szóközt.,False
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Töltse ki az aktuális modellt,False
 MainMenu.Settings.GeneralSettings,General Settings,Általános beállítások,False
 MainMenu.Settings.GeneralSettings.Language,Language,Nyelv,False
@@ -151,3 +145,68 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,A(z) {0} műhelyelem nem ehhez az alkalmazáshoz tartozik.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},A nézetablak rögzítése nem sikerült: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,A nézetablakból rögzített előnézet.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Karakter neve,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,A jelenet neve,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Jelenetlista neve,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,A(z) {0} nem lehet üres.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,A {0} nem haladhatja meg a {1} karaktert.,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,A(z) {0} nem tartalmazhatja a következőt: „{1}”.,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,"A „{1}” egy lefoglalt név, és nem használható.",False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,"""{1}"" le van foglalva, és nem használható {0} néven.",False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,A(z) {0} nem végződhet ponttal.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Az ilyen nevű {0} már létezik a listában.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Karakter,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Színhely,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Jelenetek listája,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Biztosan törli a következőt: {0} ""{1}""? Ez a művelet nem vonható vissza.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" már létezik. Biztosan felül szeretné írni a következőt: {0} ""{1}""? Ez a művelet nem vonható vissza.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","Egy {0} ""{1}"" van kiválasztva. Felülírja vagy új bejegyzést hoz létre?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Átír,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Új létrehozása,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" nem mentett módosításokat tartalmaz. Jelentkezni a folytatás előtt?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Alkalmazni,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Eldobni,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Ez a(z) {0} nincs elmentve. Menti a folytatás előtt?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Megtakarítás,False
+MainMenu.Editor.Layers,Layers,Rétegek,False
+MainMenu.Editor.LayerProperties,Properties,Tulajdonságok,False
+MainMenu.Editor.ModelProperties,Model Properties,Modell tulajdonságai,False
+MainMenu.Editor.TextProperty.Text,Text,Szöveg,False
+MainMenu.Editor.TextProperty.Font,Font,Betűtípus,False
+MainMenu.Editor.TextProperty.Size,Size,Méret,False
+MainMenu.Editor.TextProperty.PositionX,Position X,X pozíció,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Y pozíció,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Forgás,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Karaktertávolság,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Sorköz,False
+MainMenu.Editor.TextProperty.Outline,Outline,Vázlat,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Vastagság,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Alátét,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Tágul,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,X eltolás,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Eltolás Y,False
+MainMenu.Editor.LayerType.Model,Model,Modell,False
+MainMenu.Editor.LayerType.Image,Image,Kép,False
+MainMenu.Editor.LayerType.Text,Text,Szöveg,False
+MainMenu.Editor.Playback,Playback,Lejátszás,False
+MainMenu.Editor.SceneList,Scene List,Jelenetek listája,False
+MainMenu.Editor.Scenes,Scenes,Jelenetek,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Minden jelenet exportálása,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Jelenetlista exportálása,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Exportálás előkészítése...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},Exportálás: {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Nem sikerült exportálni,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Az exportálás befejeződött,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Exportálás megszakítva,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Az exportálás befejeződött,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Az exportálás befejeződött!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Exportálás megszakítva ({0}/{1} exportálva, {2} sikertelen).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Az exportálás befejeződött ({0}/{1} exportálva, {2} sikertelen).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Az exportálás befejeződött ({0}/{1} exportálva, {2} sikertelen).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Hiba: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Nyissa meg az Exportálási hely lehetőséget,False
+MainMenu.Editor.CameraProperties,Camera Properties,Kamera tulajdonságai,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,X pozíció,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Y pozíció,False
+MainMenu.Editor.CameraProperty.Size,Size,Méret,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Forgás,False

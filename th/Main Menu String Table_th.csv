@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,สีย้อมดำ,True
 MainMenu.Editor.LICENSE,LICENSE,ใบอนุญาตซอฟต์แวร์ (LICENSE),True
 MainMenu.Editor.AssetTypeAA,Built-in,Default Assets,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Asset ของบุคคลที่สาม,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,ชื่อต้องไม่ว่างเปล่า,True
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,ชื่อต้องไม่เกิน {0} ตัวอักษร,True
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","ชื่อต้องไม่มีอักขระ ""{0}""",True
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}"" เป็นชื่อที่สงวนไว้และไม่สามารถใช้งานได้",True
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,ชื่อต้องไม่ลงท้ายด้วยจุด,True
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,ชื่อต้องไม่ประกอบด้วยช่องว่างเพียงอย่างเดียว,True
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Unload โมเดลปัจจุบัน,True
 MainMenu.Settings.GeneralSettings,General Settings,การตั้งค่าทั่วไป,True
 MainMenu.Settings.GeneralSettings.Language,Language,ภาษา,True
@@ -151,3 +145,68 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,รายการเวิร์กชอป {0} ไม่ได้เป็นของแอปนี้,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},การบันทึกวิวพอร์ตล้มเหลว: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,ดูตัวอย่างที่ถ่ายจากวิวพอร์ต,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,ชื่อตัวละคร,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,ชื่อฉาก,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,ชื่อรายการฉาก,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} ไม่สามารถเว้นว่างได้,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} ต้องไม่เกิน {1} อักขระ,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} ไม่สามารถมี '{1}',False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,'{1}' เป็นชื่อที่สงวนไว้และไม่สามารถใช้ได้,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' ถูกสงวนไว้และไม่สามารถใช้เป็น {0},False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} ไม่สามารถลงท้ายด้วยจุดได้,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,มี {0} ที่มีชื่อนี้อยู่แล้วในรายการ,False
+MainMenu.Editor.Confirmation.Label.Character,Character,อักขระ,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,ฉาก,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,รายการฉาก,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","คุณแน่ใจหรือไม่ว่าต้องการลบ {0} ""{1}"" การดำเนินการนี้ไม่สามารถยกเลิกได้",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" มีอยู่แล้ว คุณแน่ใจหรือไม่ว่าต้องการเขียนทับ {0} ""{1}"" การดำเนินการนี้ไม่สามารถยกเลิกได้",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","เลือก {0} ""{1}"" แล้ว เขียนทับหรือสร้างรายการใหม่?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,เขียนทับ,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,สร้างใหม่,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" มีการเปลี่ยนแปลงที่ยังไม่ได้บันทึก สมัครก่อนดำเนินการต่อ?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,นำมาใช้,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,ทิ้ง,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,{0} นี้ไม่ได้รับการบันทึก บันทึกก่อนดำเนินการต่อไหม,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,บันทึก,False
+MainMenu.Editor.Layers,Layers,เลเยอร์,False
+MainMenu.Editor.LayerProperties,Properties,คุณสมบัติ,False
+MainMenu.Editor.ModelProperties,Model Properties,คุณสมบัติของโมเดล,False
+MainMenu.Editor.TextProperty.Text,Text,ข้อความ,False
+MainMenu.Editor.TextProperty.Font,Font,แบบอักษร,False
+MainMenu.Editor.TextProperty.Size,Size,ขนาด,False
+MainMenu.Editor.TextProperty.PositionX,Position X,ตำแหน่ง X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,ตำแหน่ง Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,การหมุน,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,การเว้นวรรคอักขระ,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,ระยะห่างระหว่างบรรทัด,False
+MainMenu.Editor.TextProperty.Outline,Outline,โครงร่าง,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,ความหนา,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,รองพื้น,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,ขยาย,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,ออฟเซ็ต X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,ออฟเซ็ต Y,False
+MainMenu.Editor.LayerType.Model,Model,แบบอย่าง,False
+MainMenu.Editor.LayerType.Image,Image,ภาพ,False
+MainMenu.Editor.LayerType.Text,Text,ข้อความ,False
+MainMenu.Editor.Playback,Playback,การเล่น,False
+MainMenu.Editor.SceneList,Scene List,รายการฉาก,False
+MainMenu.Editor.Scenes,Scenes,ฉาก,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,ส่งออกฉากทั้งหมด,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,กำลังส่งออกรายการฉาก,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,กำลังเตรียมการส่งออก...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},กำลังส่งออก {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,การส่งออกล้มเหลว,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,ส่งออกเสร็จแล้ว,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,ยกเลิกการส่งออกแล้ว,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,ส่งออกเสร็จสมบูรณ์,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,ส่งออกเสร็จแล้ว!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","การส่งออกถูกยกเลิก (ส่งออกแล้ว {0}/{1}, {2} ล้มเหลว)",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","การส่งออกเสร็จสมบูรณ์ (ส่งออกแล้ว {0}/{1}, {2} ล้มเหลว)",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","การส่งออกเสร็จสมบูรณ์ (ส่งออกแล้ว {0}/{1}, {2} ล้มเหลว)",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},ข้อผิดพลาด: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,เปิดสถานที่ส่งออก,False
+MainMenu.Editor.CameraProperties,Camera Properties,คุณสมบัติกล้อง,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,ตำแหน่ง X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,ตำแหน่ง Y,False
+MainMenu.Editor.CameraProperty.Size,Size,ขนาด,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,การหมุน,False

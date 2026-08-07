@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,ОттенокЧерныйЦвет
 MainMenu.Editor.LICENSE,LICENSE,ЛИЦЕНЗИЯ,False
 MainMenu.Editor.AssetTypeAA,Built-in,Активы по умолчанию,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Сторонние активы,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,Имя не может быть пустым.,False
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,Имя не может превышать {0} символов.,False
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".",Имя не может содержать символ «{0}».,False
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","«{0}» — зарезервированное имя, и его нельзя использовать.",False
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,Имя не может заканчиваться точкой.,False
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,Имя не может содержать только пробелы.,False
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Выгрузить текущую модель,False
 MainMenu.Settings.GeneralSettings,General Settings,Общие настройки,False
 MainMenu.Settings.GeneralSettings.Language,Language,Язык,False
@@ -151,3 +145,68 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Объект мастерской {0} не принадлежит этому приложению.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Не удалось захватить область просмотра: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Предварительный просмотр сделан из видового экрана.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Имя персонажа,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,Название сцены,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Название списка сцен,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} не может быть пустым.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} не может превышать {1} символов.,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} не может содержать '{1}'.,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,"'{1}' — зарезервированное имя, и его нельзя использовать.",False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' зарезервирован и не может использоваться как {0}.,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} не может заканчиваться точкой.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,{0} с таким именем уже существует в списке.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Характер,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Сцена,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Список сцен,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Вы уверены, что хотите удалить {0} ""{1}""? Это действие невозможно отменить.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" уже существует. Вы уверены, что хотите перезаписать {0} ""{1}""? Это действие невозможно отменить.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","Выбран {0} ""{1}"". Перезаписать или создать новую запись?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Перезаписать,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Создать новый,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" содержит несохраненные изменения. Подать заявку, прежде чем продолжить?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Применять,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Отказаться,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,"Этот {0} не был сохранен. Сохранить, прежде чем продолжить?",False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Сохранять,False
+MainMenu.Editor.Layers,Layers,Слои,False
+MainMenu.Editor.LayerProperties,Properties,Характеристики,False
+MainMenu.Editor.ModelProperties,Model Properties,Свойства модели,False
+MainMenu.Editor.TextProperty.Text,Text,Текст,False
+MainMenu.Editor.TextProperty.Font,Font,Шрифт,False
+MainMenu.Editor.TextProperty.Size,Size,Размер,False
+MainMenu.Editor.TextProperty.PositionX,Position X,Позиция X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Позиция Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Вращение,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Расстояние между символами,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Межстрочный интервал,False
+MainMenu.Editor.TextProperty.Outline,Outline,Контур,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Толщина,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Подложка,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Расширить,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,Смещение X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Смещение Y,False
+MainMenu.Editor.LayerType.Model,Model,Модель,False
+MainMenu.Editor.LayerType.Image,Image,Изображение,False
+MainMenu.Editor.LayerType.Text,Text,Текст,False
+MainMenu.Editor.Playback,Playback,Воспроизведение,False
+MainMenu.Editor.SceneList,Scene List,Список сцен,False
+MainMenu.Editor.Scenes,Scenes,Сцены,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Экспортировать все сцены,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Экспорт списка сцен,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Подготовка экспорта...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},Экспорт {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Экспорт не удался,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Экспорт завершен,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Экспорт отменен,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Экспорт завершен,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Экспорт завершен!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Экспорт отменен (экспортировано: {0}/{1}, {2} не удалось).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Экспорт завершен (экспортировано: {0}/{1}, {2} не удалось).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Экспорт завершен (экспортировано: {0}/{1}, {2} не удалось).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Ошибка: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Открыть папку экспорта,False
+MainMenu.Editor.CameraProperties,Camera Properties,Свойства камеры,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,Позиция X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Позиция Y,False
+MainMenu.Editor.CameraProperty.Size,Size,Размер,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Вращение,False

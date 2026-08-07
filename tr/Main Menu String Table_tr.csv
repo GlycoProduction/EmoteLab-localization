@@ -23,12 +23,6 @@ MainMenu.Editor.TintBlackColor,TintBlackColor,Alt Renk,True
 MainMenu.Editor.LICENSE,LICENSE,LİSANS,True
 MainMenu.Editor.AssetTypeAA,Built-in,Standart İçerikler,False
 MainMenu.Editor.AssetTypeSA,Third-Party,Üçüncü Parti İçerikler,False
-MainMenu.Editor.CharacterPopup.CharacterNameEmpty,Name cannot be empty.,İsim boş bırakılamaz.,True
-MainMenu.Editor.CharacterPopup.CharacterNameLength,Name cannot exceed {0} characters.,"İsim, {0} harfi geçemez.",True
-MainMenu.Editor.CharacterPopup.CharacterNameInvalidCharacter,"Name cannot contain the character ""{0}"".","İsimde ""{0}“ sembolü olamaz.",True
-MainMenu.Editor.CharacterPopup.CharacterNameReserved,"""{0}"" is a reserved name and cannot be used.","""{0}“ ismi rezerve bir isimdir ve kullanılamaz.",True
-MainMenu.Editor.CharacterPopup.CharacterNameEndWithDot,Name cannot end with a dot.,İsim nokta ile bitemez.,True
-MainMenu.Editor.CharacterPopup.CharacterNameOnlySpaces,Name cannot contain only spaces.,İsim sadece boşluktan oluşamaz.,True
 MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Ekrandaki modeli kaldır,True
 MainMenu.Settings.GeneralSettings,General Settings,Genel Ayarlar,True
 MainMenu.Settings.GeneralSettings.Language,Language,Dil,True
@@ -151,3 +145,68 @@ MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0}
 MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Atölye öğesi {0} bu uygulamaya ait değil.,False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Görünüm yakalama başarısız oldu: {0},False
 MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Görünüm alanından çekilen önizleme.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Karakter adı,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,Sahne adı,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Sahne listesi adı,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} boş olamaz.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,"{0}, {1} karakteri aşamaz.",False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,"{0}, '{1}' içeremez.",False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,'{1}' ayrılmış bir addır ve kullanılamaz.,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' ayrılmıştır ve {0} olarak kullanılamaz.,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} noktayla bitemez.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,Bu adda bir {0} zaten listede mevcut.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Karakter,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Sahne,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Sahne listesi,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" dosyasını silmek istediğinizden emin misiniz? Bu eylem geri alınamaz.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" zaten mevcut. {0} ""{1}"" öğesinin üzerine yazmak istediğinizden emin misiniz? Bu eylem geri alınamaz.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","Bir {0} ""{1}"" seçildi. Üzerine yazmak mı yoksa yeni bir giriş mi oluşturmak istiyorsunuz?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Üzerine yaz,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Yeni Oluştur,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" kaydedilmemiş değişiklikler içeriyor. Devam etmeden önce başvurulsun mu?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Uygula,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,At,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,Bu {0} kaydedilmedi. Devam etmeden önce kaydedilsin mi?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Kaydetmek,False
+MainMenu.Editor.Layers,Layers,Katmanlar,False
+MainMenu.Editor.LayerProperties,Properties,Özellikler,False
+MainMenu.Editor.ModelProperties,Model Properties,Model Özellikleri,False
+MainMenu.Editor.TextProperty.Text,Text,Metin,False
+MainMenu.Editor.TextProperty.Font,Font,Yazı tipi,False
+MainMenu.Editor.TextProperty.Size,Size,Boyut,False
+MainMenu.Editor.TextProperty.PositionX,Position X,Konum X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Y Konumu,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Döndürme,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Karakter Aralığı,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Satır Aralığı,False
+MainMenu.Editor.TextProperty.Outline,Outline,Taslak,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Kalınlık,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Altlık,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Genişlet,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,Ofset X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Ofset Y,False
+MainMenu.Editor.LayerType.Model,Model,Modeli,False
+MainMenu.Editor.LayerType.Image,Image,Resim,False
+MainMenu.Editor.LayerType.Text,Text,Metin,False
+MainMenu.Editor.Playback,Playback,Playback,False
+MainMenu.Editor.SceneList,Scene List,Sahne Listesi,False
+MainMenu.Editor.Scenes,Scenes,Sahneler,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Tüm Sahneleri Dışa Aktar,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Sahne listesini dışa aktarma,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Dışa aktarım hazırlanıyor...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},{0}/{1} dışa aktarılıyor: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Dışa aktarma başarısız oldu,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Dışa aktarma tamamlandı,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Dışa aktarma iptal edildi,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Dışa aktarma tamamlandı,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Dışa aktarma tamamlandı!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Dışa aktarma iptal edildi ({0}/{1} dışa aktarıldı, {2} başarısız oldu).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Dışa aktarma tamamlandı ({0}/{1} dışa aktarıldı, {2} başarısız oldu).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Dışa aktarma tamamlandı ({0}/{1} dışa aktarıldı, {2} başarısız oldu).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Hata: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Dışa Aktarma Konumunu Aç,False
+MainMenu.Editor.CameraProperties,Camera Properties,Kamera Özellikleri,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,Konum X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Y Konumu,False
+MainMenu.Editor.CameraProperty.Size,Size,Boyut,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Döndürme,False
