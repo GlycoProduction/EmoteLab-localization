@@ -210,3 +210,11 @@ MainMenu.Editor.CameraProperty.PositionX,Position X,X pozíció,False
 MainMenu.Editor.CameraProperty.PositionY,Position Y,Y pozíció,False
 MainMenu.Editor.CameraProperty.Size,Size,Méret,False
 MainMenu.Editor.CameraProperty.Rotation,Rotation,Forgás,False
+MainMenu.Editor.ModelProperty.Mirror,Mirror,Tükör,False
+MainMenu.Editor.ModelProperty.Outline,Outline,Vázlat,False
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,Vastagság,False
+MainMenu.Settings.ExportSettings.Quality,Quality,Minőség,False
+MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Loop Count,False
+MainMenu.Settings.ExportSettings.Lossless,Lossless,Veszteségmentes,False
+MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","Ha a veszteségmentes funkció be van kapcsolva, a jobb minőség kisebb fájlt és lassabb kódolást jelent. A kinézet ugyanaz marad. A veszteségmentes kikapcsolással a magasabb minőség jobb megjelenést és nagyobb fájlt jelent.",False
+MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Hányszor ismétlődik az animáció. 0 = ciklus örökre.,False

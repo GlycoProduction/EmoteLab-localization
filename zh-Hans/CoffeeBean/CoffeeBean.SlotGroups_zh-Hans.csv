@@ -280,12 +280,16 @@ Electric Fan,Electric Fan,电风扇,True
 Electric Fan Blades,Electric Fan Blades,电风扇叶片,True
 Flame Inner Layer,Flame Inner Layer,火焰内层,True
 Flame Outer Layer,Flame Outer Layer,火焰外层,True
-FoldingFan1,Folding Fan 1,折扇1,True
-FoldingFan2,Folding Fan 2,折扇2,True
-Guitar Color 1,Guitar Color 1,吉他颜色1,True
-Guitar Color 2,Guitar Color 2,吉他颜色2,True
-Guitar Color 3,Guitar Color 3,吉他颜色3,True
+FoldingFan1,Folding Fan 1,折扇 1,True
+FoldingFan2,Folding Fan 2,折扇 2,True
+Guitar Color 1,Guitar Color 1,吉他颜色 1,True
+Guitar Color 2,Guitar Color 2,吉他颜色 2,True
+Guitar Color 3,Guitar Color 3,吉他颜色 3,True
 Guitar Outline, Guitar Outline,吉他轮廓,True
 Slipper,Slipper,拖鞋,True
 Stool,Stool,凳子,True
 Wink Star,Wink Star,眨眼星星,True
+Cup Liquid,Cup Liquid,茶/咖啡杯 液体,True
+Interact Hand,Interact Hand,互动手,True
+Progress Bar Container,Progress Bar Container,进度条 背景,True
+Progress Bar Fill,Progress Bar Fill,进度条 填充,True

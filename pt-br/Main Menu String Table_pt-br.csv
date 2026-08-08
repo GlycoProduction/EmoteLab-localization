@@ -210,3 +210,11 @@ MainMenu.Editor.CameraProperty.PositionX,Position X,Posição X,False
 MainMenu.Editor.CameraProperty.PositionY,Position Y,Posição Y,False
 MainMenu.Editor.CameraProperty.Size,Size,Tamanho,False
 MainMenu.Editor.CameraProperty.Rotation,Rotation,Rotação,False
+MainMenu.Editor.ModelProperty.Mirror,Mirror,Espelho,False
+MainMenu.Editor.ModelProperty.Outline,Outline,Contorno,False
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,Grossura,False
+MainMenu.Settings.ExportSettings.Quality,Quality,Qualidade,False
+MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Contagem de loops,False
+MainMenu.Settings.ExportSettings.Lossless,Lossless,Sem perdas,False
+MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","Com Lossless ativado, maior qualidade significa um arquivo menor e uma codificação mais lenta. A aparência permanece a mesma. Com Lossless desativado, maior qualidade significa melhor aparência e um arquivo maior.",False
+MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Quantas vezes a animação se repete. 0 = loop para sempre.,False

@@ -210,3 +210,11 @@ MainMenu.Editor.CameraProperty.PositionX,Position X,Position X,False
 MainMenu.Editor.CameraProperty.PositionY,Position Y,Position Y,False
 MainMenu.Editor.CameraProperty.Size,Size,Storlek,False
 MainMenu.Editor.CameraProperty.Rotation,Rotation,Rotation,False
+MainMenu.Editor.ModelProperty.Mirror,Mirror,Spegel,False
+MainMenu.Editor.ModelProperty.Outline,Outline,Skissera,False
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,Tjocklek,False
+MainMenu.Settings.ExportSettings.Quality,Quality,Kvalitet,False
+MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Loop Count,False
+MainMenu.Settings.ExportSettings.Lossless,Lossless,Förlustfri,False
+MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","Med Lossless på betyder högre kvalitet en mindre fil och långsammare kodning. Utseendet förblir detsamma. Med Lossless av, betyder högre kvalitet bättre utseende och en större fil.",False
+MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Hur många gånger animeringen upprepas. 0 = slinga för alltid.,False

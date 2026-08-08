@@ -210,3 +210,11 @@ MainMenu.Editor.CameraProperty.PositionX,Position X,Konum X,False
 MainMenu.Editor.CameraProperty.PositionY,Position Y,Y Konumu,False
 MainMenu.Editor.CameraProperty.Size,Size,Boyut,False
 MainMenu.Editor.CameraProperty.Rotation,Rotation,Döndürme,False
+MainMenu.Editor.ModelProperty.Mirror,Mirror,Ayna,False
+MainMenu.Editor.ModelProperty.Outline,Outline,Taslak,False
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,Kalınlık,False
+MainMenu.Settings.ExportSettings.Quality,Quality,Kalite,False
+MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Döngü Sayısı,False
+MainMenu.Settings.ExportSettings.Lossless,Lossless,Kayıpsız,False
+MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","Kayıpsız açıkken daha yüksek kalite, daha küçük dosya ve daha yavaş kodlama anlamına gelir. Görünüm aynı kalıyor. Kayıpsız kapalıyken daha yüksek kalite, daha iyi görünüm ve daha büyük dosya anlamına gelir.",False
+MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Animasyonun kaç kez tekrarlandığı. 0 = sonsuza kadar döngü.,False
