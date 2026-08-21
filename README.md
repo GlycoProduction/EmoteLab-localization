@@ -2,6 +2,31 @@
 
 Thank you for helping translate [EmoteLab](https://emotelab.app/). This repository holds **translation files** that contributors edit. Each file is a CSV (spreadsheet) you can open in Excel, Google Sheets, or any text editor.
 
+## Contributors
+
+<!-- CONTRIBUTORS:START -->
+<table>
+<tbody>
+<tr>
+<td align="center" valign="top"><a href="https://github.com/cssf998811"><img src="https://github.com/cssf998811.png?size=128" width="128" height="128" alt="@cssf998811"/></a><br/><a href="https://github.com/cssf998811"><sub><b>@cssf998811</b></sub></a><br/><sub><code>zh-Hant</code></sub></td>
+<td align="center" valign="top"><a href="https://github.com/Derigithub"><img src="https://github.com/Derigithub.png?size=128" width="128" height="128" alt="@Derigithub"/></a><br/><a href="https://github.com/Derigithub"><sub><b>@Derigithub</b></sub></a><br/><sub><code>fr</code></sub></td>
+<td align="center" valign="top"><a href="https://github.com/Emoisot"><img src="https://github.com/Emoisot.png?size=128" width="128" height="128" alt="@Emoisot"/></a><br/><a href="https://github.com/Emoisot"><sub><b>@Emoisot</b></sub></a><br/><sub><code>tr</code></sub></td>
+<td align="center" valign="top"><a href="https://github.com/Frusumi"><img src="https://github.com/Frusumi.png?size=128" width="128" height="128" alt="@Frusumi"/></a><br/><a href="https://github.com/Frusumi"><sub><b>@Frusumi</b></sub></a><br/><sub><code>ja</code></sub></td>
+<td align="center" valign="top"><a href="https://github.com/gliciniaelf"><img src="https://github.com/gliciniaelf.png?size=128" width="128" height="128" alt="@gliciniaelf"/></a><br/><a href="https://github.com/gliciniaelf"><sub><b>@gliciniaelf</b></sub></a><br/><sub><code>ru</code></sub></td>
+<td align="center" valign="top"><a href="https://github.com/ibuprofennw"><img src="https://github.com/ibuprofennw.png?size=128" width="128" height="128" alt="@ibuprofennw"/></a><br/><a href="https://github.com/ibuprofennw"><sub><b>@ibuprofennw</b></sub></a><br/><sub><code>pt-br</code></sub></td>
+</tr>
+<tr>
+<td align="center" valign="top"><a href="https://github.com/ikehanakeri"><img src="https://github.com/ikehanakeri.png?size=128" width="128" height="128" alt="@ikehanakeri"/></a><br/><a href="https://github.com/ikehanakeri"><sub><b>@ikehanakeri</b></sub></a><br/><sub><code>es</code></sub></td>
+<td align="center" valign="top"><a href="https://github.com/iolitelacour"><img src="https://github.com/iolitelacour.png?size=128" width="128" height="128" alt="@iolitelacour"/></a><br/><a href="https://github.com/iolitelacour"><sub><b>@iolitelacour</b></sub></a><br/><sub><code>th</code></sub></td>
+<td align="center" valign="top"><a href="https://github.com/LianelaSky"><img src="https://github.com/LianelaSky.png?size=128" width="128" height="128" alt="@LianelaSky"/></a><br/><a href="https://github.com/LianelaSky"><sub><b>@LianelaSky</b></sub></a><br/><sub><code>es</code></sub></td>
+<td align="center" valign="top"><a href="https://github.com/melissaids"><img src="https://github.com/melissaids.png?size=128" width="128" height="128" alt="@melissaids"/></a><br/><a href="https://github.com/melissaids"><sub><b>@melissaids</b></sub></a><br/><sub><code>fr</code></sub></td>
+<td align="center" valign="top"><a href="https://github.com/poUiiU"><img src="https://github.com/poUiiU.png?size=128" width="128" height="128" alt="@poUiiU"/></a><br/><a href="https://github.com/poUiiU"><sub><b>@poUiiU</b></sub></a><br/><sub><code>ko</code></sub></td>
+<td align="center" valign="top"></td>
+</tr>
+</tbody>
+</table>
+<!-- CONTRIBUTORS:END -->
+
 ## What's in this repo
 
 Files are grouped **by language** (e.g. `fr/`, `ja/`, `ko/`). In each language folder you’ll find:
