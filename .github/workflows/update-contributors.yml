@@ -1,0 +1,39 @@
+name: Update contributors
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/Main Menu String Table_*.csv"
+      - "**/CoffeeBean/**"
+      - "scripts/generate_contributors.py"
+      - "contributors.config.json"
+      - ".github/workflows/update-contributors.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate contributors section
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/generate_contributors.py
+
+      - name: Commit README if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update contributors section [skip ci]"
+          file_pattern: README.md

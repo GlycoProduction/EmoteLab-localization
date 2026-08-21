@@ -1,0 +1,13 @@
+{
+  "ignore": [
+    "0x4682B4",
+    "Iraeis"
+  ],
+  "exclude_dirs": [
+    "_collage",
+    "src",
+    "scripts",
+    ".github",
+    ".git"
+  ]
+}
