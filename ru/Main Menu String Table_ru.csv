@@ -218,3 +218,53 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Количество ци�
 MainMenu.Settings.ExportSettings.Lossless,Lossless,без потерь,False
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","При включенном режиме Lossless более высокое качество означает меньший размер файла и более медленное кодирование. Внешний вид остается прежним. Если функция Lossless отключена, более высокое качество означает лучший внешний вид и больший размер файла.",False
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Сколько раз повторяется анимация. 0 = цикл навсегда.,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color","VP9, BT.709, полный диапазон цветов",False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,Уровень CQ,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality","более низкий уровень CQ означает больший размер файла и лучшее качество; более высокий уровень CQ означает большее сжатие, меньший размер файла, худшее качество.",False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,Скорость,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file","Более низкая скорость означает более медленное кодирование, лучшее качество и обычно меньший размер файла.",False
+MainMenu.Workshop.ItemType.All,All Types,Все типы,False
+MainMenu.Workshop.ItemType.Model,Model,Модель,False
+MainMenu.Workshop.ItemType.Character,Character,Характер,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,Неизвестный,False
+MainMenu.Workshop.Tab.Browse,Browse,Просматривать,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,Подписан,False
+MainMenu.Workshop.Tab.Published,Published,Опубликовано,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,Подписан,False
+MainMenu.Workshop.Author.Loading,Loading...,Загрузка...,False
+MainMenu.Workshop.Author.Unknown,Unknown,Неизвестный,False
+MainMenu.Workshop.Pager.FirstPage,First page,Первая страница,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,Предыдущая страница,False
+MainMenu.Workshop.Pager.NextPage,Next page,Следующая страница,False
+MainMenu.Workshop.Pager.LastPage,Last page,Последняя страница,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),Страница {0} из {1} (элементов: {2}),False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,Загрузка предметов Мастерской...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,"Стим не запускается. Запустите EmoteLab через Steam, чтобы просмотреть Мастерскую.",False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,Не удалось загрузить предметы Мастерской.,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,Больше результатов в Steam нет.,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,Ни один предмет Мастерской не соответствовал вашему запросу.,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,Вы не подписаны ни на один соответствующий элемент Мастерской.,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,Вы не опубликовали ни одного подходящего предмета Мастерской.,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,Другой запрос Мастерской уже выполняется.,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,Steam отклонил запрос Мастерской.,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},Не удалось выполнить запрос мастерской: {0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,Предмет Мастерской,False
+MainMenu.Workshop.ItemPopup.Author,Author,Автор,False
+MainMenu.Workshop.ItemPopup.Type,Type,Тип,False
+MainMenu.Workshop.ItemPopup.Size,Size,Размер,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,Опубликовано,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,Обновлено,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,Недостаточно оценок,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,Подписаться,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,Отписаться,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,Открыть в браузере,False
+MainMenu.Workshop.ItemPopup.Close,Close,Закрывать,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,Отправка оценки...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,Не удалось оценить этот товар.,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,Рейтинг отправлен.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,Подписка...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,Отписка...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,Не удалось подписаться на этот товар.,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Не удалось отказаться от подписки на этот товар.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Подписался.,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Отписался. Предмет будет удален Steam.,False

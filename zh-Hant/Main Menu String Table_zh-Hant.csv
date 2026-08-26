@@ -218,3 +218,53 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,循環計數,False
 MainMenu.Settings.ExportSettings.Lossless,Lossless,無損,False
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",啟用無損後，更高的品質意味著更小的檔案和更慢的編碼。看起來還是一樣。關閉無損後，更高的品質意味著更好的外觀和更大的文件。,False
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,動畫重複多少次。 0 = 永遠循環。,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color",VP9，BT.709，全範圍色彩,False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,CQ等級,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality",CQ等級越低代表檔案越大，品質越好； CQ等級越高代表壓縮程度越高、檔案越小、品質越差,False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,速度,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file",較低的速度意味著較慢的編碼、更好的品質和通常較小的文件,False
+MainMenu.Workshop.ItemType.All,All Types,所有類型,False
+MainMenu.Workshop.ItemType.Model,Model,模型,False
+MainMenu.Workshop.ItemType.Character,Character,角色,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,未知,False
+MainMenu.Workshop.Tab.Browse,Browse,瀏覽,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,訂閱的物品,False
+MainMenu.Workshop.Tab.Published,Published,發表的物品,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,已訂閱,False
+MainMenu.Workshop.Author.Loading,Loading...,載入中...,False
+MainMenu.Workshop.Author.Unknown,Unknown,未知,False
+MainMenu.Workshop.Pager.FirstPage,First page,第一頁,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,上一頁,False
+MainMenu.Workshop.Pager.NextPage,Next page,下一頁,False
+MainMenu.Workshop.Pager.LastPage,Last page,最後一頁,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),第 {0} 頁，共 {1} 頁（{2} 項）,False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,正在加載創意工坊物品...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,Steam未運轉。透過Steam啟動EmoteLab瀏覽創意工坊。,False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,無法加載創意工坊物品。,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,Steam上沒有更多結果。,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,沒有符合您搜尋條件的創意工坊物品。,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,您沒有訂閱任何匹配的創意工坊物品。,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,您尚未發布任何匹配的創意工坊物品。,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,另一個創意工坊查詢請求已在運行。,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,Steam拒絕了創意工坊查詢請求。,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},創意工坊查詢失敗：{0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,創意工坊物品,False
+MainMenu.Workshop.ItemPopup.Author,Author,作者,False
+MainMenu.Workshop.ItemPopup.Type,Type,類型,False
+MainMenu.Workshop.ItemPopup.Size,Size,尺寸,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,發布時間,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,更新時間,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,評分不足,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,訂閱,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,取消訂閱,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,在瀏覽器中開啟,False
+MainMenu.Workshop.ItemPopup.Close,Close,關閉,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,正在提交評分...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,無法為該物品評分。,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,評分已提交。,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,正在訂閱...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,正在取消訂閱...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,訂閱此物品失敗。,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,無法取消訂閱此物品。,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,已訂閱。,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,已取消訂閱，該物品將被Steam移除。,False

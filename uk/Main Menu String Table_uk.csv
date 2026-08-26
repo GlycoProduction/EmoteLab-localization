@@ -218,3 +218,53 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Підрахунок ци�
 MainMenu.Settings.ExportSettings.Lossless,Lossless,Без втрат,False
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","Якщо ввімкнути Lossless, вища якість означає менший файл і повільніше кодування. Зовнішність залишається незмінною. Якщо Lossless вимкнено, вища якість означає кращий вигляд і більший файл.",False
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Скільки разів повторюється анімація. 0 = цикл назавжди.,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color","VP9, BT.709, повний діапазон кольорів",False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,Рівень CQ,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality","нижчий рівень CQ означає більший файл, кращу якість; вищий рівень CQ означає більше стиснення, менший файл і гіршу якість",False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,швидкість,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file","Нижча швидкість означає повільніше кодування, кращу якість і зазвичай менший файл",False
+MainMenu.Workshop.ItemType.All,All Types,Всі типи,False
+MainMenu.Workshop.ItemType.Model,Model,Модель,False
+MainMenu.Workshop.ItemType.Character,Character,характер,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,Невідомий,False
+MainMenu.Workshop.Tab.Browse,Browse,переглядати,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,Підписався,False
+MainMenu.Workshop.Tab.Published,Published,Опубліковано,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,Підписався,False
+MainMenu.Workshop.Author.Loading,Loading...,Завантаження...,False
+MainMenu.Workshop.Author.Unknown,Unknown,Невідомий,False
+MainMenu.Workshop.Pager.FirstPage,First page,Перша сторінка,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,Попередня сторінка,False
+MainMenu.Workshop.Pager.NextPage,Next page,Наступна сторінка,False
+MainMenu.Workshop.Pager.LastPage,Last page,Остання сторінка,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),Сторінка {0} з {1} (елементів: {2}),False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,Завантаження елементів майстерні...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,"Steam не працює. Запустіть EmoteLab через Steam, щоб переглянути Майстерню.",False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,Не вдалося завантажити предмети майстерні.,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,У Steam більше немає результатів.,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,"Немає предметів майстерні, які відповідають вашому запиту.",False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,Ви не підписані на відповідні елементи Майстерні.,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,Ви не опублікували відповідних елементів Майстерні.,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,Інший запит Workshop уже виконується.,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,Steam відхилив запит Workshop.,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},Помилка запиту до майстерні: {0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,Предмет майстерні,False
+MainMenu.Workshop.ItemPopup.Author,Author,автор,False
+MainMenu.Workshop.ItemPopup.Type,Type,Тип,False
+MainMenu.Workshop.ItemPopup.Size,Size,Розмір,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,Опубліковано,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,Оновлено,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,Недостатньо оцінок,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,Підпишіться,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,Відписатися,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,Відкрити в браузері,False
+MainMenu.Workshop.ItemPopup.Close,Close,Закрити,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,Надсилання оцінки...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,Не вдалося оцінити цей елемент.,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,Оцінку подано.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,Підписка...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,Скасування підписки...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,Не вдалося підписатися на цей елемент.,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Не вдалося скасувати підписку на цей елемент.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Підписався.,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Скасував підписку. Елемент буде видалено Steam.,False

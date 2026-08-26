@@ -218,3 +218,53 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Počet slučiek,False
 MainMenu.Settings.ExportSettings.Lossless,Lossless,Bezstratový,False
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",False
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Koľkokrát sa animácia opakuje. 0 = slučka navždy.,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color","VP9, BT.709, farba Full Range",False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,Úroveň CQ,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality","nižšia úroveň CQ znamená väčší súbor, lepšiu kvalitu; vyššia úroveň CQ znamená väčšiu kompresiu, menší súbor, horšiu kvalitu",False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,Rýchlosť,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file","Nižšia rýchlosť znamená pomalšie kódovanie, lepšiu kvalitu a zvyčajne menší súbor",False
+MainMenu.Workshop.ItemType.All,All Types,Všetky typy,False
+MainMenu.Workshop.ItemType.Model,Model,Model,False
+MainMenu.Workshop.ItemType.Character,Character,Charakter,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,Neznámy,False
+MainMenu.Workshop.Tab.Browse,Browse,Prehľadávať,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,Prihlásené na odber,False
+MainMenu.Workshop.Tab.Published,Published,Zverejnené,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,Prihlásené na odber,False
+MainMenu.Workshop.Author.Loading,Loading...,Načítava sa...,False
+MainMenu.Workshop.Author.Unknown,Unknown,Neznámy,False
+MainMenu.Workshop.Pager.FirstPage,First page,Prvá strana,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,Predchádzajúca strana,False
+MainMenu.Workshop.Pager.NextPage,Next page,Ďalšia strana,False
+MainMenu.Workshop.Pager.LastPage,Last page,Posledná strana,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),Strana {0} z {1} (počet položiek: {2}),False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,Načítavajú sa položky workshopu...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,Steam nefunguje. Spustite EmoteLab cez Steam a prezrite si Workshop.,False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,Nepodarilo sa načítať položky workshopu.,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,Zo služby Steam nie sú k dispozícii žiadne ďalšie výsledky.,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,Vášmu vyhľadávaniu nezodpovedajú žiadne položky z dielne.,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,Nie ste prihlásení na odber žiadnych zodpovedajúcich položiek Workshopu.,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,Nezverejnili ste žiadne zodpovedajúce položky Workshopu.,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,Ďalší dotaz workshopu už beží.,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,Steam zamietol požiadavku Workshop.,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},Dopyt workshopu zlyhal: {0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,Dielenský predmet,False
+MainMenu.Workshop.ItemPopup.Author,Author,Autor,False
+MainMenu.Workshop.ItemPopup.Type,Type,Typ,False
+MainMenu.Workshop.ItemPopup.Size,Size,Veľkosť,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,Uverejnené,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,Aktualizované,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,Nedostatok hodnotení,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,Prihlásiť sa na odber,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,Zrušte odber,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,Otvoriť v prehliadači,False
+MainMenu.Workshop.ItemPopup.Close,Close,Zavrieť,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,Odosiela sa hodnotenie...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,Nepodarilo sa ohodnotiť túto položku.,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,Hodnotenie bolo odoslané.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,Prihlasovanie na odber...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,Zrušenie odberu...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,Prihlásenie na odber tejto položky zlyhalo.,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Nepodarilo sa zrušiť odber tejto položky.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Prihlásené na odber.,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Zrušený odber. Položka bude odstránená službou Steam.,False

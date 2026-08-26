@@ -218,3 +218,53 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Nombre de boucles,False
 MainMenu.Settings.ExportSettings.Lossless,Lossless,Sans perte,False
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","Avec Lossless activé, une qualité supérieure signifie un fichier plus petit et un encodage plus lent. L'apparence reste la même. Lorsque Lossless est désactivé, une qualité supérieure signifie une meilleure apparence et un fichier plus volumineux.",False
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Combien de fois l'animation se répète. 0 = boucle pour toujours.,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color","VP9, BT.709, gamme complète de couleurs",False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,Niveau CQ,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality","Un niveau CQ inférieur signifie un fichier plus gros, une meilleure qualité ; Un niveau CQ plus élevé signifie plus de compression, un fichier plus petit et une qualité inférieure",False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,Vitesse,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file","Une vitesse inférieure signifie un encodage plus lent, une meilleure qualité et un fichier généralement plus petit",False
+MainMenu.Workshop.ItemType.All,All Types,Tous types,False
+MainMenu.Workshop.ItemType.Model,Model,Modèle,False
+MainMenu.Workshop.ItemType.Character,Character,Personnage,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,Inconnu,False
+MainMenu.Workshop.Tab.Browse,Browse,Parcourir,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,Abonné,False
+MainMenu.Workshop.Tab.Published,Published,Publié,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,Abonné,False
+MainMenu.Workshop.Author.Loading,Loading...,Chargement...,False
+MainMenu.Workshop.Author.Unknown,Unknown,Inconnu,False
+MainMenu.Workshop.Pager.FirstPage,First page,Première page,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,Page précédente,False
+MainMenu.Workshop.Pager.NextPage,Next page,Page suivante,False
+MainMenu.Workshop.Pager.LastPage,Last page,Dernière page,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),Page {0} sur {1} ({2} éléments),False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,Chargement des éléments de l'atelier...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,Steam ne fonctionne pas. Démarrez EmoteLab via Steam pour parcourir l'atelier.,False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,Impossible de charger les éléments de l'atelier.,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,Aucun autre résultat n'est disponible sur Steam.,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,Aucun élément de l'atelier ne correspond à votre recherche.,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,Vous n'êtes abonné à aucun élément d'atelier correspondant.,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,Vous n'avez publié aucun élément d'atelier correspondant.,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,Une autre requête Workshop est déjà en cours d’exécution.,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,Steam a refusé la demande de requête de l'atelier.,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},Échec de la requête de l'atelier : {0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,Objet d'atelier,False
+MainMenu.Workshop.ItemPopup.Author,Author,Auteur,False
+MainMenu.Workshop.ItemPopup.Type,Type,Taper,False
+MainMenu.Workshop.ItemPopup.Size,Size,Taille,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,Publié,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,Mis à jour,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,Pas assez de notes,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,S'abonner,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,Se désabonner,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,Ouvrir dans le navigateur,False
+MainMenu.Workshop.ItemPopup.Close,Close,Fermer,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,Envoi de la note...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,Échec de l'évaluation de cet article.,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,Note soumise.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,S'abonner...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,Désabonnement...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,Échec de l'abonnement à cet article.,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Échec de la désinscription de cet élément.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Abonné.,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Désabonné. L'élément sera supprimé par Steam.,False

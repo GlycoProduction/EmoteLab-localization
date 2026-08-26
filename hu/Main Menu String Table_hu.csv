@@ -218,3 +218,53 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Loop Count,False
 MainMenu.Settings.ExportSettings.Lossless,Lossless,Veszteségmentes,False
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","Ha a veszteségmentes funkció be van kapcsolva, a jobb minőség kisebb fájlt és lassabb kódolást jelent. A kinézet ugyanaz marad. A veszteségmentes kikapcsolással a magasabb minőség jobb megjelenést és nagyobb fájlt jelent.",False
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Hányszor ismétlődik az animáció. 0 = ciklus örökre.,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color","VP9, BT.709, Teljes színválaszték",False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,CQ szint,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality","az alacsonyabb CQ szint nagyobb fájlt, jobb minőséget jelent; magasabb CQ szint nagyobb tömörítést, kisebb fájlt, rosszabb minőséget jelent",False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,Sebesség,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file","Az alacsonyabb sebesség lassabb kódolást, jobb minőséget és általában kisebb fájlt jelent",False
+MainMenu.Workshop.ItemType.All,All Types,Minden típus,False
+MainMenu.Workshop.ItemType.Model,Model,Modell,False
+MainMenu.Workshop.ItemType.Character,Character,Karakter,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,Ismeretlen,False
+MainMenu.Workshop.Tab.Browse,Browse,Tallózás,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,Előfizetve,False
+MainMenu.Workshop.Tab.Published,Published,Közzétett,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,Előfizetve,False
+MainMenu.Workshop.Author.Loading,Loading...,Terhelés...,False
+MainMenu.Workshop.Author.Unknown,Unknown,Ismeretlen,False
+MainMenu.Workshop.Pager.FirstPage,First page,Első oldal,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,Előző oldal,False
+MainMenu.Workshop.Pager.NextPage,Next page,Következő oldal,False
+MainMenu.Workshop.Pager.LastPage,Last page,Utolsó oldal,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),{1}/{0}. oldal ({2} elem),False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,Műhelyelemek betöltése...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,A Steam nem fut. Indítsa el az EmoteLabot a Steamen keresztül a Workshop böngészéséhez.,False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,Nem sikerült betölteni a műhelyelemeket.,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,Nincs több találat a Steamtől.,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,Egyetlen műhelyelem sem felelt meg a keresésnek.,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,Nem iratkozott fel egyetlen megfelelő Workshop-elemre sem.,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,Nem tettél közzé megfelelő műhelyelemeket.,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,Egy másik Workshop-lekérdezés már fut.,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,A Steam visszautasította a Workshop lekérdezési kérelmét.,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},A műhelylekérdezés sikertelen: {0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,Műhely elem,False
+MainMenu.Workshop.ItemPopup.Author,Author,Szerző,False
+MainMenu.Workshop.ItemPopup.Type,Type,Írja be,False
+MainMenu.Workshop.ItemPopup.Size,Size,Méret,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,Feladva,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,Frissítve,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,Nincs elég értékelés,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,Iratkozz fel,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,Leiratkozás,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,Nyissa meg a böngészőben,False
+MainMenu.Workshop.ItemPopup.Close,Close,Közeli,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,Értékelés elküldése...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,Nem sikerült értékelni ezt az elemet.,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,Értékelés elküldve.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,Feliratkozás...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,Leiratkozás...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,Nem sikerült előfizetni erre az elemre.,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Nem sikerült leiratkozni erről az elemről.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Előfizetve.,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Leiratkozott. Az elemet a Steam eltávolítja.,False

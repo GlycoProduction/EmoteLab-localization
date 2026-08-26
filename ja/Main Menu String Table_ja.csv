@@ -218,3 +218,53 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,ループ数,False
 MainMenu.Settings.ExportSettings.Lossless,Lossless,ロスレス,False
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",ロスレスをオンにすると、品質が高くなるとファイルが小さくなり、エンコードが遅くなります。見た目は変わりません。ロスレスをオフにすると、品質が高くなると見た目も良くなり、ファイルが大きくなります。,False
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,アニメーションが繰り返される回数。 0 = 永久ループ。,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color",VP9、BT.709、フルレンジカラー,False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,CQレベル,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality",CQ レベルが低いほど、ファイルが大きくなり、品質が高くなります。 CQ レベルが高いと、圧縮率が高くなり、ファイルが小さくなり、品質が低下します,False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,スピード,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file",速度が低いとエンコードが遅くなり、品質が向上し、通常はファイルが小さくなります,False
+MainMenu.Workshop.ItemType.All,All Types,全種類,False
+MainMenu.Workshop.ItemType.Model,Model,モデル,False
+MainMenu.Workshop.ItemType.Character,Character,キャラクター,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,未知,False
+MainMenu.Workshop.Tab.Browse,Browse,ブラウズ,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,購読済み,False
+MainMenu.Workshop.Tab.Published,Published,発行済み,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,購読済み,False
+MainMenu.Workshop.Author.Loading,Loading...,読み込み中...,False
+MainMenu.Workshop.Author.Unknown,Unknown,未知,False
+MainMenu.Workshop.Pager.FirstPage,First page,最初のページ,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,前のページへ,False
+MainMenu.Workshop.Pager.NextPage,Next page,次のページ,False
+MainMenu.Workshop.Pager.LastPage,Last page,最後のページ,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),ページ {0}/{1} ({2} 個のアイテム),False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,ワークショップアイテムを読み込み中...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,スチームが作動していません。 Steam から EmoteLab を起動してワークショップを参照します。,False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,ワークショップアイテムをロードできませんでした。,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,Steam からはこれ以上の結果は得られません。,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,検索に一致するワークショップ アイテムはありませんでした。,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,一致するワークショップ アイテムを購読していません。,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,一致するワークショップ アイテムを公開していません。,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,別のワークショップ クエリがすでに実行されています。,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,Steam はワークショップのクエリリクエストを拒否しました。,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},ワークショップのクエリが失敗しました: {0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,ワークショップアイテム,False
+MainMenu.Workshop.ItemPopup.Author,Author,著者,False
+MainMenu.Workshop.ItemPopup.Type,Type,タイプ,False
+MainMenu.Workshop.ItemPopup.Size,Size,サイズ,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,投稿しました,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,更新されました,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,評価が足りません,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,購読する,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,購読を解除する,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,ブラウザで開く,False
+MainMenu.Workshop.ItemPopup.Close,Close,近い,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,評価を送信中...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,このアイテムを評価できませんでした。,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,評価が送信されました。,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,購読中...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,購読を解除しています...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,このアイテムを購読できませんでした。,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,このアイテムの購読を解除できませんでした。,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,購読しました。,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,購読を解除しました。アイテムは Steam によって削除されます。,False

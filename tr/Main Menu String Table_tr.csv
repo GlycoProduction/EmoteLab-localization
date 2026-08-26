@@ -218,3 +218,53 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Döngü Sayısı,False
 MainMenu.Settings.ExportSettings.Lossless,Lossless,Kayıpsız,False
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","Kayıpsız açıkken daha yüksek kalite, daha küçük dosya ve daha yavaş kodlama anlamına gelir. Görünüm aynı kalıyor. Kayıpsız kapalıyken daha yüksek kalite, daha iyi görünüm ve daha büyük dosya anlamına gelir.",False
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Animasyonun kaç kez tekrarlandığı. 0 = sonsuza kadar döngü.,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color","VP9, BT.709, Tam Aralık rengi",False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,CQ Seviyesi,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality","daha düşük CQ Düzeyi daha büyük dosya, daha iyi kalite anlamına gelir; daha yüksek CQ Düzeyi daha fazla sıkıştırma, daha küçük dosya, daha kötü kalite anlamına gelir",False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,Hız,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file","Daha düşük hız, daha yavaş kodlama, daha iyi kalite ve genellikle daha küçük dosya anlamına gelir",False
+MainMenu.Workshop.ItemType.All,All Types,Tüm Türler,False
+MainMenu.Workshop.ItemType.Model,Model,Modeli,False
+MainMenu.Workshop.ItemType.Character,Character,Karakter,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,Bilinmiyor,False
+MainMenu.Workshop.Tab.Browse,Browse,Göz at,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,Abone olundu,False
+MainMenu.Workshop.Tab.Published,Published,Yayınlandı,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,Abone olundu,False
+MainMenu.Workshop.Author.Loading,Loading...,Yükleniyor...,False
+MainMenu.Workshop.Author.Unknown,Unknown,Bilinmiyor,False
+MainMenu.Workshop.Pager.FirstPage,First page,İlk sayfa,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,Önceki sayfa,False
+MainMenu.Workshop.Pager.NextPage,Next page,Sonraki sayfa,False
+MainMenu.Workshop.Pager.LastPage,Last page,Son sayfa,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),Sayfa {0} / {1} ({2} öğe),False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,Atölye öğeleri yükleniyor...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,Steam çalışmıyor. Atölyeye göz atmak için EmoteLab'ı Steam üzerinden başlatın.,False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,Atölye öğeleri yüklenemedi.,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,Steam'de başka sonuç yok.,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,Aramanızla eşleşen hiçbir Atölye öğesi yok.,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,Eşleşen herhangi bir Atölye öğesine abone değilsiniz.,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,Eşleşen herhangi bir Atölye öğesi yayınlamadınız.,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,Başka bir Atölye sorgusu zaten çalışıyor.,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,"Steam, Atölye sorgusu isteğini reddetti.",False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},Atölye sorgusu başarısız oldu: {0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,Atölye Öğesi,False
+MainMenu.Workshop.ItemPopup.Author,Author,Yazar,False
+MainMenu.Workshop.ItemPopup.Type,Type,Tip,False
+MainMenu.Workshop.ItemPopup.Size,Size,Boyut,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,Gönderildi,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,Güncellendi,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,Yeterli derecelendirme yok,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,Abone,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,Abonelikten çık,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,Tarayıcıda Aç,False
+MainMenu.Workshop.ItemPopup.Close,Close,Kapalı,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,Değerlendirme gönderiliyor...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,Bu öğeyi derecelendirmek başarısız oldu.,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,Derecelendirme gönderildi.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,Abone olunuyor...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,Abonelikten çıkılıyor...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,Bu öğeye abone olunamadı.,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Bu öğeye olan aboneliğiniz iptal edilemedi.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Abone olundu.,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Abonelikten çıkıldı. Öğe Steam tarafından kaldırılacaktır.,False

@@ -218,3 +218,53 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,루프 수,False
 MainMenu.Settings.ExportSettings.Lossless,Lossless,무손실,False
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",무손실을 켜면 품질이 높아질수록 파일 크기가 작아지고 인코딩 속도가 느려집니다. 그대로 유지되는 것 같습니다. 무손실을 끄면 품질이 높아질수록 모양이 좋아지고 파일 크기가 커집니다.,False
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,애니메이션이 반복되는 횟수입니다. 0 = 영원히 반복됩니다.,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color","VP9, BT.709, 풀레인지 컬러",False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,CQ 레벨,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality",CQ 레벨이 낮을수록 파일 크기가 커지고 품질이 향상됩니다. CQ 수준이 높을수록 압축률이 높아지고 파일 크기가 작아지며 품질이 저하됩니다.,False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,속도,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file",속도가 낮을수록 인코딩 속도가 느려지고 품질이 향상되며 일반적으로 파일 크기가 작아집니다.,False
+MainMenu.Workshop.ItemType.All,All Types,모든 유형,False
+MainMenu.Workshop.ItemType.Model,Model,모델,False
+MainMenu.Workshop.ItemType.Character,Character,성격,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,알려지지 않은,False
+MainMenu.Workshop.Tab.Browse,Browse,먹다,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,구독함,False
+MainMenu.Workshop.Tab.Published,Published,게시됨,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,구독함,False
+MainMenu.Workshop.Author.Loading,Loading...,로드 중...,False
+MainMenu.Workshop.Author.Unknown,Unknown,알려지지 않은,False
+MainMenu.Workshop.Pager.FirstPage,First page,첫 페이지,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,이전 페이지,False
+MainMenu.Workshop.Pager.NextPage,Next page,다음 페이지,False
+MainMenu.Workshop.Pager.LastPage,Last page,마지막 페이지,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),{1}/{0} 페이지({2}개 항목),False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,창작마당 항목 로드 중...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,Steam이 실행되고 있지 않습니다. 창작마당을 탐색하려면 Steam을 통해 EmoteLab을 시작하세요.,False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,창작마당 아이템을 로드할 수 없습니다.,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,Steam에서 더 이상 결과를 확인할 수 없습니다.,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,검색어와 일치하는 창작마당 항목이 없습니다.,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,일치하는 창작마당 항목을 구독하고 있지 않습니다.,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,일치하는 창작마당 항목을 게시하지 않았습니다.,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,다른 창작마당 쿼리가 이미 실행 중입니다.,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,Steam이 창작마당 쿼리 요청을 거부했습니다.,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},워크샵 쿼리 실패: {0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,창작마당 아이템,False
+MainMenu.Workshop.ItemPopup.Author,Author,작가,False
+MainMenu.Workshop.ItemPopup.Type,Type,유형,False
+MainMenu.Workshop.ItemPopup.Size,Size,크기,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,게시됨,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,업데이트됨,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,평가가 충분하지 않습니다.,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,구독하다,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,구독 취소,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,브라우저에서 열기,False
+MainMenu.Workshop.ItemPopup.Close,Close,닫다,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,평가 제출 중...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,이 항목을 평가하지 못했습니다.,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,평가가 제출되었습니다.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,구독 중...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,구독 취소 중...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,이 항목을 구독하지 못했습니다.,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,이 항목을 구독 취소하지 못했습니다.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,구독했습니다.,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,구독을 취소했습니다. 해당 항목은 Steam에 의해 제거됩니다.,False

@@ -218,3 +218,53 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Loop Count,False
 MainMenu.Settings.ExportSettings.Lossless,Lossless,Förlustfri,False
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","Med Lossless på betyder högre kvalitet en mindre fil och långsammare kodning. Utseendet förblir detsamma. Med Lossless av, betyder högre kvalitet bättre utseende och en större fil.",False
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Hur många gånger animeringen upprepas. 0 = slinga för alltid.,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color","VP9, BT.709, Full Range färg",False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,CQ-nivå,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality","lägre CQ-nivå betyder större fil, bättre kvalitet; högre CQ Level betyder mer komprimering, mindre fil, sämre kvalitet",False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,Hastighet,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file","Lägre hastighet innebär långsammare kodning, bättre kvalitet och vanligtvis mindre fil",False
+MainMenu.Workshop.ItemType.All,All Types,Alla typer,False
+MainMenu.Workshop.ItemType.Model,Model,Modell,False
+MainMenu.Workshop.ItemType.Character,Character,Karaktär,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,Okänd,False
+MainMenu.Workshop.Tab.Browse,Browse,Bläddra,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,Prenumererade,False
+MainMenu.Workshop.Tab.Published,Published,Publicerad,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,Prenumererade,False
+MainMenu.Workshop.Author.Loading,Loading...,Belastning...,False
+MainMenu.Workshop.Author.Unknown,Unknown,Okänd,False
+MainMenu.Workshop.Pager.FirstPage,First page,Första sidan,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,Föregående sida,False
+MainMenu.Workshop.Pager.NextPage,Next page,Nästa sida,False
+MainMenu.Workshop.Pager.LastPage,Last page,Sista sidan,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),Sida {0} av {1} ({2} objekt),False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,Laddar verkstadsobjekt...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,Steam körs inte. Starta EmoteLab genom Steam för att bläddra i verkstaden.,False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,Det gick inte att läsa in verkstadsobjekt.,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,Inga fler resultat är tillgängliga från Steam.,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,Inga verkstadsartiklar matchade din sökning.,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,Du prenumererar inte på några matchande Workshop-objekt.,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,Du har inte publicerat några matchande verkstadsobjekt.,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,En annan Workshop-fråga körs redan.,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,Steam avslog Workshop-frågan.,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},Verkstadsfråga misslyckades: {0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,Verkstadsföremål,False
+MainMenu.Workshop.ItemPopup.Author,Author,Författare,False
+MainMenu.Workshop.ItemPopup.Type,Type,Typ,False
+MainMenu.Workshop.ItemPopup.Size,Size,Storlek,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,Postat,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,Uppdaterad,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,Inte tillräckligt med betyg,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,Prenumerera,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,Avsluta prenumeration,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,Öppna i webbläsare,False
+MainMenu.Workshop.ItemPopup.Close,Close,Nära,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,Skickar betyg...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,Det gick inte att betygsätta denna artikel.,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,Betyg har skickats.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,Prenumererar...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,Avslutar prenumeration...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,Det gick inte att prenumerera på det här objektet.,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Det gick inte att avsluta prenumerationen på det här objektet.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Prenumererade.,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Avslutad prenumeration. Objektet kommer att tas bort av Steam.,False

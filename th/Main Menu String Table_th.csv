@@ -218,3 +218,53 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,จำนวนลูป,F
 MainMenu.Settings.ExportSettings.Lossless,Lossless,ไม่มีการสูญเสีย,False
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",เมื่อเปิด Lossless คุณภาพสูงขึ้นหมายถึงไฟล์เล็กลงและเข้ารหัสช้าลง หน้าตาก็เหมือนเดิม เมื่อปิด Lossless คุณภาพที่สูงขึ้นหมายถึงรูปลักษณ์ที่ดีขึ้นและไฟล์ที่ใหญ่ขึ้น,False
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,ภาพเคลื่อนไหวจะเล่นซ้ำกี่ครั้ง 0 = วนซ้ำตลอดไป,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color","VP9, BT.709, สีฟูลเรนจ์",False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,ระดับซีคิว,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality",ระดับ CQ ที่ต่ำกว่าหมายถึงไฟล์ที่ใหญ่กว่า คุณภาพที่ดีกว่า ระดับ CQ ที่สูงขึ้นหมายถึงการบีบอัดไฟล์ที่เล็กลง คุณภาพแย่ลง,False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,ความเร็ว,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file",ความเร็วที่ต่ำกว่าหมายถึงการเข้ารหัสที่ช้าลง คุณภาพที่ดีขึ้น และโดยปกติแล้วไฟล์จะเล็กลง,False
+MainMenu.Workshop.ItemType.All,All Types,ทุกประเภท,False
+MainMenu.Workshop.ItemType.Model,Model,แบบอย่าง,False
+MainMenu.Workshop.ItemType.Character,Character,อักขระ,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,ไม่ทราบ,False
+MainMenu.Workshop.Tab.Browse,Browse,เรียกดู,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,สมัครสมาชิกแล้ว,False
+MainMenu.Workshop.Tab.Published,Published,ที่ตีพิมพ์,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,สมัครสมาชิกแล้ว,False
+MainMenu.Workshop.Author.Loading,Loading...,กำลังโหลด...,False
+MainMenu.Workshop.Author.Unknown,Unknown,ไม่ทราบ,False
+MainMenu.Workshop.Pager.FirstPage,First page,หน้าแรก,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,หน้าก่อน,False
+MainMenu.Workshop.Pager.NextPage,Next page,หน้าถัดไป,False
+MainMenu.Workshop.Pager.LastPage,Last page,หน้าสุดท้าย,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),หน้า {0} จาก {1} ({2} รายการ),False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,กำลังโหลดรายการเวิร์กชอป...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,Steam ไม่ทำงาน เริ่ม EmoteLab ผ่าน Steam เพื่อเรียกดูเวิร์กชอป,False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,ไม่สามารถโหลดรายการเวิร์กชอปได้,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,ไม่มีผลลัพธ์เพิ่มเติมจาก Steam,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,ไม่มีรายการเวิร์กชอปที่ตรงกับการค้นหาของคุณ,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,คุณไม่ได้สมัครรับรายการเวิร์กชอปที่ตรงกัน,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,คุณยังไม่ได้เผยแพร่รายการเวิร์กชอปที่ตรงกัน,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,แบบสอบถามเวิร์กชอปอื่นกำลังทำงานอยู่,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,Steam ปฏิเสธคำขอสืบค้นเวิร์กชอป,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},การสืบค้นเวิร์กชอปล้มเหลว: {0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,รายการเวิร์กชอป,False
+MainMenu.Workshop.ItemPopup.Author,Author,ผู้เขียน,False
+MainMenu.Workshop.ItemPopup.Type,Type,พิมพ์,False
+MainMenu.Workshop.ItemPopup.Size,Size,ขนาด,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,โพสต์แล้ว,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,อัปเดตแล้ว,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,เรตติ้งไม่พอ.,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,สมัครสมาชิก,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,ยกเลิกการสมัคร,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,เปิดในเบราว์เซอร์,False
+MainMenu.Workshop.ItemPopup.Close,Close,ปิด,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,กำลังส่งคะแนน...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,ไม่สามารถให้คะแนนรายการนี้,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,ส่งเรตติ้งแล้ว,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,กำลังสมัครรับข้อมูล...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,กำลังยกเลิกการสมัคร...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,ไม่สามารถสมัครรับรายการนี้,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,ไม่สามารถยกเลิกการสมัครรับรายการนี้,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,สมัครสมาชิกแล้ว,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,ยกเลิกการสมัคร ไอเท็มจะถูกลบออกโดย Steam,False
