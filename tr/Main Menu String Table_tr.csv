@@ -1,7 +1,7 @@
 Key,en,tr,reviewed
 MainMenu.TabHeaderLable.Editor,Editor,Editör,True
-MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","""{{0}“ isimli karakteri silmek istediğinizden emin misiniz? Bu karar geri alınamaz.",True
-MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","""{0}“ İsimli karakter halihazırda mevcut. „{0}“ isimli karakterin üstüne yazmak istediğinizden emin misiniz? Bu karar geri alınamaz.",True
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.",„{{0}“ isimli karakteri silmek istediğinizden emin misiniz? Bu karar geri alınamaz.,True
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.",„{0}“ İsimli karakter halihazırda mevcut. „{0}“ isimli karakterin üstüne yazmak istediğinizden emin misiniz? Bu karar geri alınamaz.,True
 MainMenu.Confirm,Confirm,Onayla,True
 MainMenu.Cancel,Cancel,İptal et,True
 MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,Lütfen bir karakter ismi giriniz.,True
