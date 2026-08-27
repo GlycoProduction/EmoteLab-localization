@@ -30,7 +30,7 @@ Cup,Cup,咖啡杯,True
 Cup Steam,Cup Steam,咖啡杯 蒸汽,True
 Door/Wall,Door/Wall,門/牆,True
 Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,呆眼 瞳孔 >>,True
-Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,呆眼 瞳孔  <<,True
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,呆眼 瞳孔 <<,True
 Eyebag,Eyebag,眼袋,True
 Eye Iris Dark >>,Eye Iris Dark >>,眼睛 虹膜深色 >>,True
 Eye Iris Dark <<,Eye Iris Dark <<,眼睛 虹膜深色 <<,True
@@ -43,7 +43,7 @@ Eye Iris Light <<,Eye Iris Light <<,眼睛 虹膜淺色 <<,True
 Eye(Dum) Outline,Eye(Dum) Outline,呆眼 輪廓,True
 Eye Sparkling,Eye Sparkling,眼睛 星星,True
 Eye Spiral,Eye Spiral,眼睛 圈圈,True
-Eye White,Eye White,眼睛 白色部分,True
+Eye White,Eye White,眼白,True
 Face Shadow,Face Shadow,臉 陰影,True
 Fin >>,Fin >>,鰭 >>,True
 Fin >> Outline,Fin >> Outline,鰭 >> 輪廓,True
@@ -121,8 +121,8 @@ Horn ><,Horn ><,角 ><,True
 Horn >< Outline,Horn >< Outline,角 >< 輪廓,True
 Jail Grill,Jail Grill,監獄柵欄,True
 Keyboard,Keyboard,鍵盤,True
-Kitchen Knife,Kitchen Knife,廚房刀,True
-Laptop,Laptop,電腦,True
+Kitchen Knife,Kitchen Knife,菜刀,True
+Laptop,Laptop,筆記型電腦,True
 Laptop Light,Laptop Light,電腦 螢幕光,True
 Leg >>,Leg >>,腿 >>,True
 Leg <<,Leg <<,腿 <<,True
@@ -205,7 +205,7 @@ Candle Fire,Candle Fire,蠟燭 火焰,True
 Drawing Tablet,Drawing Tablet,繪圖板,True
 Love Letter,Love Letter,情書,True
 Popper,Popper,拉炮,True
-Stylus,Stylus,手寫筆,True
+Stylus,Stylus,觸控筆,True
 Tablet,Tablet,繪圖板,True
 Musical Note 1,Musical Note 1,音樂 音符 1,True
 Musical Note 2,Musical Note 2,音樂 音符 2,True
@@ -216,80 +216,80 @@ Wing >>,Wing >>,翅膀 >>,True
 Wing >> Outline,Wing >> Outline,翅膀 >> 輪廓,True
 Wing <<,Wing <<,翅膀 <<,True
 Wing << Outline,Wing << Outline,翅膀 << 輪廓,True
-Cape,Cape,鬥篷,False
-Cape Outline,Cape Outline,鬥篷 輪廓,False
-Cheek,Cheek,臉頰,False
-Cockroach,Cockroach,蟑螂,False
-Controller,Controller,手柄,False
-Donut,Donut,甜甜圈,False
-Earring >>,Earring >>,耳環 >>,False
-Earring <<,Earring <<,耳環 <<,False
-Earring >> Outline,Earring >> Outline,耳環 >> 輪廓,False
-Earring << Outline,Earring << Outline,耳環 << 輪廓,False
-Face Feature A >>,Face Feature A >>,臉部特徵 A >>,False
-Face Feature A <<,Face Feature A <<,臉部特徵 A <<,False
-Face Feature B >>,Face Feature B >>,臉部特徵 B >>,False
-Face Feature B <<,Face Feature B <<,臉部特徵 B <<,False
-Face Feature C,Face Feature C,臉部特徵 C,False
-Facial Hair A,Facial Hair A,鬍子 A,False
-Facial Hair A Outline,Facial Hair A Outline,鬍子 A 輪廓,False
-Facial Hair B,Facial Hair B,鬍子 B,False
-Facial Hair B Outline,Facial Hair B Outline,鬍子 B 輪廓,False
-Glove >>,Glove >>,手套 >>,False
-Glove >> Outline,Glove >> Outline,手套 >> 輪廓,False
-Glove <<,Glove <<,手套 <<,False
-Glove << Outline,Glove << Outline,手套 << 輪廓,False
-Hand >>,Hand >>,手 >>,False
-Hand >> Outline,Hand >> Outline,手 >> 輪廓,False
-Hand <<,Hand <<,手 <<,False
-Hand << Outline,Hand << Outline,手 << 輪廓,False
-Gun,Gun,槍,False
-Gun Flash,Gun Flash,槍口閃光,False
-Lubricant,Lubricant,潤滑劑,False
-Megaphone,Megaphone,擴音器,False
-Nose,Nose,鼻子,False
-Piercing A >>,Piercing A >>,耳釘 A >>,False
-Piercing A >> Outline,Piercing A >> Outline,耳釘 A >> 輪廓,False
-Piercing A <<,Piercing A <<,耳釘 A <<,False
-Piercing A << Outline,Piercing A << Outline,耳釘 A << 輪廓,False
-Piercing B >>,Piercing B >>,耳釘 B >>,False
-Piercing B >> Outline,Piercing B >> Outline,耳釘 B >> 輪廓,False
-Piercing B <<,Piercing B <<,耳釘 B <<,False
-Piercing B << Outline,Piercing B << Outline,耳釘 B << 輪廓,False
-Pixel Sun Glasses,Pixel Sun Glasses,畫素太陽鏡,False
-Pompom >>,Pompom >>,拉拉花 >>,False
-Pompom <<,Pompom <<,拉拉花 <<,False
-Spray,Spray,噴霧,False
-Sticker Light Bulb,Sticker Light Bulb,表情貼紙 燈泡,False
-Sticker Loading,Sticker Loading,表情貼紙 載入,False
-Sunglasses,Sunglasses,太陽鏡,False
-Sunglasses Reflection,Sunglasses Reflection,太陽鏡反光,False
-Tape,Tape,膠帶,False
-Toilet,Toilet,馬桶,False
-Trash Bin,Trash Bin,垃圾桶,False
-Wave Hand,Wave Hand,揮手 手,False
-Swatter,Swatter,拍子,False
-Hair Ponytail,Hair Ponytail,頭髮馬尾辮,False
-Hair Ponytail Outline,Hair Ponytail Outline,頭髮馬尾辮輪廓,False
-Eyepatch,Eyepatch,眼罩,False
-Eyepatch Outline,Eyepatch Outline,眼罩輪廓,False
-Number Six,Number Six,六號,False
-Number Seven,Number Seven,第七號,False
-Cheese,Cheese,起司,False
-Electric Fan,Electric Fan,電扇,False
-Electric Fan Blades,Electric Fan Blades,電風扇葉片,False
-Flame Inner Layer,Flame Inner Layer,火焰內層,False
-Flame Outer Layer,Flame Outer Layer,火焰外層,False
-FoldingFan1,Folding Fan 1,折扇1,False
-FoldingFan2,Folding Fan 2,折扇2,False
-Guitar Color 1,Guitar Color 1,吉他顏色1,False
-Guitar Color 2,Guitar Color 2,吉他顏色2,False
-Guitar Color 3,Guitar Color 3,吉他顏色3,False
-Guitar Outline, Guitar Outline,吉他大綱,False
-Slipper,Slipper,拖鞋,False
-Stool,Stool,凳子,False
-Wink Star,Wink Star,眨眼之星,False
-Cup Liquid,Cup Liquid,杯液體,False
-Interact Hand,Interact Hand,互動手,False
-Progress Bar Container,Progress Bar Container,進度條容器,False
-Progress Bar Fill,Progress Bar Fill,進度條填充,False
+Cape,Cape,斗篷,True
+Cape Outline,Cape Outline,斗篷 輪廓,True
+Cheek,Cheek,臉頰,True
+Cockroach,Cockroach,蟑螂,True
+Controller,Controller,手把,True
+Donut,Donut,甜甜圈,True
+Earring >>,Earring >>,耳環 >>,True
+Earring <<,Earring <<,耳環 <<,True
+Earring >> Outline,Earring >> Outline,耳環 >> 輪廓,True
+Earring << Outline,Earring << Outline,耳環 << 輪廓,True
+Face Feature A >>,Face Feature A >>,臉部特徵 A >>,True
+Face Feature A <<,Face Feature A <<,臉部特徵 A <<,True
+Face Feature B >>,Face Feature B >>,臉部特徵 B >>,True
+Face Feature B <<,Face Feature B <<,臉部特徵 B <<,True
+Face Feature C,Face Feature C,臉部特徵 C,True
+Facial Hair A,Facial Hair A,鬍子 A,True
+Facial Hair A Outline,Facial Hair A Outline,鬍子 A 輪廓,True
+Facial Hair B,Facial Hair B,鬍子 B,True
+Facial Hair B Outline,Facial Hair B Outline,鬍子 B 輪廓,True
+Glove >>,Glove >>,手套 >>,True
+Glove >> Outline,Glove >> Outline,手套 >> 輪廓,True
+Glove <<,Glove <<,手套 <<,True
+Glove << Outline,Glove << Outline,手套 << 輪廓,True
+Hand >>,Hand >>,手 >>,True
+Hand >> Outline,Hand >> Outline,手 >> 輪廓,True
+Hand <<,Hand <<,手 <<,True
+Hand << Outline,Hand << Outline,手 << 輪廓,True
+Gun,Gun,槍,True
+Gun Flash,Gun Flash,槍口閃光,True
+Lubricant,Lubricant,潤滑劑,True
+Megaphone,Megaphone,擴音器,True
+Nose,Nose,鼻子,True
+Piercing A >>,Piercing A >>,耳釘 A >>,True
+Piercing A >> Outline,Piercing A >> Outline,耳釘 A >> 輪廓,True
+Piercing A <<,Piercing A <<,耳釘 A <<,True
+Piercing A << Outline,Piercing A << Outline,耳釘 A << 輪廓,True
+Piercing B >>,Piercing B >>,耳釘 B >>,True
+Piercing B >> Outline,Piercing B >> Outline,耳釘 B >> 輪廓,True
+Piercing B <<,Piercing B <<,耳釘 B <<,True
+Piercing B << Outline,Piercing B << Outline,耳釘 B << 輪廓,True
+Pixel Sun Glasses,Pixel Sun Glasses,像素太陽眼鏡,True
+Pompom >>,Pompom >>,啦啦隊彩球 >>,True
+Pompom <<,Pompom <<,啦啦隊彩球 <<,True
+Spray,Spray,噴霧,True
+Sticker Light Bulb,Sticker Light Bulb,表情貼紙 燈泡,True
+Sticker Loading,Sticker Loading,表情貼紙 載入中,True
+Sunglasses,Sunglasses,太陽眼鏡,True
+Sunglasses Reflection,Sunglasses Reflection,太陽眼鏡 反光,True
+Tape,Tape,膠帶,True
+Toilet,Toilet,馬桶,True
+Trash Bin,Trash Bin,垃圾桶,True
+Wave Hand,Wave Hand,揮手 手,True
+Swatter,Swatter,蒼蠅拍,True
+Hair Ponytail,Hair Ponytail,頭髮 馬尾,True
+Hair Ponytail Outline,Hair Ponytail Outline,頭髮 馬尾 輪廓,True
+Eyepatch,Eyepatch,眼罩,True
+Eyepatch Outline,Eyepatch Outline,眼罩 輪廓,True
+Number Six,Number Six,數字 6,True
+Number Seven,Number Seven,數字 7,True
+Cheese,Cheese,起司,True
+Electric Fan,Electric Fan,電風扇,True
+Electric Fan Blades,Electric Fan Blades,電風扇 扇葉,True
+Flame Inner Layer,Flame Inner Layer,火焰 內層,True
+Flame Outer Layer,Flame Outer Layer,火焰 外層,True
+FoldingFan1,Folding Fan 1,折扇 1,True
+FoldingFan2,Folding Fan 2,折扇 2,True
+Guitar Color 1,Guitar Color 1,吉他 顏色 1,True
+Guitar Color 2,Guitar Color 2,吉他 顏色 2,True
+Guitar Color 3,Guitar Color 3,吉他 顏色 3,True
+Guitar Outline, Guitar Outline,吉他 輪廓,True
+Slipper,Slipper,拖鞋,True
+Stool,Stool,凳子,True
+Wink Star,Wink Star,眨眼 星星,True
+Cup Liquid,Cup Liquid,杯中液體,True
+Interact Hand,Interact Hand,互動手,True
+Progress Bar Container,Progress Bar Container,進度條 外框,True
+Progress Bar Fill,Progress Bar Fill,進度條 填充,True

@@ -21,9 +21,9 @@ MainMenu.Editor.Color,Color,顏色,True
 MainMenu.Editor.TintColor,TintColor,淺色,True
 MainMenu.Editor.TintBlackColor,TintBlackColor,深色,True
 MainMenu.Editor.LICENSE,LICENSE,使用條款,True
-MainMenu.Editor.AssetTypeAA,Built-in,內建模型,False
-MainMenu.Editor.AssetTypeSA,Third-Party,第三方模型,False
-MainMenu.Editor.UnloadCurrentModel,Unload Current Model,關閉當前模型,True
+MainMenu.Editor.AssetTypeAA,Built-in,內建模型,True
+MainMenu.Editor.AssetTypeSA,Third-Party,第三方模型,True
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,關閉目前模型,True
 MainMenu.Settings.GeneralSettings,General Settings,一般設定,True
 MainMenu.Settings.GeneralSettings.Language,Language,語言,True
 MainMenu.Settings.ViewportSettings,Viewport Settings,視窗設定,True
@@ -47,30 +47,30 @@ MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,使用顏色�
 MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,重置匯出設定,True
 MainMenu.Editor.Export,Export Emote,匯出動畫,True
 LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,許可資訊由模型作者提供。僅作展示，不代表 EmoteLab 開發者立場。,True
-LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",該第三方模型的作者未隨模型提供許可協議或使用說明。在將該模型用於公開、商業或專業場景前，建議您自行與模型作者確認其允許的使用範圍。,False
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",該第三方模型的作者未隨模型提供許可協議或使用說明。在將該模型用於公開、商業或專業場景前，建議您自行與模型作者確認其允許的使用範圍。,True
 LicensePopup.Close,Close,關閉,True
 MainMenu.Editor.OpenExportFolder,Open Export Folder,開啟匯出資料夾,True
 MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,載入內建模型角色示例,True
 MainMenu.Settings.ModelSettings,Model Settings,模型設定,True
-MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,儲存角色資料,True
-MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,載入角色,True
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,正在儲存角色資料...,True
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,正在載入角色...,True
 MainMenu.Info.ThirdPartyLicense,Third Party Licenses,第三方授權許可,True
 MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),終端使用者許可協議（EULA）,True
 MainMenu.Info.Documentation,Documentation,幫助文件,True
 MainMenu.Info.Discord,Join Our Discord,加入我們的Discord,True
-MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",此預設會設定正確的格式和尺寸。過長的動畫可能會超出平臺檔案大小限制，某些內容可能不被特定平臺允許。,True
-MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,開啟本地模型資料夾,True
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.",此預設會設定正確的格式和尺寸。過長的動畫可能會超出平台檔案大小限制，某些內容可能不被特定平台允許。,True
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,開啟本機模型資料夾,True
 MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,開啟角色資料夾,True
 MainMenu.Info.Log,Open Log Folder,開啟程式執行日誌,True
 MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,使用全域顏色表,True
 MainMenu.Editor.ExportStatic,Export Static Image,匯出靜態圖片,True
 MainMenu.Editor.Player.Speed,Speed,播放速度,True
 MainMenu.Settings.StaticImageSettings,Static Image Settings,靜態圖片匯出設定,True
-MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,重置靜態圖片匯出設定,True
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,重設靜態圖片匯出設定,True
 MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,取樣頻率,True
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,這個選項允許您在內建貼圖和自訂貼圖間切換。,True
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,編輯自訂貼圖資料夾中的PNG影像，保留透明度儲存且不要改變尺寸。,True
-MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",編輯完成後，點選此按鈕應用修改。,True
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",編輯完成後，點選此按鈕套用修改。,True
 MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,儲存您的角色。儲存按鈕在左側角色列表下方。,True
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,請在使用前完整閱讀手冊使用自訂貼圖章節。,True
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,自訂貼圖,True
@@ -78,15 +78,15 @@ MainMenu.Editor.Texture.Step1,Step 1,第一步,True
 MainMenu.Editor.Texture.Step2,Step 2,第二步,True
 MainMenu.Editor.Texture.Step3,Step 3,第三步,True
 MainMenu.Editor.Texture.Step4,Step 4,第四步,True
-MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,修復選中圖集部件邊緣,True
-MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,重置選中圖集,True
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,修復所選圖集部件邊緣,True
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,重設所選圖集,True
 MainMenu.Editor.Texture.TextureUtility,Texture Utility,貼圖工具,True
 MainMenu.Editor.Texture.SelectAll,Select All,全選,True
 MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,反選,True
 MainMenu.Editor.Texture.AtlasList,Atlas List,圖集列表,True
-MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,此操作將把所選圖集頁面重置為內建版本。未儲存的修改將會遺失且無法恢復。是否繼續？,True
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,此操作將把所選圖集頁面重設為內建版本。未儲存的修改將會遺失且無法恢復。是否繼續？,True
 MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,調色盤演算法,True
-MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,操作會修改並覆蓋選中的 PNG 圖集檔案以修復白邊。此操作無法撤銷，是否繼續？,True
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,此操作會修改並覆蓋所選的 PNG 圖集檔案以修復白邊。此操作無法復原，是否繼續？,True
 MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
 
 You can change the language in Settings.
@@ -99,122 +99,122 @@ Want to contribute? Join us on {1}.","部分語言由社群翻譯或由機器翻
 
 請在{0}上查看我們的社群貢獻者。
 
-想要參與？歡迎透過{1}加入我們。",False
-MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,GitHub 上的社群貢獻者,False
-MainMenu.TranslationInfo.DontShowAgain,Don't show this again,不再顯示,False
-MainMenu.Editor.AssetTypeWS,Workshop,工作坊,False
-MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,將模型發佈到Workshop,False
-MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,將角色發佈到創意工坊,False
-MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,上傳方式,False
-MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,建立新專案,False
-MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,更新現有項目,False
-MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,要更新的項目,False
-MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,標題,False
-MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,描述,False
-MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,能見度,False
-MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,民眾,False
-MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,僅限朋友,False
-MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,私人的,False
-MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,未上市,False
-MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,更改備註,False
-MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),必需項目（PublishedFileIds）,False
-MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),預覽影像（PNG/JPG 路徑）,False
-MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,發布,False
-MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,取消,False
-MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(載入中...),False
-MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),（沒有發表過的文章）,False
-MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),（蒸氣未準備好）,False
-MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,正在等待 Steam 元數據...,False
-MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,選擇要更新的已發布創意工坊專案。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,標題為必填項。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,發布前修復預覽影像。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,正在創建創意工坊專案...,False
-MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,正在上傳創意工坊專案...,False
-MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,未找到預覽圖像檔案。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.",預覽影像必須是 PNG、JPG 或 GIF。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,預覽影像必須為 1 MB 或更小（目前為 {0} KB）。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},無法讀取預覽影像：{0},False
-MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,無法解碼預覽影像。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},所需的 PublishedFileId 無效：{0},False
-MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam 未初始化。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},上傳的創意工坊專案：{0},False
-MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,發布暫存文件已修改。關閉此對話框並再次發布。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,正在驗證所需的創意工坊物品...,False
-MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,無法驗證所需的創意工坊物品。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,找不到或無法存取創意工坊項目 {0}。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,創意工坊專案 {0} 不屬於此應用程式。,False
-MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},視窗捕獲失敗：{0},False
-MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,從視窗捕獲的預覽。,False
-MainMenu.Editor.FileNameValidation.Label.Character,Character name,角色名稱,False
-MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,場景名稱,False
-MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,場景清單名稱,False
-MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} 不能為空。,False
-MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} 不能超過 {1} 個字元。,False
-MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} 不能包含「{1}」。,False
-MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,“{1}”是保留名稱，不能使用。,False
-MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,「{1}」已保留，不能用作 {0}。,False
-MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} 不能以點結尾。,False
-MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,清單中已存在具有此名稱的 {0}。,False
-MainMenu.Editor.Confirmation.Label.Character,Character,角色,False
-MainMenu.Editor.Confirmation.Label.Scene,Scene,場景,False
-MainMenu.Editor.Confirmation.Label.SceneList,Scene list,場景列表,False
-MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.",您確定要刪除 {0}“{1}”嗎？此操作無法撤銷。,False
-MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.",{0}“{1}”已存在。您確定要覆蓋 {0}“{1}”嗎？此操作無法撤銷。,False
-MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?",選擇了 {0}“{1}”。覆蓋它還是建立一個新條目？,False
-MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,覆蓋,False
-MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,新建,False
-MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?",{0}「{1}」有未儲存的變更。在繼續之前應用變更？,False
-MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,應用,False
-MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,丟棄,False
-MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,此 {0} 尚未儲存。繼續之前儲存嗎？,False
-MainMenu.Editor.UnsavedNewConfirmation.Save,Save,儲存,False
-MainMenu.Editor.Layers,Layers,層數,False
-MainMenu.Editor.LayerProperties,Properties,特性,False
-MainMenu.Editor.ModelProperties,Model Properties,模型屬性,False
-MainMenu.Editor.TextProperty.Text,Text,文字,False
-MainMenu.Editor.TextProperty.Font,Font,字體,False
-MainMenu.Editor.TextProperty.Size,Size,尺寸,False
-MainMenu.Editor.TextProperty.PositionX,Position X,位置 X,False
-MainMenu.Editor.TextProperty.PositionY,Position Y,位置 Y,False
-MainMenu.Editor.TextProperty.Rotation,Rotation,旋轉,False
-MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,字元間距,False
-MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,行距,False
-MainMenu.Editor.TextProperty.Outline,Outline,大綱,False
-MainMenu.Editor.TextProperty.OutlineThickness,Thickness,厚度,False
-MainMenu.Editor.TextProperty.Underlay,Underlay,底層,False
-MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,擴張,False
-MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,偏移 X,False
-MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,偏移 Y,False
-MainMenu.Editor.LayerType.Model,Model,模型,False
-MainMenu.Editor.LayerType.Image,Image,影像,False
-MainMenu.Editor.LayerType.Text,Text,文字,False
-MainMenu.Editor.Playback,Playback,回放,False
-MainMenu.Editor.SceneList,Scene List,場景列表,False
-MainMenu.Editor.Scenes,Scenes,場景,False
-MainMenu.Editor.ExportAllScenes,Export All Scenes,匯出所有場景,False
-MainMenu.Editor.SceneListExport.Title,Exporting scene list,匯出場景列表,False
-MainMenu.Editor.SceneListExport.Preparing,Preparing export...,正在準備匯出...,False
-MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},導出 {0}/{1}：{2},False
-MainMenu.Editor.SceneListExport.Failed,Export failed,匯出失敗,False
-MainMenu.Editor.SceneListExport.Finished,Export finished,匯出完成,False
-MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,出口取消,False
-MainMenu.Editor.SceneListExport.Complete,Export complete,匯出完成,False
-MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,匯出完成！,False
-MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).",匯出已取消（已匯出 {0}/{1}，{2} 失敗）。,False
-MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).",匯出完成（已匯出 {0}/{1}，{2} 失敗）。,False
-MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).",匯出完成（已匯出 {0}/{1}，{2} 失敗）。,False
-MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},錯誤：{0},False
-MainMenu.Editor.OpenExportLocation,Open Export Location,打開匯出位置,False
-MainMenu.Editor.CameraProperties,Camera Properties,相機屬性,False
-MainMenu.Editor.CameraProperty.PositionX,Position X,位置 X,False
-MainMenu.Editor.CameraProperty.PositionY,Position Y,位置 Y,False
-MainMenu.Editor.CameraProperty.Size,Size,尺寸,False
-MainMenu.Editor.CameraProperty.Rotation,Rotation,旋轉,False
-MainMenu.Editor.ModelProperty.Mirror,Mirror,鏡子,False
-MainMenu.Editor.ModelProperty.Outline,Outline,大綱,False
-MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,厚度,False
-MainMenu.Settings.ExportSettings.Quality,Quality,品質,False
-MainMenu.Settings.ExportSettings.LoopCount,Loop Count,循環計數,False
-MainMenu.Settings.ExportSettings.Lossless,Lossless,無損,False
-MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",啟用無損後，更高的品質意味著更小的檔案和更慢的編碼。看起來還是一樣。關閉無損後，更高的品質意味著更好的外觀和更大的文件。,False
-MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,動畫重複多少次。 0 = 永遠循環。,False
+想要參與？歡迎透過{1}加入我們。",True
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,GitHub 上的社群貢獻者,True
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,不再顯示,True
+MainMenu.Editor.AssetTypeWS,Workshop,工作坊,True
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,將模型發佈到工作坊,True
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,將角色發佈到工作坊,True
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,上傳模式,True
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,建立新項目,True
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,更新現有項目,True
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,要更新的項目,True
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,標題,True
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,描述,True
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,公開範圍,True
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,公開,True
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,僅限好友,True
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,私人,True
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,非公開,True
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,更新備註,True
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),必要項目（PublishedFileIds）,True
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),預覽圖片（PNG/JPG 路徑）,True
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,發布,True
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,取消,True
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),（載入中...）,True
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),（無已發布項目）,True
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),（Steam 尚未就緒）,True
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,正在等待 Steam 中繼資料...,True
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,請選擇要更新的已發布工作坊項目。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,標題為必填項目。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,請在發布前修正預覽圖片。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,正在建立工作坊項目...,True
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,正在上傳工作坊項目...,True
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,找不到預覽圖片檔案。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.",預覽圖片格式必須為 PNG、JPG 或 GIF。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,預覽圖片大小必須在 1 MB 以內（目前為 {0} KB）。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},無法讀取預覽圖片：{0},True
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,無法解碼預覽圖片。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},必要的 PublishedFileId 無效：{0},True
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam 尚未初始化。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},工作坊項目已上傳：{0},True
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,發布暫存檔案已變更。請關閉此對話框後重新發布。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,正在驗證必要的工作坊項目...,True
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,無法驗證必要的工作坊項目。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,找不到工作坊項目 {0} 或無法存取。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,工作坊項目 {0} 不屬於此應用程式。,True
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},視窗畫面擷取失敗：{0},True
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,已從視窗畫面擷取預覽。,True
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,角色名稱,True
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,場景名稱,True
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,場景清單名稱,True
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} 不能為空。,True
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} 不能超過 {1} 個字元。,True
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} 不能包含「{1}」。,True
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,「{1}」是保留名稱，不能使用。,True
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,「{1}」是保留名稱，不能用作 {0}。,True
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} 不能以點結尾。,True
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,清單中已存在相同名稱的 {0}。,True
+MainMenu.Editor.Confirmation.Label.Character,Character,角色,True
+MainMenu.Editor.Confirmation.Label.Scene,Scene,場景,True
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,場景清單,True
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.",您確定要刪除 {0}「{1}」嗎？此操作無法復原。,True
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.",{0}「{1}」已存在。您確定要覆蓋 {0}「{1}」嗎？此操作無法復原。,True
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?",已選取 {0}「{1}」。要覆蓋它還是建立新項目？,True
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,覆蓋,True
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,建立新項目,True
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?",{0}「{1}」有未儲存的變更。是否在繼續之前套用？,True
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,套用,True
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,捨棄,True
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,此 {0} 尚未儲存。是否在繼續之前儲存？,True
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,儲存,True
+MainMenu.Editor.Layers,Layers,圖層,True
+MainMenu.Editor.LayerProperties,Properties,屬性,True
+MainMenu.Editor.ModelProperties,Model Properties,模型屬性,True
+MainMenu.Editor.TextProperty.Text,Text,文字,True
+MainMenu.Editor.TextProperty.Font,Font,字型,True
+MainMenu.Editor.TextProperty.Size,Size,大小,True
+MainMenu.Editor.TextProperty.PositionX,Position X,位置 X,True
+MainMenu.Editor.TextProperty.PositionY,Position Y,位置 Y,True
+MainMenu.Editor.TextProperty.Rotation,Rotation,旋轉,True
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,字元間距,True
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,行距,True
+MainMenu.Editor.TextProperty.Outline,Outline,外框,True
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,粗細,True
+MainMenu.Editor.TextProperty.Underlay,Underlay,底影,True
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,擴張,True
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,偏移 X,True
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,偏移 Y,True
+MainMenu.Editor.LayerType.Model,Model,模型,True
+MainMenu.Editor.LayerType.Image,Image,圖片,True
+MainMenu.Editor.LayerType.Text,Text,文字,True
+MainMenu.Editor.Playback,Playback,播放,True
+MainMenu.Editor.SceneList,Scene List,場景清單,True
+MainMenu.Editor.Scenes,Scenes,場景,True
+MainMenu.Editor.ExportAllScenes,Export All Scenes,匯出所有場景,True
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,匯出場景清單,True
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,正在準備匯出...,True
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},正在匯出 {0}/{1}：{2},True
+MainMenu.Editor.SceneListExport.Failed,Export failed,匯出失敗,True
+MainMenu.Editor.SceneListExport.Finished,Export finished,匯出完成,True
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,匯出已取消,True
+MainMenu.Editor.SceneListExport.Complete,Export complete,匯出完成,True
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,匯出完成！,True
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).",匯出已取消（已匯出 {0}/{1}，{2} 項失敗）。,True
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).",匯出已取消（已匯出 {0}/{1}，{2} 項失敗）。,True
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).",匯出完成（已匯出 {0}/{1}，{2} 項失敗）。,True
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},錯誤：{0},True
+MainMenu.Editor.OpenExportLocation,Open Export Location,開啟匯出位置,True
+MainMenu.Editor.CameraProperties,Camera Properties,攝影機屬性,True
+MainMenu.Editor.CameraProperty.PositionX,Position X,位置 X,True
+MainMenu.Editor.CameraProperty.PositionY,Position Y,位置 Y,True
+MainMenu.Editor.CameraProperty.Size,Size,大小,True
+MainMenu.Editor.CameraProperty.Rotation,Rotation,旋轉,True
+MainMenu.Editor.ModelProperty.Mirror,Mirror,鏡射,True
+MainMenu.Editor.ModelProperty.Outline,Outline,輪廓,True
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,粗細,True
+MainMenu.Settings.ExportSettings.Quality,Quality,品質,True
+MainMenu.Settings.ExportSettings.LoopCount,Loop Count,循環次數,True
+MainMenu.Settings.ExportSettings.Lossless,Lossless,無損,True
+MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",開啟無損時，品質越高代表檔案越小、編碼速度越慢，但畫面外觀相同。關閉無損時，品質越高代表畫面越好、檔案越大。,True
+MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,動畫重複播放的次數。0 代表無限循環。,True
