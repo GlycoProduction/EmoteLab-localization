@@ -89,7 +89,7 @@ Love Letter,Love Letter,情書,True
 Need Food,Need Food,求餵食,True
 PNGTuber Idle,PNGTuber Idle,PNGTuber 閒置,True
 PNGTuber Idle 2,PNGTuber Idle 2,PNGTuber 閒置 2,True
-PNGTuber Loading,PNGTuber Loading,PNGTuber 載入中,False
+PNGTuber Loading,PNGTuber Loading,PNGTuber 載入中,True
 PNGTuber Talk,PNGTuber Talk,PNGTuber 說話,True
 PNGTuber Talk 2,PNGTuber Talk 2,PNGTuber 說話 2,True
 PNGTuber Yap,PNGTuber Yap,PNGTuber 說教,True
@@ -98,95 +98,95 @@ Popcat Smooth,Popcat Smooth,Popcat 平滑,True
 Sing,Sing,唱歌,True
 Tablet,Tablet,繪圖板,True
 Tail Wag,Tail Wag,雨刷尾巴,True
-Bug,Bug,Bug,False
-Cheer,Cheer,加油,False
-Easter,Easter,復活節,False
-Gun,Gun,槍,False
-Idea,Idea,主意,False
-Megaphone,Megaphone,擴音器,False
-Paid Break (Easy Mode),Paid Break (Easy Mode),帶薪拉屎(簡單模式),False
-Paid Break (Hard Mode),Paid Break (Hard Mode),帶薪拉屎(困難模式),False
-Spray,Spray,噴劑,False
-Stops Working,Stops Working,停止工作,False
-Sunglasses Gleam,Sunglasses Gleam,墨鏡反光,False
-Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,畫素墨鏡反光,False
-Sunglasses Remove,Sunglasses Remove,摘掉墨鏡,False
-Swatter,Swatter,拍蠅,False
-Tape,Tape,膠帶,False
-Trash Bin,Trash Bin,垃圾桶,False
-TrashTuber Idle,TrashTuber Idle,TrashTuber 閒置,False
-TrashTuber Talk,TrashTuber Talk,TrashTuber 說話,False
-TrashTuber Yap,TrashTuber Yap,TrashTuber 說教,False
-Cheers,Cheers,乾杯,False
-Dance 1,Dance 1,跳舞 1,False
-Dance (Caramelldansen),Dance (Caramelldansen),跳舞 (Caramelldansen),False
-Dance (Helltaker),Dance (Helltaker),跳舞(Helltaker),False
-Dance (Low Cortisol),Dance (Low Cortisol),跳舞(低皮質醇),False
-Eat (Donut),Eat (Donut),喫(甜甜圈),False
-Eat (Popcorn),Eat (Popcorn),喫(爆米花),False
-Eat (Watermelon),Eat (Watermelon),喫(西瓜),False
-Game,Game,打遊戲,False
-Greeting 1,Greeting 1,打招呼 1,False
-Greeting 2,Greeting 2,打招呼 2,False
-Sparkling 1,Sparkling 1,期待 1,False
-Sparkling 2,Sparkling 2,期待 2,False
-Think (Confident),Think (Confident),思考（自信地）,False
-Think (Serious),Think (Serious),思考（認真地）,False
-Alert Custom,Alert Custom,警報自訂,False
-Button,Button,按鈕,False
-Card Swipe,Card Swipe,刷卡,False
-Coke Shake,Coke Shake,可樂奶昔,False
-Dance (Scuba),Dance (Scuba),舞蹈（水肺）,False
-Gift 1,Gift 1,禮物1,False
-Gift 2,Gift 2,禮物2,False
-Magic,Magic,魔法,False
-Reverse,Reverse,反向,False
-Scared 1,Scared 1,害怕 1,False
-Scared 2,Scared 2,害怕2,False
-Six Seven,Six Seven,六七,False
-Six Seven (Dum),Six Seven (Dum),六七（達姆）,False
-Take My Money,Take My Money,拿走我的錢,False
-Cheese Slap,Cheese Slap,起司拍打,False
-Clown 1,Clown 1,小丑1,False
-Clown 2,Clown 2,小丑2,False
-Electric Fan 1,Electric Fan 1,電風扇1,False
-Electric Fan 2,Electric Fan 2,電風扇2,False
-Fire 1,Fire 1,火1,False
-Fire 2,Fire 2,火2,False
-Folding Fans,Folding Fans,折扇,False
-Get Hit (Bits),Get Hit (Bits),受到打擊（位）,False
-Get Hit (Coin),Get Hit (Coin),被擊中（金幣）,False
-Get Hit (Custom),Get Hit (Custom),受到打擊（自訂）,False
-Get Hit (Heart),Get Hit (Heart),受到打擊（心）,False
-Get Hit (Slipper),Get Hit (Slipper),被擊中（拖鞋）,False
-Guitar,Guitar,吉他,False
-Slipper 1,Slipper 1,拖鞋1,False
-Slipper 2,Slipper 2,拖鞋2,False
-Sunglasses Loop,Sunglasses Loop,墨鏡環,False
-This Is Fine 1,This Is Fine 1,這很好 1,False
-This Is Fine 2,This Is Fine 2,這很好2,False
-This Is Fine 3,This Is Fine 3,這很好 3,False
-Wink,Wink,眨眼,False
-Blep 1,Blep 1,貝爾普 1,False
-Blep 2,Blep 2,貝爾普2,False
-Blep 3,Blep 3,貝爾普 3,False
-Blep 4,Blep 4,貝爾普 4,False
-Boop,Boop,布普,False
-Button (Punch),Button (Punch),按鈕（沖頭）,False
-Cheek Squeeze,Cheek Squeeze,捏臉頰,False
-Gift 3,Gift 3,禮物3,False
-Loading (Cup),Loading (Cup),裝載（杯）,False
-Loading (Mug),Loading (Mug),裝載（杯子）,False
-Loading (Sleep),Loading (Sleep),載入（睡眠）,False
-Pat 2,Pat 2,拍2,False
-Press,Press,按,False
-Rub 1,Rub 1,擦1,False
-Cut (Scissors),Cut (Scissors),剪（剪刀）,False
-Tea 1,Tea 1,茶1,False
-Tea 2,Tea 2,茶2,False
-Tea 3,Tea 3,茶3,False
-This Is Fine 4,This Is Fine 4,這很好 4,False
-This Is Fine 5,This Is Fine 5,這很好 5,False
-This Is Fine 6,This Is Fine 6,這很好 6,False
-Trophy 1,Trophy 1,獎杯1,False
-Yay,Yay,耶,False
+Bug,Bug,Bug,True
+Cheer,Cheer,加油,True
+Easter,Easter,復活節,True
+Gun,Gun,槍,True
+Idea,Idea,主意,True
+Megaphone,Megaphone,擴音器,True
+Paid Break (Easy Mode),Paid Break (Easy Mode),帶薪拉屎(簡單模式),True
+Paid Break (Hard Mode),Paid Break (Hard Mode),帶薪拉屎(困難模式),True
+Spray,Spray,噴劑,True
+Stops Working,Stops Working,停止工作,True
+Sunglasses Gleam,Sunglasses Gleam,墨鏡反光,True
+Sunglasses Pixel Gleam,Sunglasses Pixel Gleam,像素墨鏡反光,True
+Sunglasses Remove,Sunglasses Remove,拿下墨鏡,True
+Swatter,Swatter,蒼蠅拍,True
+Tape,Tape,膠帶,True
+Trash Bin,Trash Bin,垃圾桶,True
+TrashTuber Idle,TrashTuber Idle,TrashTuber 閒置,True
+TrashTuber Talk,TrashTuber Talk,TrashTuber 說話,True
+TrashTuber Yap,TrashTuber Yap,TrashTuber 說教,True
+Cheers,Cheers,乾杯,True
+Dance 1,Dance 1,跳舞 1,True
+Dance (Caramelldansen),Dance (Caramelldansen),跳舞 (Caramelldansen),True
+Dance (Helltaker),Dance (Helltaker),跳舞(Helltaker),True
+Dance (Low Cortisol),Dance (Low Cortisol),跳舞(低皮質醇),True
+Eat (Donut),Eat (Donut),吃(甜甜圈),True
+Eat (Popcorn),Eat (Popcorn),吃(爆米花),True
+Eat (Watermelon),Eat (Watermelon),吃(西瓜),True
+Game,Game,打遊戲,True
+Greeting 1,Greeting 1,打招呼 1,True
+Greeting 2,Greeting 2,打招呼 2,True
+Sparkling 1,Sparkling 1,期待 1,True
+Sparkling 2,Sparkling 2,期待 2,True
+Think (Confident),Think (Confident),思考（自信地）,True
+Think (Serious),Think (Serious),思考（認真地）,True
+Alert Custom,Alert Custom,通知/提示 自訂,True
+Button,Button,按鈕,True
+Card Swipe,Card Swipe,刷卡,True
+Coke Shake,Coke Shake,搖可樂,True
+Dance (Scuba),Dance (Scuba),舞蹈(潛水),True
+Gift 1,Gift 1,禮物 1,True
+Gift 2,Gift 2,禮物 2,True
+Magic,Magic,魔法,True
+Reverse,Reverse,反轉,True
+Scared 1,Scared 1,害怕 1,True
+Scared 2,Scared 2,害怕 2,True
+Six Seven,Six Seven,六七,True
+Six Seven (Dum),Six Seven (Dum),六七(呆),True
+Take My Money,Take My Money,拿走我的錢,True
+Cheese Slap,Cheese Slap,起司糊臉,True
+Clown 1,Clown 1,小丑 1,True
+Clown 2,Clown 2,小丑 2,True
+Electric Fan 1,Electric Fan 1,電風扇 1,True
+Electric Fan 2,Electric Fan 2,電風扇 2,True
+Fire 1,Fire 1,著火 1,True
+Fire 2,Fire 2,著火 2,True
+Folding Fans,Folding Fans,折扇,True
+Get Hit (Bits),Get Hit (Bits),被擊中(Bits),True
+Get Hit (Coin),Get Hit (Coin),被擊中(硬幣),True
+Get Hit (Custom),Get Hit (Custom),被擊中(自訂),True
+Get Hit (Heart),Get Hit (Heart),被擊中(愛心),True
+Get Hit (Slipper),Get Hit (Slipper),被擊中(拖鞋),True
+Guitar,Guitar,吉他,True
+Slipper 1,Slipper 1,拖鞋 1,True
+Slipper 2,Slipper 2,拖鞋 2,True
+Sunglasses Loop,Sunglasses Loop,墨鏡循環,True
+This Is Fine 1,This Is Fine 1,一切都好 1,True
+This Is Fine 2,This Is Fine 2,一切都好 2,True
+This Is Fine 3,This Is Fine 3,一切都好 3,True
+Wink,Wink,眨眼,True
+Blep 1,Blep 1,吐舌 1,True
+Blep 2,Blep 2,吐舌 2,True
+Blep 3,Blep 3,吐舌 3,True
+Blep 4,Blep 4,吐舌 4,True
+Boop,Boop,戳鼻子,True
+Button (Punch),Button (Punch),按鈕(搥擊),True
+Cheek Squeeze,Cheek Squeeze,捏臉頰,True
+Gift 3,Gift 3,禮物 3,True
+Loading (Cup),Loading (Cup),載入中(咖啡杯),True
+Loading (Mug),Loading (Mug),載入中(馬克杯),True
+Loading (Sleep),Loading (Sleep),載入中(睡覺),True
+Pat 2,Pat 2,摸頭 2,True
+Press,Press,按,True
+Rub 1,Rub 1,揉頭 1,True
+Cut (Scissors),Cut (Scissors),剪(剪刀),True
+Tea 1,Tea 1,茶 1,True
+Tea 2,Tea 2,茶 2,True
+Tea 3,Tea 3,茶 3,True
+This Is Fine 4,This Is Fine 4,一切都好 4,True
+This Is Fine 5,This Is Fine 5,一切都好 5,True
+This Is Fine 6,This Is Fine 6,一切都好 6,True
+Trophy 1,Trophy 1,獎盃 1,True
+Yay,Yay,耶,True
