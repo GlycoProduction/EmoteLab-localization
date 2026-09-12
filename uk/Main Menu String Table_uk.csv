@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Частота ди�
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Цей перемикач дозволяє перемикатися між внутрішньою та спеціальною текстурою,False
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Відредагуйте файли PNG у папці Custom Texture. Зберігайте з прозорістю та не змінюйте розмір зображення,False
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","Після збереження змін натисніть цю кнопку, щоб застосувати зміни до моделі.",False
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Збережіть свого персонажа. Кнопка збереження розташована під списком символів у лівій частині інтерфейсу.,False
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.","Збережіть персонажа після редагування. Коли ввімкнено параметр «Лише використані текстури», зберігаються лише області, які використовує поточний персонаж. Вимкніть, щоб зберегти всі регіони.",False
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,"Перш ніж використовувати цю функцію, прочитайте посібник «Використання власних текстур».",False
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,Спеціальна текстура,False
 MainMenu.Editor.Texture.Step1,Step 1,Крок 1,False
@@ -268,3 +268,11 @@ MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this i
 MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Не вдалося скасувати підписку на цей елемент.,False
 MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Підписався.,False
 MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Скасував підписку. Елемент буде видалено Steam.,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,Автоматичне оновлення,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,Тільки використані текстури,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,Резервне копіювання спеціальної текстури,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,Увімкнути резервне копіювання,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Інтервал (хвилини),False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Максимальна кількість копій,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Відкрийте резервну папку,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Очистити кеш текстур,False

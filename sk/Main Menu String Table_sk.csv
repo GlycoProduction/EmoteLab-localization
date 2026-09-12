@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Vzorkovacia frekvenc
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Tento prepínač umožňuje prepínať medzi vnútornou a vlastnou textúrou,False
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Upravte súbory PNG v priečinku Custom Texture. Uložte s priehľadnosťou a nemeňte veľkosť obrázka,False
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",Po uložení úprav kliknutím na toto tlačidlo aplikujte zmeny na svoj model.,False
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Zachráňte svoju postavu. Tlačidlo uloženia sa nachádza pod zoznamom znakov na ľavej strane rozhrania.,False
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.","Po úprave uložte svoju postavu. Keď je zapnutá možnosť „Len použité textúry“, ukladajú sa iba oblasti, ktoré používa aktuálna postava. Vypnutím uložíte všetky regióny.",False
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Pred použitím tejto funkcie si prečítajte príručku Používanie vlastných textúr.,False
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,Vlastná textúra,False
 MainMenu.Editor.Texture.Step1,Step 1,Krok 1,False
@@ -268,3 +268,11 @@ MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this i
 MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Nepodarilo sa zrušiť odber tejto položky.,False
 MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Prihlásené na odber.,False
 MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Zrušený odber. Položka bude odstránená službou Steam.,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,Automatická aktualizácia,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,Iba použité textúry,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,Vlastná záloha textúr,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,Povoliť zálohovanie,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Interval (minúty),False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Maximálny počet kópií,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Otvorte priečinok zálohy,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Vymazať vyrovnávaciu pamäť textúr,False

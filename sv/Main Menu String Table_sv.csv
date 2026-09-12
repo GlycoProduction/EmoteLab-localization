@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Samplingsfrekvens,Fa
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Denna växling låter dig växla mellan den interna och den anpassade texturen,False
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Redigera PNG:erna i mappen Custom Texture. Spara med genomskinlighet och ändra inte bildstorleken,False
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",När du har sparat dina ändringar klickar du på den här knappen för att tillämpa ändringarna på din modell.,False
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Rädda din karaktär. Spara-knappen finns under teckenlistan på vänster sida av gränssnittet.,False
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.","Save your character after edit. När ""Endast använda texturer"" är på, spara endast regioner som används av det aktuella tecknet. Turn off to save every regions.",False
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Läs manualen Använda anpassade texturer innan du använder den här funktionen.,False
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,Anpassad textur,False
 MainMenu.Editor.Texture.Step1,Step 1,Steg 1,False
@@ -268,3 +268,11 @@ MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this i
 MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Det gick inte att avsluta prenumerationen på det här objektet.,False
 MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Prenumererade.,False
 MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Avslutad prenumeration. Objektet kommer att tas bort av Steam.,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,Automatisk uppdatering,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,Endast använda texturer,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,Backup av anpassad textur,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,Aktivera säkerhetskopiering,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Intervall (minuter),False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Maximalt antal kopior,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Öppna Säkerhetskopieringsmapp,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Rensa texturcache,False

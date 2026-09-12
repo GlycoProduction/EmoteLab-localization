@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,取样频率,True
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,这个选项允许您在内置贴图和自定义贴图间切换。,True
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,编辑自定义贴图文件夹中的PNG图像，保留透明度保存且不要改变尺寸。,True
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",编辑完成后，点击此按钮应用修改。,True
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,保存您的角色。保存按钮在左侧角色列表下方。,True
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.",编辑后保存您的角色。当“仅使用的贴图”打开时，仅保存当前角色使用的贴图区域。关闭以保存每个区域。,True
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,请在使用前完整阅读手册使用自定义贴图章节。,True
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,自定义贴图,True
 MainMenu.Editor.Texture.Step1,Step 1,第一步,True
@@ -268,3 +268,11 @@ MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this i
 MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,无法取消订阅此物品。,True
 MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,已订阅。,True
 MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,已取消订阅，该物品将被Steam移除。,True
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,自动更新,True
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,仅使用的贴图,True
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,自定义贴图备份,True
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,启用备份,True
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),间隔（分钟）,True
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,最大备份数量,True
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,打开备份文件夹,True
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,清除贴图缓存,True

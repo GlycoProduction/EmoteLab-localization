@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Örnekleme Oranı,Tr
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,"Bu ayar, uygulama içinde bulunan ve özel olarak eklenen dokular arasında geçiş yapmanızı sağlar",True
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,PNG'leri Özel Doku dosyasında düzenleyin. Transparant olarak resmi kaydedin ve yüksekliğini/genişliğini değiştirmeyin,True
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",Düzenlemeniz bittikten sonra bu tuşa basıp değişikliklerin modele uygulanmasını sağlayın.,True
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,"Karakterinizi kaydedin. Kaydetme tuşu arayüzün solunda, karakter listesinin altında bulunur.",True
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.",Düzenlemeden sonra karakterinizi kaydedin. 'Yalnızca kullanılan dokular' açıkken yalnızca geçerli karakterin kullandığı bölgeleri kaydedin. Her bölgeyi kaydetmek için kapatın.,False
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Lütfen bu özelliği kullanmadan önce Özel Doku Kullanma rehberini okuyun.,True
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,Özel Doku,True
 MainMenu.Editor.Texture.Step1,Step 1,Adım 1,True
@@ -268,3 +268,11 @@ MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this i
 MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Bu öğeye olan aboneliğiniz iptal edilemedi.,False
 MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Abone olundu.,False
 MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Abonelikten çıkıldı. Öğe Steam tarafından kaldırılacaktır.,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,Otomatik güncelleme,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,Yalnızca kullanılan dokular,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,Özel Doku Yedekleme,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,Yedeklemeyi Etkinleştir,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Aralık (dakika),False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Maksimum Kopya Sayısı,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Yedekleme Klasörünü Aç,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Doku Önbelleğini Temizle,False

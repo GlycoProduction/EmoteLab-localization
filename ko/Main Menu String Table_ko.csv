@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,샘플링 속도,Tru
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,이 토글을 사용하여 기본 텍스처와 커스텀 텍스처 사이를 전환할 수 있습니다.,True
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Custom Texture 폴더에서 PNG를 편집합니다. 저장 시 투명도를 유지하고 이미지 크기를 변경하지 마세요.,True
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",편집 내용을 저장한 후 이 버튼을 클릭하면 모델에 변경 사항이 적용됩니다.,True
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,캐릭터를 저장하세요. 저장 버튼은 인터페이스 왼쪽의 캐릭터 목록 아래에 있습니다.,True
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.",편집 후 캐릭터를 저장하세요. '사용된 텍스처만'이 켜져 있으면 현재 캐릭터가 사용하는 영역만 저장합니다. 모든 지역을 저장하려면 끄세요.,False
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,이 기능을 사용하기 전에 사용자 정의 텍스처 사용 매뉴얼을 읽어주세요.,True
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,사용자 정의 텍스처,True
 MainMenu.Editor.Texture.Step1,Step 1,1단계,True
@@ -268,3 +268,11 @@ MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this i
 MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,이 항목을 구독 취소하지 못했습니다.,False
 MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,구독했습니다.,False
 MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,구독을 취소했습니다. 해당 항목은 Steam에 의해 제거됩니다.,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,자동 업데이트,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,사용된 텍스처만,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,사용자 정의 텍스처 백업,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,백업 활성화,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),간격(분),False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,최대 복사본,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,백업 폴더 열기,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,텍스처 캐시 지우기,False

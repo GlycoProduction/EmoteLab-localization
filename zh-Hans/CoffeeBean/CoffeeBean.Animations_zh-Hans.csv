@@ -175,13 +175,13 @@ Boop,Boop,碰鼻子,True
 Button (Punch),Button (Punch),按钮 (拍击),True
 Cheek Squeeze,Cheek Squeeze,挤脸颊,True
 Gift 3,Gift 3,礼物 3,True
-Loading (Cup),Loading (Cup),加载（茶/咖啡杯）,True
-Loading (Mug),Loading (Mug),加载（马克杯）,True
-Loading (Sleep),Loading (Sleep),加载（睡觉）,True
+Loading (Cup),Loading (Cup),加载(茶/咖啡杯),True
+Loading (Mug),Loading (Mug),加载(马克杯),True
+Loading (Sleep),Loading (Sleep),加载(睡觉),True
 Pat 2,Pat 2,摸头 2,True
 Press,Press,按,True
 Rub 1,Rub 1,揉头 1,True
-Cut (Scissors),Cut (Scissors),切（剪刀）,True
+Cut (Scissors),Cut (Scissors),切(剪刀),True
 Tea 1,Tea 1,茶 1,True
 Tea 2,Tea 2,茶 2,True
 Tea 3,Tea 3,茶 3,True
@@ -191,20 +191,20 @@ This Is Fine 6,This Is Fine 6,一切都好 6,True
 Trophy 1,Trophy 1,胜利 1,True
 Yay,Yay,耶,True
 Blink 1, Blink 1,眨眼 1,True
-Drink (EnergyDrink1),Drink (EnergyDrink1),饮料（能量饮料1）,True
-Drink (EnergyDrink2),Drink (EnergyDrink2),饮料（能量饮料2）,True
+Drink (EnergyDrink1),Drink (EnergyDrink1),饮料(能量饮料1),True
+Drink (EnergyDrink2),Drink (EnergyDrink2),饮料(能量饮料2),True
 Hydrate,Hydrate,补水,True
-Lick (IceCream),Lick (IceCream),舔（冰淇淋）,True
-Lick (Popsicle),Lick (Popsicle),舔（棒冰）,True
+Lick (IceCream),Lick (IceCream),舔(冰淇淋),True
+Lick (Popsicle),Lick (Popsicle),舔(棒冰),True
 Music 1,Music 1,音乐 1,True
 Music 2,Music 2,音乐 2,True
 Music 3,Music 3,音乐 3,True
 Nerd 1,Nerd 1,书呆子 1,True
 Nerd 2,Nerd 2,书呆子 2,True
 Nerd 3,Nerd 3,书呆子 3,True
-Pillow (Lick),Pillow (Lick),枕头（舔）,True
-Pillow (Rub),Pillow (Rub),枕头（蹭）,True
-Pillow (Rub2),Pillow (Rub2),枕头（蹭2）,True
+Pillow (Lick),Pillow (Lick),枕头(舔),True
+Pillow (Rub),Pillow (Rub),枕头(蹭),True
+Pillow (Rub2),Pillow (Rub2),枕头(蹭2),True
 Shy 3,Shy 3,害羞 3,True
 Sparkling 3,Sparkling 3,期待 3,True
 Stop,Stop,停止,True

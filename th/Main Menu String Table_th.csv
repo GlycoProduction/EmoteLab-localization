@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Sampling Rate,True
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Toggle นี้ช่วยให้คุณสลับระหว่าง Internal Texture และ Custom Texture ได้,True
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,แก้ไขไฟล์ PNG ในโฟลเดอร์ Custom Texture และบันทึกโดยตั้งค่าความโปร่งใสไว้ โดยไม่แก้ไขขนาดของ PNG,True
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",หลังจากบันทึกการแก้ไขแล้ว ให้คลิกปุ่มนี้เพื่อปรับเปลี่ยนโมเดลของคุณตามความเปลี่ยนแปลง,True
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,บันทึกตัวละครของคุณ โดยปุ่มบันทึกจะอยู่ด้านล่างรายชื่อตัวละครทางด้านซ้ายของหน้าจอ,True
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.","บันทึกตัวละครของคุณหลังจากแก้ไข เมื่อเปิด ""พื้นผิวที่ใช้เท่านั้น"" ให้บันทึกเฉพาะขอบเขตที่ใช้โดยอักขระปัจจุบัน ปิดเพื่อบันทึกทุกภูมิภาค",False
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,โปรดอ่านคู่มือการใช้งาน Custom Texture ก่อนใช้งาน feature นี้,True
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,Custom Texture,True
 MainMenu.Editor.Texture.Step1,Step 1,ขั้นตอนที่ 1,True
@@ -268,3 +268,11 @@ MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this i
 MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,ไม่สามารถยกเลิกการสมัครรับรายการนี้,False
 MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,สมัครสมาชิกแล้ว,False
 MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,ยกเลิกการสมัคร ไอเท็มจะถูกลบออกโดย Steam,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,อัปเดตอัตโนมัติ,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,พื้นผิวที่ใช้เท่านั้น,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,การสำรองข้อมูลพื้นผิวแบบกำหนดเอง,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,เปิดใช้งานการสำรองข้อมูล,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),ช่วงเวลา (นาที),False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,สำเนาสูงสุด,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,เปิดโฟลเดอร์สำรอง,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,ล้างแคชพื้นผิว,False

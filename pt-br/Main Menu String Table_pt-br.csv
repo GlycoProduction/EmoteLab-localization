@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Taxa de Amostragem,T
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Essa opção permite você mudar entre texturas internas e customizadas,True
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Edite os PNGs na pasta de Texturas Customizadas. Salve com transparência e não modifique o tamanho da imagem ,True
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","Após salvar suas alterações, clique nesse botão para aplicar as alterações no seu modelo.",True
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Salve seu personagem. O botão de salvar está localizado abaixo da lista de personagens no canto esquerdo da interface.,True
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.","Salve seu personagem após a edição. Quando 'Somente texturas usadas' estiver ativado, salve apenas as regiões usadas pelo personagem atual. Desligue para salvar todas as regiões.",False
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Por favor leia o manual de Customização de Texturas antes de usar essa opção.,True
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,Texturas Customizadas,True
 MainMenu.Editor.Texture.Step1,Step 1,Etapa 1,True
@@ -268,3 +268,11 @@ MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this i
 MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Falha ao cancelar a assinatura deste item.,False
 MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Inscrito.,False
 MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Inscrição cancelada. O item será removido pelo Steam.,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,Atualização automática,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,Apenas texturas usadas,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,Backup de textura personalizada,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,Habilitar backup,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Intervalo (minutos),False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Máximo de cópias,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Abra a pasta de backup,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Limpar cache de textura,False

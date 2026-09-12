@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Частота вы�
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Этот переключатель позволяет переключаться между внутренней и пользовательской текстурой.,False
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Отредактируйте PNG в папке «Пользовательская текстура». Сохраняйте с прозрачностью и не изменяйте размер изображения.,False
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","После сохранения изменений нажмите эту кнопку, чтобы применить изменения к вашей модели.",False
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Сохраните своего персонажа. Кнопка сохранения расположена под списком персонажей в левой части интерфейса.,False
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.","Сохраните своего персонажа после редактирования. Когда включена опция «Только использованные текстуры», сохраняются только регионы, используемые текущим персонажем. Выключите, чтобы сохранить все регионы.",False
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Перед использованием этой функции прочтите руководство «Использование пользовательских текстур».,False
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,Пользовательская текстура,False
 MainMenu.Editor.Texture.Step1,Step 1,Шаг 1,False
@@ -268,3 +268,11 @@ MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this i
 MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Не удалось отказаться от подписки на этот товар.,False
 MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Подписался.,False
 MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Отписался. Предмет будет удален Steam.,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,Автообновление,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,Только использованные текстуры,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,Резервное копирование пользовательской текстуры,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,Включить резервное копирование,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Интервал (минуты),False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Максимальное количество копий,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Открыть папку резервного копирования,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Очистить кэш текстур,False

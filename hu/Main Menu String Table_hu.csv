@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Mintavételi sebess�
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Ezzel a kapcsolóval válthat a belső és az egyéni textúra között,False
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,"Szerkessze a PNG-ket az Egyéni textúra mappában. Mentse átlátszósággal, és ne módosítsa a képméretet",False
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","A módosítások mentése után kattintson erre a gombra, hogy alkalmazza a módosításokat a modellen.",False
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,Mentsd meg a karaktered. A mentés gomb a karakterlista alatt található a felület bal oldalán.,False
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.","Szerkesztés után mentse el karakterét. Ha a „Csak használt textúrák” be van kapcsolva, csak az aktuális karakter által használt régiókat mentse el. Kapcsolja ki az összes régió mentéséhez.",False
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,"Kérjük, olvassa el az Egyéni textúrák használata kézikönyvet a funkció használata előtt.",False
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,Egyedi textúra,False
 MainMenu.Editor.Texture.Step1,Step 1,1. lépés,False
@@ -268,3 +268,11 @@ MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this i
 MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Nem sikerült leiratkozni erről az elemről.,False
 MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Előfizetve.,False
 MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Leiratkozott. Az elemet a Steam eltávolítja.,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,Automatikus frissítés,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,Csak használt textúrák,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,Egyedi textúra biztonsági mentés,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,Biztonsági mentés engedélyezése,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Időköz (perc),False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Maximális példányszám,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Nyissa meg a Biztonsági mentés mappát,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Texture Cache törlése,False

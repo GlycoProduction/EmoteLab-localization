@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,サンプリング�
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,この操作で初期テクスチャとカスタムテクスチャを切り替えられます,True
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,Custom Textureフォルダ内のPNGを編集してください。透過状態で保存し、画像サイズは変更しないでください,True
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",編集を保存した後、このボタンを押すとモデルに変更が適用されます,True
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,キャラクターを保存してください。保存ボタンは画面左側のキャラクターリストの下にあります,True
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.",編集後、キャラクターを保存します。 「使用テクスチャのみ」がオンの場合、現在のキャラクターが使用している領域のみを保存します。すべての領域を保存するにはオフにします。,False
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,この機能を使用する前に「カスタムテクスチャの使用」マニュアルを確認してください,True
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,カスタムテクスチャ,True
 MainMenu.Editor.Texture.Step1,Step 1,ステップ 1,True
@@ -268,3 +268,11 @@ MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this i
 MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,このアイテムの購読を解除できませんでした。,False
 MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,購読しました。,False
 MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,購読を解除しました。アイテムは Steam によって削除されます。,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,自動更新,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,使用されたテクスチャのみ,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,カスタム テクスチャのバックアップ,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,バックアップを有効にする,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),間隔 (分),False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,最大コピー数,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,バックアップフォルダーを開く,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,テクスチャキャッシュのクリア,False
