@@ -293,21 +293,21 @@ CupLiquid,Cup Liquid,Cup Liquid,茶/咖啡杯 液体,杯液體,Tasse Flüssigkei
 InteractHand,Interact Hand,Interact Hand,互动手,互動手,Hand interagieren,Interactuar mano,Interagir avec la main,Interact Hand,インタラクトハンド,인터랙트 핸드,Взаимодействие с рукой,Interagir Mão,Взаємодія рук,Interagisci con la mano,โต้ตอบมือ,Etkileşim El,Interagera Hand,Interact Hand
 ProgressBarContainer,Progress Bar Container,Progress Bar Container,进度条 背景,進度條容器,Fortschrittsbalkencontainer,Contenedor de barra de progreso,Conteneur de barre de progression,Progress Bar Container,プログレスバーコンテナ,진행률 표시줄 컨테이너,Контейнер индикатора выполнения,Contêiner da barra de progresso,Контейнер індикатора прогресу,Contenitore della barra di avanzamento,คอนเทนเนอร์แถบความคืบหน้า,İlerleme Çubuğu Kabı,Progress Bar Container,Kontajner Progress Bar
 ProgressBarFill,Progress Bar Fill,Progress Bar Fill,进度条 填充,進度條填充,Fortschrittsbalken füllen,Relleno de la barra de progreso,Remplissage de la barre de progression,Folyamat sáv kitöltése,プログレスバーの塗りつぶし,진행률 표시줄 채우기,Заполнение индикатора выполнения,Preenchimento da barra de progresso,Заповнення панелі прогресу,Riempimento della barra di avanzamento,เติมแถบความคืบหน้า,İlerleme Çubuğu Doldurma,Förloppsindikator Fyll,Výplň ukazovateľa priebehu
-BeverageCanOutline,Beverag Can Outline, Beverage Can Outline,
-BeverageCanPrint,Beverage Can Print, Beverage Can Print,
-GlassesLens,Glasses Lens, Glasses Lens,
-HeadphoneEarcupLeft,Headphone Earcup >>, Headphone Earcup >>,
-HeadphoneEarcupRight,Headphone Earcup <<, Headphone Earcup <<,
-HeadphoneHeadband,Headphone Headband, Headphone Headband,
-IceCream,Ice Cream, Ice Cream,
-IceCreamCone,Ice Cream Cone, Ice Cream Cone,
-NerdGlasses,Nerd Glasses, Nerd Glasses,
-NerdGlassesSpiral,Nerd Glasses Spiral, Nerd Glasses Spiral,
-NerdHand,Nerd Hand, Nerd Hand,
-NerdTeeth,Nerd Teeth, Nerd Teeth,
-Pillow,Pillow, Pillow,
-Popsicle,Popsicle, Popsicle,
-PopsicleStick,Popsicle Stick, Popsicle Stick,
-Water,Water, Water,
-WaterHighlight,Water Highlight, Water Highlight,
-WaterSplash,Water Splash, Water Splash,
+BeverageCanOutline,Beverag Can Outline, Beverage Can Outline,饮料罐 轮廓,飲料罐輪廓,Umriss einer Getränkedose,Esquema de lata de bebida,"Boisson, canette, contour",Italdoboz vázlata,飲料缶の概要,음료 캔 개요,Контур банки для напитков,Contorno de lata de bebidas,Контур банки для напоїв,La bevanda può delineare,โครงร่างกระป๋องเครื่องดื่ม,İçecek Kutusu Anahattı,Dryck kan kontur,Nápojová plechovka Obrys
+BeverageCanPrint,Beverage Can Print, Beverage Can Print,饮料罐 图案,飲料罐列印,Getränkedose drucken,Impresión de latas de bebidas,Impression de canettes de boissons,Ital lehet nyomtatni,飲料缶印刷,음료수 인쇄 가능,Напиток может распечатать,Bebida pode imprimir,Друк банок для напоїв,La bevanda può stampare,พิมพ์เครื่องดื่มได้,İçecek Yazdırılabilir,Dryck kan skriva ut,Nápoj môže vytlačiť
+GlassesLens,Glasses Lens, Glasses Lens,眼镜 镜片,眼鏡鏡片,Brillenglas,Lentes de gafas,Verres de lunettes,Szemüveglencse,メガネレンズ,안경 렌즈,Линзы для очков,Lente de óculos,Окуляри Лінзи,Lente per occhiali,เลนส์แว่นตา,Gözlük Camı,Glasögon lins,Okuliarové šošovky
+HeadphoneEarcupLeft,Headphone Earcup >>, Headphone Earcup >>,耳机 耳罩>>,耳機耳罩>>,Kopfhörer-Ohrmuschel >>,Auriculares auriculares >>,Écouteur casque >>,Fejhallgató fülkagyló >>,ヘッドフォンのイヤーカップ >>,헤드폰 이어컵 >>,Наушники >>,Fone de ouvido >>,Навушник для навушників >>,Padiglione auricolare >>,หูฟังเอียร์คัพ >>,Kulaklık Kulaklığı >>,Hörlurshörlurar >>,Slúchadlá >>
+HeadphoneEarcupRight,Headphone Earcup <<, Headphone Earcup <<,耳机 耳罩<<,耳機耳罩<<,Kopfhörer-Ohrmuschel <<,Auriculares <<,Écouteur pour casque <<,Fejhallgató fülkagyló <<,ヘッドフォン イヤーカップ <<,헤드폰 이어컵 <<,Чашка для наушников <<,Fone de ouvido <<,Навушник <<,Cuffie auricolari <<,หูฟังเอียร์คัพ <<,Kulaklık Kulaklığı <<,Hörlurar Öronsnäcka <<,Slúchadlový kryt <<
+HeadphoneHeadband,Headphone Headband, Headphone Headband,耳机 头带,耳機頭帶,Kopfhörer-Stirnband,Diadema para auriculares,Bandeau pour écouteurs,Fejhallgató fejpánt,ヘッドフォンヘッドバンド,헤드폰 머리띠,Повязка на голову для наушников,Faixa de cabeça para fone de ouvido,Головна пов'язка для навушників,Fascia per cuffie,ที่คาดผมหูฟัง,Kulaklık Bandı,Hörlurar Pannband,Čelenka na slúchadlá
+IceCream,Ice Cream, Ice Cream,冰淇淋,冰淇淋,Eiscreme,Helado,Glace,Fagylalt,アイスクリーム,아이스크림,Мороженое,Sorvete,Морозиво,Gelato,ไอศครีม,Dondurma,Glass,Zmrzlina
+IceCreamCone,Ice Cream Cone, Ice Cream Cone,冰淇淋 蛋卷,蛋捲冰淇淋,Eistüte,Cono de helado,Cornet de crème glacée,Ice Cream Cone,アイスクリームコーン,아이스크림 콘,Конус мороженого,Casquinha de Sorvete,Морозиво Конус,Cono Gelato,ไอศกรีมโคน,Dondurma Külahı,Glasstrut,Zmrzlinový kornút
+NerdGlasses,Nerd Glasses, Nerd Glasses,书呆子 眼镜,書呆子眼鏡,Nerd-Brille,Gafas nerd,Lunettes de nerd,Nerd szemüveg,オタクメガネ,너드 안경,Ботанические очки,Óculos Nerd,Nerd окуляри,Occhiali da nerd,เนิร์ดแว่น,İnek Gözlükleri,Nörd glasögon,Nerdské okuliare
+NerdGlassesSpiral,Nerd Glasses Spiral, Nerd Glasses Spiral,书呆子 眼镜 螺旋,書呆子眼鏡螺旋,Nerd-Brillenspirale,Espiral de gafas nerd,Nerd Lunettes Spirale,Nerd szemüveg spirál,オタクメガネスパイラル,괴상한 안경 나선형,Ботаник Очки Спираль,Espiral de óculos Nerd,Nerd Glasses Spiral,Spirale per occhiali da nerd,เกลียวแว่นตาเนิร์ด,İnek Gözlük Spiral,Nerd Glasögon Spiral,Špirála na okuliare Nerd
+NerdHand,Nerd Hand, Nerd Hand,书呆子 手,書呆子手,Nerd-Hand,mano nerd,Main de nerd,Nerd Hand,オタクの手,괴상한 손,Ботаник Рука,Mão Nerd,Рука ботаніка,Mano da nerd,เนิร์ดแฮนด์,İnek Eli,Nörd Hand,Nerd Hand
+NerdTeeth,Nerd Teeth, Nerd Teeth,书呆子 牙齿,書呆子的牙齒,Nerd-Zähne,Dientes de nerd,Dents de nerd,Nerd fogak,オタクの歯,괴상한 이빨,Зубы ботаника,Dentes Nerd,Ботанік Зуби,Denti da nerd,ฟันเนิร์ด,İnek Dişleri,Nördtänder,Nerd Zuby
+Pillow,Pillow, Pillow,枕头,枕頭,Kissen,Almohada,Oreiller,Párna,枕,베개,Подушка,Travesseiro,Подушка,Cuscino,หมอน,Yastık,Kudde,Vankúš
+Popsicle,Popsicle, Popsicle,棒冰,冰棒,Eis am Stiel,paleta,Glace glacée,Popsikát,アイスキャンデー,아이스캔디,эскимо,Picolé,Ескімо,Ghiacciolo,ไอติม,buzlu şeker,Isglass,Nanuk
+PopsicleStick,Popsicle Stick, Popsicle Stick,棒冰 木棒,冰棒棒,Eis am Stiel,palito de paleta,Bâton de glace,Popsicle Stick,アイスキャンデーの棒,아이스스틱,Палочка для мороженого,Palito de picolé,Паличка для ескімо,Bastoncino di ghiacciolo,ไอติมแท่ง,Dondurma çubuğu,Popsicle Stick,Nanuková tyčinka
+Water,Water, Water,水,水,Wasser,Agua,Eau,Víz,水,물,Вода,Água,вода,Acqua,น้ำ,su,Vatten,Voda
+WaterHighlight,Water Highlight, Water Highlight,水 高光,水亮點,Wasser-Highlight,Resaltado del agua,Point culminant de l'eau,Víz kiemelése,ウォーターハイライト,워터 하이라이트,Водная изюминка,Destaque Água,Висвітлення води,Evidenziazione dell'acqua,ไฮไลท์น้ำ,Su Vurgulama,Vattenhöjdpunkt,Zvýraznenie vody
+WaterSplash,Water Splash, Water Splash,水 溅射,水濺,Wasserspritzer,Salpicaduras de agua,Éclaboussure d'eau,Water Splash,ウォータースプラッシュ,물 튀김,Всплеск воды,Respingos de água,Сплеск води,Spruzzi d'acqua,น้ำกระเซ็น,Su Sıçraması,Vattenstänk,Striekanie vody

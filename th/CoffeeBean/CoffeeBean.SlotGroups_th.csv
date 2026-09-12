@@ -293,3 +293,21 @@ Cup Liquid,Cup Liquid,ถ้วยของเหลว,False
 Interact Hand,Interact Hand,โต้ตอบมือ,False
 Progress Bar Container,Progress Bar Container,คอนเทนเนอร์แถบความคืบหน้า,False
 Progress Bar Fill,Progress Bar Fill,เติมแถบความคืบหน้า,False
+Beverag Can Outline, Beverage Can Outline,โครงร่างกระป๋องเครื่องดื่ม,False
+Beverage Can Print, Beverage Can Print,พิมพ์เครื่องดื่มได้,False
+Glasses Lens, Glasses Lens,เลนส์แว่นตา,False
+Headphone Earcup >>, Headphone Earcup >>,หูฟังเอียร์คัพ >>,False
+Headphone Earcup <<, Headphone Earcup <<,หูฟังเอียร์คัพ <<,False
+Headphone Headband, Headphone Headband,ที่คาดผมหูฟัง,False
+Ice Cream, Ice Cream,ไอศครีม,False
+Ice Cream Cone, Ice Cream Cone,ไอศกรีมโคน,False
+Nerd Glasses, Nerd Glasses,เนิร์ดแว่น,False
+Nerd Glasses Spiral, Nerd Glasses Spiral,เกลียวแว่นตาเนิร์ด,False
+Nerd Hand, Nerd Hand,เนิร์ดแฮนด์,False
+Nerd Teeth, Nerd Teeth,ฟันเนิร์ด,False
+Pillow, Pillow,หมอน,False
+Popsicle, Popsicle,ไอติม,False
+Popsicle Stick, Popsicle Stick,ไอติมแท่ง,False
+Water, Water,น้ำ,False
+Water Highlight, Water Highlight,ไฮไลท์น้ำ,False
+Water Splash, Water Splash,น้ำกระเซ็น,False

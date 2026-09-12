@@ -190,23 +190,23 @@ ANIM/ThisIsFine-5,This Is Fine 5,This Is Fine 5,一切都好 5,這很好 5,Das i
 ANIM/ThisIsFine-6,This Is Fine 6,This Is Fine 6,一切都好 6,這很好 6,Das ist in Ordnung 6,Esto está bien 6,C'est bien 6,Ez jó 6,これでいい 6,괜찮아요 6,Это нормально 6,Isso está bem 6,Це добре 6,Va bene 6,อย่างนี้ก็ดีแล้ว 6,Bu Güzel 6,Det här är bra 6,Toto je v pohode 6
 ANIM/Trophy-1,Trophy 1,Trophy 1,胜利 1,獎杯1,Trophäe 1,Trofeo 1,Trophée 1,1. trófea,トロフィー 1,트로피 1,Трофей 1,Troféu 1,Трофей 1,Trofeo 1,ถ้วยรางวัล 1,Kupa 1,Trofé 1,Trofej 1
 ANIM/Yay,Yay,Yay,耶,耶,Ja,Hurra,Ouais,Jaj,わーい,이야,ура,yay,Ура,Sìì,เย้,yay,Jaja,Hurá
-ANIM/Blink-1,Blink 1, Blink 1,
-ANIM/Drink-EnergyDrink1,Drink (EnergyDrink1),Drink (EnergyDrink1),
-ANIM/Drink-EnergyDrink2,Drink (EnergyDrink2),Drink (EnergyDrink2),
-ANIM/Hydrate,Hydrate,Hydrate,
-ANIM/Lick-IceCream,Lick (IceCream),Lick (IceCream),
-ANIM/Lick-Popsicle,Lick (Popsicle),Lick (Popsicle),
-ANIM/Music-1,Music 1,Music 1,
-ANIM/Music-2,Music 2,Music 2,
-ANIM/Music-3,Music 3,Music 3,
-ANIM/Nerd-1,Nerd 1,Nerd 1,
-ANIM/Nerd-2,Nerd 2,Nerd 2,
-ANIM/Nerd-3,Nerd 3,Nerd 3,
-ANIM/Pillow-Lick,Pillow (Lick),Pillow (Lick),
-ANIM/Pillow-Rub,Pillow (Rub),Pillow (Rub),
-ANIM/Pillow-Rub2,Pillow (Rub2),Pillow (Rub2),
-ANIM/Shy-3,Shy 3,Shy 3,
-ANIM/Sparkling-3,Sparkling 3,Sparkling 3,
-ANIM/Stop,Stop,Stop,
-ANIM/Wiggle-1,Wiggle 1,Wiggle 1,
-ANIM/Wiggle-2,Wiggle 2,Wiggle 2,
+ANIM/Blink-1,Blink 1, Blink 1,眨眼 1,閃爍 1,Blinken 1,Parpadeo 1,Clignement 1,Pislogás 1,ブリンク1,깜박임 1,Мигать 1,Piscar 1,Блимає 1,Lampeggia 1,กะพริบตา 1,Yanıp sönme 1,Blinka 1,Žmurkanie 1
+ANIM/Drink-EnergyDrink1,Drink (EnergyDrink1),Drink (EnergyDrink1),饮料（能量饮料1）,飲料（能量飲料1）,Getränk (EnergyDrink1),Bebida (Bebida Energética1),Boisson (EnergyDrink1),Ital (EnergyDrink1),ドリンク (エナジードリンク1),음료(에너지드링크1),Напиток (EnergyDrink1),Bebida (EnergyDrink1),Напій (EnergyDrink1),Bevanda (EnergyDrink1),เครื่องดื่ม (EnergyDrink1),İçecek (EnergyDrink1),Dryck (EnergyDrink1),Nápoj (EnergyDrink1)
+ANIM/Drink-EnergyDrink2,Drink (EnergyDrink2),Drink (EnergyDrink2),饮料（能量饮料2）,飲料（能量飲料2）,Getränk (EnergyDrink2),Bebida (Bebida Energética2),Boisson (EnergyDrink2),Ital (EnergyDrink2),ドリンク（エナジードリンク2）,음료(에너지드링크2),Напиток (EnergyDrink2),Bebida (EnergyDrink2),Напій (EnergyDrink2),Bevanda (EnergyDrink2),เครื่องดื่ม (EnergyDrink2),İçecek (EnergyDrink2),Dryck (EnergyDrink2),Nápoj (EnergyDrink2)
+ANIM/Hydrate,Hydrate,Hydrate,补水,水合物,Hydrat,Hidratar,Hydrater,Hidrát,水分補給,수산화 시키다,Гидратировать,Hidrato,Гідрат,Idrato,ไฮเดรต,Hidrat,Hydrat,Hydratovať
+ANIM/Lick-IceCream,Lick (IceCream),Lick (IceCream),舔（冰淇淋）,舔（冰淇淋）,Lecken (Eis),Lamer (helado),Lécher (Glace),nyalás (fagylalt),なめる（アイスクリーム）,핥아 (아이스크림),Лик (Мороженое),Lamber (sorvete),Лік (морозиво),Leccare (gelato),เลีย (ไอศกรีม),Yalama (Dondurma),Slicka (glass),Lízanie (zmrzlina)
+ANIM/Lick-Popsicle,Lick (Popsicle),Lick (Popsicle),舔（棒冰）,舔（冰棒）,Lecken (Eis am Stiel),Lamer (paleta),Lécher (Popsicle),nyalás (popsi),なめる（アイスキャンディー）,핥아 (팝시클),Лик (Эскимо),Lamber (picolé),лизати (ескімо),Leccare (ghiacciolo),เลีย (ไอติม),Yalamak (Buzlu şeker),Slicka (Popsicle),Lízanie (nanuk)
+ANIM/Music-1,Music 1,Music 1,音乐 1,音樂1,Musik 1,Música 1,Musique 1,Zene 1,音楽1,음악 1,Музыка 1,Música 1,Музика 1,Musica 1,ดนตรี 1,Müzik 1,Musik 1,Hudba 1
+ANIM/Music-2,Music 2,Music 2,音乐 2,音樂2,Musik 2,Música 2,Musique 2,Zene 2,音楽 2,음악 2,Музыка 2,Música 2,Музика 2,Musica 2,ดนตรี 2,Müzik 2,Musik 2,Hudba 2
+ANIM/Music-3,Music 3,Music 3,音乐 3,音樂3,Musik 3,Música 3,Musique 3,Zene 3,音楽 3,음악 3,Музыка 3,Música 3,Музика 3,Musica 3,ดนตรี 3,Müzik 3,Musik 3,Hudba 3
+ANIM/Nerd-1,Nerd 1,Nerd 1,书呆子 1,書呆子 1,Nerd 1,Empollón 1,Nerd 1,Nerd 1,オタク 1,대단하다 1,Ботаник 1,Nerd 1,Ботан 1,Nerd 1,เนิร์ด 1,İnek 1,Nörd 1,Nerd 1
+ANIM/Nerd-2,Nerd 2,Nerd 2,书呆子 2,書呆子2,Nerd 2,Empollón 2,Nerd 2,Nerd 2,オタク 2,대단하다 2,Ботаник 2,Nerd 2,Ботан 2,Nerd 2,เนิร์ด 2,İnek 2,Nörd 2,Nerd 2
+ANIM/Nerd-3,Nerd 3,Nerd 3,书呆子 3,書呆子 3,Nerd 3,Empollón 3,Nerd 3,Nerd 3,オタク 3,대단하다 3,Ботаник 3,Nerd 3,Ботан 3,Nerd 3,เนิร์ด 3,İnek 3,Nörd 3,Nerd 3
+ANIM/Pillow-Lick,Pillow (Lick),Pillow (Lick),枕头（舔）,枕頭（舔）,Kissen (lecken),Almohada (Lamer),Oreiller (Lécher),párna (nyalni),枕（なめる）,베개(핥기),Подушка (Лизнуть),Travesseiro (lamber),Подушка (Lick),Cuscino (lecca),หมอน (เลีย),Yastık (Yalama),Kudde (slicka),Vankúš (lízanie)
+ANIM/Pillow-Rub,Pillow (Rub),Pillow (Rub),枕头（蹭）,枕頭（擦）,Kissen (reiben),Almohada (frotar),Oreiller (Frotter),párna (dörzsölő),枕（こする）,베개 (문지름),Подушка (Руб),Travesseiro (esfregar),Подушка (Руб),Cuscino (Sfregamento),หมอน (ถู),Yastık (Ovmak),Kudde (Gnid),Vankúš (guma)
+ANIM/Pillow-Rub2,Pillow (Rub2),Pillow (Rub2),枕头（蹭2）,枕頭 (Rub2),Kissen (Rub2),Almohada (Frotar2),Oreiller (Rub2),Párna (Rub2),枕(Rub2),베개 (Rub2),Подушка (2 руб.),Travesseiro (Esfregar2),Подушка (2 руб.),Cuscino (Rub2),หมอน (Rub2),Yastık (Rub2),Kudde (Rub2),Vankúš (Rub2)
+ANIM/Shy-3,Shy 3,Shy 3,害羞 3,害羞3,Schüchtern 3,Tímido 3,Timide 3,Félénk 3,恥ずかしがり屋 3,수줍음 3,Застенчивый 3,Tímido 3,Сором'язливий 3,Timido 3,ขี้อาย 3,Utangaç 3,Blyg 3,Hanblivý 3
+ANIM/Sparkling-3,Sparkling 3,Sparkling 3,期待 3,閃閃發光3,Funkelnd 3,Espumoso 3,Pétillant 3,Szikrázó 3,スパークリング3,스파클링 3,Игристое 3,Espumante 3,Ігристе 3,frizzante 3,ประกาย 3,Köpüklü 3,Glittrande 3,Šumivé 3
+ANIM/Stop,Stop,Stop,停止,停止,Stoppen,Detener,Arrêt,Stop,停止,멈추다,Останавливаться,Parar,СТІЙ,Fermare,หยุด,Durmak,Stopp,Stop
+ANIM/Wiggle-1,Wiggle 1,Wiggle 1,摆动 1,擺盪 1,Wackeln 1,Meneo 1,Remuez 1,Mozgás 1,ウィグル 1,흔들기 1,Покачивание 1,Mexa 1,Wiggle 1,Muovere 1,กระดิก 1,Kıpırdat 1,Vicka 1,Krútenie 1
+ANIM/Wiggle-2,Wiggle 2,Wiggle 2,摇摆 2,搖擺2,Wackeln 2,Meneo 2,Se tortiller 2,Mozgás 2,ウィグル 2,흔들기 2,Покачивание 2,Mexa 2,Wiggle 2,Muovere 2,กระดิก 2,Kıpırdat 2,Vicka 2,Krútenie 2

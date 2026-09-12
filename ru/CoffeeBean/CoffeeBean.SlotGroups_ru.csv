@@ -293,3 +293,21 @@ Cup Liquid,Cup Liquid,Кубок жидкости,False
 Interact Hand,Interact Hand,Взаимодействие с рукой,False
 Progress Bar Container,Progress Bar Container,Контейнер индикатора выполнения,False
 Progress Bar Fill,Progress Bar Fill,Заполнение индикатора выполнения,False
+Beverag Can Outline, Beverage Can Outline,Контур банки для напитков,False
+Beverage Can Print, Beverage Can Print,Напиток может распечатать,False
+Glasses Lens, Glasses Lens,Линзы для очков,False
+Headphone Earcup >>, Headphone Earcup >>,Наушники >>,False
+Headphone Earcup <<, Headphone Earcup <<,Чашка для наушников <<,False
+Headphone Headband, Headphone Headband,Повязка на голову для наушников,False
+Ice Cream, Ice Cream,Мороженое,False
+Ice Cream Cone, Ice Cream Cone,Конус мороженого,False
+Nerd Glasses, Nerd Glasses,Ботанические очки,False
+Nerd Glasses Spiral, Nerd Glasses Spiral,Ботаник Очки Спираль,False
+Nerd Hand, Nerd Hand,Ботаник Рука,False
+Nerd Teeth, Nerd Teeth,Зубы ботаника,False
+Pillow, Pillow,Подушка,False
+Popsicle, Popsicle,эскимо,False
+Popsicle Stick, Popsicle Stick,Палочка для мороженого,False
+Water, Water,Вода,False
+Water Highlight, Water Highlight,Водная изюминка,False
+Water Splash, Water Splash,Всплеск воды,False

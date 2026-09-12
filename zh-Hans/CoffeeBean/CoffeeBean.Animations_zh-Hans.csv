@@ -190,3 +190,23 @@ This Is Fine 5,This Is Fine 5,一切都好 5,True
 This Is Fine 6,This Is Fine 6,一切都好 6,True
 Trophy 1,Trophy 1,胜利 1,True
 Yay,Yay,耶,True
+Blink 1, Blink 1,眨眼 1,True
+Drink (EnergyDrink1),Drink (EnergyDrink1),饮料（能量饮料1）,True
+Drink (EnergyDrink2),Drink (EnergyDrink2),饮料（能量饮料2）,True
+Hydrate,Hydrate,补水,True
+Lick (IceCream),Lick (IceCream),舔（冰淇淋）,True
+Lick (Popsicle),Lick (Popsicle),舔（棒冰）,True
+Music 1,Music 1,音乐 1,True
+Music 2,Music 2,音乐 2,True
+Music 3,Music 3,音乐 3,True
+Nerd 1,Nerd 1,书呆子 1,True
+Nerd 2,Nerd 2,书呆子 2,True
+Nerd 3,Nerd 3,书呆子 3,True
+Pillow (Lick),Pillow (Lick),枕头（舔）,True
+Pillow (Rub),Pillow (Rub),枕头（蹭）,True
+Pillow (Rub2),Pillow (Rub2),枕头（蹭2）,True
+Shy 3,Shy 3,害羞 3,True
+Sparkling 3,Sparkling 3,期待 3,True
+Stop,Stop,停止,True
+Wiggle 1,Wiggle 1,摆动 1,True
+Wiggle 2,Wiggle 2,摇摆 2,True
