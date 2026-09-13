@@ -190,3 +190,23 @@ This Is Fine 5,This Is Fine 5,นี่ก็ดีแล้ว 5,False
 This Is Fine 6,This Is Fine 6,อย่างนี้ก็ดีแล้ว 6,False
 Trophy 1,Trophy 1,ถ้วยรางวัล 1,False
 Yay,Yay,เย้,False
+Blink 1, Blink 1,กะพริบตา 1,False
+Drink (EnergyDrink1),Drink (EnergyDrink1),เครื่องดื่ม (EnergyDrink1),False
+Drink (EnergyDrink2),Drink (EnergyDrink2),เครื่องดื่ม (EnergyDrink2),False
+Hydrate,Hydrate,ไฮเดรต,False
+Lick (IceCream),Lick (IceCream),เลีย (ไอศกรีม),False
+Lick (Popsicle),Lick (Popsicle),เลีย (ไอติม),False
+Music 1,Music 1,ดนตรี 1,False
+Music 2,Music 2,ดนตรี 2,False
+Music 3,Music 3,ดนตรี 3,False
+Nerd 1,Nerd 1,เนิร์ด 1,False
+Nerd 2,Nerd 2,เนิร์ด 2,False
+Nerd 3,Nerd 3,เนิร์ด 3,False
+Pillow (Lick),Pillow (Lick),หมอน (เลีย),False
+Pillow (Rub),Pillow (Rub),หมอน (ถู),False
+Pillow (Rub2),Pillow (Rub2),หมอน (Rub2),False
+Shy 3,Shy 3,ขี้อาย 3,False
+Sparkling 3,Sparkling 3,ประกาย 3,False
+Stop,Stop,หยุด,False
+Wiggle 1,Wiggle 1,กระดิก 1,False
+Wiggle 2,Wiggle 2,กระดิก 2,False

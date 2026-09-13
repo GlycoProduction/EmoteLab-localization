@@ -190,3 +190,23 @@ This Is Fine 5,This Is Fine 5,Ez jó 5,False
 This Is Fine 6,This Is Fine 6,Ez jó 6,False
 Trophy 1,Trophy 1,1. trófea,False
 Yay,Yay,Jaj,False
+Blink 1, Blink 1,Pislogás 1,False
+Drink (EnergyDrink1),Drink (EnergyDrink1),Ital (EnergyDrink1),False
+Drink (EnergyDrink2),Drink (EnergyDrink2),Ital (EnergyDrink2),False
+Hydrate,Hydrate,Hidrát,False
+Lick (IceCream),Lick (IceCream),nyalás (fagylalt),False
+Lick (Popsicle),Lick (Popsicle),nyalás (popsi),False
+Music 1,Music 1,Zene 1,False
+Music 2,Music 2,Zene 2,False
+Music 3,Music 3,Zene 3,False
+Nerd 1,Nerd 1,Nerd 1,False
+Nerd 2,Nerd 2,Nerd 2,False
+Nerd 3,Nerd 3,Nerd 3,False
+Pillow (Lick),Pillow (Lick),párna (nyalni),False
+Pillow (Rub),Pillow (Rub),párna (dörzsölő),False
+Pillow (Rub2),Pillow (Rub2),Párna (Rub2),False
+Shy 3,Shy 3,Félénk 3,False
+Sparkling 3,Sparkling 3,Szikrázó 3,False
+Stop,Stop,Stop,False
+Wiggle 1,Wiggle 1,Mozgás 1,False
+Wiggle 2,Wiggle 2,Mozgás 2,False

@@ -71,7 +71,7 @@ MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,取樣頻率,True
 MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,這個選項允許您在內建貼圖和自訂貼圖間切換。,True
 MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,編輯自訂貼圖資料夾中的PNG影像，保留透明度儲存且不要改變尺寸。,True
 MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.",編輯完成後，點選此按鈕套用修改。,True
-MainMenu.Editor.Texture.Step4Instr,Save your character. The save button is located below the character list on the left side of the interface.,儲存您的角色。儲存按鈕在左側角色列表下方。,True
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.",編輯後儲存您的角色。當「僅使用的貼圖」開啟時，僅儲存目前角色使用的貼圖區域。關閉則儲存所有區域。,False
 MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,請在使用前完整閱讀手冊使用自訂貼圖章節。,True
 MainMenu.Editor.Texture.CustomTexture,Custom Texture,自訂貼圖,True
 MainMenu.Editor.Texture.Step1,Step 1,第一步,True
@@ -218,3 +218,61 @@ MainMenu.Settings.ExportSettings.LoopCount,Loop Count,循環次數,True
 MainMenu.Settings.ExportSettings.Lossless,Lossless,無損,True
 MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.",開啟無損時，品質越高代表檔案越小、編碼速度越慢，但畫面外觀相同。關閉無損時，品質越高代表畫面越好、檔案越大。,True
 MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,動畫重複播放的次數。0 代表無限循環。,True
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color",VP9，BT.709，全範圍色彩,False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,CQ等級,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality",CQ等級越低代表檔案越大，品質越好；CQ等級越高代表壓縮程度越高、檔案越小、品質越差,False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,速度,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file",速度越低代表編碼越慢、品質越好，檔案通常也越小,False
+MainMenu.Workshop.ItemType.All,All Types,所有類型,False
+MainMenu.Workshop.ItemType.Model,Model,模型,False
+MainMenu.Workshop.ItemType.Character,Character,角色,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,未知,False
+MainMenu.Workshop.Tab.Browse,Browse,瀏覽,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,訂閱的項目,False
+MainMenu.Workshop.Tab.Published,Published,發布的項目,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,已訂閱,False
+MainMenu.Workshop.Author.Loading,Loading...,載入中...,False
+MainMenu.Workshop.Author.Unknown,Unknown,未知,False
+MainMenu.Workshop.Pager.FirstPage,First page,第一頁,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,上一頁,False
+MainMenu.Workshop.Pager.NextPage,Next page,下一頁,False
+MainMenu.Workshop.Pager.LastPage,Last page,最後一頁,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),第 {0} 頁，共 {1} 頁（{2} 項）,False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,正在載入工作坊項目...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,Steam 尚未執行。請透過 Steam 啟動 EmoteLab 以瀏覽工作坊。,False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,無法載入工作坊項目。,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,Steam 上沒有更多結果。,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,沒有符合搜尋條件的工作坊項目。,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,您尚未訂閱任何符合條件的工作坊項目。,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,您尚未發布任何符合條件的工作坊項目。,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,另一個工作坊查詢已在執行中。,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,Steam 拒絕了工作坊查詢請求。,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},工作坊查詢失敗：{0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,工作坊項目,False
+MainMenu.Workshop.ItemPopup.Author,Author,作者,False
+MainMenu.Workshop.ItemPopup.Type,Type,類型,False
+MainMenu.Workshop.ItemPopup.Size,Size,檔案大小,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,發布時間,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,更新時間,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,評分不足,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,訂閱,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,取消訂閱,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,在瀏覽器中開啟,False
+MainMenu.Workshop.ItemPopup.Close,Close,關閉,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,正在提交評分...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,無法為該項目評分。,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,評分已提交。,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,正在訂閱...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,正在取消訂閱...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,訂閱此項目失敗。,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,無法取消訂閱此項目。,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,已訂閱。,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,已取消訂閱，該項目將由 Steam 移除。,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,自動更新,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,僅使用的貼圖,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,自訂貼圖備份,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,啟用備份,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),間隔（分鐘）,False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,最大備份數量,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,開啟備份資料夾,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,清除貼圖快取,False

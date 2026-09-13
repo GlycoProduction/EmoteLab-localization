@@ -190,3 +190,23 @@ This Is Fine 5,This Is Fine 5,괜찮아요 5,False
 This Is Fine 6,This Is Fine 6,괜찮아요 6,False
 Trophy 1,Trophy 1,트로피 1,False
 Yay,Yay,이야,False
+Blink 1, Blink 1,깜박임 1,False
+Drink (EnergyDrink1),Drink (EnergyDrink1),음료(에너지드링크1),False
+Drink (EnergyDrink2),Drink (EnergyDrink2),음료(에너지드링크2),False
+Hydrate,Hydrate,수산화 시키다,False
+Lick (IceCream),Lick (IceCream),핥아 (아이스크림),False
+Lick (Popsicle),Lick (Popsicle),핥아 (팝시클),False
+Music 1,Music 1,음악 1,False
+Music 2,Music 2,음악 2,False
+Music 3,Music 3,음악 3,False
+Nerd 1,Nerd 1,대단하다 1,False
+Nerd 2,Nerd 2,대단하다 2,False
+Nerd 3,Nerd 3,대단하다 3,False
+Pillow (Lick),Pillow (Lick),베개(핥기),False
+Pillow (Rub),Pillow (Rub),베개 (문지름),False
+Pillow (Rub2),Pillow (Rub2),베개 (Rub2),False
+Shy 3,Shy 3,수줍음 3,False
+Sparkling 3,Sparkling 3,스파클링 3,False
+Stop,Stop,멈추다,False
+Wiggle 1,Wiggle 1,흔들기 1,False
+Wiggle 2,Wiggle 2,흔들기 2,False

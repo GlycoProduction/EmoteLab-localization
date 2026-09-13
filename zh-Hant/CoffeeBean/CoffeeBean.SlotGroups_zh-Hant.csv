@@ -293,3 +293,21 @@ Cup Liquid,Cup Liquid,杯中液體,True
 Interact Hand,Interact Hand,互動手,True
 Progress Bar Container,Progress Bar Container,進度條 外框,True
 Progress Bar Fill,Progress Bar Fill,進度條 填充,True
+Beverag Can Outline, Beverage Can Outline,飲料罐 輪廓,False
+Beverage Can Print, Beverage Can Print,飲料罐 圖案,False
+Glasses Lens, Glasses Lens,眼鏡 鏡片,False
+Headphone Earcup >>, Headphone Earcup >>,耳機 耳罩 >>,False
+Headphone Earcup <<, Headphone Earcup <<,耳機 耳罩 <<,False
+Headphone Headband, Headphone Headband,耳機 頭帶,False
+Ice Cream, Ice Cream,冰淇淋,False
+Ice Cream Cone, Ice Cream Cone,冰淇淋 蛋捲,False
+Nerd Glasses, Nerd Glasses,書呆子 眼鏡,False
+Nerd Glasses Spiral, Nerd Glasses Spiral,書呆子 眼鏡 螺旋,False
+Nerd Hand, Nerd Hand,書呆子 手,False
+Nerd Teeth, Nerd Teeth,書呆子 牙齒,False
+Pillow, Pillow,枕頭,False
+Popsicle, Popsicle,冰棒,False
+Popsicle Stick, Popsicle Stick,冰棒 木棒,False
+Water, Water,水,False
+Water Highlight, Water Highlight,水 高光,False
+Water Splash, Water Splash,水 濺射,False

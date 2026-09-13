@@ -1,7 +1,17 @@
 import os
-import pandas as pd
 import pathlib
+import time
+
+import pandas as pd
+import requests
+from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
+from deep_translator.exceptions import (
+    RequestError,
+    TooManyRequests,
+    TranslationNotFound,
+)
+from deep_translator.validate import is_empty, is_input_valid, request_failed
 
 """
 input:
@@ -37,6 +47,86 @@ dct_langs = {
     'sv': 'en',
     'sk': 'en',
 }
+
+# Pretend to be a browser
+_BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/122.0.0.0 Safari/537.36"
+    ),
+}
+
+
+class BrowserGoogleTranslator(GoogleTranslator):
+    """GoogleTranslator that sends a browser User-Agent (required by translate.google.com/m)."""
+
+    def translate(self, text: str, **kwargs) -> str:
+        if not is_input_valid(text, max_chars=5000):
+            return text
+        text = text.strip()
+        if self._same_source_target() or is_empty(text):
+            return text
+
+        last_error = None
+        for attempt in range(3):
+            try:
+                return self._translate_once(text)
+            except (TranslationNotFound, RequestError, TooManyRequests, requests.RequestException) as ex:
+                last_error = ex
+                time.sleep(1.5 * (attempt + 1))
+        raise last_error
+
+    def _translate_once(self, text: str) -> str:
+        self._url_params["tl"] = self._target
+        self._url_params["sl"] = self._source
+
+        if self.payload_key:
+            self._url_params[self.payload_key] = text
+
+        response = requests.get(
+            self._base_url,
+            params=self._url_params,
+            proxies=self.proxies,
+            headers=_BROWSER_HEADERS,
+            timeout=30,
+        )
+        if response.status_code == 429:
+            raise TooManyRequests()
+
+        if request_failed(status_code=response.status_code):
+            raise RequestError()
+
+        soup = BeautifulSoup(response.text, "html.parser")
+
+        element = soup.find(self._element_tag, self._element_query)
+        response.close()
+
+        if not element:
+            element = soup.find(self._element_tag, self._alt_element_query)
+            if not element:
+                raise TranslationNotFound(text)
+        if element.get_text(strip=True) == text.strip():
+            to_translate_alpha = "".join(
+                ch for ch in text.strip() if ch.isalnum()
+            )
+            translated_alpha = "".join(
+                ch for ch in element.get_text(strip=True) if ch.isalnum()
+            )
+            if (
+                to_translate_alpha
+                and translated_alpha
+                and to_translate_alpha == translated_alpha
+            ):
+                self._url_params["tl"] = self._target
+                if "hl" not in self._url_params:
+                    return text.strip()
+                del self._url_params["hl"]
+                return self._translate_once(text)
+
+        else:
+            return element.get_text(strip=True)
+
 
 class CSVFile:
     def __init__(self, filepath, df):
@@ -99,18 +189,20 @@ class LanguageCSVFile(CSVFile):
                 translation_target = self.lang
 
             print(f'translating {sum(translate_msk)} entries for {translation_target} from {src_lang}...')
-            translator = GoogleTranslator(source=src_lang, target=translation_target)
+            translator = BrowserGoogleTranslator(source=src_lang, target=translation_target)
             def safe_translate_row(row):
                 src_text = row[src_lang]
                 try:
-                    return translator.translate(src_text)
+                    result = translator.translate(src_text)
+                    time.sleep(0.35)  # rate limit
+                    return result
                 except Exception as ex:
                     key = row.get('Key', '<unknown-key>')
                     print(
                         f'[warn] translation failed for {self.lang} key="{key}" text="{src_text}": {ex}'
                     )
-                    # Fallback to English so locale tables keep a usable non-empty value.
-                    return src_text
+                    # Leave empty so a later run can retry (do not fallback toEnglish).
+                    return ""
 
             self.df.loc[translate_msk, self.lang] = self.df[translate_msk].apply(
                 safe_translate_row, axis="columns"
@@ -241,5 +333,6 @@ class Collator:
                     right_on=ld.files[langfp].key
                 ).drop(columns=ld.files[langfp].key)
 
-c = Collator(dct_langs, f"..{os.sep}_collage")
-c.update_collate()
+if __name__ == "__main__":
+    c = Collator(dct_langs, f"..{os.sep}_collage")
+    c.update_collate()

@@ -190,3 +190,23 @@ This Is Fine 5,This Is Fine 5,これでいい 5,False
 This Is Fine 6,This Is Fine 6,これでいい 6,False
 Trophy 1,Trophy 1,トロフィー 1,False
 Yay,Yay,わーい,False
+Blink 1, Blink 1,ブリンク1,False
+Drink (EnergyDrink1),Drink (EnergyDrink1),ドリンク (エナジードリンク1),False
+Drink (EnergyDrink2),Drink (EnergyDrink2),ドリンク（エナジードリンク2）,False
+Hydrate,Hydrate,水分補給,False
+Lick (IceCream),Lick (IceCream),なめる（アイスクリーム）,False
+Lick (Popsicle),Lick (Popsicle),なめる（アイスキャンディー）,False
+Music 1,Music 1,音楽1,False
+Music 2,Music 2,音楽 2,False
+Music 3,Music 3,音楽 3,False
+Nerd 1,Nerd 1,オタク 1,False
+Nerd 2,Nerd 2,オタク 2,False
+Nerd 3,Nerd 3,オタク 3,False
+Pillow (Lick),Pillow (Lick),枕（なめる）,False
+Pillow (Rub),Pillow (Rub),枕（こする）,False
+Pillow (Rub2),Pillow (Rub2),枕(Rub2),False
+Shy 3,Shy 3,恥ずかしがり屋 3,False
+Sparkling 3,Sparkling 3,スパークリング3,False
+Stop,Stop,停止,False
+Wiggle 1,Wiggle 1,ウィグル 1,False
+Wiggle 2,Wiggle 2,ウィグル 2,False

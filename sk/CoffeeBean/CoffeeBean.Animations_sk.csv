@@ -190,3 +190,23 @@ This Is Fine 5,This Is Fine 5,Toto je v pohode 5,False
 This Is Fine 6,This Is Fine 6,Toto je v pohode 6,False
 Trophy 1,Trophy 1,Trofej 1,False
 Yay,Yay,Hurá,False
+Blink 1, Blink 1,Žmurkanie 1,False
+Drink (EnergyDrink1),Drink (EnergyDrink1),Nápoj (EnergyDrink1),False
+Drink (EnergyDrink2),Drink (EnergyDrink2),Nápoj (EnergyDrink2),False
+Hydrate,Hydrate,Hydratovať,False
+Lick (IceCream),Lick (IceCream),Lízanie (zmrzlina),False
+Lick (Popsicle),Lick (Popsicle),Lízanie (nanuk),False
+Music 1,Music 1,Hudba 1,False
+Music 2,Music 2,Hudba 2,False
+Music 3,Music 3,Hudba 3,False
+Nerd 1,Nerd 1,Nerd 1,False
+Nerd 2,Nerd 2,Nerd 2,False
+Nerd 3,Nerd 3,Nerd 3,False
+Pillow (Lick),Pillow (Lick),Vankúš (lízanie),False
+Pillow (Rub),Pillow (Rub),Vankúš (guma),False
+Pillow (Rub2),Pillow (Rub2),Vankúš (Rub2),False
+Shy 3,Shy 3,Hanblivý 3,False
+Sparkling 3,Sparkling 3,Šumivé 3,False
+Stop,Stop,Stop,False
+Wiggle 1,Wiggle 1,Krútenie 1,False
+Wiggle 2,Wiggle 2,Krútenie 2,False

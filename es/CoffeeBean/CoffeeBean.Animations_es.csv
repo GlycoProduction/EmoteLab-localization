@@ -190,3 +190,23 @@ This Is Fine 5,This Is Fine 5,Esto está bien 5,False
 This Is Fine 6,This Is Fine 6,Esto está bien 6,False
 Trophy 1,Trophy 1,Trofeo 1,False
 Yay,Yay,Hurra,False
+Blink 1, Blink 1,Parpadeo 1,False
+Drink (EnergyDrink1),Drink (EnergyDrink1),Bebida (Bebida Energética1),False
+Drink (EnergyDrink2),Drink (EnergyDrink2),Bebida (Bebida Energética2),False
+Hydrate,Hydrate,Hidratar,False
+Lick (IceCream),Lick (IceCream),Lamer (helado),False
+Lick (Popsicle),Lick (Popsicle),Lamer (paleta),False
+Music 1,Music 1,Música 1,False
+Music 2,Music 2,Música 2,False
+Music 3,Music 3,Música 3,False
+Nerd 1,Nerd 1,Empollón 1,False
+Nerd 2,Nerd 2,Empollón 2,False
+Nerd 3,Nerd 3,Empollón 3,False
+Pillow (Lick),Pillow (Lick),Almohada (Lamer),False
+Pillow (Rub),Pillow (Rub),Almohada (frotar),False
+Pillow (Rub2),Pillow (Rub2),Almohada (Frotar2),False
+Shy 3,Shy 3,Tímido 3,False
+Sparkling 3,Sparkling 3,Espumoso 3,False
+Stop,Stop,Detener,False
+Wiggle 1,Wiggle 1,Meneo 1,False
+Wiggle 2,Wiggle 2,Meneo 2,False

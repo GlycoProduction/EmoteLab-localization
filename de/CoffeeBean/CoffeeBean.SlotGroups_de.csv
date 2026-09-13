@@ -293,3 +293,21 @@ Cup Liquid,Cup Liquid,Tasse Flüssigkeit,False
 Interact Hand,Interact Hand,Hand interagieren,False
 Progress Bar Container,Progress Bar Container,Fortschrittsbalkencontainer,False
 Progress Bar Fill,Progress Bar Fill,Fortschrittsbalken füllen,False
+Beverag Can Outline, Beverage Can Outline,Umriss einer Getränkedose,False
+Beverage Can Print, Beverage Can Print,Getränkedose drucken,False
+Glasses Lens, Glasses Lens,Brillenglas,False
+Headphone Earcup >>, Headphone Earcup >>,Kopfhörer-Ohrmuschel >>,False
+Headphone Earcup <<, Headphone Earcup <<,Kopfhörer-Ohrmuschel <<,False
+Headphone Headband, Headphone Headband,Kopfhörer-Stirnband,False
+Ice Cream, Ice Cream,Eiscreme,False
+Ice Cream Cone, Ice Cream Cone,Eistüte,False
+Nerd Glasses, Nerd Glasses,Nerd-Brille,False
+Nerd Glasses Spiral, Nerd Glasses Spiral,Nerd-Brillenspirale,False
+Nerd Hand, Nerd Hand,Nerd-Hand,False
+Nerd Teeth, Nerd Teeth,Nerd-Zähne,False
+Pillow, Pillow,Kissen,False
+Popsicle, Popsicle,Eis am Stiel,False
+Popsicle Stick, Popsicle Stick,Eis am Stiel,False
+Water, Water,Wasser,False
+Water Highlight, Water Highlight,Wasser-Highlight,False
+Water Splash, Water Splash,Wasserspritzer,False
