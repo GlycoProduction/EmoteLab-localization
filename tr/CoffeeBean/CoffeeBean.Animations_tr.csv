@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,Köpüklü 3,False
 Stop,Stop,Durmak,False
 Wiggle 1,Wiggle 1,Kıpırdat 1,False
 Wiggle 2,Wiggle 2,Kıpırdat 2,False
+Battery (Charge),Battery (Charge),Batarya (Şarj),False
+Battery (Low),Battery (Low),Pil (Düşük),False
+Bite 1,Bite 1,Isırmak 1,False
+Bite 2,Bite 2,Isırık 2,False
+Blow Nose,Blow Nose,Burun Sümük,False
+Blushing 1,Blushing 1,Kızarma 1,False
+Blushing 2,Blushing 2,Kızarma 2,False
+Bongo (Frame),Bongo (Frame),Bongo (Çerçeve),False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),Bongo (Çerçeve Sol),False
+Bongo (Frame RightHand),Bongo (Frame RightHand),Bongo (Sağ El Çerçevesi),False
+Bongo (Smooth),Bongo (Smooth),Bongo (Smooth),False
+Book (Blush),Book (Blush),Kitap (Kızarık),False
+Book (Read),Book (Read),Kitap (Oku),False
+Cauldron (Magic1),Cauldron (Magic1),Kazan (Magic1),False
+Cauldron (Magic2),Cauldron (Magic2),Kazan (Magic2),False
+Cauldron (Stir1),Cauldron (Stir1),Kazan (Stir1),False
+Cauldron (Stir2),Cauldron (Stir2),Kazan (Stir2),False
+Draw (Angry),Draw (Angry),Berabere (Öfkeli),False
+Draw (Normal),Draw (Normal),Draw (Normal),False
+Draw (Tired),Draw (Tired),Beraberlik (Yorgun),False
+Hurt,Hurt,Acı,False
+Nervous 3,Nervous 3,Nervous 3,False
+Pumpkin,Pumpkin,Balkabağı,False
+Scared (Cross),Scared (Cross),Korkmuş (Cross),False
+Sick,Sick,Hasta,False
+Sick (Bed),Sick (Bed),Hasta (Yatak),False
+Sweat (Wipe1),Sweat (Wipe1),Ter (Wipe1),False
+Sweat (Wipe2),Sweat (Wipe2),Sweat (Wipe2),False

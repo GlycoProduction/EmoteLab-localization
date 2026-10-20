@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,Glittrande 3,False
 Stop,Stop,Stopp,False
 Wiggle 1,Wiggle 1,Vicka 1,False
 Wiggle 2,Wiggle 2,Vicka 2,False
+Battery (Charge),Battery (Charge),Batteri (laddning),False
+Battery (Low),Battery (Low),Batteri (lågt),False
+Bite 1,Bite 1,Bit 1,False
+Bite 2,Bite 2,Bit 2,False
+Blow Nose,Blow Nose,Snyta sig,False
+Blushing 1,Blushing 1,Rodnar 1,False
+Blushing 2,Blushing 2,Rodnar 2,False
+Bongo (Frame),Bongo (Frame),Bongo (ram),False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),Bongo (Frame LeftHand),False
+Bongo (Frame RightHand),Bongo (Frame RightHand),Bongo (Frame RightHand),False
+Bongo (Smooth),Bongo (Smooth),Bongo (Slät),False
+Book (Blush),Book (Blush),Bok (Rouge),False
+Book (Read),Book (Read),Bok (Läst),False
+Cauldron (Magic1),Cauldron (Magic1),Kittel (Magic1),False
+Cauldron (Magic2),Cauldron (Magic2),Kittel (Magic2),False
+Cauldron (Stir1),Cauldron (Stir1),Kittel (Stir1),False
+Cauldron (Stir2),Cauldron (Stir2),Kittel (Stir2),False
+Draw (Angry),Draw (Angry),Draw (Arg),False
+Draw (Normal),Draw (Normal),Drag (Normal),False
+Draw (Tired),Draw (Tired),Rems (Trött),False
+Hurt,Hurt,Skadad,False
+Nervous 3,Nervous 3,Nervös 3,False
+Pumpkin,Pumpkin,Pumpkin,False
+Scared (Cross),Scared (Cross),Rädd (Cross),False
+Sick,Sick,Sjukt,False
+Sick (Bed),Sick (Bed),Sjuk (Bed),False
+Sweat (Wipe1),Sweat (Wipe1),Sweat (Wipe1),False
+Sweat (Wipe2),Sweat (Wipe2),Sweat (Wipe2),False

@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,스파클링 3,False
 Stop,Stop,멈추다,False
 Wiggle 1,Wiggle 1,흔들기 1,False
 Wiggle 2,Wiggle 2,흔들기 2,False
+Battery (Charge),Battery (Charge),배터리 (충전),False
+Battery (Low),Battery (Low),배터리 (저전력),False
+Bite 1,Bite 1,첫 번째 물기,False
+Bite 2,Bite 2,두 번째 물기,False
+Blow Nose,Blow Nose,노즈 불기,False
+Blushing 1,Blushing 1,홍조 1,False
+Blushing 2,Blushing 2,블러싱 2,False
+Bongo (Frame),Bongo (Frame),봉고 (프레임),False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),봉고 (프레임 레프트핸드),False
+Bongo (Frame RightHand),Bongo (Frame RightHand),봉고 (프레임 라이트핸드),False
+Bongo (Smooth),Bongo (Smooth),봉고 (부드러움),False
+Book (Blush),Book (Blush),책 (블러쉬),False
+Book (Read),Book (Read),책 (읽음),False
+Cauldron (Magic1),Cauldron (Magic1),가마솥 (매직 1),False
+Cauldron (Magic2),Cauldron (Magic2),가마솥 (매직2),False
+Cauldron (Stir1),Cauldron (Stir1),가마솥 (Stir1),False
+Cauldron (Stir2),Cauldron (Stir2),가마솥 (Stir2),False
+Draw (Angry),Draw (Angry),드로우 (분노),False
+Draw (Normal),Draw (Normal),드로우 (노멀),False
+Draw (Tired),Draw (Tired),드로우 (피곤함),False
+Hurt,Hurt,아팠다,False
+Nervous 3,Nervous 3,긴장한 3,False
+Pumpkin,Pumpkin,호박,False
+Scared (Cross),Scared (Cross),스케어드 (크로스),False
+Sick,Sick,아프다,False
+Sick (Bed),Sick (Bed),병든 (침대),False
+Sweat (Wipe1),Sweat (Wipe1),땀 (Wipe1),False
+Sweat (Wipe2),Sweat (Wipe2),땀 (Wipe2),False

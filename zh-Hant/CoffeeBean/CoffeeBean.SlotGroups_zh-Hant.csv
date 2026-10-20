@@ -311,3 +311,25 @@ Popsicle Stick, Popsicle Stick,冰棒 木棒,False
 Water, Water,水,False
 Water Highlight, Water Highlight,水 高光,False
 Water Splash, Water Splash,水 濺射,False
+Bandage,Bandage,創可貼,True
+Battery,Battery,電池,False
+Battery Percent 1,Battery Percent 1,電池百分比 1,False
+Battery Percent 2,Battery Percent 2,電池百分比 2,False
+Battery Percent 3,Battery Percent 3,電池百分比 3,False
+Bite Arm,Bite Arm,咬 手臂,False
+Bite Blood,Bite Blood,咬 血,False
+Blush Blur,Blush Blur,腮紅 模糊,False
+Blush Lines,Blush Lines,腮紅 線條,False
+Bongo Body,Bongo Body,拍桌 身體,False
+Book,Book,書,False
+Book Pages,Book Pages,書頁,False
+Cauldron,Cauldron,鍋,False
+Cauldron Liquid,Cauldron Liquid,爐 液體,False
+Cross Color,Cross Color,十字 色,False
+Cross Shadow Outline,Cross Shadow Outline,十字 陰影 輪廓,False
+Cross Reflection,Cross Reflection,十字 反射,False
+Handkerchief,Handkerchief,手帕,False
+Ice Bag,Ice Bag,冰袋,False
+Cauldron Stir Stick,Cauldron Stir Stick,鍋 攪拌棒,False
+Thermometer,Thermometer,溫度計,False
+Thermometer Glass,Thermometer Glass,溫度計 玻璃,False

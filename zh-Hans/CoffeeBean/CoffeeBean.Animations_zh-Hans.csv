@@ -208,5 +208,33 @@ Pillow (Rub2),Pillow (Rub2),枕头(蹭2),True
 Shy 3,Shy 3,害羞 3,True
 Sparkling 3,Sparkling 3,期待 3,True
 Stop,Stop,停止,True
-Wiggle 1,Wiggle 1,摆动 1,True
+Wiggle 1,Wiggle 1,摇摆 1,True
 Wiggle 2,Wiggle 2,摇摆 2,True
+Battery (Charge),Battery (Charge),电池(充电),True
+Battery (Low),Battery (Low),电池(低电位),True
+Bite 1,Bite 1,咬 1,True
+Bite 2,Bite 2,咬 2,True
+Blow Nose,Blow Nose,吹鼻子,True
+Blushing 1,Blushing 1,脸红 1,True
+Blushing 2,Blushing 2,脸红 2,True
+Bongo (Frame),Bongo (Frame),拍桌(帧),True
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),拍桌(左手帧),True
+Bongo (Frame RightHand),Bongo (Frame RightHand),拍桌(右手帧),True
+Bongo (Smooth),Bongo (Smooth),拍桌(平滑),True
+Book (Blush),Book (Blush),书(脸红),True
+Book (Read),Book (Read),书(阅读),True
+Cauldron (Magic1),Cauldron (Magic1),锅(魔法1),True
+Cauldron (Magic2),Cauldron (Magic2),锅(魔法2),True
+Cauldron (Stir1),Cauldron (Stir1),锅(搅拌1),True
+Cauldron (Stir2),Cauldron (Stir2),锅(搅拌2),True
+Draw (Angry),Draw (Angry),画画(生气),True
+Draw (Normal),Draw (Normal),画画(普通),True
+Draw (Tired),Draw (Tired),画画(疲惫),True
+Hurt,Hurt,受伤,True
+Nervous 3,Nervous 3,紧张 3,True
+Pumpkin,Pumpkin,南瓜,True
+Scared (Cross),Scared (Cross),害怕(十字架),True
+Sick,Sick,生病,True
+Sick (Bed),Sick (Bed),生病(床),True
+Sweat (Wipe1),Sweat (Wipe1),汗水(擦1),True
+Sweat (Wipe2),Sweat (Wipe2),汗水(擦2),True

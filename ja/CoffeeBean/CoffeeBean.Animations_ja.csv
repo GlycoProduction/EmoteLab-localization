@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,スパークリング3,False
 Stop,Stop,停止,False
 Wiggle 1,Wiggle 1,ウィグル 1,False
 Wiggle 2,Wiggle 2,ウィグル 2,False
+Battery (Charge),Battery (Charge),バッテリー(チャージ),False
+Battery (Low),Battery (Low),バッテリー(低),False
+Bite 1,Bite 1,バイト1,False
+Bite 2,Bite 2,バイト2,False
+Blow Nose,Blow Nose,ブローノーズ,False
+Blushing 1,Blushing 1,赤面 1,False
+Blushing 2,Blushing 2,赤面2,False
+Bongo (Frame),Bongo (Frame),ボンゴ(フレーム),False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),ボンゴ(フレーム・レフトハンド),False
+Bongo (Frame RightHand),Bongo (Frame RightHand),ボンゴ(フレーム・ライトハンド),False
+Bongo (Smooth),Bongo (Smooth),ボンゴ(滑らか),False
+Book (Blush),Book (Blush),ブック(ブラッシュ),False
+Book (Read),Book (Read),書籍(読書),False
+Cauldron (Magic1),Cauldron (Magic1),大釜(マジック1),False
+Cauldron (Magic2),Cauldron (Magic2),大釜(マジック2),False
+Cauldron (Stir1),Cauldron (Stir1),大釜(Stir1),False
+Cauldron (Stir2),Cauldron (Stir2),大釜(Stir2),False
+Draw (Angry),Draw (Angry),ドロー(怒り),False
+Draw (Normal),Draw (Normal),ドロー(ノーマル),False
+Draw (Tired),Draw (Tired),ドロー(疲れている),False
+Hurt,Hurt,痛い,False
+Nervous 3,Nervous 3,緊張 3,False
+Pumpkin,Pumpkin,パンプキン,False
+Scared (Cross),Scared (Cross),スケアド(クロス),False
+Sick,Sick,気持ち悪い,False
+Sick (Bed),Sick (Bed),シック(ベッド),False
+Sweat (Wipe1),Sweat (Wipe1),スウェット(Wipe1),False
+Sweat (Wipe2),Sweat (Wipe2),スウェット(Wipe2),False

@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,Игристое 3,False
 Stop,Stop,Останавливаться,False
 Wiggle 1,Wiggle 1,Покачивание 1,False
 Wiggle 2,Wiggle 2,Покачивание 2,False
+Battery (Charge),Battery (Charge),Батарея (заряд),False
+Battery (Low),Battery (Low),Батарея (Low),False
+Bite 1,Bite 1,Укус 1,False
+Bite 2,Bite 2,Укус 2,False
+Blow Nose,Blow Nose,Высморкание,False
+Blushing 1,Blushing 1,Покраснение 1,False
+Blushing 2,Blushing 2,Краснение 2,False
+Bongo (Frame),Bongo (Frame),Бонго (рамка),False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),Bongo (FrameLeftHand),False
+Bongo (Frame RightHand),Bongo (Frame RightHand),Bongo (Frame RightHand),False
+Bongo (Smooth),Bongo (Smooth),Бонго (Гладкий),False
+Book (Blush),Book (Blush),Книга (Румяна),False
+Book (Read),Book (Read),Книга (читать),False
+Cauldron (Magic1),Cauldron (Magic1),Котёл (Magic1),False
+Cauldron (Magic2),Cauldron (Magic2),Котёл (Magic2),False
+Cauldron (Stir1),Cauldron (Stir1),Котёл (Stir1),False
+Cauldron (Stir2),Cauldron (Stir2),Котёл (Stir2),False
+Draw (Angry),Draw (Angry),Ничья (Злой),False
+Draw (Normal),Draw (Normal),Дотягивание (обычное),False
+Draw (Tired),Draw (Tired),Дотягивание (усталость),False
+Hurt,Hurt,Боль,False
+Nervous 3,Nervous 3,Нервный 3,False
+Pumpkin,Pumpkin,Тыква,False
+Scared (Cross),Scared (Cross),Испуганный (Кросс),False
+Sick,Sick,Круто,False
+Sick (Bed),Sick (Bed),Боль (постель),False
+Sweat (Wipe1),Sweat (Wipe1),Sweat (Wipe1),False
+Sweat (Wipe2),Sweat (Wipe2),Sweat (Wipe2),False

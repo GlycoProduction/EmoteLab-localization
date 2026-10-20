@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,Funkelnd 3,False
 Stop,Stop,Stoppen,False
 Wiggle 1,Wiggle 1,Wackeln 1,False
 Wiggle 2,Wiggle 2,Wackeln 2,False
+Battery (Charge),Battery (Charge),Batterie (Ladung),False
+Battery (Low),Battery (Low),Batterie (Niedrig),False
+Bite 1,Bite 1,Biss 1,False
+Bite 2,Bite 2,Biss 2,False
+Blow Nose,Blow Nose,Nasenschnäuzen,False
+Blushing 1,Blushing 1,Erröten 1,False
+Blushing 2,Blushing 2,Erröten 2,False
+Bongo (Frame),Bongo (Frame),Bongo (Rahmen),False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),Bongo (Frame LeftHand),False
+Bongo (Frame RightHand),Bongo (Frame RightHand),Bongo (Frame RightHand),False
+Bongo (Smooth),Bongo (Smooth),Bongo (Sanft),False
+Book (Blush),Book (Blush),Buch (Rouge),False
+Book (Read),Book (Read),Buch (Lesen),False
+Cauldron (Magic1),Cauldron (Magic1),Kessel (Magie1),False
+Cauldron (Magic2),Cauldron (Magic2),Kessel (Magic2),False
+Cauldron (Stir1),Cauldron (Stir1),Kessel (Stir1),False
+Cauldron (Stir2),Cauldron (Stir2),Kessel (Stir2),False
+Draw (Angry),Draw (Angry),Ziehen (Wütend),False
+Draw (Normal),Draw (Normal),Ziehen (Normal),False
+Draw (Tired),Draw (Tired),Draw (Müde),False
+Hurt,Hurt,Verletzt,False
+Nervous 3,Nervous 3,Nervös 3,False
+Pumpkin,Pumpkin,Kürbis,False
+Scared (Cross),Scared (Cross),Scared (Cross),False
+Sick,Sick,Krank,False
+Sick (Bed),Sick (Bed),Sick (Bett),False
+Sweat (Wipe1),Sweat (Wipe1),Sweat (Wipe1),False
+Sweat (Wipe2),Sweat (Wipe2),Sweat (Wipe2),False

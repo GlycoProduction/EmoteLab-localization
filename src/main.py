@@ -1,17 +1,11 @@
+import html
 import os
 import pathlib
 import time
+import uuid
 
 import pandas as pd
 import requests
-from bs4 import BeautifulSoup
-from deep_translator import GoogleTranslator
-from deep_translator.exceptions import (
-    RequestError,
-    TooManyRequests,
-    TranslationNotFound,
-)
-from deep_translator.validate import is_empty, is_input_valid, request_failed
 
 """
 input:
@@ -27,6 +21,8 @@ dct = {
 3. machine translate missing items based on dct
 4. collate, summarize
 
+Set AZURE_TRANSLATOR_KEY (and usually AZURE_TRANSLATOR_REGION) from an Azure Translator resource.
+See the Azure setup notes at the bottom of this file's run error, or README-style comment in azure_credentials().
 """
 
 dct_langs = {
@@ -48,84 +44,138 @@ dct_langs = {
     'sk': 'en',
 }
 
-# Pretend to be a browser
-_BROWSER_HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/122.0.0.0 Safari/537.36"
-    ),
-}
+_AZURE_BATCH_SIZE = 1000  # Azure max array elements per request
+_AZURE_MAX_CHARS = 50000  # Azure max characters per request
 
 
-class BrowserGoogleTranslator(GoogleTranslator):
-    """GoogleTranslator that sends a browser User-Agent (required by translate.google.com/m)."""
+class MissingApiKeyError(RuntimeError):
+    pass
 
-    def translate(self, text: str, **kwargs) -> str:
-        if not is_input_valid(text, max_chars=5000):
-            return text
-        text = text.strip()
-        if self._same_source_target() or is_empty(text):
-            return text
+
+def _load_dotenv():
+    """Load KEY=VALUE pairs from .env without overriding real environment variables."""
+    here = pathlib.Path(__file__).resolve()
+    for path in (here.parent / ".env", here.parent.parent / ".env"):
+        if not path.is_file():
+            continue
+        for raw in path.read_text(encoding="utf-8").splitlines():
+            line = raw.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            key = key.strip()
+            value = value.strip().strip('"').strip("'")
+            os.environ.setdefault(key, value)
+
+
+def azure_credentials():
+    _load_dotenv()
+    key = os.environ.get("AZURE_TRANSLATOR_KEY")
+    region = os.environ.get("AZURE_TRANSLATOR_REGION", "").strip()
+    endpoint = os.environ.get(
+        "AZURE_TRANSLATOR_ENDPOINT", "https://api.cognitive.microsofttranslator.com"
+    ).rstrip("/")
+    if not key:
+        raise MissingApiKeyError(
+            "Azure Translator needs a resource key.\n"
+            "1. Create a free Azure account: https://azure.microsoft.com/free/\n"
+            "2. In Azure Portal, create a Translator resource (pricing tier F0).\n"
+            "3. Open Keys and Endpoint; copy Key 1 and Location/Region.\n"
+            "4. Set AZURE_TRANSLATOR_KEY and AZURE_TRANSLATOR_REGION "
+            "(in the environment or a .env file next to main.py)."
+        )
+    return key, region, endpoint
+
+
+class AzureTranslator:
+    """Official Azure Translator Text API v3."""
+
+    def __init__(self, source: str, target: str, credentials=None):
+        self.source = source
+        self.target = target
+        key, region, endpoint = credentials or azure_credentials()
+        self.api_key = key
+        self.region = region
+        self.endpoint = endpoint
+
+    def translate(self, text: str) -> str:
+        return self.translate_batch([text])[0]
+
+    def translate_batch(self, texts: list[str]) -> list[str]:
+        out = [""] * len(texts)
+        pending = [
+            i for i, text in enumerate(texts)
+            if isinstance(text, str) and text.strip()
+        ]
+        start = 0
+        while start < len(pending):
+            chunk = []
+            chars = 0
+            while start + len(chunk) < len(pending) and len(chunk) < _AZURE_BATCH_SIZE:
+                idx = pending[start + len(chunk)]
+                piece = texts[idx].strip()
+                if chunk and chars + len(piece) > _AZURE_MAX_CHARS:
+                    break
+                chunk.append(idx)
+                chars += len(piece)
+            translated = self._request([texts[i].strip() for i in chunk])
+            for i, value in zip(chunk, translated):
+                out[i] = value
+            start += len(chunk)
+        return out
+
+    def _request(self, queries: list[str]) -> list[str]:
+        headers = {
+            "Ocp-Apim-Subscription-Key": self.api_key,
+            "Content-Type": "application/json; charset=UTF-8",
+            "X-ClientTraceId": str(uuid.uuid4()),
+        }
+        if self.region:
+            headers["Ocp-Apim-Subscription-Region"] = self.region
 
         last_error = None
         for attempt in range(3):
             try:
-                return self._translate_once(text)
-            except (TranslationNotFound, RequestError, TooManyRequests, requests.RequestException) as ex:
+                response = requests.post(
+                    f"{self.endpoint}/translate",
+                    params={
+                        "api-version": "3.0",
+                        "from": self.source,
+                        "to": self.target,
+                        "textType": "plain",
+                    },
+                    headers=headers,
+                    json=[{"Text": text} for text in queries],
+                    timeout=60,
+                )
+            except requests.RequestException as ex:
                 last_error = ex
                 time.sleep(1.5 * (attempt + 1))
+                continue
+
+            if response.status_code == 429:
+                retry_after = response.headers.get("Retry-After")
+                wait_s = int(retry_after) if retry_after and retry_after.isdigit() else 2 ** (attempt + 2)
+                print(f"[rate-limit] Azure Translator 429; retrying in {wait_s}s")
+                time.sleep(wait_s)
+                last_error = RuntimeError(response.text)
+                continue
+            if response.status_code >= 400:
+                raise RuntimeError(
+                    f"Azure Translator HTTP {response.status_code}: {response.text}"
+                )
+
+            payload = response.json()
+            if len(payload) != len(queries):
+                raise RuntimeError(
+                    f"Azure Translator returned {len(payload)} results "
+                    f"for {len(queries)} inputs"
+                )
+            return [
+                html.unescape(item["translations"][0].get("text", "")).strip()
+                for item in payload
+            ]
         raise last_error
-
-    def _translate_once(self, text: str) -> str:
-        self._url_params["tl"] = self._target
-        self._url_params["sl"] = self._source
-
-        if self.payload_key:
-            self._url_params[self.payload_key] = text
-
-        response = requests.get(
-            self._base_url,
-            params=self._url_params,
-            proxies=self.proxies,
-            headers=_BROWSER_HEADERS,
-            timeout=30,
-        )
-        if response.status_code == 429:
-            raise TooManyRequests()
-
-        if request_failed(status_code=response.status_code):
-            raise RequestError()
-
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        element = soup.find(self._element_tag, self._element_query)
-        response.close()
-
-        if not element:
-            element = soup.find(self._element_tag, self._alt_element_query)
-            if not element:
-                raise TranslationNotFound(text)
-        if element.get_text(strip=True) == text.strip():
-            to_translate_alpha = "".join(
-                ch for ch in text.strip() if ch.isalnum()
-            )
-            translated_alpha = "".join(
-                ch for ch in element.get_text(strip=True) if ch.isalnum()
-            )
-            if (
-                to_translate_alpha
-                and translated_alpha
-                and to_translate_alpha == translated_alpha
-            ):
-                self._url_params["tl"] = self._target
-                if "hl" not in self._url_params:
-                    return text.strip()
-                del self._url_params["hl"]
-                return self._translate_once(text)
-
-        else:
-            return element.get_text(strip=True)
 
 
 class CSVFile:
@@ -179,34 +229,24 @@ class LanguageCSVFile(CSVFile):
         translate_msk = (self.df[self.lang] == "") & (~self.df["reviewed"].astype(bool))
         translate_msk &= self.df[src_lang] != ""
         if translate_msk.any():
-            if self.lang == 'zh-Hant':
-                translation_target = 'zh-TW'
-            elif self.lang == 'zh-Hans':
-                translation_target = 'zh-CN'
-            elif self.lang == 'pt-br':
-                translation_target = 'pt'
+            if self.lang == 'pt-br':
+                translation_target = 'pt'  # Azure: pt = Brazilian Portuguese
             else:
+                # zh-Hans / zh-Hant already match Azure language codes
                 translation_target = self.lang
 
-            print(f'translating {sum(translate_msk)} entries for {translation_target} from {src_lang}...')
-            translator = BrowserGoogleTranslator(source=src_lang, target=translation_target)
-            def safe_translate_row(row):
-                src_text = row[src_lang]
-                try:
-                    result = translator.translate(src_text)
-                    time.sleep(0.35)  # rate limit
-                    return result
-                except Exception as ex:
-                    key = row.get('Key', '<unknown-key>')
-                    print(
-                        f'[warn] translation failed for {self.lang} key="{key}" text="{src_text}": {ex}'
-                    )
-                    # Leave empty so a later run can retry (do not fallback toEnglish).
-                    return ""
+            n = int(translate_msk.sum())
+            print(f'translating {n} entries for {translation_target} from {src_lang}...')
+            src_texts = self.df.loc[translate_msk, src_lang].astype(str).tolist()
+            try:
+                translator = AzureTranslator(source=src_lang, target=translation_target)
+                results = translator.translate_batch(src_texts)
+            except Exception as ex:
+                print(f'[warn] batch translation failed for {self.lang}: {ex}')
+                # Leave empty so a later run can retry (do not fallback to English).
+                results = [""] * n
 
-            self.df.loc[translate_msk, self.lang] = self.df[translate_msk].apply(
-                safe_translate_row, axis="columns"
-            )
+            self.df.loc[translate_msk, self.lang] = results
 
     def summary(self):
         return self.df.loc[:, 'reviewed'].sum(), len(self.df)
@@ -334,5 +374,6 @@ class Collator:
                 ).drop(columns=ld.files[langfp].key)
 
 if __name__ == "__main__":
+    azure_credentials()
     c = Collator(dct_langs, f"..{os.sep}_collage")
     c.update_collate()
