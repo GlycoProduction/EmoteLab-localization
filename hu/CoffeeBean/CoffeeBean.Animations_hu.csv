@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,Szikrázó 3,False
 Stop,Stop,Stop,False
 Wiggle 1,Wiggle 1,Mozgás 1,False
 Wiggle 2,Wiggle 2,Mozgás 2,False
+Battery (Charge),Battery (Charge),Akkumulátor (töltés),False
+Battery (Low),Battery (Low),Akkumulátor (alacsony),False
+Bite 1,Bite 1,Harapás 1,False
+Bite 2,Bite 2,Bite 2,False
+Blow Nose,Blow Nose,Fújt orr,False
+Blushing 1,Blushing 1,Elpirulás 1,False
+Blushing 2,Blushing 2,Elpirulás 2,False
+Bongo (Frame),Bongo (Frame),Bongo (keret),False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),Bongo (Frame LeftHand),False
+Bongo (Frame RightHand),Bongo (Frame RightHand),Bongo (Frame RightHand),False
+Bongo (Smooth),Bongo (Smooth),Bongo (Smooth),False
+Book (Blush),Book (Blush),Könyv (Bírulás),False
+Book (Read),Book (Read),Könyv (Olvasd),False
+Cauldron (Magic1),Cauldron (Magic1),Üstön (Magic1),False
+Cauldron (Magic2),Cauldron (Magic2),Üstön (Magic2),False
+Cauldron (Stir1),Cauldron (Stir1),Üstön (Stir1),False
+Cauldron (Stir2),Cauldron (Stir2),Üstön (Stir2),False
+Draw (Angry),Draw (Angry),Draw (Dühös),False
+Draw (Normal),Draw (Normal),Húzás (normális),False
+Draw (Tired),Draw (Tired),Draw (Fáradt),False
+Hurt,Hurt,Fájdalmas,False
+Nervous 3,Nervous 3,Ideges 3,False
+Pumpkin,Pumpkin,Tök,False
+Scared (Cross),Scared (Cross),Fél (Cross),False
+Sick,Sick,Beteg,False
+Sick (Bed),Sick (Bed),Beteg (ágy),False
+Sweat (Wipe1),Sweat (Wipe1),Izzadság (Wipe1),False
+Sweat (Wipe2),Sweat (Wipe2),Izzadság (Wipe2),False

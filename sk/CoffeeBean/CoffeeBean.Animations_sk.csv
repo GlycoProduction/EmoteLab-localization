@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,Šumivé 3,False
 Stop,Stop,Stop,False
 Wiggle 1,Wiggle 1,Krútenie 1,False
 Wiggle 2,Wiggle 2,Krútenie 2,False
+Battery (Charge),Battery (Charge),Batéria (nabíjanie),False
+Battery (Low),Battery (Low),Batéria (nízka),False
+Bite 1,Bite 1,Uhryznutie 1,False
+Bite 2,Bite 2,Záber 2,False
+Blow Nose,Blow Nose,Fúkanie nosa,False
+Blushing 1,Blushing 1,Červenanie 1,False
+Blushing 2,Blushing 2,Červenanie 2,False
+Bongo (Frame),Bongo (Frame),Bongo (rám),False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),Bongo (Frame LeftHand),False
+Bongo (Frame RightHand),Bongo (Frame RightHand),Bongo (Frame RightHand),False
+Bongo (Smooth),Bongo (Smooth),Bongo (Smooth),False
+Book (Blush),Book (Blush),Kniha (Blush),False
+Book (Read),Book (Read),Kniha (čítať),False
+Cauldron (Magic1),Cauldron (Magic1),Kotlík (Magic1),False
+Cauldron (Magic2),Cauldron (Magic2),Kotlík (Magic2),False
+Cauldron (Stir1),Cauldron (Stir1),Kotlík (Stir1),False
+Cauldron (Stir2),Cauldron (Stir2),Kotlík (Stir2),False
+Draw (Angry),Draw (Angry),Draw (nahnevaný),False
+Draw (Normal),Draw (Normal),Draw (Normálne),False
+Draw (Tired),Draw (Tired),Remíza (Unavený),False
+Hurt,Hurt,Bolesť,False
+Nervous 3,Nervous 3,Nervózny 3,False
+Pumpkin,Pumpkin,Tekvica,False
+Scared (Cross),Scared (Cross),Vystrašený (Cross),False
+Sick,Sick,Chorý,False
+Sick (Bed),Sick (Bed),Sick (Bed),False
+Sweat (Wipe1),Sweat (Wipe1),Pot (Wipe1),False
+Sweat (Wipe2),Sweat (Wipe2),Pot (Wipe2),False

@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,frizzante 3,False
 Stop,Stop,Fermare,False
 Wiggle 1,Wiggle 1,Muovere 1,False
 Wiggle 2,Wiggle 2,Muovere 2,False
+Battery (Charge),Battery (Charge),Batteria (Carica),False
+Battery (Low),Battery (Low),Batteria (Scarica),False
+Bite 1,Bite 1,Morso 1,False
+Bite 2,Bite 2,Morso 2,False
+Blow Nose,Blow Nose,Naso soffiante,False
+Blushing 1,Blushing 1,Arrossire 1,False
+Blushing 2,Blushing 2,Arrossire 2,False
+Bongo (Frame),Bongo (Frame),Bongo (cornice),False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),Bongo (Frame Mancino),False
+Bongo (Frame RightHand),Bongo (Frame RightHand),Bongo (Frame Destro),False
+Bongo (Smooth),Bongo (Smooth),Bongo (Liscio),False
+Book (Blush),Book (Blush),Libro (Blush),False
+Book (Read),Book (Read),Libro (Lettura),False
+Cauldron (Magic1),Cauldron (Magic1),Calderone (Magic1),False
+Cauldron (Magic2),Cauldron (Magic2),Calderone (Magic2),False
+Cauldron (Stir1),Cauldron (Stir1),Calderone (Agitazione1),False
+Cauldron (Stir2),Cauldron (Stir2),Calderone (Stir2),False
+Draw (Angry),Draw (Angry),Draw (Arrabbiato),False
+Draw (Normal),Draw (Normal),Draw (Normale),False
+Draw (Tired),Draw (Tired),Draw (Stanco),False
+Hurt,Hurt,Dolore,False
+Nervous 3,Nervous 3,Nervoso 3,False
+Pumpkin,Pumpkin,Zucca,False
+Scared (Cross),Scared (Cross),Spaventati (Cross),False
+Sick,Sick,Malata,False
+Sick (Bed),Sick (Bed),Malata (A letto),False
+Sweat (Wipe1),Sweat (Wipe1),Sudore (Salvietta 1),False
+Sweat (Wipe2),Sweat (Wipe2),Sudore (Salvietta 2),False

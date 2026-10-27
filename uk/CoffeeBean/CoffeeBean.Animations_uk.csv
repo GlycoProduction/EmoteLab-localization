@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,Ігристе 3,False
 Stop,Stop,СТІЙ,False
 Wiggle 1,Wiggle 1,Wiggle 1,False
 Wiggle 2,Wiggle 2,Wiggle 2,False
+Battery (Charge),Battery (Charge),Акумулятор (заряд),False
+Battery (Low),Battery (Low),Батарея (низька),False
+Bite 1,Bite 1,Укус 1,False
+Bite 2,Bite 2,Укус 2,False
+Blow Nose,Blow Nose,Висмокка,False
+Blushing 1,Blushing 1,Рум'янець 1,False
+Blushing 2,Blushing 2,Рум'янець 2,False
+Bongo (Frame),Bongo (Frame),Бонго (рамка),False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),Бонго (Ліворукий кадр),False
+Bongo (Frame RightHand),Bongo (Frame RightHand),Бонго (Правий кадр),False
+Bongo (Smooth),Bongo (Smooth),Бонго (Гладкий),False
+Book (Blush),Book (Blush),Книга (рум'янець),False
+Book (Read),Book (Read),Книга (читати),False
+Cauldron (Magic1),Cauldron (Magic1),Казан (Magic1),False
+Cauldron (Magic2),Cauldron (Magic2),Казан (Magic2),False
+Cauldron (Stir1),Cauldron (Stir1),Казан (Stir1),False
+Cauldron (Stir2),Cauldron (Stir2),Казан (Stir2),False
+Draw (Angry),Draw (Angry),Нічия (Сердитий),False
+Draw (Normal),Draw (Normal),Витяг (Звичайний),False
+Draw (Tired),Draw (Tired),Жеребкування (втомлено),False
+Hurt,Hurt,Боляче,False
+Nervous 3,Nervous 3,Нервовий 3,False
+Pumpkin,Pumpkin,Гарбуз,False
+Scared (Cross),Scared (Cross),Наляканий (Крос),False
+Sick,Sick,Круто,False
+Sick (Bed),Sick (Bed),Sick (ліжко),False
+Sweat (Wipe1),Sweat (Wipe1),Піт (Wipe1),False
+Sweat (Wipe2),Sweat (Wipe2),Піт (Wipe2),False

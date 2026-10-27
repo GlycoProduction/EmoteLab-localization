@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,ประกาย 3,False
 Stop,Stop,หยุด,False
 Wiggle 1,Wiggle 1,กระดิก 1,False
 Wiggle 2,Wiggle 2,กระดิก 2,False
+Battery (Charge),Battery (Charge),แบตเตอรี่ (ชาร์จ),False
+Battery (Low),Battery (Low),แบตเตอรี่ (ต่ํา),False
+Bite 1,Bite 1,Bite 1,False
+Bite 2,Bite 2,Bite 2,False
+Blow Nose,Blow Nose,สั่งน้ํามูก,False
+Blushing 1,Blushing 1,การหน้าแดง 1,False
+Blushing 2,Blushing 2,บลัชชิ่ง 2,False
+Bongo (Frame),Bongo (Frame),บองโก (เฟรม),False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),บองโก (เฟรมมือซ้าย),False
+Bongo (Frame RightHand),Bongo (Frame RightHand),บองโก (กรอบมือขวา),False
+Bongo (Smooth),Bongo (Smooth),บองโก้ (เรียบ),False
+Book (Blush),Book (Blush),หนังสือ (บลัช),False
+Book (Read),Book (Read),หนังสือ (อ่านแล้ว),False
+Cauldron (Magic1),Cauldron (Magic1),หม้อใหญ่ (Magic1),False
+Cauldron (Magic2),Cauldron (Magic2),หม้อใหญ่ (Magic2),False
+Cauldron (Stir1),Cauldron (Stir1),หม้อ (คน 1),False
+Cauldron (Stir2),Cauldron (Stir2),หม้อ (คน 2),False
+Draw (Angry),Draw (Angry),เสมอ (โกรธ),False
+Draw (Normal),Draw (Normal),จั่ว (ปกติ),False
+Draw (Tired),Draw (Tired),จั่ว (เหนื่อย),False
+Hurt,Hurt,เจ็บ,False
+Nervous 3,Nervous 3,ประสาท 3,False
+Pumpkin,Pumpkin,ฟักทอง,False
+Scared (Cross),Scared (Cross),กลัว (ครอส),False
+Sick,Sick,ป่วย,False
+Sick (Bed),Sick (Bed),ป่วย (เตียง),False
+Sweat (Wipe1),Sweat (Wipe1),เหงื่อ (เช็ดทําความสะอาด),False
+Sweat (Wipe2),Sweat (Wipe2),เหงื่อ (Wipe2),False

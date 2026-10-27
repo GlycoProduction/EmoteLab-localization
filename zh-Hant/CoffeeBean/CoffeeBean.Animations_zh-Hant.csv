@@ -210,3 +210,31 @@ Sparkling 3,Sparkling 3,期待 3,False
 Stop,Stop,停止,False
 Wiggle 1,Wiggle 1,擺動 1,False
 Wiggle 2,Wiggle 2,搖擺 2,False
+Battery (Charge),Battery (Charge),電池（充電）,False
+Battery (Low),Battery (Low),電池（低電位）,False
+Bite 1,Bite 1,咬 1,False
+Bite 2,Bite 2,咬 2,False
+Blow Nose,Blow Nose,吹鼻子,False
+Blushing 1,Blushing 1,臉紅 1,False
+Blushing 2,Blushing 2,臉紅 2,False
+Bongo (Frame),Bongo (Frame),拍桌（幀）,False
+Bongo (Frame LeftHand),Bongo (Frame LeftHand),拍桌（左手幀）,False
+Bongo (Frame RightHand),Bongo (Frame RightHand),拍桌（右手幀）,False
+Bongo (Smooth),Bongo (Smooth),拍桌（平滑）,False
+Book (Blush),Book (Blush),書（臉紅）,False
+Book (Read),Book (Read),書（閱讀）,False
+Cauldron (Magic1),Cauldron (Magic1),鍋（魔法1）,False
+Cauldron (Magic2),Cauldron (Magic2),鍋（魔法1）,False
+Cauldron (Stir1),Cauldron (Stir1),鍋（攪拌1）,False
+Cauldron (Stir2),Cauldron (Stir2),鍋（攪拌2）,False
+Draw (Angry),Draw (Angry),畫畫（憤怒）,False
+Draw (Normal),Draw (Normal),畫畫（普通）,False
+Draw (Tired),Draw (Tired),畫畫（疲憊）,False
+Hurt,Hurt,受傷,False
+Nervous 3,Nervous 3,緊張 3,False
+Pumpkin,Pumpkin,南瓜,False
+Scared (Cross),Scared (Cross),害怕（十字架）,False
+Sick,Sick,生病,False
+Sick (Bed),Sick (Bed),生病（床）,False
+Sweat (Wipe1),Sweat (Wipe1),汗水（Wipe1）,False
+Sweat (Wipe2),Sweat (Wipe2),汗水（Wipe2）,False
