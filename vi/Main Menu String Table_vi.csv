@@ -1,0 +1,278 @@
+Key,en,vi,reviewed
+MainMenu.TabHeaderLable.Editor,Editor,Trình chỉnh sửa,True
+MainMenu.Editor.CharacterPopup.DeleteCharacterPrompt,"Are you sure you want to delete character ""{0}""? This action cannot be undone.","Bạn có chắc muốn xóa nhân vật ""{0}""? Hành động này không thể hoàn tác.",True
+MainMenu.Editor.CharacterPopup.OverwriteCharacterPrompt,"Character ""{0}"" already exist. Are you sure you want to overwrite character ""{0}""? This action cannot be undone.","Nhân vật ""{0}"" đã tồn tại. Bạn có chắc muốn ghi đè nhân vật ""{0}""? Hành động này không thể hoàn tác.",True
+MainMenu.Confirm,Confirm,Xác nhận,True
+MainMenu.Cancel,Cancel,Hủy,True
+MainMenu.Editor.CharacterPopup.SaveCharacterPrompt,Please enter a character name:,Vui lòng nhập tên nhân vật:,True
+MainMenu.Editor.Model,Models,Mô hình,True
+MainMenu.Editor.Character,Character,Nhân vật,True
+MainMenu.Editor.Animation,Animation,Hoạt ảnh,True
+MainMenu.Editor.PartsSelection,Choose Parts,Chọn bộ phận,True
+MainMenu.Editor.PartsAdjustment,Adjustment,Tinh chỉnh,True
+MainMenu.Search,Search...,Tìm kiếm...,True
+MainMenu.Editor.SaveCharacter,Save Character,Lưu nhân vật,True
+MainMenu.Editor.Unload,Clear Character,Đặt lại nhân vật,True
+MainMenu.Editor.DeleteCharacter,Delete Character,Xóa nhân vật,True
+MainMenu.Editor.UseCustomTextures,Use Custom Textures,Sử dụng texture tùy chỉnh,True
+MainMenu.Editor.ReloadTextures,Reload Textures,Tải lại texture,True
+MainMenu.Editor.OpenCustomTextureFolder,Open Custom Texture Folder,Mở thư mục texture tùy chỉnh,True
+MainMenu.Editor.Color,Color,Màu sắc,True
+MainMenu.Editor.TintColor,TintColor,Màu nền,True
+MainMenu.Editor.TintBlackColor,TintBlackColor,Màu đường viền,True
+MainMenu.Editor.LICENSE,LICENSE,Giấy phép,True
+MainMenu.Editor.AssetTypeAA,Built-in,Tài nguyên mặc định,False
+MainMenu.Editor.AssetTypeSA,Third-Party,Tài nguyên ngoài,False
+MainMenu.Editor.UnloadCurrentModel,Unload Current Model,Đóng mô hình hiện tại,True
+MainMenu.Settings.GeneralSettings,General Settings,Cài đặt chung,True
+MainMenu.Settings.GeneralSettings.Language,Language,Ngôn ngữ,True
+MainMenu.Settings.ViewportSettings,Viewport Settings,Cài đặt màn hình làm việc,True
+MainMenu.Settings.ViewportSettings.ViewportZoomSpeed,Zoom Speed,Tốc độ phóng to/thu nhỏ,True
+MainMenu.Settings.ViewportSettings.ViewportRotationSpeed,Rotation Speed,Tốc độ xoay,True
+MainMenu.Settings.ViewportSettings.ModelScale,Model Scale,Kích thước mô hình,True
+MainMenu.Settings.ViewportSettings.ModelOffsetHorizontal,Offset Horizontal,Độ lệch ngang,True
+MainMenu.Settings.ViewportSettings.ModelOffsetVertical,Offset Vertical,Độ lệch dọc,True
+MainMenu.Settings.ViewportSettings.ResetViewportSettings,Reset Viewport Settings,Đặt lại cài đặt màn hình làm việc,True
+MainMenu.Settings.ExportSettings,Animation Export Settings,Cài đặt lưu hoạt ảnh,True
+MainMenu.Settings.ExportSettings.SaveLocation,Save Location,Đường dẫn lưu,True
+MainMenu.Settings.ExportSettings.ExportPresets,Export Presets,Xuất preset,True
+MainMenu.Settings.ExportSettings.Encoder,Encoder,Bộ mã hóa,True
+MainMenu.Settings.ExportSettings.Width,Width,Chiều rộng,True
+MainMenu.Settings.ExportSettings.Height,Height,Chiều cao,True
+MainMenu.Settings.ExportSettings.FPS,FPS,FPS,True
+MainMenu.Settings.ExportSettings.LimitMaxFrameCount,Limit Max. Frame Count,Giới hạn số khung hình tối đa,True
+MainMenu.Settings.ExportSettings.MaxFrameCount,Max. Frame Count,Số khung hình tối đa,True
+MainMenu.Settings.ExportSettings.AlphaThreshold,Alpha Threshold,Ngưỡng trong suốt,True
+MainMenu.Settings.ExportSettings.EnableDithering,Enable Dithering,Bật dithering,True
+MainMenu.Settings.ExportSettings.ResetExportSettings,Reset Export Settings,Đặt lại cài đặt lưu,True
+MainMenu.Editor.Export,Export Emote,Xuất emote,True
+LicensePopup.ThirdPartyLicense.Notice,License provided by the model creator. Displayed for reference only and does not represent the EmoteLab developer’s views or legal position. ,Đây là giấy phép do tác giả mô hình cung cấp. Chỉ hiển thị để tham khảo và không đại diện cho quan điểm hay lập trường pháp lý của nhà phát triển EmoteLab.,False
+LicensePopup.ThirdPartyLicense.NotFound,"The creator of this third-party model has not provided a license or usage terms with the model. Before using this model in public, commercial, or professional contexts, you should confirm the permitted scope of use directly with the model's creator.",Không tìm thấy giấy phép. Vui lòng kiểm tra với tác giả về phạm vi sử dụng được cho phép.,False
+LicensePopup.Close,Close,Đóng,True
+MainMenu.Editor.OpenExportFolder,Open Export Folder,Mở thư mục lưu,True
+MainMenu.Settings.ModelSettings.LoadSampleCharacters,Load Sample Characters for Built-in Models,Tải nhân vật mẫu từ mô hình tích hợp sẵn,True
+MainMenu.Settings.ModelSettings,Model Settings,Cài đặt mô hình,True
+MainMenu.Editor.CharacterPopup.SavingCharacter,Saving Character Data...,Đang lưu dữ liệu nhân vật...,True
+MainMenu.Editor.CharacterPopup.LoadingCharacter,Loading Character...,Đang tải nhân vật...,True
+MainMenu.Info.ThirdPartyLicense,Third Party Licenses,Giấy phép bên thứ ba,True
+MainMenu.Info.EmoteLabEULA,End User License Agreement (EULA),Thỏa thuận cấp phép người dùng cuối (EULA),True
+MainMenu.Info.Documentation,Documentation,Hướng dẫn sử dụng,True
+MainMenu.Info.Discord,Join Our Discord,Tham gia Discord,True
+MainMenu.Settings.ExportSettings.PresetsInfo,"This preset sets the correct format and dimensions. Very long animations may exceed platform file size limits, and some platforms restrict certain content.","Preset này tự động đặt định dạng và kích thước đúng. Tuy nhiên, nếu hoạt ảnh quá dài, có thể vượt quá giới hạn dung lượng file của nền tảng, và một số nền tảng có thể hạn chế một số loại nội dung nhất định.",True
+MainMenu.Settings.ModelSettings.OpenLocalModelFolder,Open Local Model Folder,Mở thư mục mô hình cục bộ,True
+MainMenu.Settings.ModelSettings.OpenCharacterFolder,Open Character Folder,Mở thư mục nhân vật,True
+MainMenu.Info.Log,Open Log Folder,Mở thư mục log,True
+MainMenu.Settings.ExportSettings.UsingGlobalColorTable,Using Global Color Table,Sử dụng bảng màu toàn cục,True
+MainMenu.Editor.ExportStatic,Export Static Image,Xuất hình ảnh,True
+MainMenu.Editor.Player.Speed,Speed,Tốc độ,True
+MainMenu.Settings.StaticImageSettings,Static Image Settings,Cài đặt hình ảnh,True
+MainMenu.Settings.StaticImageSettings.ResetStaticImageSettings,Reset Static Image Settings,Đặt lại cài đặt hình ảnh,True
+MainMenu.Settings.ExportSettings.SamplingRate,Sampling Rate,Tốc độ lấy mẫu,True
+MainMenu.Editor.Texture.Step1Instr,This toggle allows you to switch between the internal and the custom texture,Bạn có thể dùng nút bật/tắt này để chuyển đổi giữa texture mặc định và texture tùy chỉnh.,True
+MainMenu.Editor.Texture.Step2Instr,Edit the PNGs in the Custom Texture folder. Save with transparency and do not modify image size,"Chỉnh sửa PNG trong thư mục Custom Texture. Khi lưu, hãy giữ nguyên độ trong suốt và không thay đổi kích thước ảnh.",True
+MainMenu.Editor.Texture.Step3Instr,"After saving your edits, click this button to apply the chages to your model.","Sau khi lưu chỉnh sửa, nhấn nút này để áp dụng thay đổi lên mô hình.",True
+MainMenu.Editor.Texture.Step4Instr,"Save your character after edit. When 'Used textures only' is on, save only texture regions used by the current character. Turn off to save every regions.","Hãy lưu nhân vật sau khi chỉnh sửa. Nếu bật 'Chỉ texture đang dùng', chỉ vùng mà nhân vật hiện tại sử dụng sẽ được lưu. Tắt đi để lưu tất cả các vùng.",False
+MainMenu.Editor.Texture.Recommend,Please read the Using Custom Textures manual before using this feature.,Vui lòng đọc hướng dẫn sử dụng texture tùy chỉnh trước khi dùng tính năng này.,True
+MainMenu.Editor.Texture.CustomTexture,Custom Texture,Texture tùy chỉnh,True
+MainMenu.Editor.Texture.Step1,Step 1,Bước 1,True
+MainMenu.Editor.Texture.Step2,Step 2,Bước 2,True
+MainMenu.Editor.Texture.Step3,Step 3,Bước 3,True
+MainMenu.Editor.Texture.Step4,Step 4,Bước 4,True
+MainMenu.Editor.Texture.AlphaBleed,Fix Selected Outline,Chỉnh sửa đường viền đã chọn,True
+MainMenu.Editor.Texture.ResetAtlas,Reset Selected Atlas,Đặt lại bảng ảnh đã chọn,True
+MainMenu.Editor.Texture.TextureUtility,Texture Utility,Công cụ texture,True
+MainMenu.Editor.Texture.SelectAll,Select All,Chọn tất cả,True
+MainMenu.Editor.Texture.ToggleSelection,Toggle Selection,Đảo ngược lựa chọn,True
+MainMenu.Editor.Texture.AtlasList,Atlas List,Danh sách bảng ảnh,True
+MainMenu.Editor.Texture.ResetWarning,This will reset the selected atlas pages to the built-in versions. Any unsaved edits will be lost and cannot be recovered. Continue?,Đặt lại trang bảng ảnh đã chọn về phiên bản mặc định (tích hợp). Các chỉnh sửa chưa lưu sẽ bị mất và không thể khôi phục. Bạn có muốn tiếp tục?,True
+MainMenu.Settings.ExportSettings.PaletteAlgorithm,Palette Algorithm,Trích xuất màu,True
+MainMenu.Editor.Texture.AlphaBleedWarning,This will overwrite the selected texture files and cannot be undone. Continue?,Thao tác này sẽ ghi đè file texture đã chọn và không thể hoàn tác. Bạn có muốn tiếp tục?,True
+MainMenu.TranslationInfo.Message,"Some languages are translated by our community or assisted by machine translation, so quality may vary.
+
+You can change the language in Settings.
+
+See our {0}.
+
+Want to contribute? Join us on {1}.","Một số ngôn ngữ được dịch bởi cộng đồng hoặc có sự hỗ trợ của dịch máy nên chất lượng có thể khác nhau.
+
+Bạn có thể thay đổi ngôn ngữ trong cài đặt.
+
+Xem {0}.
+
+Bạn muốn đóng góp? Tham gia {1}.",False
+MainMenu.TranslationInfo.ContributorsLinkLabel,community contributors on GitHub,Người đóng góp cộng đồng trên GitHub,False
+MainMenu.TranslationInfo.DontShowAgain,Don't show this again,Không hiển thị lại,False
+MainMenu.Editor.AssetTypeWS,Workshop,Xưởng làm việc,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Model,Publish Model to Workshop,Đăng mô hình lên Workshop,False
+MainMenu.Editor.WorkshopPublishPopup.Title.Character,Publish Character to Workshop,Đăng nhân vật lên Sáng tạo phẩm,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode,Upload mode,Chế độ tải lên,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.CreateNew,Create new item,Tạo mục mới,False
+MainMenu.Editor.WorkshopPublishPopup.UploadMode.UpdateExisting,Update existing item,Cập nhật mục hiện có,False
+MainMenu.Editor.WorkshopPublishPopup.ItemtoUpdate,Item to update,Mục cần cập nhật,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Title,Title,Tiêu đề,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Description,Description,Mô tả,False
+MainMenu.Editor.WorkshopPublishPopup.Field.Visibility,Visibility,Đồng hồ,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Public,Public,Công khai,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.FriendsOnly,Friends Only,Chỉ bạn bè,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Private,Private,Riêng tư,False
+MainMenu.Editor.WorkshopPublishPopup.Visibility.Unlisted,Unlisted,Không đăng ký,False
+MainMenu.Editor.WorkshopPublishPopup.Field.ChangeNote,Change note,Thay đổi ghi chú,False
+MainMenu.Editor.WorkshopPublishPopup.Field.RequiredItems,Required Items (PublishedFileIds),Mục bắt buộc (PublishedFileIds),False
+MainMenu.Editor.WorkshopPublishPopup.Field.PreviewImagePath,Preview image (PNG/JPG path),Ảnh xem trước (đường dẫn PNG/JPG),False
+MainMenu.Editor.WorkshopPublishPopup.Button.Publish,Publish,Đăng,False
+MainMenu.Editor.WorkshopPublishPopup.Button.Cancel,Cancel,Hủy,False
+MainMenu.Editor.WorkshopPublishPopup.Picker.Loading,(loading...),(Đang tải...),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.NoPublishedItems,(no published items),(Không có mục nào được đăng),False
+MainMenu.Editor.WorkshopPublishPopup.Picker.SteamNotReady,(Steam not ready),(Steam chưa sẵn sàng),False
+MainMenu.Editor.WorkshopPublishPopup.Status.WaitingForSteamMetadata,Waiting for Steam metadata...,Đang chờ metadata Steam...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.SelectItemToUpdate,Select a published Workshop item to update.,Vui lòng chọn mục Sáng tạo phẩm đã đăng để cập nhật.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.TitleRequired,Title is required.,Cần có tiêu đề.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.FixPreviewBeforePublishing,Fix the preview image before publishing.,Vui lòng chỉnh sửa ảnh xem trước trước khi đăng.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.CreatingItem,Creating Workshop item...,Đang tạo mục Sáng tạo phẩm...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadingItem,Uploading Workshop item...,Đang tải lên mục Sáng tạo phẩm...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewNotFound,Preview image file not found.,Không tìm thấy file ảnh xem trước.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewInvalidFormat,"Preview image must be a PNG, JPG, or GIF.","Ảnh xem trước phải là PNG, JPG hoặc GIF.",False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewTooLarge,Preview image must be 1 MB or smaller (currently {0} KB).,Ảnh xem trước phải nhỏ hơn 1MB (hiện tại {0}KB).,False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewReadFailed,Failed to read preview image: {0},Không đọc được ảnh xem trước: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.PreviewDecodeFailed,Preview image could not be decoded.,Không thể giải mã ảnh xem trước.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdInvalid,Required PublishedFileId is invalid: {0},PublishedFileId bắt buộc không hợp lệ: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.SteamNotInitialized,Steam is not initialized.,Steam chưa được khởi tạo.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.UploadSucceeded,Workshop item uploaded: {0},Đã tải lên mục Sáng tạo phẩm: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.TempFolderModified,Publish staging files were modified. Close this dialog and publish again.,File xuất bản đã bị sửa đổi. Hãy đóng hộp thoại này và đăng lại.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ValidatingRequiredItems,Verifying required Workshop items...,Đang kiểm tra các mục Sáng tạo phẩm bắt buộc...,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdsQueryFailed,Failed to verify required Workshop items.,Không thể kiểm tra các mục Sáng tạo phẩm bắt buộc.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdNotFound,Workshop item {0} was not found or is not accessible.,Không tìm thấy hoặc không thể truy cập mục Sáng tạo phẩm {0}.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.RequiredIdWrongApp,Workshop item {0} does not belong to this app.,Mục Sáng tạo phẩm {0} không thuộc ứng dụng này.,False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureFailed,Viewport capture failed: {0},Chụp màn hình viewport thất bại: {0},False
+MainMenu.Editor.WorkshopPublishPopup.Status.ViewportCaptureSucceeded,Preview captured from viewport.,Ảnh xem trước được chụp từ viewport.,False
+MainMenu.Editor.FileNameValidation.Label.Character,Character name,Tên nhân vật,False
+MainMenu.Editor.FileNameValidation.Label.Scene,Scene name,Tên cảnh,False
+MainMenu.Editor.FileNameValidation.Label.SceneList,Scene list name,Tên danh sách cảnh,False
+MainMenu.Editor.FileNameValidation.Empty,{0} cannot be empty.,{0} không được để trống.,False
+MainMenu.Editor.FileNameValidation.TooLong,{0} cannot exceed {1} characters.,{0} không được vượt quá {1} ký tự.,False
+MainMenu.Editor.FileNameValidation.InvalidCharacter,{0} cannot contain '{1}'.,{0} không được chứa '{1}'.,False
+MainMenu.Editor.FileNameValidation.WindowsReserved,'{1}' is a reserved name and cannot be used.,'{1}' là tên đã được đặt trước và không thể sử dụng.,False
+MainMenu.Editor.FileNameValidation.AppReserved,'{1}' is reserved and cannot be used as {0}.,'{1}' đã được đặt trước và không thể dùng làm {0}.,False
+MainMenu.Editor.FileNameValidation.EndsWithDot,{0} cannot end with a dot.,{0} không được kết thúc bằng dấu chấm.,False
+MainMenu.Editor.FileNameValidation.DuplicateInList,A {0} with this name already exists in the list.,{0} có tên này đã tồn tại trong danh sách.,False
+MainMenu.Editor.Confirmation.Label.Character,Character,Tính cách,False
+MainMenu.Editor.Confirmation.Label.Scene,Scene,Cảnh,False
+MainMenu.Editor.Confirmation.Label.SceneList,Scene list,Danh sách cảnh,False
+MainMenu.Editor.DeleteConfirmation,"Are you sure you want to delete {0} ""{1}""? This action cannot be undone.","Bạn có muốn xóa {0} ""{1}""? Hành động này không thể hủy.",False
+MainMenu.Editor.OverwriteExistingConfirmation,"{0} ""{1}"" already exist. Are you sure you want to overwrite {0} ""{1}""? This action cannot be undone.","{0} ""{1}"" đã tồn tại. Bạn có muốn ghi đè {0} ""{1}""? Hành động này không thể hủy.",False
+MainMenu.Editor.OverwriteSelectedConfirmation,"A {0} ""{1}"" is selected. Overwrite it or Create a new entry?","{0} ""{1}"" đã được chọn. Bạn muốn ghi đè hay tạo mới?",False
+MainMenu.Editor.OverwriteConfirmation.Overwrite,Overwrite,Ghi đè,False
+MainMenu.Editor.OverwriteConfirmation.CreateNew,Create New,Tạo mới,False
+MainMenu.Editor.UnsavedChangeConfirmation,"{0} ""{1}"" has unsaved changes. Apply before continuing?","{0} ""{1}"" có các thay đổi chưa lưu. Bạn có muốn áp dụng trước khi tiếp tục?",False
+MainMenu.Editor.UnsavedChangeConfirmation.Apply,Apply,Áp dụng,False
+MainMenu.Editor.UnsavedChangeConfirmation.Discard,Discard,Bỏ qua,False
+MainMenu.Editor.UnsavedNewConfirmation,This {0} has not been saved. Save before continuing?,{0} này chưa được lưu. Bạn có muốn lưu trước khi tiếp tục?,False
+MainMenu.Editor.UnsavedNewConfirmation.Save,Save,Lưu,False
+MainMenu.Editor.Layers,Layers,Lớp,False
+MainMenu.Editor.LayerProperties,Properties,Thuộc tính,False
+MainMenu.Editor.ModelProperties,Model Properties,Thuộc tính mô hình,False
+MainMenu.Editor.TextProperty.Text,Text,Văn bản,False
+MainMenu.Editor.TextProperty.Font,Font,Phông chữ,False
+MainMenu.Editor.TextProperty.Size,Size,Kích thước,False
+MainMenu.Editor.TextProperty.PositionX,Position X,Vị trí X,False
+MainMenu.Editor.TextProperty.PositionY,Position Y,Vị trí Y,False
+MainMenu.Editor.TextProperty.Rotation,Rotation,Xoay,False
+MainMenu.Editor.TextProperty.CharacterSpacing,Character Spacing,Khoảng cách ký tự,False
+MainMenu.Editor.TextProperty.LineSpacing,Line Spacing,Khoảng cách dòng,False
+MainMenu.Editor.TextProperty.Outline,Outline,Đường viền,False
+MainMenu.Editor.TextProperty.OutlineThickness,Thickness,Độ dày,False
+MainMenu.Editor.TextProperty.Underlay,Underlay,Chân đế,False
+MainMenu.Editor.TextProperty.UnderlayDilate,Dilate,Mở rộng,False
+MainMenu.Editor.TextProperty.UnderlayOffsetX,Offset X,Lệch X,False
+MainMenu.Editor.TextProperty.UnderlayOffsetY,Offset Y,Lệch Y,False
+MainMenu.Editor.LayerType.Model,Model,Mô hình,False
+MainMenu.Editor.LayerType.Image,Image,Video,False
+MainMenu.Editor.LayerType.Text,Text,Văn bản,False
+MainMenu.Editor.Playback,Playback,Phát,False
+MainMenu.Editor.SceneList,Scene List,Danh sách cảnh,False
+MainMenu.Editor.Scenes,Scenes,Cảnh,False
+MainMenu.Editor.ExportAllScenes,Export All Scenes,Xuất tất cả cảnh,False
+MainMenu.Editor.SceneListExport.Title,Exporting scene list,Xuất danh sách cảnh,False
+MainMenu.Editor.SceneListExport.Preparing,Preparing export...,Đang chuẩn bị xuất...,False
+MainMenu.Editor.SceneListExport.Progress,Exporting {0}/{1}: {2},Đang xuất {0}/{1}: {2},False
+MainMenu.Editor.SceneListExport.Failed,Export failed,Xuất thất bại,False
+MainMenu.Editor.SceneListExport.Finished,Export finished,Xuất hoàn tất,False
+MainMenu.Editor.SceneListExport.Cancelled,Export cancelled,Xuất đã bị hủy.,False
+MainMenu.Editor.SceneListExport.Complete,Export complete,Xuất hoàn tất,False
+MainMenu.Editor.SceneListExport.CompleteExclamation,Export complete!,Xuất hoàn tất!,False
+MainMenu.Editor.SceneListExport.CancelledSummary,"Export cancelled ({0}/{1} exported, {2} failed).","Xuất đã bị hủy ({0}/{1} đã xuất, {2} thất bại).",False
+MainMenu.Editor.SceneListExport.CancelledWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Xuất hoàn tất ({0}/{1} đã xuất, {2} thất bại).",False
+MainMenu.Editor.SceneListExport.CompleteWithFailures,"Export complete ({0}/{1} exported, {2} failed).","Xuất hoàn tất ({0}/{1} đã xuất, {2} thất bại).",False
+MainMenu.Editor.SceneListExport.ErrorMessage,Error: {0},Lỗi: {0},False
+MainMenu.Editor.OpenExportLocation,Open Export Location,Mở vị trí xuất,False
+MainMenu.Editor.CameraProperties,Camera Properties,Thuộc tính camera,False
+MainMenu.Editor.CameraProperty.PositionX,Position X,Vị trí X,False
+MainMenu.Editor.CameraProperty.PositionY,Position Y,Vị trí Y,False
+MainMenu.Editor.CameraProperty.Size,Size,Kích thước,False
+MainMenu.Editor.CameraProperty.Rotation,Rotation,Xoay,False
+MainMenu.Editor.ModelProperty.Mirror,Mirror,Lật gương,False
+MainMenu.Editor.ModelProperty.Outline,Outline,Đường viền,False
+MainMenu.Editor.ModelProperty.OutlineThickness,Thickness,Độ dày,False
+MainMenu.Settings.ExportSettings.Quality,Quality,Chất lượng,False
+MainMenu.Settings.ExportSettings.LoopCount,Loop Count,Số lần lặp,False
+MainMenu.Settings.ExportSettings.Lossless,Lossless,Không nén,False
+MainMenu.Settings.ExportSettings.WebPQualityInfo,"With Lossless on, higher quality means a smaller file and slower encode. Looks stay the same. With Lossless off, higher quality means better looks and a larger file.","Khi bật không nén, chất lượng cao hơn làm file nhỏ hơn và mã hóa chậm hơn. Có vẻ như không thay đổi. Khi tắt không nén, chất lượng cao hơn làm đẹp hơn và file lớn hơn.",False
+MainMenu.Settings.ExportSettings.WebPLoopCountInfo,How many times the animation repeats. 0 = loop forever.,Số lần hoạt ảnh lặp lại. 0 = lặp mãi mãi.,False
+MainMenu.Settings.ExportSettings.WebmInfo,"VP9, BT.709, Full Range color","VP9, BT.709, màu full range",False
+MainMenu.Settings.ExportSettings.WebmCQLevel,CQ Level,Mức CQ,False
+MainMenu.Settings.ExportSettings.WebmCQLevelInfo,"lower CQ Level means bigger file, better quality; higher CQ Level means more compression, smaller file, worse quality","Mức CQ thấp hơn làm file lớn hơn và chất lượng tốt hơn. Mức CQ cao hơn nén nhiều hơn, file nhỏ hơn và chất lượng thấp hơn.",False
+MainMenu.Settings.ExportSettings.WebmSpeed,Speed,Tốc độ,False
+MainMenu.Settings.ExportSettings.WebmSpeedInfo,"Lower speed means slower encode, better quality and usually smaller file","Tốc độ thấp hơn làm mã hóa chậm hơn và chất lượng tốt hơn, thường file nhỏ hơn.",False
+MainMenu.Workshop.ItemType.All,All Types,Tất cả loại,False
+MainMenu.Workshop.ItemType.Model,Model,Mô hình,False
+MainMenu.Workshop.ItemType.Character,Character,Tính cách,False
+MainMenu.Workshop.ItemType.Unknown,Unknown,Không xác định,False
+MainMenu.Workshop.Tab.Browse,Browse,Đồ ăn,False
+MainMenu.Workshop.Tab.Subscribed,Subscribed,Đã đăng ký,False
+MainMenu.Workshop.Tab.Published,Published,Đã đăng,False
+MainMenu.Workshop.Badge.Subscribed,Subscribed,Đã đăng ký,False
+MainMenu.Workshop.Author.Loading,Loading...,Đang tải...,False
+MainMenu.Workshop.Author.Unknown,Unknown,Không xác định,False
+MainMenu.Workshop.Pager.FirstPage,First page,Trang đầu,False
+MainMenu.Workshop.Pager.PreviousPage,Previous page,Trang trước,False
+MainMenu.Workshop.Pager.NextPage,Next page,Trang tiếp,False
+MainMenu.Workshop.Pager.LastPage,Last page,Trang cuối,False
+MainMenu.Workshop.Pager.Summary,Page {0} of {1} ({2} items),Trang {1}/{0} ({2} mục),False
+MainMenu.Workshop.Status.Loading,Loading Workshop items...,Đang tải mục Sáng tạo phẩm...,False
+MainMenu.Workshop.Status.SteamNotRunning,Steam is not running. Start EmoteLab through Steam to browse the Workshop.,Steam không đang chạy. Hãy khởi động EmoteLab qua Steam để duyệt Sáng tạo phẩm.,False
+MainMenu.Workshop.Status.CouldNotLoad,Could not load Workshop items.,Không thể tải mục Sáng tạo phẩm.,False
+MainMenu.Workshop.Status.NoMoreResults,No more results are available from Steam.,Steam không còn kết quả nào nữa.,False
+MainMenu.Workshop.Status.NoMatches,No Workshop items matched your search.,Không có mục Sáng tạo phẩm nào khớp với từ khóa tìm kiếm.,False
+MainMenu.Workshop.Status.NotSubscribedToAny,You are not subscribed to any matching Workshop items.,Bạn chưa đăng ký mục Sáng tạo phẩm nào khớp.,False
+MainMenu.Workshop.Status.NotPublishedAny,You have not published any matching Workshop items.,Bạn chưa đăng mục Sáng tạo phẩm nào khớp.,False
+MainMenu.Workshop.Status.QueryAlreadyRunning,Another Workshop query is already running.,Một truy vấn Sáng tạo phẩm khác đang chạy.,False
+MainMenu.Workshop.Status.QueryRefused,Steam refused the Workshop query request.,Steam đã từ chối yêu cầu truy vấn Sáng tạo phẩm.,False
+MainMenu.Workshop.Status.QueryFailed,Workshop query failed: {0},Truy vấn Workshop thất bại: {0},False
+MainMenu.Workshop.ItemPopup.Header,Workshop Item,Mục Sáng tạo phẩm,False
+MainMenu.Workshop.ItemPopup.Author,Author,Tác giả,False
+MainMenu.Workshop.ItemPopup.Type,Type,Loại,False
+MainMenu.Workshop.ItemPopup.Size,Size,Kích thước,False
+MainMenu.Workshop.ItemPopup.Posted,Posted,Đã đăng,False
+MainMenu.Workshop.ItemPopup.Updated,Updated,Đã cập nhật,False
+MainMenu.Workshop.ItemPopup.NotEnoughRatings,Not enough ratings,Chưa đủ đánh giá.,False
+MainMenu.Workshop.ItemPopup.Subscribe,Subscribe,Đăng ký,False
+MainMenu.Workshop.ItemPopup.Unsubscribe,Unsubscribe,Hủy đăng ký,False
+MainMenu.Workshop.ItemPopup.OpenInBrowser,Open in Browser,Mở trong trình duyệt,False
+MainMenu.Workshop.ItemPopup.Close,Close,Đóng,False
+MainMenu.Workshop.ItemPopup.Status.SubmittingRating,Submitting rating...,Đang gửi đánh giá...,False
+MainMenu.Workshop.ItemPopup.Status.RateFailed,Failed to rate this item.,Không thể đánh giá mục này.,False
+MainMenu.Workshop.ItemPopup.Status.RatingSubmitted,Rating submitted.,Đã gửi đánh giá.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribing,Subscribing...,Đang đăng ký...,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribing,Unsubscribing...,Đang hủy đăng ký...,False
+MainMenu.Workshop.ItemPopup.Status.SubscribeFailed,Failed to subscribe to this item.,Không thể đăng ký mục này.,False
+MainMenu.Workshop.ItemPopup.Status.UnsubscribeFailed,Failed to unsubscribe from this item.,Không thể hủy đăng ký mục này.,False
+MainMenu.Workshop.ItemPopup.Status.Subscribed,Subscribed.,Đã đăng ký.,False
+MainMenu.Workshop.ItemPopup.Status.Unsubscribed,Unsubscribed. The item will be removed by Steam.,Đã hủy đăng ký. Mục sẽ bị Steam xóa.,False
+MainMenu.Editor.Texture.AutoUpdate,Auto-update,Tự động cập nhật,False
+MainMenu.Editor.Texture.UsedTexturesOnly,Used textures only,Chỉ texture đang dùng,False
+MainMenu.Settings.CustomTextureBackup,Custom Texture Backup,Sao lưu texture tùy chỉnh,False
+MainMenu.Settings.CustomTextureBackup.EnableBackup,Enable Backup,Bật sao lưu,False
+MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Khoảng cách (phút),False
+MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Số bản sao tối đa,False
+MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Mở thư mục sao lưu,False
+MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Xóa cache texture,False
