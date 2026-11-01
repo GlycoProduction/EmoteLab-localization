@@ -1,0 +1,46 @@
+Key,en,vi,reviewed
+Eyelash Length,Eyelash Length,Độ dài mi mắt,True
+Brows Distance,Brows Distance,Khoảng cách lông mày,True
+Brows Height,Brows Height,Độ cao lông mày,True
+Ear Shape 1,Ear Shape 1,Hình dạng tai 1,True
+Ear Shape 2,Ear Shape 2,Hình dạng tai 2,True
+Hair Bang >< Length,Hair Bang >< Length,Độ dài mái tóc ><,True
+Hair Bang >< Shear,Hair Bang >< Shear,Độ nghiêng mái tóc ><,True
+Hair Bang >> Position,Hair Bang >> Position,Vị trí mái tóc >>,True
+Hair Bang >> Length,Hair Bang >> Length,Độ dài mái tóc >>,True
+Hair Bang >> Shear,Hair Bang >> Shear,Độ nghiêng mái tóc >>,True
+Hair Bang << Position,Hair Bang << Position,Vị trí mái tóc <<,True
+Hair Bang << Length,Hair Bang << Length,Độ dài mái tóc <<,True
+Hair Bang << Shear,Hair Bang << Shear,Độ nghiêng mái tóc <<,True
+Hair Framing << Length,Hair Framing << Length,Độ dài tóc bên <<,True
+Hair Framing >> Length,Hair Framing >> Length,Độ dài tóc bên >>,True
+Hair Side Length,Hair Side Length,Độ dài tóc bên (toàn bộ),True
+Hair Rear Length,Hair Rear Length,Độ dài tóc sau,True
+Ahoge Position,Ahoge Position,Vị trí tóc con,True
+Ahoge Angle,Ahoge Angle,Góc tóc con,True
+Animal Ear & Antenna Position,Animal Ear & Antenna Position,Vị trí tai thú & ăng-ten,True
+Fin & Gill Position,Fin & Gill Position,Vị trí vây & mang cá,True
+Halo Position,Halo Position,Vị trí vầng hào quang,True
+Hat Position,Hat Position,Vị trí mũ,True
+Horn >> Length,Horn >> Length,Độ dài sừng >>,True
+Horn << Length,Horn << Length,Độ dài sừng <<,True
+Horn >< Length,Horn >< Length,Độ dài sừng ><,True
+Horn Position,Horn Position,Vị trí sừng,True
+Ear Wing Position,Ear Wing Position,Vị trí tai cánh,True
+Wing Size,Wing Size,Kích thước cánh,True
+Wing Position,Wing Position,Vị trí cánh,True
+Wing Angle,Wing Angle,Góc cánh,True
+Tail Size,Tail Size,Kích thước đuôi,True
+Tail Flip,Tail Flip,Lật ngang đuôi,True
+Tail Angle,Tail Angle,Góc đuôi,True
+Hair Pigtail >> Position,Hair Pigtail >> Position,Vị trí tóc bím >>,False
+Hair Pigtail >> Length,Hair Pigtail >> Length,Độ dài tóc bím >>,False
+Hair Pigtail >> Angle,Hair Pigtail >> Angle,Góc tóc bím >>,False
+Hair Pigtail << Position,Hair Pigtail << Position,Vị trí tóc bím <<,False
+Hair Pigtail << Length,Hair Pigtail << Length,Độ dài tóc bím <<,False
+Hair Pigtail << Angle,Hair Pigtail << Angle,Góc tóc bím <<,False
+Hair Ponytail Width,Hair Ponytail Width,Chiều rộng tóc đuôi ngựa,False
+Hair Ponytail Length,Hair Ponytail Length,Độ dài tóc đuôi ngựa,False
+Hair Ponytail Angle,Hair Ponytail Angle,Góc tóc đuôi ngựa,False
+Alert Size,Alert Size,Kích thước cảnh báo,False
+Glasses Lens Transparency,Glasses Lens Transparency,Độ trong suốt tròng kính,False
