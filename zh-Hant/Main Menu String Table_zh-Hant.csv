@@ -276,3 +276,8 @@ MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),間隔�
 MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,最大備份數量,False
 MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,開啟備份資料夾,False
 MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,清除貼圖快取,False
+MainMenu.Settings.Migrate.ProgressTitle,Migrating files,檔案遷移,False
+MainMenu.Settings.Migrate.Result,"Copied: {0}; Skipped: {1};Failed: {2}.
+See the log for more details. You can also migrate the files manually by directly copying.","複製：{0};跳過：{1};未通過：{2}。
+請參閱日誌以取得更多詳細資訊。您也可以透過直接複製來手動遷移檔案。",False
+MainMenu.Settings.Migrate.Abort,Migration was aborted. Nothing was copied. See the log for more details.,遷移已中止。沒有任何東西被複製。請參閱日誌以取得更多細節。,False

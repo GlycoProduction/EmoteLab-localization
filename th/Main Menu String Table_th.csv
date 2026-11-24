@@ -276,3 +276,8 @@ MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),ช่�
 MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,สำเนาสูงสุด,False
 MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,เปิดโฟลเดอร์สำรอง,False
 MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,ล้างแคชพื้นผิว,False
+MainMenu.Settings.Migrate.ProgressTitle,Migrating files,การย้ายไฟล์,False
+MainMenu.Settings.Migrate.Result,"Copied: {0}; Skipped: {1};Failed: {2}.
+See the log for more details. You can also migrate the files manually by directly copying.","คัดลอก: {0};ข้าม: {1};ล้มเหลว: {2}. 
+ดูบันทึกสําหรับรายละเอียดเพิ่มเติมคุณยังสามารถย้ายไฟล์ด้วยตนเองโดยการคัดลอกโดยตรง",False
+MainMenu.Settings.Migrate.Abort,Migration was aborted. Nothing was copied. See the log for more details.,การอพยพถูกยกเลิกไม่มีการคัดลอกใด ๆดูบันทึกสําหรับรายละเอียดเพิ่มเติม,False

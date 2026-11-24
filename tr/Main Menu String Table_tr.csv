@@ -276,3 +276,8 @@ MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Aralık
 MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Maksimum Kopya Sayısı,False
 MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Yedekleme Klasörünü Aç,False
 MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Doku Önbelleğini Temizle,False
+MainMenu.Settings.Migrate.ProgressTitle,Migrating files,Dosyaları taşıma,False
+MainMenu.Settings.Migrate.Result,"Copied: {0}; Skipped: {1};Failed: {2}.
+See the log for more details. You can also migrate the files manually by directly copying.","Kopyalandı: {0}; Atlandı: {1}; Başarısız oldu: {2}. 
+Daha fazla ayrıntı için günlüğüne bakın. Dosyaları doğrudan kopyalayarak manuel olarak da taşıyabilirsiniz.",False
+MainMenu.Settings.Migrate.Abort,Migration was aborted. Nothing was copied. See the log for more details.,Göç iptal edildi. Hiçbir şey kopyalanmadı. Daha fazla detay için günlüğüne bakınız.,False

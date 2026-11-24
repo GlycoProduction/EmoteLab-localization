@@ -276,3 +276,8 @@ MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Interva
 MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Maximálny počet kópií,False
 MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Otvorte priečinok zálohy,False
 MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Vymazať vyrovnávaciu pamäť textúr,False
+MainMenu.Settings.Migrate.ProgressTitle,Migrating files,Migrácia súborov,False
+MainMenu.Settings.Migrate.Result,"Copied: {0}; Skipped: {1};Failed: {2}.
+See the log for more details. You can also migrate the files manually by directly copying.","Skopírované: {0}; Preskočené: {1}; Zlyhané: {2}. 
+Viac informácií nájdete v denníku. Súbory môžete tiež migrovať manuálne priamym kopírovaním.",False
+MainMenu.Settings.Migrate.Abort,Migration was aborted. Nothing was copied. See the log for more details.,Migrácia bola prerušená. Nič nebolo skopírované. Viac informácií nájdete v zázname.,False

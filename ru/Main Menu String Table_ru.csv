@@ -276,3 +276,8 @@ MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Инт�
 MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Максимальное количество копий,False
 MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Открыть папку резервного копирования,False
 MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Очистить кэш текстур,False
+MainMenu.Settings.Migrate.ProgressTitle,Migrating files,Миграция файлов,False
+MainMenu.Settings.Migrate.Result,"Copied: {0}; Skipped: {1};Failed: {2}.
+See the log for more details. You can also migrate the files manually by directly copying.","Скопировано: {0}; Пропущено: {1}; Неудачно: {2}. 
+Подробнее см. в журнале. Вы также можете мигрировать файлы вручную, скопировав их напрямую.",False
+MainMenu.Settings.Migrate.Abort,Migration was aborted. Nothing was copied. See the log for more details.,Миграция была прервана. Ничего не было скопировано. Подробнее см. в журнале.,False

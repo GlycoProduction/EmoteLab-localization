@@ -276,3 +276,8 @@ MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Interva
 MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Numero massimo di copie,False
 MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Apri la cartella di backup,False
 MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Cancella cache texture,False
+MainMenu.Settings.Migrate.ProgressTitle,Migrating files,Migrazione dei file,False
+MainMenu.Settings.Migrate.Result,"Copied: {0}; Skipped: {1};Failed: {2}.
+See the log for more details. You can also migrate the files manually by directly copying.","Copiato: {0}; Saltato: {1}; Fallito: {2}. 
+Consulta il registro per maggiori dettagli. Puoi anche migrare manualmente i file copiandoli direttamente.",False
+MainMenu.Settings.Migrate.Abort,Migration was aborted. Nothing was copied. See the log for more details.,La migrazione è stata annullata. Nulla è stato copiato. Vedi il registro per maggiori dettagli.,False

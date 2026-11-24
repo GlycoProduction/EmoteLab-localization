@@ -276,3 +276,8 @@ MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Időkö
 MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Maximális példányszám,False
 MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Nyissa meg a Biztonsági mentés mappát,False
 MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Texture Cache törlése,False
+MainMenu.Settings.Migrate.ProgressTitle,Migrating files,Fájlok migrálása,False
+MainMenu.Settings.Migrate.Result,"Copied: {0}; Skipped: {1};Failed: {2}.
+See the log for more details. You can also migrate the files manually by directly copying.","Másolva: {0}; Kihagyva: {1}; Sikertelen: {2}. 
+További részletekért lásd a naplót. A fájlokat manuálisan is áthelyezheti közvetlen másolással.",False
+MainMenu.Settings.Migrate.Abort,Migration was aborted. Nothing was copied. See the log for more details.,A migrációt megszakították. Semmit sem másoltak le. További részletekért lásd a naplót.,False

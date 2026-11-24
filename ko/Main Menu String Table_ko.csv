@@ -276,3 +276,8 @@ MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),간격(
 MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,최대 복사본,False
 MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,백업 폴더 열기,False
 MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,텍스처 캐시 지우기,False
+MainMenu.Settings.Migrate.ProgressTitle,Migrating files,파일 마이그레이션,False
+MainMenu.Settings.Migrate.Result,"Copied: {0}; Skipped: {1};Failed: {2}.
+See the log for more details. You can also migrate the files manually by directly copying.","복사: {0}; 건너뛸 수: {1}; 실패: {2}. 
+자세한 내용은 로그를 참조하십시오. 파일을 직접 복사하여 수동으로 마이그레이션할 수도 있습니다.",False
+MainMenu.Settings.Migrate.Abort,Migration was aborted. Nothing was copied. See the log for more details.,마이그레이션이 중단되었습니다. 아무것도 복사되지 않았습니다. 자세한 내용은 로그를 참조하십시오.,False

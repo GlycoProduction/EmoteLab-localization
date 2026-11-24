@@ -276,3 +276,8 @@ MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Interva
 MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Maximalt antal kopior,False
 MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Öppna Säkerhetskopieringsmapp,False
 MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Rensa texturcache,False
+MainMenu.Settings.Migrate.ProgressTitle,Migrating files,Migrera filer,False
+MainMenu.Settings.Migrate.Result,"Copied: {0}; Skipped: {1};Failed: {2}.
+See the log for more details. You can also migrate the files manually by directly copying.","Kopierat: {0}; Hoppat över: {1}; Misslyckat: {2}. 
+Se loggen för mer information. Du kan också migrera filerna manuellt genom att kopiera direkt.",False
+MainMenu.Settings.Migrate.Abort,Migration was aborted. Nothing was copied. See the log for more details.,Migrationen avbröts. Inget kopierades. Se loggen för mer information.,False

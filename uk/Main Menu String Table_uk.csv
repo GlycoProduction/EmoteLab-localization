@@ -276,3 +276,8 @@ MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),Інт�
 MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,Максимальна кількість копій,False
 MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,Відкрийте резервну папку,False
 MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,Очистити кеш текстур,False
+MainMenu.Settings.Migrate.ProgressTitle,Migrating files,Міграція файлів,False
+MainMenu.Settings.Migrate.Result,"Copied: {0}; Skipped: {1};Failed: {2}.
+See the log for more details. You can also migrate the files manually by directly copying.","Скопійовано: {0}; Пропущено: {1}; Не вдалося: {2}. 
+Дивіться журнал для детальнішої інформації. Ви також можете мігрувати файли вручну, копіюючи їх безпосередньо.",False
+MainMenu.Settings.Migrate.Abort,Migration was aborted. Nothing was copied. See the log for more details.,Міграцію було скасовано. Нічого не скопійовано. Дивіться журнал для детальнішої інформації.,False

@@ -276,3 +276,8 @@ MainMenu.Settings.CustomTextureBackup.IntervalMinutes,Interval (minutes),間隔 
 MainMenu.Settings.CustomTextureBackup.MaximumCopies,Maximum Copies,最大コピー数,False
 MainMenu.Settings.CustomTextureBackup.OpenBackupFolder,Open Backup Folder,バックアップフォルダーを開く,False
 MainMenu.Settings.CustomTextureBackup.ClearTextureCache,Clear Texture Cache,テクスチャキャッシュのクリア,False
+MainMenu.Settings.Migrate.ProgressTitle,Migrating files,ファイルの移行,False
+MainMenu.Settings.Migrate.Result,"Copied: {0}; Skipped: {1};Failed: {2}.
+See the log for more details. You can also migrate the files manually by directly copying.","コピー済み:{0};スキップ済み:{1};失敗:{2}。
+詳細についてはログを参照してください。ファイルを直接コピーして手動で移行することもできます。",False
+MainMenu.Settings.Migrate.Abort,Migration was aborted. Nothing was copied. See the log for more details.,移行は中止されました。何もコピーされていません。詳細についてはログを参照してください。,False
