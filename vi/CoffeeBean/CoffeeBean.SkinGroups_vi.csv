@@ -1,0 +1,87 @@
+Key,en,vi,reviewed
+Brows,Brows,Lông mày,True
+Ear,Ear,Tai,True
+Eye,Eye,Mắt,True
+Base Hair,Base Hair,Tóc cơ bản,True
+Hair Bang >>,Hair Bang >>,Tóc mái >>,True
+Hair Bang ><,Hair Bang ><,Tóc mái ><,True
+Hair Bang <<,Hair Bang <<,Tóc mái <<,True
+Hair Shine,Hair Shine,Vệt sáng tóc,True
+Hair Branch >>,Hair Branch >>,Lọn tóc >>,True
+Hair Branch <<,Hair Branch <<,Lọn tóc <<,True
+Hair Framing >>,Hair Framing >>,Tóc ôm mặt >>,True
+Hair Framing <<,Hair Framing <<,Tóc ôm mặt <<,True
+Hair Framing,Hair Framing,Tóc ôm mặt,True
+Hair Highlight 1 >>,Hair Highlight 1 >>,Highlight tóc 1 >>,True
+Hair Highlight 2 >>,Hair Highlight 2 >>,Highlight tóc 2 >>,True
+Hair Highlight 3 >>,Hair Highlight 3 >>,Highlight tóc 3 >>,True
+Hair Highlight 1 ><,Hair Highlight 1 ><,Highlight tóc 1 ><,True
+Hair Highlight 2 ><,Hair Highlight 2 ><,Highlight tóc 2 ><,True
+Hair Highlight 3 ><,Hair Highlight 3 ><,Highlight tóc 3 ><,True
+Hair Highlight 4 ><,Hair Highlight 4 ><,Highlight tóc 4 ><,True
+Hair Highlight 5 ><,Hair Highlight 5 ><,Highlight tóc 5 ><,True
+Hair Highlight 6 ><,Hair Highlight 6 ><,Highlight tóc 6 ><,True
+Hair Highlight 1 <<,Hair Highlight 1 <<,Highlight tóc 1 <<,True
+Hair Highlight 2 <<,Hair Highlight 2 <<,Highlight tóc 2 <<,True
+Hair Highlight 3 <<,Hair Highlight 3 <<,Highlight tóc 3 <<,True
+Hair Side,Hair Side,Tóc mai,True
+Hair Ahoge,Hair Ahoge,Tóc Ahoge,True
+Hair Rear,Hair Rear,Tóc sau,True
+Hair Pigtail >>,Hair Pigtail >>,Tóc hai chùm >>,True
+Hair Pigtail <<,Hair Pigtail <<,Tóc hai chùm <<,True
+Animal Ear,Animal Ear,Tai thú,True
+Antenna,Antenna,Ăng-ten,True
+Fin,Fin,Vây,True
+Gill,Gill,Mang cá,True
+Glasses,Glasses,Kính mắt,True
+Hairband A,Hairband A,Băng đô A,True
+Hairband B,Hairband B,Băng đô B,True
+Hairband C,Hairband C,Băng đô C,True
+Hairband D,Hairband D,Băng đô D,True
+Hair Clip >>,Hair Clip >>,Kẹp tóc >>,True
+Hair Clip <<,Hair Clip <<,Kẹp tóc <<,True
+Halo,Halo,Vòng hào quang,True
+Hat,Hat,Mũ,True
+Ear Wing,Ear Wing,Cánh tai,True
+Horn,Horn,Sừng,True
+Horn Front ><,Horn Front ><,Sừng trước ><,True
+Horn Front,Horn Front,Sừng trước,True
+Mecha,Mecha,Mecha,True
+Outfit Collar Inner,Outfit Collar Inner,Cổ áo trong,True
+Outfit Inner,Outfit Inner,Áo trong,True
+Outfit Outer,Outfit Outer,Áo ngoài,True
+Outfit Neckwear A,Outfit Neckwear A,Phụ kiện cổ A,True
+Outfit Neckwear B,Outfit Neckwear B,Phụ kiện cổ B,True
+Outfit Neckwear C,Outfit Neckwear C,Phụ kiện cổ C,True
+Hair Side Branch >> A,Hair Side Branch >> A,Lọn tóc mai >> A,True
+Hair Side Branch >> B,Hair Side Branch >> B,Lọn tóc mai >> B,True
+Hair Side Branch >> C,Hair Side Branch >> C,Lọn tóc mai >> C,True
+Hair Side Branch << A,Hair Side Branch << A,Lọn tóc mai << A,True
+Hair Side Branch << B,Hair Side Branch << B,Lọn tóc mai << B,True
+Hair Side Branch << C,Hair Side Branch << C,Lọn tóc mai << C,True
+Tail,Tail,Đuôi,True
+Wing,Wing,Cánh,True
+Facial Hair A,Facial Hair A,Râu A,False
+Facial Hair B,Facial Hair B,Râu B,False
+Cheek,Cheek,Má,False
+Face Feature A >>,Face Feature A >>,Chi tiết mặt A >>,False
+Face Feature A <<,Face Feature A <<,Chi tiết mặt A <<,False
+Face Feature B >>,Face Feature B >>,Chi tiết mặt B >>,False
+Face Feature B <<,Face Feature B <<,Chi tiết mặt B <<,False
+Face Feature C,Face Feature C,Chi tiết mặt C,False
+Nose,Nose,Mũi,False
+Earring >>,Earring >>,Khuyên tai >>,False
+Earring <<,Earring <<,Khuyên tai <<,False
+Piercing A >>,Piercing A >>,Khuyên xỏ A >>,False
+Piercing A <<,Piercing A <<,Khuyên xỏ A <<,False
+Piercing B >>,Piercing B >>,Khuyên xỏ B >>,False
+Piercing B <<,Piercing B <<,Khuyên xỏ B <<,False
+Hand,Hand,Tay,False
+Leg,Leg,Chân,False
+Cape Back,Cape Back,Áo choàng sau,False
+Cape Front,Cape Front,Áo choàng trước,False
+Hair Ponytail,Hair Ponytail,Tóc đuôi ngựa,False
+Eyepatch,Eyepatch,Băng bịt mắt,False
+Hair Bang Extended,Hair Bang Extended,Tóc mái kéo dài,False
+Hair Framing Extended,Hair Framing Extended,Tóc ôm mặt kéo dài,False
+Hair Ear Loop,Hair Ear Loop,Tóc sau tai,False

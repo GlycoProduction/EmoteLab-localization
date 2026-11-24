@@ -1,0 +1,335 @@
+Key,en,vi,reviewed
+Hair Ahoge,Hair Ahoge,Tóc Ahoge,True
+Hair Ahoge Outline,Hair Ahoge Outline,Viền tóc Ahoge,True
+Animal Ear >>,Animal Ear >>,Tai thú >>,True
+Animal Ear >> Fur,Animal Ear >> Fur,Tai thú >> Lông,True
+Animal Ear >> Fur Outline,Animal Ear >> Fur Outline,Tai thú >> Viền lông,True
+Animal Ear >> Outline,Animal Ear >> Outline,Tai thú >> Viền,True
+Animal Ear <<,Animal Ear <<,Tai thú <<,True
+Animal Ear << Fur,Animal Ear << Fur,Tai thú << Lông,True
+Animal Ear << Fur Outline,Animal Ear << Fur Outline,Tai thú << Viền lông,True
+Animal Ear << Outline,Animal Ear << Outline,Tai thú << Viền,True
+Antenna >>,Antenna >>,Ăng-ten >>,True
+Antenna >> Outline,Antenna >> Outline,Ăng-ten >> Viền,True
+Antenna <<,Antenna <<,Ăng-ten <<,True
+Antenna << Outline,Antenna << Outline,Ăng-ten << Viền,True
+Hair Rear,Hair Rear,Tóc sau,True
+Hair Rear Outline,Hair Rear Outline,Viền tóc sau,True
+Beverage Cup,Beverage Cup,Cốc đồ uống,True
+Beverage Liquid,Beverage Liquid,Đồ uống,True
+Beverage Liquid 2,Beverage Liquid 2,Đồ uống 2,True
+Bill,Bill,Tờ tiền,True
+Blanket Inner,Blanket Inner,Mặt trong chăn,True
+Blanket Outter,Blanket Outter,Mặt ngoài chăn,True
+Face Blush,Face Blush,Má hồng,True
+Brow >>,Brow >>,Lông mày >>,True
+Brow <<,Brow <<,Lông mày <<,True
+Chopstick,Chopstick,Đũa,True
+Crowbar,Crowbar,Xà beng,True
+Cup,Cup,Cốc,True
+Cup Steam,Cup Steam,Hơi nóng từ cốc,True
+Door/Wall,Door/Wall,Cửa/Tường,True
+Eye(Dum) Pupil >>,Eye(Dum) Pupil >>,Con ngươi mắt ngơ >>,True
+Eye(Dum) Pupil <<,Eye(Dum) Pupil <<,Con ngươi mắt ngơ <<,True
+Eyebag,Eyebag,Quầng thâm mắt,True
+Eye Iris Dark >>,Eye Iris Dark >>,Mống mắt đậm >>,True
+Eye Iris Dark <<,Eye Iris Dark <<,Mống mắt đậm <<,True
+Eye Dollar,Eye Dollar,Mắt đô la,True
+Eye Heart,Eye Heart,Mắt trái tim,True
+Eye Highlight,Eye Highlight,Điểm sáng mắt,True
+Eyelashes,Eyelashes,Lông mi,True
+Eye Iris Light >>,Eye Iris Light >>,Mống mắt nhạt >>,True
+Eye Iris Light <<,Eye Iris Light <<,Mống mắt nhạt <<,True
+Eye(Dum) Outline,Eye(Dum) Outline,Viền mắt ngơ,True
+Eye Sparkling,Eye Sparkling,Mắt lấp lánh,True
+Eye Spiral,Eye Spiral,Mắt xoáy,True
+Eye White,Eye White,Tròng trắng,True
+Face Shadow,Face Shadow,Bóng đổ mặt,True
+Fin >>,Fin >>,Vây >>,True
+Fin >> Outline,Fin >> Outline,Vây >> Viền,True
+Fin <<,Fin <<,Vây <<,True
+Fin << Outline,Fin << Outline,Vây << Viền,True
+Hair Framing >>,Hair Framing >>,Tóc ôm mặt >>,True
+Hair Framing >> Outline,Hair Framing >> Outline,Tóc ôm mặt >> Viền,True
+Hair Framing <<,Hair Framing <<,Tóc ôm mặt <<,True
+Hair Framing << Outline,Hair Framing << Outline,Tóc ôm mặt << Viền,True
+Gill,Gill,Mang cá,True
+Gill Outline,Gill Outline,Viền mang cá,True
+Glasses,Glasses,Kính mắt,True
+Hairband A,Hairband A,Băng đô A,True
+Hairband A Outline,Hairband A Outline,Viền băng đô A,True
+Hairband B,Hairband B,Băng đô B,True
+Hairband B Outline,Hairband B Outline,Viền băng đô B,True
+Hairband C,Hairband C,Băng đô C,True
+Hairband C Outline,Hairband C Outline,Viền băng đô C,True
+Hairband D,Hairband D,Băng đô D,True
+Hairband D Outline,Hairband D Outline,Viền băng đô D,True
+Hair Bang >>,Hair Bang >>,Tóc mái >>,True
+Hair Bang >> Outline,Hair Bang >> Outline,Tóc mái >> Viền,True
+Hair Bang ><,Hair Bang ><,Tóc mái ><,True
+Hair Bang >< Outline,Hair Bang >< Outline,Tóc mái >< Viền,True
+Hair Bang <<,Hair Bang <<,Tóc mái <<,True
+Hair Bang << Outline,Hair Bang << Outline,Tóc mái << Viền,True
+Hair Clip >>,Hair Clip >>,Kẹp tóc >>,True
+Hair Clip >> Outline,Hair Clip >> Outline,Kẹp tóc >> Viền,True
+Hair Clip <<,Hair Clip <<,Kẹp tóc <<,True
+Hair Clip << Outline,Hair Clip << Outline,Kẹp tóc << Viền,True
+Hair Highlight 1 >>,Hair Highlight 1 >>,Highlight tóc 1 >>,True
+Hair Highlight 1 >> Outline,Hair Highlight 1 >> Outline,Highlight tóc 1 >> Viền,True
+Hair Highlight 2 >>,Hair Highlight 2 >>,Highlight tóc 2 >>,True
+Hair Highlight 2 >> Outline,Hair Highlight 2 >> Outline,Highlight tóc 2 >> Viền,True
+Hair Highlight 3 >>,Hair Highlight 3 >>,Highlight tóc 3 >>,True
+Hair Highlight 3 >> Outline,Hair Highlight 3 >> Outline,Highlight tóc 3 >> Viền,True
+Hair Highlight 1 ><,Hair Highlight 1 ><,Highlight tóc 1 ><,True
+Hair Highlight 1 >< Outline,Hair Highlight 1 >< Outline,Highlight tóc 1 >< Viền,True
+Hair Highlight 2 ><,Hair Highlight 2 ><,Highlight tóc 2 ><,True
+Hair Highlight 2 >< Outline,Hair Highlight 2 >< Outline,Highlight tóc 2 >< Viền,True
+Hair Highlight 3 ><,Hair Highlight 3 ><,Highlight tóc 3 ><,True
+Hair Highlight 3 >< Outline,Hair Highlight 3 >< Outline,Highlight tóc 3 >< Viền,True
+Hair Highlight 4 ><,Hair Highlight 4 ><,Highlight tóc 4 ><,True
+Hair Highlight 4 >< Outline,Hair Highlight 4 >< Outline,Highlight tóc 4 >< Viền,True
+Hair Highlight 5 ><,Hair Highlight 5 ><,Highlight tóc 5 ><,True
+Hair Highlight 5 >< Outline,Hair Highlight 5 >< Outline,Highlight tóc 5 >< Viền,True
+Hair Highlight 6 ><,Hair Highlight 6 ><,Highlight tóc 6 ><,True
+Hair Highlight 6 >< Outline,Hair Highlight 6 >< Outline,Highlight tóc 6 >< Viền,True
+Hair Highlight 1 <<,Hair Highlight 1 <<,Highlight tóc 1 <<,True
+Hair Highlight 1 << Outline,Hair Highlight 1 << Outline,Highlight tóc 1 << Viền,True
+Hair Highlight 2 <<,Hair Highlight 2 <<,Highlight tóc 2 <<,True
+Hair Highlight 2 << Outline,Hair Highlight 2 << Outline,Highlight tóc 2 << Viền,True
+Hair Highlight 3 <<,Hair Highlight 3 <<,Highlight tóc 3 <<,True
+Hair Highlight 3 << Outline,Hair Highlight 3 << Outline,Highlight tóc 3 << Viền,True
+Hairline Outline,Hairline Outline,Viền chân tóc,True
+Hair Shine,Hair Shine,Vệt sáng tóc,True
+Hair Shine Outline,Hair Shine Outline,Viền vệt sáng tóc,True
+Halo,Halo,Vòng hào quang,True
+Halo Outline,Halo Outline,Viền vòng hào quang,True
+Hat,Hat,Mũ,True
+Hat Outline,Hat Outline,Viền mũ,True
+Hat Secondary,Hat Secondary,Mũ (Phụ),True
+Hat Secondary Outline,Hat Secondary Outline,Viền mũ (Phụ),True
+Hammer,Hammer,Búa,True
+Ear Wing >>,Ear Wing >>,Cánh tai >>,True
+Ear Wing >> Outline,Ear Wing >> Outline,Cánh tai >> Viền,True
+Ear Wing <<,Ear Wing <<,Cánh tai <<,True
+Ear Wing << Outline,Ear Wing << Outline,Cánh tai << Viền,True
+Heart,Heart,Trái tim,True
+Horn >>,Horn >>,Sừng >>,True
+Horn >> Outline,Horn >> Outline,Sừng >> Viền,True
+Horn <<,Horn <<,Sừng <<,True
+Horn << Outline,Horn << Outline,Sừng << Viền,True
+Horn ><,Horn ><,Sừng ><,True
+Horn >< Outline,Horn >< Outline,Sừng >< Viền,True
+Jail Grill,Jail Grill,Song sắt nhà tù,True
+Keyboard,Keyboard,Bàn phím,True
+Kitchen Knife,Kitchen Knife,Dao bếp,True
+Laptop,Laptop,Laptop,True
+Laptop Light,Laptop Light,Ánh sáng Laptop,True
+Leg >>,Leg >>,Chân >>,True
+Leg <<,Leg <<,Chân <<,True
+Lightstick Handle,Lightstick Handle,Tay cầm Lightstick,True
+Light Stick >>,Light Stick >>,Lightstick >>,True
+Light Stick <<,Light Stick <<,Lightstick <<,True
+Mecha,Mecha,Mecha,True
+Mecha >>,Mecha >>,Mecha >>,True
+Mecha >> Outline,Mecha >> Outline,Mecha >> Viền,True
+Mecha Outline,Mecha Outline,Viền Mecha,True
+Mecha <<,Mecha <<,Mecha <<,True
+Mecha << Outline,Mecha << Outline,Mecha << Viền,True
+Mouse,Mouse,Chuột máy tính,True
+Mouth/Tongue,Mouth/Tongue,Miệng/Lưỡi,True
+Mouth/Tongue Shadow,Mouth/Tongue Shadow,Bóng đổ miệng/lưỡi,True
+Notepad,Notepad,Sổ tay,True
+Outfit Collar,Outfit Collar,Cổ áo,True
+Outfit Collar Outline,Outfit Collar Outline,Viền cổ áo,True
+Outfit Inner,Outfit Inner,Áo trong,True
+Outfit Inner Outline,Outfit Inner Outline,Viền áo trong,True
+Outfit Neckwear A,Outfit Neckwear A,Phụ kiện cổ A,True
+Outfit Neckwear A Outline,Outfit Neckwear A Outline,Viền phụ kiện cổ A,True
+Outfit Neckwear B,Outfit Neckwear B,Phụ kiện cổ B,True
+Outfit Neckwear B Outline,Outfit Neckwear B Outline,Viền phụ kiện cổ B,True
+Outfit Neckwear C,Outfit Neckwear C,Phụ kiện cổ C,True
+Outfit Neckwear C Outline,Outfit Neckwear C Outline,Viền phụ kiện cổ C,True
+Outfit Outer,Outfit Outer,Áo ngoài,True
+Outfit Outer Outline,Outfit Outer Outline,Viền áo ngoài,True
+Pencil,Pencil,Bút chì,True
+Phone,Phone,Điện thoại,True
+Phone Light,Phone Light,Ánh sáng điện thoại,True
+Hair Pigtail >>,Hair Pigtail >>,Tóc hai chùm >>,True
+Hair Pigtail >> Outline,Hair Pigtail >> Outline,Tóc hai chùm >> Viền,True
+Hair Pigtail <<,Hair Pigtail <<,Tóc hai chùm <<,True
+Hair Pigtail << Outline,Hair Pigtail << Outline,Tóc hai chùm << Viền,True
+Rose,Rose,Hoa hồng,True
+Round Sign,Round Sign,Biển tròn,True
+Round Sign Text,Round Sign Text,Chữ trên biển tròn,True
+Hair Side,Hair Side,Tóc mai,True
+Hair Side Outline,Hair Side Outline,Viền tóc mai,True
+Skin,Skin,Da,True
+Skin Outline,Skin Outline,Viền da,True
+Square Sign,Square Sign,Biển vuông,True
+Square Sign Text,Square Sign Text,Chữ trên biển vuông,True
+Steering Wheel,Steering Wheel,Vô lăng,True
+Gas Bottle,Gas Bottle,Bình khí,True
+Pat Hand,Pat Hand,Tay xoa đầu,True
+Sticker Alert,Sticker Alert,Sticker thông báo,True
+Sticker Alert Effect,Sticker Alert Effect,Hiệu ứng thông báo,True
+Sticker Alert Outline,Sticker Alert Outline,Viền Sticker thông báo,True
+Sticker Angry,Sticker Angry,Sticker tức giận,True
+Sticker Exclamation Mark,Sticker Exclamation Mark,Sticker dấu chấm than,True
+Sticker Ghost,Sticker Ghost,Sticker hồn ma,True
+Sticker Heart,Sticker Heart,Sticker trái tim,True
+Sticker Laugh,Sticker Laugh,Sticker cười,True
+Sticker Question Mark,Sticker Question Mark,Sticker dấu chấm hỏi,True
+Sticker Sleep,Sticker Sleep,Sticker ngủ,True
+Sticker Star,Sticker Star,Sticker ngôi sao,True
+Sticker Steam,Sticker Steam,Sticker bốc khói,True
+Sticker Surprise,Sticker Surprise,Sticker ngạc nhiên,True
+Sticker Sweat,Sticker Sweat,Sticker mồ hôi,True
+Sticker Sweat (Large),Sticker Sweat (Large),Sticker mồ hôi (Lớn),True
+Sticker Volume,Sticker Volume,Sticker âm lượng,True
+Sticky Note,Sticky Note,Giấy nhớ,True
+Sticky Note Text,Sticky Note Text,Chữ trên giấy nhớ,True
+Eye Tear,Eye Tear,Nước mắt,True
+Utensil,Utensil,Bộ đồ ăn,True
+Outfit Collar String,Outfit Collar String,Dây rút cổ áo,True
+Bell,Bell,Chuông,True
+Confetti 1,Confetti 1,Pháo giấy 1,True
+Confetti 2,Confetti 2,Pháo giấy 2,True
+Confetti 3,Confetti 3,Pháo giấy 3,True
+Microphone,Microphone,Micro,True
+Gleam,Gleam,Tia lóe sáng,True
+Video Camera,Video Camera,Máy quay,True
+Point Hand,Point Hand,Tay chỉ,True
+Bowl,Bowl,Bát,True
+Cake,Cake,Bánh kem,True
+Candle Fire,Candle Fire,Ngọn lửa nến,True
+Drawing Tablet,Drawing Tablet,Bảng vẽ điện tử,True
+Love Letter,Love Letter,Thư tình,True
+Popper,Popper,Ống pháo giấy,True
+Stylus,Stylus,Bút cảm ứng,True
+Tablet,Tablet,Bảng vẽ,True
+Musical Note 1,Musical Note 1,Nốt nhạc 1,True
+Musical Note 2,Musical Note 2,Nốt nhạc 2,True
+Phone Screen,Phone Screen,Màn hình điện thoại,True
+Tail,Tail,Đuôi,True
+Tail Outline,Tail Outline,Viền đuôi,True
+Wing >>,Wing >>,Cánh >>,True
+Wing >> Outline,Wing >> Outline,Cánh >> Viền,True
+Wing <<,Wing <<,Cánh <<,True
+Wing << Outline,Wing << Outline,Cánh << Viền,True
+Cape,Cape,Áo choàng,False
+Cape Outline,Cape Outline,Viền áo choàng,False
+Cheek,Cheek,Má,False
+Cockroach,Cockroach,Con gián,False
+Controller,Controller,Tay cầm game,False
+Donut,Donut,Bánh Donut,False
+Earring >>,Earring >>,Khuyên tai >>,False
+Earring <<,Earring <<,Khuyên tai <<,False
+Earring >> Outline,Earring >> Outline,Khuyên tai >> Viền,False
+Earring << Outline,Earring << Outline,Khuyên tai << Viền,False
+Face Feature A >>,Face Feature A >>,Chi tiết mặt A >>,False
+Face Feature A <<,Face Feature A <<,Chi tiết mặt A <<,False
+Face Feature B >>,Face Feature B >>,Chi tiết mặt B >>,False
+Face Feature B <<,Face Feature B <<,Chi tiết mặt B <<,False
+Face Feature C,Face Feature C,Chi tiết mặt C,False
+Facial Hair A,Facial Hair A,Râu A,False
+Facial Hair A Outline,Facial Hair A Outline,Viền râu A,False
+Facial Hair B,Facial Hair B,Râu B,False
+Facial Hair B Outline,Facial Hair B Outline,Viền râu B,False
+Glove >>,Glove >>,Găng tay >>,False
+Glove >> Outline,Glove >> Outline,Găng tay >> Viền,False
+Glove <<,Glove <<,Găng tay <<,False
+Glove << Outline,Glove << Outline,Găng tay << Viền,False
+Hand >>,Hand >>,Tay >>,False
+Hand >> Outline,Hand >> Outline,Tay >> Viền,False
+Hand <<,Hand <<,Tay <<,False
+Hand << Outline,Hand << Outline,Tay << Viền,False
+Gun,Gun,Súng,False
+Gun Flash,Gun Flash,Tia lửa súng,False
+Lubricant,Lubricant,Dầu bôi trơn,False
+Megaphone,Megaphone,Loa phóng thanh,False
+Nose,Nose,Mũi,False
+Piercing A >>,Piercing A >>,Khuyên xỏ A >>,False
+Piercing A >> Outline,Piercing A >> Outline,Khuyên xỏ A >> Viền,False
+Piercing A <<,Piercing A <<,Khuyên xỏ A <<,False
+Piercing A << Outline,Piercing A << Outline,Khuyên xỏ A << Viền,False
+Piercing B >>,Piercing B >>,Khuyên xỏ B >>,False
+Piercing B >> Outline,Piercing B >> Outline,Khuyên xỏ B >> Viền,False
+Piercing B <<,Piercing B <<,Khuyên xỏ B <<,False
+Piercing B << Outline,Piercing B << Outline,Khuyên xỏ B << Viền,False
+Pixel Sun Glasses,Pixel Sun Glasses,Kính râm Pixel,False
+Pompom >>,Pompom >>,Bông cổ vũ >>,False
+Pompom <<,Pompom <<,Bông cổ vũ <<,False
+Spray,Spray,Bình xịt,False
+Sticker Light Bulb,Sticker Light Bulb,Sticker bóng đèn,False
+Sticker Loading,Sticker Loading,Sticker đang tải,False
+Sunglasses,Sunglasses,Kính râm,False
+Sunglasses Reflection,Sunglasses Reflection,Phản quang kính râm,False
+Tape,Tape,Băng dính,False
+Toilet,Toilet,Bồn cầu,False
+Trash Bin,Trash Bin,Thùng rác,False
+Wave Hand,Wave Hand,Tay vẫy,False
+Swatter,Swatter,Vỉ đập ruồi,False
+Hair Ponytail,Hair Ponytail,Tóc đuôi ngựa,False
+Hair Ponytail Outline,Hair Ponytail Outline,Viền tóc đuôi ngựa,False
+Eyepatch,Eyepatch,Băng bịt mắt,False
+Eyepatch Outline,Eyepatch Outline,Viền băng bịt mắt,False
+Number Six,Number Six,Số 6,False
+Number Seven,Number Seven,Số 7,False
+Cheese,Cheese,Phô mai,False
+Electric Fan,Electric Fan,Quạt điện,False
+Electric Fan Blades,Electric Fan Blades,Cánh quạt điện,False
+Flame Inner Layer,Flame Inner Layer,Lớp lửa trong,False
+Flame Outer Layer,Flame Outer Layer,Lớp lửa ngoài,False
+FoldingFan1,Folding Fan 1,Quạt xếp 1,False
+FoldingFan2,Folding Fan 2,Quạt xếp 2,False
+Guitar Color 1,Guitar Color 1,Màu Guitar 1,False
+Guitar Color 2,Guitar Color 2,Màu Guitar 2,False
+Guitar Color 3,Guitar Color 3,Màu Guitar 3,False
+Guitar Outline, Guitar Outline,Viền Guitar,False
+Slipper,Slipper,Dép,False
+Stool,Stool,Ghế đẩu,False
+Wink Star,Wink Star,Sao nháy mắt,False
+Cup Liquid,Cup Liquid,Nước trong cốc,False
+Interact Hand,Interact Hand,Tay tương tác,False
+Progress Bar Container,Progress Bar Container,Khung thanh tiến trình,False
+Progress Bar Fill,Progress Bar Fill,Lõi thanh tiến trình,False
+Beverag Can Outline, Beverage Can Outline,Viền lon nước,False
+Beverage Can Print, Beverage Can Print,Nhãn lon nước,False
+Glasses Lens, Glasses Lens,Tròng kính,False
+Headphone Earcup >>, Headphone Earcup >>,Chụp tai nghe >>,False
+Headphone Earcup <<, Headphone Earcup <<,Chụp tai nghe <<,False
+Headphone Headband, Headphone Headband,Gọng tai nghe,False
+Ice Cream, Ice Cream,Kem,False
+Ice Cream Cone, Ice Cream Cone,Ốc quế,False
+Nerd Glasses, Nerd Glasses,Kính mọt sách,False
+Nerd Glasses Spiral, Nerd Glasses Spiral,Xoáy kính mọt sách,False
+Nerd Hand, Nerd Hand,Tay mọt sách,False
+Nerd Teeth, Nerd Teeth,Răng mọt sách,False
+Pillow, Pillow,Gối,False
+Popsicle, Popsicle,Kem que,False
+Popsicle Stick, Popsicle Stick,Que kem,False
+Water, Water,Nước,False
+Water Highlight, Water Highlight,Vệt sáng nước,False
+Water Splash, Water Splash,Tia nước bắn,False
+Bandage,Bandage,Băng cá nhân,False
+Battery,Battery,Pin,False
+Battery Percent 1,Battery Percent 1,Mức pin 1,False
+Battery Percent 2,Battery Percent 2,Mức pin 2,False
+Battery Percent 3,Battery Percent 3,Mức pin 3,False
+Bite Arm,Bite Arm,Tay bị cắn,False
+Bite Blood,Bite Blood,Máu vết cắn,False
+Blush Blur,Blush Blur,Má hồng mờ,False
+Blush Lines,Blush Lines,Nét gạch má hồng,False
+Bongo Body,Bongo Body,Thân Bongo,False
+Book,Book,Sách,False
+Book Pages,Book Pages,Trang sách,False
+Cauldron,Cauldron,Vạc phù thủy,False
+Cauldron Liquid,Cauldron Liquid,Nước trong vạc,False
+Cross Color,Cross Color,Màu thánh giá,False
+Cross Shadow Outline,Cross Shadow Outline,Viền bóng thánh giá,False
+Cross Reflection,Cross Reflection,Phản quang thánh giá,False
+Handkerchief,Handkerchief,Khăn tay,False
+Ice Bag,Ice Bag,Túi chườm đá,False
+Cauldron Stir Stick,Cauldron Stir Stick,Que khuấy vạc,False
+Thermometer,Thermometer,Nhiệt kế,False
+Thermometer Glass,Thermometer Glass,Ống thủy tinh nhiệt kế,False
